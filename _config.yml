@@ -54,9 +54,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "copyright.hacbical24@gmail.com" # remove this line if you don't want to show an RSS link at the bottom
+  email: copyright.hacbical24@gmail.com # remove this line if you don't want to show an RSS link at the bottom
   facebook: akaware833
   github: AKANEMO22
+  Telegram: HawkAuraZ
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
