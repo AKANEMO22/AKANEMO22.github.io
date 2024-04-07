@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Amy
+title: AMY 
 
 # Your name to show in the footer
 author: Some Person
@@ -21,9 +21,9 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Download Latest Version :
+    - AMY : "https://github.com/Amy-Genshin/AMY_UPDATE/releases/download/AMY_20067.3/AMY_20067.3.apk"
+    - Virtual root : "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
 ################
