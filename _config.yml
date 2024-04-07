@@ -20,11 +20,13 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "HOME"
   Download Latest Version :
     - AMY : "https://github.com/Amy-Genshin/AMY_UPDATE/releases/download/AMY_20067.3/AMY_20067.3.apk"
-    - Virtual root : "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Virtual root : "https://github.com/Amy-Genshin/AMY_UPDATE/releases/download/Virtual-root/AMY_VIRTUAL_3.1.7VIP.apk"
+  Contact Me : 
+    - Facebook : "https://www.facebook.com/akaware833/"
+    - Telegram : "https://t.me/HawkAuraZ"
 
 ################
 # --- Logo --- #
