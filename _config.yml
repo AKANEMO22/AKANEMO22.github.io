@@ -20,7 +20,7 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "HOME"
+  HOME : "HOME"
   Download Latest Version :
     - AMY : "https://github.com/Amy-Genshin/AMY_UPDATE/releases/download/AMY_20067.3/AMY_20067.3.apk"
     - Virtual root : "https://github.com/Amy-Genshin/AMY_UPDATE/releases/download/Virtual-root/AMY_VIRTUAL_3.1.7VIP.apk"
@@ -34,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://imgur.com/ZTHNYAc.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
