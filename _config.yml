@@ -20,7 +20,9 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  HOME : "HOME"
+  GROUP : 
+    - Discord : "https://discord.gg/WdpEsu7QME"
+    - Telegram : "https://t.me/MengYanShare"
   Download Latest Version :
     - AMY : "https://github.com/Amy-Genshin/AMY_UPDATE/releases/download/AMY_20067.3/AMY_20067.3.apk"
     - Virtual root : "https://github.com/Amy-Genshin/AMY_UPDATE/releases/download/Virtual-root/AMY_VIRTUAL_3.1.7VIP.apk"
