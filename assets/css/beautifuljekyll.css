@@ -20,6 +20,9 @@ body {
   background-image: url({{ site.page-img | relative_url }});
   background-repeat: no-repeat;
   text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   background-size: cover;
   {% endif %}
   overflow-wrap: break-word;
