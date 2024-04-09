@@ -19,6 +19,7 @@ body {
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-repeat: no-repeat;
+  text-align: center;
   background-size: cover;
   {% endif %}
   overflow-wrap: break-word;
