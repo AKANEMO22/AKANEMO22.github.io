@@ -18,7 +18,8 @@ body {
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
-  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
   {% endif %}
   overflow-wrap: break-word;
   min-height: 100vh;
