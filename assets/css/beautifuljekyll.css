@@ -134,7 +134,7 @@ img {
 .navbar-custom {
   background-color: #EAEAEA;
   border-bottom: 1px solid #DDDDDD;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
   /* Thêm các thuộc tính khác mà bạn cần */
 
   /* Tùy chọn: Hình nền */
