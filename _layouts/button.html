@@ -1,22 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Trang Web Của Tôi</title>
-    <style>
-        .download-button {
-            background-color: DodgerBlue; /* Màu nền xanh */
-            border: none;
-            color: white; /* Màu chữ trắng */
-            padding: 10px 20px; /* Kích thước nút */
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 16px;
-            border-radius: 5px; /* Bo tròn góc */
-        }
-    </style>
-</head>
-<body>
-    <button class="download-button">Download Link</button>
-</body>
-</html>
+---
+layout: base
+---
+
+{% include header.html type="page" %}
+
+<!-- Đoạn mã tạo nút bấm màu xanh biển -->
+<a href="https://www.facebook.com/">
+  <button style="background-color: deepskyblue; color: white; padding: 10px 20px;">
+    Click me
+  </button>
+</a>
