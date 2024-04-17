@@ -138,7 +138,6 @@ img {
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
-    background-blend-mode: multiply; /* Thêm dòng này để làm cho hình ảnh trở nên trong suốt */
   {% endif %}
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
