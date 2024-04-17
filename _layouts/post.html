@@ -41,34 +41,13 @@ layout: base
 
       <div class="blog-post">
         {{ content }}
-        <!DOCTYPE html>
-<html>
-<head>
-  <title>Trang web của bạn</title>
-</head>
-<body>
-  {% for post in posts %}
-  <li class="post-preview">
-    <article>
-      <!-- Các thông tin khác của bài đăng -->
 
-      <!-- Nội dung của bài đăng -->
-      <div class="blog-post">
-        {{ content }}
-      </div>
-
-      <!-- Đoạn mã tạo nút tải xuống -->
-      <a href="đường dẫn tải xuống của bạn ở đây" download>
-        <button style="background-color: blue; color: white; padding: 10px 20px;">
-          Download
-        </button>
-      </a>
-    </article>
-  </li>
-  {% endfor %}
-</body>
-</html>
-
+        <!-- Đoạn mã tạo nút tải xuống -->
+        <a href="https://www.facebook.com/" download>
+          <button style="background-color: blue; color: white; padding: 10px 20px;">
+            Download
+          </button>
+        </a>
       </div>
 
       {% if page.tags.size > 0 %}
