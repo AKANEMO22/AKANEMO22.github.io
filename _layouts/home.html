@@ -5,8 +5,6 @@ layout: page
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
-
-<!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
   <li class="post-preview">
@@ -46,12 +44,6 @@ layout: page
         {% endif %}
       </a>
 
-     <a href="https://www.facebook.com/" download>
-    <button style="background-color: blue; color: white; padding: 10px 20px;">
-      Download
-    </button>
-     </a>
-
       {% if post.author %}
         <span>By <strong>{{ post.author | strip_html }}</strong></span>
       {% endif %}
@@ -82,10 +74,17 @@ layout: page
         {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read More]</a>
         {% endif %}
       </div>
       {% endunless %}
+
+      <!-- Đoạn mã tạo nút tải xuống -->
+      <a href="https://www.facebook.com/" download>
+        <button style="background-color: blue; color: white; padding: 10px 20px;">
+          Download
+        </button>
+      </a>
 
       {% if site.feed_show_tags != false and post.tags.size > 0 %}
       <div class="blog-tags">
