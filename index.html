@@ -12,38 +12,23 @@ subtitle: If you are not afraid of bans, Amy is the best tool on your phone
         <title>Download Button</title>
         <link rel="stylesheet" href="style.css">
         <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
-        <style>
-            .hidden {
-                display: none;
-            }
-        </style>
     </head>
     <body>
-        <div class="button">
-            <div class="content">
-                <i class="bx bx-cloud-download"></i>
-                <span class="button-text">Download</span>
+        <a href="https://github.com/Amy-Genshin/AMY_UPDATE/releases/download/AMY_20067.3/AMY_20067.3.apk">
+            <div class="button">
+                <div class="content">
+                    <i class="bx bx-cloud-download"></i>
+                    <span class="button-text">Download</span>
+                </div>
             </div>
-        </div>
-        <div class="button" onclick="myFunction()">
-            <div class="content">
-                <i class="bx bx-menu"></i>
-                <span class="button-text">Menu</span>
-            </div>
-        </div>
-        <div id="myDropdown" class="hidden">
-            <p><a href="LINK_1">Mục 1</a></p>
-            <p><a href="LINK_2">Mục 2</a></p>
-        </div>
+        </a>
         <script>
-            function myFunction() {
-                var dropdown = document.getElementById("myDropdown");
-                if (dropdown.style.display === "none") {
-                    dropdown.style.display = "block";
-                } else {
-                    dropdown.style.display = "none";
-                }
-            }
+
+            let button = document.querySelector(".button");
+
+            button.addEventListener("click", ()=>{
+                button.classList.add("active");
+            })
         </script>
     </body>
 </html>
