@@ -7,11 +7,11 @@
 }
 .button{
   position: absolute;
-  top: 30%;
+  top: 80%;
   left: 50%;
   transform: translate(-50%, -50%);
   height: 70px;
-  width: 360px;
+  width: 340px;
   background: #3781ab;
   border-radius: 55px;
   box-shadow: 0 5px 10px rgba(0, 255, 255, 0.2);
