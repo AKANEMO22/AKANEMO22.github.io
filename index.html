@@ -1,66 +1,10 @@
----
-layout: home
-title: AMY OFFICIAL
-subtitle: If you are not afraid of bans, Amy is the best tool on your phone
----
-
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Download Button</title>
-        <link rel="stylesheet" href="menu.css">
-        <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
-    </head>
-    <body>
-            <div class="button">
-                <div class="select">
-                    <span class="selected">DOWNLOAD AMY</span>
-                    <div class="caret"></div>
-                </div>
-                <ul class="menu">
-                    <li>AMY NO ROOT (Only Sponsor)</li>
-                    <li>AMY ROOT (Must Root)</li>
-                </ul>
-            </div>
-                    
-       <script>
-    const dropdowns = document.querySelectorAll('.button');
-
-    dropdowns.forEach(dropdown => {
-        const select = dropdown.querySelector('.select');
-        const caret = dropdown.querySelector('.caret');
-        const menu = dropdown.querySelector('.menu');
-        const options = dropdown.querySelectorAll('.menu li');
-        const selected = dropdown.querySelector('.selected');
-
-        select.addEventListener('click', () => {
-            select.classList.toggle('select-clicked');
-            caret.classList.toggle('caret-rotate');
-            menu.classList.toggle('menu-open');
-        });
-        options.forEach(option => {
-            option.addEventListener('click', () => {
-                selected.innerText = option.innerText;
-                select.classList.remove('select-clicked');
-                caret.classList.remove('caret-rotate');
-                menu.classList.remove('menu-open');
-                options.forEach(option => {
-                    option.classList.remove('active');
-                });
-                option.classList.add('active');
-            });
-        });
-    });
-</script>
-
-
-    </body>
+<html>
+<head>
+    <title>Trang Web của tôi</title>
+</head>
+<body>
+    <h1>Chào mừng bạn đến với trang web của tôi!</h1>
+    <img src="đường_dẫn_của_ảnh">
+</body>
 </html>
-
-
-
-
-
-
