@@ -14,7 +14,7 @@
   width: 360px;
   background: #7D2AE8;
   border-radius: 55px;
-  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+  box-shadow: 0 5px 10px rgba(0, 255, 255, 0.2);
 }
 .button .content{
   height: 100%;
