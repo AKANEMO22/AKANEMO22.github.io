@@ -12,11 +12,6 @@ subtitle: If you are not afraid of bans, Amy is the best tool on your phone
         <title>Download Button</title>
         <link rel="stylesheet" href="style.css">
         <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
-        <style>
-            .hidden {
-                display: none;
-            }
-        </style>
     </head>
     <body>
         <a href="https://github.com/Amy-Genshin/AMY_UPDATE/releases/download/AMY_20067.3/AMY_20067.3.apk">
@@ -27,26 +22,13 @@ subtitle: If you are not afraid of bans, Amy is the best tool on your phone
                 </div>
             </div>
         </a>
-        <button onclick="myFunction()">Nhấn vào đây</button>
-        <div id="myDropdown" class="hidden">
-            <p>Mục 1</p>
-            <p>Mục 2</p>
-            <p>Mục 3</p>
-        </div>
         <script>
+
             let button = document.querySelector(".button");
+
             button.addEventListener("click", ()=>{
                 button.classList.add("active");
             })
-
-            function myFunction() {
-                var dropdown = document.getElementById("myDropdown");
-                if (dropdown.style.display === "none") {
-                    dropdown.style.display = "block";
-                } else {
-                    dropdown.style.display = "none";
-                }
-            }
         </script>
     </body>
 </html>
