@@ -39,11 +39,23 @@
 }
 
 .navbar a {
+      position: relative;
       font-size: 18px;
       color: #fff;
       margin-left: 40px;
       text-decoration: none;
       font-weight: 500;
 }
+
+.navbar a::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 2px;
+      background: #fff;
+}
+
 
       
