@@ -25,7 +25,13 @@
 }
 .content i,
 .content .button-text{
-  color: #FFF
-  
+  color: #FFF;
+  font-size: 40px;
+  font-weight: 500;
+}
+.content .button-text{  
+  font-size: 28px
+  margin-left: 8px;
+}
   
   
