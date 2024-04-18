@@ -2,8 +2,8 @@ body {
   font-family: Helvetica, sans-serif;
   display: flex;
   justify-content: center;
-  aligh-items: center;
-  flex-warp: wrap;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .dropdown {
@@ -43,7 +43,7 @@ body {
   height: 0;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
-  border-top: 6px solid #fff
+  border-top: 6px solid #fff;
   transition: 0.3s;
 }
 
@@ -82,15 +82,10 @@ body {
 }
 
 .active {
-  background: #23242a
+  background: #23242a;
 }
 
 .menu-open {
   display: block;
   opacity: 1;
 }
-  
-  
-  
-  
-  
