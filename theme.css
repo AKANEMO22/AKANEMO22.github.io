@@ -59,7 +59,7 @@
       
 }
 
-.navbar a:hover:before {
+.navbar a:active:before, .navbar a:hover:before {
       width: 100%;
 }
 
