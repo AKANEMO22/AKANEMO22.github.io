@@ -19,22 +19,23 @@ subtitle: If you are not afraid of bans, Amy is the best tool on your phone
         </style>
     </head>
     <body>
-        <div class="button" onclick="myFunction()">
+        <div class="button">
             <div class="content">
                 <i class="bx bx-cloud-download"></i>
                 <span class="button-text">Download</span>
             </div>
         </div>
+        <div class="button" onclick="myFunction()">
+            <div class="content">
+                <i class="bx bx-menu"></i>
+                <span class="button-text">Menu</span>
+            </div>
+        </div>
         <div id="myDropdown" class="hidden">
-            <p><a href="https://www.facebook.com/">Mục 1</a></p>
-            <p><a href="https://www.facebook.com/">Mục 2</a></p>
+            <p><a href="LINK_1">Mục 1</a></p>
+            <p><a href="LINK_2">Mục 2</a></p>
         </div>
         <script>
-            let button = document.querySelector(".button");
-            button.addEventListener("click", ()=>{
-                button.classList.add("active");
-            })
-
             function myFunction() {
                 var dropdown = document.getElementById("myDropdown");
                 if (dropdown.style.display === "none") {
@@ -46,6 +47,7 @@ subtitle: If you are not afraid of bans, Amy is the best tool on your phone
         </script>
     </body>
 </html>
+
 
 
 
