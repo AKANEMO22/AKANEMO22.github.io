@@ -45,8 +45,8 @@
       font-weight: 500;
       text-decoration: none;
       margin-left: 40px;
-      -webkit-text-stroke: 1.5px black; /* Độ rộng và màu viền */
-      text-stroke: 1.5px black; /* Độ rộng và màu viền */
+      -webkit-text-stroke: 1px black; /* Độ rộng và màu viền */
+      text-stroke: 1px black; /* Độ rộng và màu viền */
 }
 
 .navbar a::before {
