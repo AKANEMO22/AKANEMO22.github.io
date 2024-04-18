@@ -1,5 +1,9 @@
 body {
   font-family: Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  aligh-items: center;
+  flex-warp: wrap;
 }
 
 .dropdown {
