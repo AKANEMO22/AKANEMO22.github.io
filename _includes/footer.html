@@ -10,19 +10,7 @@
           {% endfor %}
         </div>
       {% endif %}
-      <p class="copyright text-muted">
-      {% if site.author %}
-        {{ site.author }}
-        &nbsp;&bull;&nbsp;
-      {% endif %}
-      {{ site.time | date: '%Y' }}
-
-      {% if site.url-pretty %}
-        &nbsp;&bull;&nbsp;
-        <span class="author-site">
-          <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '/' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
-        </span>
-      {% endif %}
+  
 
       {% if site.matomo %}
         {% if site.matomo.opt-out %}
