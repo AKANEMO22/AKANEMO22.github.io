@@ -3,12 +3,13 @@
       padding: 0;
 }
 .background-image {
+    position: relative; /* Thêm thuộc tính này */
     background-image: url('/assets/img/mythical-dragon-beast-anime-style.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;    
     height: 100vh;
-} 
+}
 
 .navbar-toggle {
       border: none;
@@ -81,14 +82,18 @@
 }
 
 .container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background: none; /* Đảm bảo container không có màu nền */
-  padding: 0; /* Loại bỏ padding nếu có */
-  margin: 0; /* Loại bỏ margin nếu có */
-  overflow: hidden; /* Ngăn các phần tử con mở rộng ra ngoài */
+    position: absolute; /* Thêm thuộc tính này */
+    top: 50%; /* Điều chỉnh vị trí theo chiều dọc */
+    left: 50%; /* Điều chỉnh vị trí theo chiều ngang */
+    transform: translate(-50%, -50%); /* Căn giữa nút download */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto; /* Thay đổi từ 100vh thành auto */
+    background: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
 }
 
 .button {
