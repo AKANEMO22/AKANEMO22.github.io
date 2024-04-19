@@ -41,7 +41,7 @@
             height: 2px;
             background-color: #87cefa;
             visibility: hidden;
-            transition: 0.3s ease-in-out;
+            transition: 1.2s ease-in-out;
       }
 
       .nav-link:hover::before, .nav-link.active::before { 
@@ -57,7 +57,7 @@
       font-weight: 500;
       color: #87cefa;
       font-size: 24px;
-      transition: 0.3s color;  
+      transition: 1.2s color;  
 }
 
 .navbar {
