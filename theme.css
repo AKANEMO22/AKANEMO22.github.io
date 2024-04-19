@@ -11,7 +11,7 @@
 } 
 
 .navbar-toggle {
-      borber: none;
+      border: none;
       font-size: 1.25em;
 }
 
@@ -52,6 +52,18 @@
 
       
 }    
+
+.navbar-brand {
+      font-weight: 500;
+      color: #87cefa;
+      font-size: 24px;
+      transition: 0.3s color;  
+}
+
+.navbar {
+      background-color: #fff;
+      height: 80px;
+}
       
       
       
