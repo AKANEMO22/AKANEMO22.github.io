@@ -82,18 +82,8 @@
 }
 
 .container {
-    position: absolute; /* Thêm thuộc tính này */
-    top: 50%; /* Điều chỉnh vị trí theo chiều dọc */
-    left: 50%; /* Điều chỉnh vị trí theo chiều ngang */
-    transform: translate(-50%, -50%); /* Căn giữa nút download */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: auto; /* Thay đổi từ 100vh thành auto */
-    background: none;
     padding: 0;
     margin: 0;
-    overflow: hidden;
 }
 
 .button {
