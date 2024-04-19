@@ -71,10 +71,29 @@
 
 
 @font-face {
-  font-family: 'Madrid';
-  src: url('assets/js/Madrid 23a.otf') format('opentype');
+    font-family: 'Poppins-Regular';
+    src: url('assets/js/Poppins-Regular.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Madrid';
+    src: url('assets/js/Madrid 23a.otf') format('opentype');
+}
+
+
+.button {
+      font-family: 'Poppins-Regular', sans-serif;
+      height: 100vh;
+      display: flex;
+      align-items: centre;
+      justify-content: center;
+      position: relative;
+      padding: 10px 22px;
+      background: #64B2F0;
+      border-radius: 6px;
+      color: #fff;
+      
+      
 
       
       
