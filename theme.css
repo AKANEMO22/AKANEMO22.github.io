@@ -80,6 +80,28 @@
     src: url('assets/js/Madrid 23a.otf') format('opentype');
 }
 
+/* Bọc nút bằng một container và sử dụng Flexbox để căn giữa */
+.container {
+  display: flex;
+  justify-content: center; /* Căn giữa theo chiều ngang */
+  align-items: center; /* Căn giữa theo chiều dọc */
+  height: 100vh; /* Chiều cao tối thiểu để căn giữa trên toàn màn hình */
+}
+
+.button {
+  font-family: 'Poppins-Regular', sans-serif;
+  position: relative;
+  padding: 10px 22px;
+  background: #64B2F0;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+  cursor: pointer;
+}
+
 
 .button {
       font-family: 'Poppins-Regular', sans-serif;
