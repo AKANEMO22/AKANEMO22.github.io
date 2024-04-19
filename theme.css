@@ -8,7 +8,7 @@
     background-image: url('/assets/img/mythical-dragon-beast-anime-style.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;    
+    background-position: center center;    
     height: 100vh;
     /* Thêm các thuộc tính sau để căn giữa nút button */
     display: flex;
