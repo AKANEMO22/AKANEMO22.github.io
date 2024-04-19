@@ -62,7 +62,7 @@
 }
       
 .navbar-brand {
-      font-family: 'Increment Font', sans-serif;
+      font-family: 'Madrid', sans-serif;
       font-weight: 500;
       color: #87cefa;
       font-size: 24px;
@@ -71,9 +71,10 @@
 
 
 @font-face {
-  font-family: 'Increment Font';
-  src: url('assets/js/Madrid 23a.otf') format('woff2'),
+  font-family: 'Madrid';
+  src: url('assets/js/Madrid 23a.otf') format('opentype');
 }
+
 
       
       
