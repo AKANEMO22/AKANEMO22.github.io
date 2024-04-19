@@ -53,13 +53,6 @@
       
 }    
 
-.navbar-brand {
-      font-weight: 500;
-      color: #87cefa;
-      font-size: 24px;
-      transition: 1.2s color;  
-}
-
 .navbar {
       background-color: #fff;
       height: 80px;
@@ -68,6 +61,17 @@
       padding: 0.5rem;
 }
       
+.navbar-brand img {
+    height: 80px;
+    width: auto;
+    object-fit: cover;
+}
+
+@media (max-width: 768px) {
+    .navbar-brand img {
+        height: 50px;
+    }
+}
       
       
 
