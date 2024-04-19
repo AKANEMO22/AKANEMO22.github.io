@@ -6,9 +6,13 @@
     position: relative; /* Thêm thuộc tính này */
     background-image: url('/assets/img/mythical-dragon-beast-anime-style.jpg');
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;    
+    background-repeat: no-repeat;    
     height: 100vh;
+    display: flex; /* Thêm thuộc tính này */
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    /* Các thuộc tính khác giữ nguyên */
+}
 }
 
 .navbar-toggle {
