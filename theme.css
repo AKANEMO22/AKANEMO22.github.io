@@ -117,7 +117,7 @@
   height: 100%;
   transform: translateX(-50%);
   z-index: -1;
-  background-repeat: mo-repeat;
+  background-repeat: no-repeat;
 }
 .button.animate::before {
   top: -70%;
