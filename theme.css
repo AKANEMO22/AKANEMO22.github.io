@@ -124,7 +124,7 @@
 .button.animate::before {
     top: -70%;
     background-image: radial-gradient(circle, #64B2F0 20%, transparent 20%),
-        radial-gradient(circle, transparent 20%, #7d2ae8 20%, transparent 30%),
+        radial-gradient(circle, transparent 20%, #64B2F0 20%, transparent 30%),
         radial-gradient(circle, #64B2F0 20%, transparent 20%),
         radial-gradient(circle, #64B2F0 20%, transparent 20%),
         radial-gradient(circle, transparent 10%, #64B2F0 15%, transparent 20%),
