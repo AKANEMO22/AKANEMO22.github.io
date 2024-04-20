@@ -192,3 +192,12 @@
     margin-bottom: 20px;
 }
 
+/* Add this CSS to style.css or within a <style> tag in the <head> section */
+.promo-text {
+    font-size: 20px; /* Adjust the font size as needed */
+    color: #fff; /* Change the color if needed */
+    margin: 10px 0; /* Adjust the space around the text */
+    text-align: center; /* Center the text horizontally */
+    width: 100%; /* Ensure the text spans the full width */
+}
+
