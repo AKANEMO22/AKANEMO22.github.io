@@ -200,6 +200,7 @@
     margin: 10px 0; /* Adjust the space around the text */
     text-align: center; /* Center the text horizontally */
     width: 100%; /* Ensure the text spans the full width */
+    font-weight: bold;
 }
 
 @font-face {
