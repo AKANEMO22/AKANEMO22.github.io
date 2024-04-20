@@ -216,7 +216,7 @@
 .promo-subtext {
     font-family:  'Segoe UI Historic' , sans-serif;
     font-size: 16px; /* Adjust the font size as needed */
-    color: #fff; /* Change the color if needed */
+    color: rgba(222, 226, 230, 0.75); /* Change the color if needed */
     margin: 10px 0; /* Adjust the space around the text */
     text-align: center; /* Center the text horizontally */
     width: 100%; /* Ensure the text spans the full width */
