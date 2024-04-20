@@ -88,6 +88,7 @@
 }
 
 .button {
+    text-decoration: none;
     font-family: 'Poppins-Regular', sans-serif;
     display: block;
     margin-left: auto;
