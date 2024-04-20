@@ -185,8 +185,7 @@
 .my-image {
     /* Add your CSS properties here */
     /* For example, to adjust the size of the image */
-    width: 100px;
-    height: 100px;
-    justify-content: center;
-    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
