@@ -237,3 +237,7 @@ footer {
     line-height: 20px;
 }
 
+.logo-footer {
+    width: 70px; /* Thay đổi chiều rộng mong muốn tại đây */
+    height: auto; /* Tự động điều chỉnh chiều cao theo chiều rộng */
+}
