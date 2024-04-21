@@ -241,3 +241,11 @@ footer {
     width: 70px; /* Thay đổi chiều rộng mong muốn tại đây */
     height: auto; /* Tự động điều chỉnh chiều cao theo chiều rộng */
 }
+
+.col {
+    max-width: 1140px; /* Hoặc độ rộng mong muốn */
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
