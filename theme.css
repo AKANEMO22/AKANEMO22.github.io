@@ -240,6 +240,7 @@ footer {
     width: 100px; /* Thay đổi chiều rộng mong muốn tại đây */
     height: auto;/* Tự động điều chỉnh chiều cao theo chiều rộng */
     position: absolute;
+    margin-top: 50px;
 }
 
 .col {
@@ -270,4 +271,8 @@ ul li {
 ul li a{
     text-decoration: none;
     color: #fff;
+}
+
+.text-below-logo {
+    margin-top: 50px; /* Adjust this value as needed */
 }
