@@ -238,7 +238,7 @@ footer {
 }
 
 .logo-footer {
-    width: 80px; /* Thay đổi chiều rộng mong muốn tại đây */
+    width: 100px; /* Thay đổi chiều rộng mong muốn tại đây */
     height: auto;/* Tự động điều chỉnh chiều cao theo chiều rộng */
     position: absolute;
 }
@@ -249,4 +249,13 @@ footer {
     margin-left: auto;
     padding-right: 15px;
     padding-left: 15px;
+}
+
+.row {
+    width: 85%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
 }
