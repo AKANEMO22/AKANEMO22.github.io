@@ -227,7 +227,6 @@
 footer {
     position: absolute;
     bottom: 0;
-    left: 0;
     width: 100%;
     background: linear-gradient(to right, #00093C, #F5FFFA);
     color: #fff;
