@@ -222,3 +222,11 @@
     width: 100%; /* Ensure the text spans the full width */
     font-weight: bold;
 }
+
+
+footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(to right, #00093C, #F5FFFA);
+}
