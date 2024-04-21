@@ -248,6 +248,9 @@ footer {
     margin-top: 0;
     font-family: 'Dragen', sans-serif;
     z-index: 2;
+    font-size: 38px; /* Thay đổi kích thước chữ tại đây */
+    top: 10px; /* Điều chỉnh vị trí từ trên xuống tại đây */
+    left: 20px;
 }
 
 .col {
