@@ -246,6 +246,7 @@ footer {
     height: auto;/* Tự động điều chỉnh chiều cao theo chiều rộng */
     position: absolute;
     margin-top: 50px;
+    font-family: 'Dragen', sans-serif;
 }
 
 .col {
