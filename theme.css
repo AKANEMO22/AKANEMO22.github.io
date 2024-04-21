@@ -249,6 +249,7 @@ footer {
     font-size: 38px; /* Thay đổi kích thước chữ tại đây */
     top: 10px; /* Điều chỉnh vị trí từ trên xuống tại đây */
     left: 20px;
+    line-height: 35px;
 }
 
 .col {
