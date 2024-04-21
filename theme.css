@@ -83,6 +83,11 @@
     src: url('assets/js/Madrid 23a.otf') format('opentype');
 }
 
+@font-face {
+    font-family: 'Dragen';
+    src: url('assets/js/DragenDemoRegular.ttf') format('truetype');
+}
+
 .container {
     padding: 0;
     margin: 0;
