@@ -242,8 +242,6 @@ footer {
 }
 
 .logo-footer {
-    width: 100px; /* Thay đổi chiều rộng mong muốn tại đây */
-    height: auto;/* Tự động điều chỉnh chiều cao theo chiều rộng */
     position: relative;
     margin-top: 0;
     font-family: 'Dragen', sans-serif;
