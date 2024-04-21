@@ -244,11 +244,8 @@ footer {
 }
 
 .col {
-    max-width: 1140px; /* Hoặc độ rộng mong muốn */
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 15px;
-    padding-left: 15px;
+    flex-basic: 25%;
+    padding: 10px
 }
 
 .row {
