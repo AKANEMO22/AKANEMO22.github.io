@@ -255,3 +255,14 @@ footer {
     align-items: flex-start;
     justify-content: space-between;
 }
+
+.col h3 {
+    width: fit-content;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+ul li {
+    text-decoration: none;
+    color: #fff;
+}
