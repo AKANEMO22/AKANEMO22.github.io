@@ -264,6 +264,7 @@ footer {
     flex-wrap: wrap;
     align-items: flex-start;
     justify-content: space-between;
+    align-items: center;
 }
 
 .col h3 {
