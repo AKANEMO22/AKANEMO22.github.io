@@ -239,6 +239,9 @@ footer {
     border-top-left-radius: 125px;
     font-size: 13px;
     line-height: 20px;
+    display: flex; /* Thêm thuộc tính này */
+    flex-direction: column; /* Thêm thuộc tính này */
+    align-items: center; /* Thêm thuộc tính này */
 }
 
 .logo-footer {
