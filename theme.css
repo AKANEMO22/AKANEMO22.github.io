@@ -346,7 +346,34 @@ hr {
         flex-basis: 100%;
     }
 }
-    
+
+.logo-col {
+    flex: 1;
+    padding: 10px;
+}
+
+.link-col {
+    flex: 1;
+    padding: 10px;
+}
+
+.link-col h3 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.link-col ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.link-col ul li a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    margin-bottom: 10px;
+}
 
 
 
