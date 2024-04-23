@@ -333,10 +333,10 @@ hr {
         bottom: unset;
     }
     .col {
-        flex-basic: 100%;
+        flex-basis: 100%;
     }
     .col:nth-child(2), .col:nth-child(3){
-        flex-basic: 100%;
+        flex-basis: 100%;
     }
 }
     
