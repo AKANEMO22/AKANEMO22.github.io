@@ -327,6 +327,18 @@ hr {
         left: 100%;
     }
 }
+
+@media (max-width: 700px) {
+    footer{
+        bottom: unset;
+    }
+    .col {
+        flex-basic: 100%;
+    }
+    .col:nth-child(2), .col:nth-child(3){
+        flex-basic: 100%;
+    }
+}
     
 
 
