@@ -253,7 +253,7 @@ footer {
 }
 
 .col {
-    flex-basic: 25%;
+    flex-basis: 25%;
     padding: 10px
 }
 
@@ -262,7 +262,6 @@ footer {
     margin: auto;
     display: flex;
     flex-wrap: wrap;
-    align-items: flex-start;
     justify-content: space-between;
     align-items: center;
 }
@@ -309,7 +308,7 @@ hr {
     overflow: hidden;
 }
 
-..underline span {
+.underline span {
     width: 15px;
     height: 100%;
     background: #fff;
