@@ -280,6 +280,8 @@ ul li {
 ul li a{
     text-decoration: none;
     color: #fff;
+    display: block; /* Tạo khối cho mỗi liên kết */
+    text-align: center; /*
 }
 
 .text-below-logo {
