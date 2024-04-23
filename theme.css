@@ -285,3 +285,17 @@ ul li a{
 .text-below-logo {
     margin-top: 100px; /* Adjust this value as needed */
 }
+
+hr {
+    width: 90;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+    margin: 20px auto;
+}
+
+.copyright {
+    
+
+
+
+
