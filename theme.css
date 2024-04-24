@@ -370,4 +370,9 @@ hr{
     }
 }
 
+p {
+    text-align: center; /* Căn văn bản vào giữa */
+}
+
+
 
