@@ -238,6 +238,7 @@ footer{
   border-top-left-radius: 125px;
   font-size: 13px;
   line-height: 20px;
+  margin-top: auto;
 }    
 .row{
     width: 85%;
