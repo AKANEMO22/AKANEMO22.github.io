@@ -271,7 +271,8 @@ footer{
 ul li{
     list-style: none;
     margin-bottom: 12px;
-    margin-left: 0;
+    position: absolute;
+    left: 10px ;
     
 }    
 ul li a{
