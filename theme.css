@@ -334,6 +334,7 @@ hr{
     top: 25px;
     left: 0;
     overflow: hidden;
+    margin-top: 10px;
 }    
 .underline span{
     width: 15px;
@@ -344,6 +345,7 @@ hr{
     top: 0;
     left: 10px;
     animation: moving 2s linear infinite;
+    margin-top: 10px;
 }    
 @keyframes moving{
     0%{
