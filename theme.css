@@ -257,7 +257,7 @@ footer{
 
 .logo{
     font-family:  'Dragen' , sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     width: 80px;
     margin-bottom: 30px;
     white-space: nowrap;
@@ -335,7 +335,6 @@ hr{
     top: 35px;
     left: 0;
     overflow: hidden;
-    margin-top: 10px;
 }    
 .underline span{
     width: 15px;
@@ -346,7 +345,6 @@ hr{
     top: 10px;
     left: 10px;
     animation: moving 2s linear infinite;
-    margin-top: 10px;
 }    
 @keyframes moving{
     0%{
