@@ -260,6 +260,7 @@ footer{
     font-size: 30px;
     margin-bottom: 30px;
     white-space: nowrap;
+    text-align: center;
 }
 .col h3{
     width: fit-content;
