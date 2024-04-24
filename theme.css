@@ -265,13 +265,12 @@ footer{
 .col h3{
     width: fit-content;
     margin-bottom: 40px;
-    position: relative;
+    margin-left: 30px;
 }
 
 ul li{
     list-style: none;
     margin-bottom: 12px;
-    position: absolute;
     left: 10px ;
     
 }    
