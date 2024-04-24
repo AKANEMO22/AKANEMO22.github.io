@@ -370,9 +370,10 @@ hr{
     }
 }
 
-p {
+.center-text {
     text-align: center; /* Căn văn bản vào giữa */
 }
+
 
 
 
