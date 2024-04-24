@@ -256,6 +256,10 @@ footer {
     padding: 10px;
 }
 
+.col:nth-child(2), .col:nth-child(3){
+    flex-basis: 15%;
+}
+    
 .row {
     width: 85%;
     margin: auto;
@@ -279,9 +283,7 @@ ul li {
 ul li a{
     text-decoration: none;
     color: #fff;
-    display: block; /* Tạo khối cho mỗi liên kết */
-    text-align: center;
-}/*
+}
     
 
 .text-below-logo {
