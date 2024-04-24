@@ -244,20 +244,15 @@ footer {
     align-items: center; /* Thêm thuộc tính này */
 }
 
-.logo-footer {
-    position: relative;
-    margin-top: 0;
+.logo {
     font-family: 'Dragen', sans-serif;
-    z-index: 2;
-    font-size: 38px; /* Thay đổi kích thước chữ tại đây */
-    top: 10px; /* Điều chỉnh vị trí từ trên xuống tại đây */
-    left: 20px;
-    line-height: 35px;
+    width: 80px;
+    margin-bottom: 30px;
 }
 
 .col {
     flex-basis: 25%;
-    padding: 10px
+    padding: 10px;
 }
 
 .row {
