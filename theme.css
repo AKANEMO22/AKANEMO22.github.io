@@ -373,12 +373,18 @@ hr{
     text-align: center; /* Căn văn bản vào giữa */
 }
 
-.containers {
-    width: 100%;
-    height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(assets/img/wallpaperflare.com_wallpaper (2).jpg);
-    background-position: center;
+.image-next{
+    position: relative;
+    background-image: url('assets/img/wallpaperflare.com_wallpaper (2).jpg');
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;    
+    height: 100vh;
+    /* Thêm các thuộc tính sau để căn giữa nút button */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 
