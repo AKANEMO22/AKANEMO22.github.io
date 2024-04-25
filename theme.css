@@ -372,18 +372,25 @@ hr{
     text-align: center; /* Căn văn bản vào giữa */
 }
 
-.image-next{
+.image-next {
     position: relative;
     background-image: url('assets/img/wallpaperflare.com_wallpaper (2).jpg');
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;    
-    /* Thêm các thuộc tính sau để căn giữa nút button */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    background-position: center center;
+    display: block; /* Thay đổi từ flex sang block */
+    width: 100%; /* Đảm bảo ảnh chiếm toàn bộ chiều rộng */
+    height: auto; /* Chiều cao tự động thay đổi theo tỷ lệ ảnh */
+    margin-top: 20px; /* Khoảng cách phía trên ảnh */
+    margin-bottom: 20px; /* Khoảng cách phía dưới ảnh */
 }
+
+@media (max-width: 700px) {
+    .image-next {
+        background-size: contain; /* Đảm bảo ảnh hiển thị đầy đủ */
+    }
+}
+
 
 
 
