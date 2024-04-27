@@ -415,7 +415,7 @@ p {
     line-height: 15px;
 }
 
-buttons {
+.buttons {
     width: 180px;
     color: #000;
     font-size: 12px;
