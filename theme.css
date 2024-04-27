@@ -399,6 +399,9 @@ hr{
     background-image: url('assets/img/artwork-digital-art-anime-night-street-city-2282046-wallhere.com.jpg');
     background-position: center;
     background-size: cover;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Cách đều nhau về bên trái và bên phải */
+    gap: 20px; 
 }
 
 .cols {
@@ -429,7 +432,6 @@ p {
 }
 
 .card {
-    width: 200px;
     height: 230px;
     display: inline-block;
     border-radius: 10px;
@@ -440,6 +442,8 @@ p {
     background-position: center;
     background-size: cover;
     transition: transform 0.5s;
+    width: calc(50% - 10px); /* Chiều rộng của mỗi card, trừ đi nửa khoảng cách giữa các card */
+    margin-bottom: 20px;
 }
 
 .card1 {
