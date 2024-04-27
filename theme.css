@@ -404,8 +404,8 @@ hr{
 .cols {
     flex-basis: 50%;
     flex-wrap: wrap;
-    justify-content: space-between; /* Cách đều nhau về bên trái và bên phải */
-    gap: 20px; 
+    justify-content: space-around; /* Cách đều nhau về bên trái và bên phải */
+    gap: 10px; 
     display: flex;
 }
     
@@ -443,7 +443,7 @@ p {
     background-position: center;
     background-size: cover;
     transition: transform 0.5s;
-    width: calc(50% - 30px); /* Chiều rộng của mỗi card, trừ đi nửa khoảng cách giữa các card */
+    width: calc(50% - 20px); /* Chiều rộng của mỗi card, trừ đi nửa khoảng cách giữa các card */
     margin-bottom: 20px;
 }
 
