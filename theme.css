@@ -402,9 +402,8 @@ hr{
 }
 
 .cols {
-    flex-basis: 50%;
     flex-wrap: wrap;
-    justify-content: space-around; /* Cách đều nhau về bên trái và bên phải */
+    justify-content: space-between; /* Cách đều nhau về bên trái và bên phải */
     gap: 10px; 
     display: flex;
 }
