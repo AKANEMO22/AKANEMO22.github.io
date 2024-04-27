@@ -399,13 +399,13 @@ hr{
     background-image: url('assets/img/artwork-digital-art-anime-night-street-city-2282046-wallhere.com.jpg');
     background-position: center;
     background-size: cover;
-    flex-wrap: wrap;
-    justify-content: space-between; /* Cách đều nhau về bên trái và bên phải */
-    gap: 20px; 
 }
 
 .cols {
     flex-basis: 50%;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Cách đều nhau về bên trái và bên phải */
+    gap: 20px; 
 }
     
 h1 {
