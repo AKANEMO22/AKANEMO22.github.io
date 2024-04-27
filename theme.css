@@ -433,11 +433,27 @@ buttons {
     box-sizing: border-box;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url(assets/img/117688050_p0_master1200.jpg);
     background-position: center;
     background-size: cover;
 }
 
+.card1 {
+    background-image: url(assets/img/117688050_p0_master1200.jpg);
+}
+
+.card2 {
+    background-image: url(assets/img/117688050_p0_master1200.jpg);
+}
+
+.card3 {
+    background-image: url(assets/img/117688050_p0_master1200.jpg);
+}
+
+.card4 {
+    background-image: url(assets/img/117688050_p0_master1200.jpg);
+}
+
+    
 
 
 
