@@ -395,6 +395,9 @@ hr{
     display: flex;
     height: 88%;
     align-items: center;
+    background-image: url('/assets/img/mythical-dragon-beast-anime-style.jpg');
+    background-position: center;
+    background-size: cover;
 }
 
 .cols {
