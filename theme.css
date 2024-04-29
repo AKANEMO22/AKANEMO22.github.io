@@ -474,7 +474,16 @@ h5 {
     text-shadow: 0 0 15px #000;
     font-size: 8px;
 }
-    
+
+.promo-texts {
+    font-family:  'Segoe UI Historic' , sans-serif;
+    font-size: 20px; /* Adjust the font size as needed */
+    color: #fff; /* Change the color if needed */
+    margin: 10px 0; /* Adjust the space around the text */
+    text-align: center; /* Center the text horizontally */
+    width: 100%; /* Ensure the text spans the full width */
+    font-weight: bold;
+}
 
     
 
