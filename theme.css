@@ -355,7 +355,7 @@ hr{
 }
 
 
-@media (max-width: 700px){
+@media (max-width: 991px){
     footer{
         bottom: unset;
     }
@@ -385,7 +385,7 @@ hr{
     margin-bottom: 20px; /* Khoảng cách phía dưới ảnh */
 }
 
-@media (max-width: 700px) {
+@media (max-width:  991px) {
     .image-next {
         background-size: contain; /* Đảm bảo ảnh hiển thị đầy đủ */
     }
