@@ -1,29 +1,4 @@
-/*=============== SHOW MENU ===============*/
-const navMenu = document.getElementById('nav-menu'),
-      navToggle = document.getElementById('nav-toggle'),
-      navClose = document.getElementById('nav-close')
-
-/* Menu show */
-navToggle.addEventListener('click', () =>{
-   navMenu.classList.add('show-menu')
-})
-
-/* Menu hidden */
-navClose.addEventListener('click', () =>{
-   navMenu.classList.remove('show-menu')
-})
-
-/*=============== SEARCH ===============*/
-const search = document.getElementById('search'),
-      searchBtn = document.getElementById('search-btn'),
-      searchClose = document.getElementById('search-close')
-
-/* Search show */
-searchBtn.addEventListener('click', () =>{
-   search.classList.add('show-search')
-})
-
-/* Search hidden */
-searchClose.addEventListener('click', () =>{
-   search.classList.remove('show-search')
-})
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+  font-family: 'Roboto', sans-serif;
+}
