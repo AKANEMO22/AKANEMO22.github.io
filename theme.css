@@ -484,7 +484,15 @@ h5 {
     width: 100%; /* Ensure the text spans the full width */
     font-weight: bold;
 }
-
+ .content {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-flow: column;
+     padding-top: 14rem;
+     padding-bottom: 8rem;
+     text-align: center;
+ }
     
 
 
