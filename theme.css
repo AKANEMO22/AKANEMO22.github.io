@@ -518,3 +518,6 @@ h5 {
     box-shadow: 0 .3rem 1rem rgba(0,0,0,.3)
 }
 
+.content button:hover{
+    letter-spacing: .2rem;
+}
