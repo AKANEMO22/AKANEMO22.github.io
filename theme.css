@@ -196,6 +196,18 @@ ul
     display: flex;
     color: var(---black-900);
 }
+.home .home-info
+{
+    flex: 0 0 60%;
+    max-width: 60%;
+}
+.home .home-img
+{
+    flex: 0 0 40%;
+    max-width: 40%;
+    text-align: center;
+    position: relative;
+}
 . home .home-img img
 {
     height: 400px;
