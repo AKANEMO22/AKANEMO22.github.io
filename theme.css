@@ -1,523 +1,59 @@
-* {  
+:root
+{
+    --bg-black-900:#f2f2fc;
+    --bg-black-100:#fdf9ff;
+    --bg-black-50:#e8dfec;
+    --text-black-900:#302e4d;
+    --text-black-700:#504e70;
+}
+body
+{
     margin: 0;
     padding: 0;
-}
-
-.background-image {
-    position: relative;
-    background-image: url('/assets/img/mythical-dragon-beast-anime-style.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;    
-    height: 100vh;
-    /* Thêm các thuộc tính sau để căn giữa nút button */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-
-.navbar-toggle {
-    border: none;
-    font-size: 1.25em;
-}
-
-.navbar-toggle:focus, .btn-close:focus {
-    box-shadow: none;
-    outline: none;
-}
-
-.nav-link {
-    color: #666777;
-    font-weight: 500;
-    position: relative;
-}
-
-.nav-link:hover, .nav-link.active {
-    color: #000;
-}
-
-@media (min-width: 991px) {
-    .nav-link::before {  
-        content: "";
-        position: absolute;
-        bottom: 0;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 100%;
-        height: 2px;
-        background-color: #87cefa;
-        visibility: hidden;
-        transition: 1.2s ease-in-out;
-    }
-
-    .nav-link:hover::before, .nav-link.active::before { 
-        width: 100%;
-        visibility: visible;
-    }
-}    
-
-.navbar {
-    background-color: #fff;
-    height: 80px;
-    margin: 20px;
-    border-radius: 16px;
-    padding: 0.5rem;
-}
-      
-.navbar-brand {
-    font-family: 'Madrid', sans-serif;
-    font-weight: 500;
-    color: #87cefa;
-    font-size: 24px;
-    transition: 1.2s color;  
-}
-
-@font-face {
-    font-family: 'Poppins-Regular';
-    src: url('assets/js/Poppins-Regular.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Madrid';
-    src: url('assets/js/Madrid 23a.otf') format('opentype');
-}
-
-@font-face {
-    font-family: 'Dragen';
-    src: url('assets/js/DragenDemoRegular.ttf') format('truetype');
-}
-
-.container {
-    padding: 0;
-    margin: 0;
-}
-
-.button {
-    text-decoration: none;
-    font-family: 'Poppins-Regular', sans-serif;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    padding: 10px 22px;
-    background: #64B2F0;
-    border-radius: 6px;
-    color: #fff;
-    font-size: 18px;
-    font-weight: 400;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease;
-    cursor: pointer;
-}
-
-.button:active {
-    transform: scale(0.96);
-}
-
-.button:before,
-.button:after {
-    position: absolute;
-    content: "";
-    width: 150%;
-    left: 50%;
-    height: 100%;
-    transform: translateX(-50%);
-    z-index: -1;
-    background-repeat: no-repeat;
-}
-
-.button.animate::before {
-    top: -70%;
-    background-image: radial-gradient(circle, #64B2F0 20%, transparent 20%),
-        radial-gradient(circle, transparent 20%, #64B2F0 20%, transparent 30%),
-        radial-gradient(circle, #64B2F0 20%, transparent 20%),
-        radial-gradient(circle, #64B2F0 20%, transparent 20%),
-        radial-gradient(circle, transparent 10%, #64B2F0 15%, transparent 20%),
-        radial-gradient(circle, #64B2F0 20%, transparent 20%),
-        radial-gradient(circle, #64B2F0 20%, transparent 20%),
-        radial-gradient(circle, #64B2F0 20%, transparent 20%),
-        radial-gradient(circle, #64B2F0 20%, transparent 20%);
-    background-size: 10% 10%, 20% 20%, 15% 15%, 20% 20%, 18% 18%, 10% 10%, 15% 15%,
-        10% 10%, 18% 18%;
-    animation: greentopBubbles ease-in-out 0.6s forwards;
-}
-
-@keyframes greentopBubbles {
-    0% {
-        background-position: 5% 90%, 10% 90%, 10% 90%, 15% 90%, 25% 90%, 25% 90%,
-            40% 90%, 55% 90%, 70% 90%;
-    }
-    50% {
-        background-position: 0% 80%, 0% 20%, 10% 40%, 20% 0%, 30% 30%, 22% 50%,
-            50% 50%, 65% 20%, 90% 30%;
-    }
-    100% {
-        background-position: 0% 70%, 0% 10%, 10% 30%, 20% -10%, 30% 20%, 22% 40%,
-            50% 40%, 65% 10%, 90% 20%;
-        background-size: 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%;
-    }
-}
-
-.button.animate::after {
-    bottom: -70%;
-    background-image: radial-gradient(circle, #64B2F0 20%, transparent 20%),
-        radial-gradient(circle, #64B2F0 20%, transparent 20%),
-        radial-gradient(circle, transparent 10%, #64B2F0 15%, transparent 20%),
-        radial-gradient(circle, #64B2F0 20%, transparent 20%),
-        radial-gradient(circle, #64B2F0 20%, transparent 20%),
-        radial-gradient(circle, #64B2F0 20%, transparent 20%),
-        radial-gradient(circle, #64B2F0 20%, transparent 20%);
-    background-size: 15% 15%, 20% 20%, 18% 18%, 20% 20%, 15% 15%, 20% 20%, 18% 18%;
-    animation: greenbottomBubbles  0.6s ease-in-out forwards;
-}
-
-@keyframes greenbottomBubbles {
-    0% {
-        background-position: 10% -10%, 30% 10%, 55% -10%, 70% -10%, 85% -10%,
-            70% -10%, 70% 0%;
-    }
-    50% {
-        background-position: 0% 80%, 20% 80%, 45% 60%, 60% 100%, 75% 70%, 95% 60%,
-            105% 0%;
-    }
-    100% {
-        background-position: 0% 90%, 20% 90%, 45% 70%, 60% 110%, 75% 80%, 95% 70%,
-            110% 10%;
-        background-size: 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%;
-    }
-}
-
-.my-image {
-    /* Add your CSS properties here */
-    /* For example, to adjust the size of the image */
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
-}
-
-/* Add this CSS to style.css or within a <style> tag in the <head> section */
-.promo-text {
-    font-family:  'Segoe UI Historic' , sans-serif;
-    font-size: 38px; /* Adjust the font size as needed */
-    color: #fff; /* Change the color if needed */
-    margin: 10px 0; /* Adjust the space around the text */
-    text-align: center; /* Center the text horizontally */
-    width: 100%; /* Ensure the text spans the full width */
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: "Segoe UI Historic";
-    src: url("https://db.onlinewebfonts.com/t/0c5e6f133b0b25edfed47aca4ab57676.eot");
-    src: url("https://db.onlinewebfonts.com/t/0c5e6f133b0b25edfed47aca4ab57676.eot?#iefix")format("embedded-opentype"),
-    url("https://db.onlinewebfonts.com/t/0c5e6f133b0b25edfed47aca4ab57676.woff2")format("woff2"),
-    url("https://db.onlinewebfonts.com/t/0c5e6f133b0b25edfed47aca4ab57676.woff")format("woff"),
-    url("https://db.onlinewebfonts.com/t/0c5e6f133b0b25edfed47aca4ab57676.ttf")format("truetype"),
-    url("https://db.onlinewebfonts.com/t/0c5e6f133b0b25edfed47aca4ab57676.svg#Segoe UI Historic")format("svg");
-}
-
-.promo-subtext {
-    font-family:  'Segoe UI Historic' , sans-serif;
-    font-size: 16px; /* Adjust the font size as needed */
-    color: #DEE2E6BF; /* Change the color if needed */
-    margin: 10px 0; /* Adjust the space around the text */
-    text-align: center; /* Center the text horizontally */
-    width: 100%; /* Ensure the text spans the full width */
-    font-weight: bold;
-}
-
-footer{
-  width: 100%;
-  background: linear-gradient(to right, #00093c, #2d0b00);
-  color: #fff;
-  padding: 100px 0 30px;
-  font-size: 13px;
-  line-height: 20px;
-  margin-top: auto;
-}    
-.row{
-    width: 85%;
-    margin: auto;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    justify-content: space-between;
-}
-.col{
-    flex-basis: 25%;
-    padding: 10px;
-}
-.col:nth-child(2), .col:nth-child(3){
-    flex-basis: 15%
-}
-
-.logo{
-    font-family:  'Dragen' , sans-serif;
-    font-size: 30px;
-    margin-bottom: 30px;
-    white-space: nowrap;
-    text-align: center;
-}
-.col h3{
-    width: fit-content;
-    margin-bottom: 40px;
-}
-
-ul li{
-    list-style: none;
-    margin-bottom: 12px;
-    
-}    
-ul li a{
-    text-decoration: none;
-    color: #fff;
-    margin-left: 0;
-}
-form{
-    padding-bottom: 15px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    border-bottom: 1px solid #ccc;
-    margin-bottom: 50px;
-}    
-form .far{
-    font-size: 18px;
-    margin-right: 10px;
-}
-form input{
-    width: 100%;
-    background: transparent;
-    color: #ccc;
-    border: 0;
-    outline: none;
-}
-form button{
-    background: transparent;
-    border: 0;
-    outline: none;
-    cursor: pointer;
-}    
-form button .fas{
+    line-height: 1.5;
     font-size: 16px;
-    color: #ccc;
 }
-.social-icons .fab{
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    text-align: center;
-    line-height: 40px;
-    font-size: 20px;
-    color: #000;
-    background: #fff;
-    margin-right: 15px;
-    cursor: pointer;
-}    
-hr{
-    width: 90%;
-    border: 0;
-    border-bottom: 1px solid #ccc;
-    margin: 20px auto;
-}
-.copyright{
-    text-align: center;
-}    
-.underline{
-    width: 100%;
-    height: 5px;
-    background: #767676;
-    border-radius: 3px;
-    position: absolute;
-    top: 35px;
-    left: 0;
-    overflow: hidden;
-}    
-.underline span{
-    width: 15px;
-    height: 100%;
-    background: #fff;
-    border-radius: 3px;
-    position: absolute;
-    top: 0;
-    left: 10px;
-    animation: moving 2s linear infinite;
-}    
-@keyframes moving{
-    0%{
-        left: -20px;
-    }    
-    100%{
-        left: 100px;
-    }    
-}
-
-
-@media (max-width: 991px){
-    footer{
-        bottom: unset;
-    }
-    .col{
-    flex-basis: 100%;
-    
-    }
-    .col:nth-child(2), .col:nth-child(3){
-    flex-basis: 100%
-    }
-}
-
-.center-text {
-    text-align: center; /* Căn văn bản vào giữa */
-}
-
-.image-next {
-    position: relative;
-    background-image: url('assets/img/wallpaperflare.com_wallpaper (2).jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    display: block; /* Thay đổi từ flex sang block */
-    width: 100%; /* Đảm bảo ảnh chiếm toàn bộ chiều rộng */
-    height: auto; /* Chiều cao tự động thay đổi theo tỷ lệ ảnh */
-    margin-top: 20px; /* Khoảng cách phía trên ảnh */
-    margin-bottom: 20px; /* Khoảng cách phía dưới ảnh */
-}
-
-@media (max-width:  991px) {
-    .image-next {
-        background-size: contain; /* Đảm bảo ảnh hiển thị đầy đủ */
-    }
-}
-
-.rows {
-    display: flex;
-    height: 120vh;
-    width: 100%;
-    align-items: center;
-    background-image: url('assets/img/artwork-digital-art-anime-night-street-city-2282046-wallhere.com.jpg');
-    background-position: center;
-    background-size: cover;
-}
-
-.cols {
-    flex-wrap: wrap;
-    justify-content: space-between; /* Cách đều nhau về bên trái và bên phải */
-    gap: 10px; 
-    display: flex;
-}
-    
-h1 {
-    color: #fff;
-    font-size: 40px;
-}
-
-p {
-    color: #fff;
-    font-size: 11px;
-    line-height: 15px;
-}
-
-.buttons {
-    width: 180px;
-    color: #000;
-    font-size: 12px;
-    padding: 12px 0;
-    background: #fff;
-    border: 0;
-    border-radius: 20px;
+*
+{
+    margin: 0;
+    padding:0;
     outline: none;
-    margin-top: 30px;
-}
-
-.card {
-    height: 230px;
-    display: inline-block;
-    border-radius: 10px;
-    padding: 15px 25px;
+    text-decoration: none;
     box-sizing: border-box;
-    cursor: pointer;
-    margin: 10px 15px;
-    background-position: center;
-    background-size: cover;
-    transition: transform 0.5s;
-    width: calc(50% - 20px); /* Chiều rộng của mỗi card, trừ đi nửa khoảng cách giữa các card */
-    margin-bottom: 20px;
+}
+::before,::after
+{
+    box-sizing: border-box;
+}
+.section
+{
+    background: var(--bg-black-900);
+    min-height: 100vh;
+    display: block;
+    position: fixed;
+    left: 270px;
+    top: 0 ;
+    right: 0 ;
+    z-index: 0;
+    opacity: 1;
+    
+}
+.aside
+{
+    width: 270px;
+    background: var(--bg-black-100);
+    position: fixed;
+    left:0;
+    top: 0;
+    height:100%;
+    z-index: 10;
 }
 
-.card1 {
-    background-image: url(assets/img/117688050_p0_master1200.jpg);
-}
 
-.card2 {
-    background-image: url(assets/img/117688050_p0_master1200.jpg);
-}
 
-.card3 {
-    background-image: url(assets/img/117688050_p0_master1200.jpg);
-}
 
-.card4 {
-    background-image: url(assets/img/117688050_p0_master1200.jpg);
-}
-
-.card:hover {
-    transform: translateY(-10px);
-}
-h5 {
-    color: #fff;
-    text-shadow: 0 0 5px #999;
-}
-
-.card p {
-    text-shadow: 0 0 15px #000;
-    font-size: 8px;
-}
-
-.promo-texts {
-    font-family:  'Segoe UI Historic' , sans-serif;
-    font-size: 20px; /* Adjust the font size as needed */
-    color: #fff; /* Change the color if needed */
-    margin: 10px 0; /* Adjust the space around the text */
-    text-align: center; /* Center the text horizontally */
-    width: 100%; /* Ensure the text spans the full width */
-    font-weight: bold;
-}
- .content {
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     flex-flow: column;
-     padding-top: 14rem;
-     padding-bottom: 8rem;
-     text-align: center;
- }
- .content h1{
-     font-size: 5rem;
-     color: #fff;
-     padding:0 1rem;
-     text-shadow: 0 .3rem .5rem rgba(0,0,0.3);
-     text-transform: uppercase;
- }
-
-.content p{
-    font-size: 2rem;
-    color: #eee;
-    padding: 1rem 25rem;
-}
-.content button{
-    height: 4rem;
-    width: 20rem;
-    border-radius: 5rem;
-    color:#fff;
-    font-size: 2rem;
-    cursor: pointer;
-    transition: .2s;
-    border: none;
-    box-shadow: 0 .3rem 1rem rgba(0,0,0,.3)
-}
-
-.content button:hover{
-    letter-spacing: .2rem;
-}
+    
+    
+    
+    
+    
