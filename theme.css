@@ -38,10 +38,15 @@ ul
     padding: 0 30px;
     opacity: 1;  
 }
+.hidden
+{
+    display: none !important;
+}
+    
 .main-content
 {
-    padding-left:15px;
-    padding-right:15px;
+    padding-left:270px;
+}
 .padd-15
 {
     padding-left: 15px;
@@ -53,6 +58,16 @@ ul
     width: 100%;
     margin: auto;
 }
+.section .container
+{
+    padding-top:60px;
+    padding-bottom: 70px;
+}
+.section-title
+{
+    flex: 0 0 100%;
+    max-width:100%;
+    background-color:red;
 .row
 {
     display: flex;
