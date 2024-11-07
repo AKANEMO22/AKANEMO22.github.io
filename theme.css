@@ -36,9 +36,12 @@ ul
     min-height: 100vh;
     display: block;
     padding: 0 30px;
-    opacity: 1;
-    
+    opacity: 1;  
 }
+.main-content
+{
+    padding-left:15px;
+    padding-right:15px;
 .padd-15
 {
     padding-left: 15px;
