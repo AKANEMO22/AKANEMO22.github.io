@@ -3,166 +3,522 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Luxe Mirrors - Gương LED Tinh Tế Cho Không Gian Hiện Đại</title>
-    <meta name="description" content="Khám phá bộ sưu tập gương LED viền trong cao cấp giúp bừng sáng không gian sống của bạn. Trở thành đối tác sỉ để nhận chiết khấu hấp dẫn.">
+    <title>Luxe Mirror - Enterprise BI Dashboard & Strategy</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     
-    <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700&display=swap" rel="stylesheet">
-    
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="style.css">
+    <style>
+        :root {
+            /* Enterprise Dark Theme */
+            --bg-base: #030712;
+            --bg-surface: #0B0F19;
+            --bg-surface-hover: #111827;
+            
+            --text-primary: #F9FAFB;
+            --text-secondary: #9CA3AF;
+            --text-tertiary: #4B5563;
+            
+            --border-subtle: rgba(255, 255, 255, 0.05);
+            --border-highlight: rgba(59, 130, 246, 0.3);
+            
+            /* NEON Data Colors */
+            --brand-primary: #3B82F6; /* Blue */
+            --brand-secondary: #8B5CF6; /* Purple */
+            --brand-accent: #10B981; /* Green */
+            --brand-warning: #F59E0B; /* Orange */
+            --brand-danger: #EF4444; /* Red */
+            --brand-cyan: #06B6D4; /* Cyan */
+            --brand-pink: #EC4899; /* Pink */
+            --gold: #FBE698; /* Cyber Gold */
+            --gold-dark: #D4AF37;
+            
+            --shadow-md: 0 10px 25px -5px rgba(0, 0, 0, 0.8);
+            --shadow-glow: 0 0 20px rgba(59, 130, 246, 0.2);
+            
+            --radius-md: 12px;
+            --radius-lg: 16px;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Plus Jakarta Sans', sans-serif; }
+        body { background-color: var(--bg-base); color: var(--text-primary); display: flex; height: 100vh; overflow: hidden; }
+
+        h1, h2, h3, h4 { font-weight: 700; letter-spacing: -0.02em; }
+        .text-gradient { background: linear-gradient(135deg, #FFF 0%, #9CA3AF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .text-neon-blue { background: linear-gradient(135deg, #60A5FA 0%, #3B82F6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 10px rgba(59, 130, 246, 0.4); }
+        .text-gold-gradient { background: linear-gradient(135deg, var(--gold) 0%, var(--gold-dark) 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 15px rgba(212, 175, 55, 0.4); }
+
+        /* Sidebar */
+        .sidebar {
+            width: 300px; background-color: var(--bg-surface); border-right: 1px solid var(--border-subtle);
+            display: flex; flex-direction: column; padding: 24px 0; z-index: 20; box-shadow: 10px 0 30px rgba(0,0,0,0.6); overflow-y: auto;
+        }
+        .sidebar::-webkit-scrollbar { width: 6px; }
+        .sidebar::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 10px; }
+        
+        .brand { padding: 0 24px 32px; display: flex; align-items: center; gap: 14px; }
+        .brand-icon { width: 46px; height: 46px; border-radius: 14px; background: linear-gradient(135deg, var(--brand-primary), var(--brand-cyan)); display: flex; align-items: center; justify-content: center; font-size: 1.4rem; color: white; box-shadow: var(--shadow-glow); }
+        .brand-text { font-size: 1.4rem; font-weight: 800; letter-spacing: 1px; }
+        
+        .nav-group { padding: 0 16px; margin-bottom: 24px; }
+        .nav-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1.5px; color: var(--brand-primary); font-weight: 800; margin-bottom: 8px; padding-left: 16px; opacity: 0.8; }
+        .nav-item { display: flex; align-items: center; gap: 14px; padding: 14px 16px; margin-bottom: 6px; border-radius: var(--radius-lg); color: var(--text-secondary); font-weight: 600; font-size: 0.95rem; cursor: pointer; transition: all 0.3s; position: relative; border: 1px solid transparent; }
+        .nav-item:hover { background-color: rgba(255,255,255,0.02); color: var(--text-primary); transform: translateX(6px); border-color: var(--border-subtle); }
+        .nav-item.active { background-color: rgba(59, 130, 246, 0.1); color: var(--text-primary); border-color: rgba(59, 130, 246, 0.2); box-shadow: inset 0 0 20px rgba(59, 130, 246, 0.05); }
+        .nav-item.active i { color: var(--brand-primary); text-shadow: 0 0 12px var(--brand-primary); transform: scale(1.1); }
+        .nav-item.active::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background-color: var(--brand-primary); box-shadow: 0 0 15px var(--brand-primary); }
+        .nav-item i { width: 24px; text-align: center; font-size: 1.2rem; transition: 0.3s; }
+        
+        .badge { margin-left: auto; padding: 2px 8px; border-radius: 20px; font-size: 0.7rem; font-weight: 800; background: rgba(239, 68, 68, 0.2); color: #FCA5A5; border: 1px solid rgba(239, 68, 68, 0.4); }
+        .badge.new { background: rgba(16, 185, 129, 0.2); color: #6EE7B7; border-color: rgba(16, 185, 129, 0.4); }
+
+        /* Main Container */
+        .main-container { flex: 1; display: flex; flex-direction: column; overflow-y: auto; overflow-x: hidden; scroll-behavior: smooth; }
+
+        /* Topbar */
+        .topbar { height: 85px; padding: 0 40px; display: flex; justify-content: space-between; align-items: center; background-color: rgba(3, 7, 18, 0.85); backdrop-filter: blur(20px); border-bottom: 1px solid var(--border-subtle); position: sticky; top: 0; z-index: 10; }
+        .topbar-title h1 { font-size: 1.7rem; }
+        .topbar-subtitle { font-size: 0.9rem; color: var(--text-secondary); margin-top: 4px; display: flex; align-items: center; gap: 8px;}
+        .pulse-dot { width: 10px; height: 10px; background: var(--brand-accent); border-radius: 50%; box-shadow: 0 0 15px var(--brand-accent); animation: pulse 2s infinite; }
+        @keyframes pulse { 0% { transform: scale(0.9); opacity: 0.7; } 50% { transform: scale(1.3); opacity: 1; } 100% { transform: scale(0.9); opacity: 0.7; } }
+
+        /* Content Area */
+        .content-area { padding: 40px; }
+        .tab-section { display: none; }
+        .tab-section.active { display: block; animation: zoomFadeIn 0.5s cubic-bezier(0.1, 0.9, 0.2, 1) forwards; }
+        @keyframes zoomFadeIn { 0% { opacity: 0; transform: scale(0.97) translateY(20px); } 100% { opacity: 1; transform: scale(1) translateY(0); } }
+
+        /* KPI Grid */
+        .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 24px; margin-bottom: 40px; }
+        .kpi-card { background: linear-gradient(160deg, #111827, #0B0F19); border: 1px solid var(--border-subtle); border-radius: var(--radius-lg); padding: 24px; position: relative; box-shadow: var(--shadow-md); transition: 0.4s; overflow: hidden; }
+        .kpi-card:hover { transform: translateY(-10px); border-color: rgba(255,255,255,0.15); box-shadow: 0 25px 50px -12px rgba(0,0,0,0.8); }
+        .kpi-card::after { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 4px; background: linear-gradient(90deg, var(--brand-primary), var(--brand-cyan)); opacity: 0.5; transition: 0.4s; }
+        .kpi-card:hover::after { opacity: 1; box-shadow: 0 0 25px var(--brand-primary); }
+        
+        .kpi-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+        .kpi-title { font-size: 0.85rem; color: var(--text-secondary); font-weight: 800; text-transform: uppercase; letter-spacing: 1px; }
+        .kpi-icon { width: 50px; height: 50px; border-radius: 14px; display: flex; align-items: center; justify-content: center; background: rgba(255,255,255,0.03); color: var(--brand-primary); font-size: 1.6rem; border: 1px solid rgba(255,255,255,0.05); box-shadow: inset 0 0 20px rgba(0,0,0,0.5); transition: 0.4s; }
+        .kpi-card:hover .kpi-icon { transform: rotate(15deg) scale(1.1); color: #FFF; background: var(--brand-primary); box-shadow: 0 0 25px var(--brand-primary); }
+        .kpi-value { font-size: 2.5rem; font-weight: 800; color: var(--text-primary); margin-bottom: 8px; letter-spacing: -1px; text-shadow: 0 2px 5px rgba(0,0,0,0.8); }
+        .kpi-trend { display: flex; align-items: center; gap: 6px; font-size: 0.85rem; font-weight: 700; }
+        .trend-up { color: var(--brand-accent); background: rgba(16, 185, 129, 0.1); padding: 4px 10px; border-radius: 6px; border: 1px solid rgba(16, 185, 129, 0.2); }
+
+        /* Dashboard Layout Grid */
+        .dashboard-layout { display: grid; grid-template-columns: repeat(12, 1fr); gap: 32px; margin-bottom: 40px; }
+        .col-span-12 { grid-column: span 12; } .col-span-8 { grid-column: span 8; } .col-span-7 { grid-column: span 7; } .col-span-6 { grid-column: span 6; } .col-span-5 { grid-column: span 5; } .col-span-4 { grid-column: span 4; }
+        @media (max-width: 1300px) { .col-span-8, .col-span-7, .col-span-6, .col-span-5, .col-span-4 { grid-column: span 12; } }
+
+        /* Chart Panels */
+        .panel { background-color: var(--bg-surface); border: 1px solid var(--border-subtle); border-radius: var(--radius-lg); padding: 28px; display: flex; flex-direction: column; box-shadow: inset 0 0 40px rgba(0,0,0,0.6), var(--shadow-md); position: relative; transition: 0.4s; }
+        .panel:hover { border-color: rgba(59, 130, 246, 0.2); box-shadow: inset 0 0 40px rgba(0,0,0,0.6), 0 15px 40px rgba(0,0,0,0.9); }
+        .panel-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 28px; }
+        .panel-title h3 { font-size: 1.3rem; margin-bottom: 8px; display: flex; align-items: center; gap: 12px; }
+        .panel-title h3 i { color: var(--brand-primary); font-size: 1.1em; filter: drop-shadow(0 0 8px var(--brand-primary)); }
+        .panel-subtitle { font-size: 0.9rem; color: var(--text-secondary); font-weight: 500; }
+        .chart-container { flex: 1; position: relative; min-height: 380px; width: 100%; }
+
+        /* Insight Summary Cards */
+        .insight-summary {
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.08), rgba(11, 15, 25, 0.9));
+            border: 1px solid rgba(59, 130, 246, 0.3); border-left: 8px solid var(--brand-primary);
+            padding: 36px; border-radius: var(--radius-lg); margin-bottom: 24px; position: relative; overflow: hidden;
+            box-shadow: inset 0 0 40px rgba(59, 130, 246, 0.05), 0 15px 40px -10px rgba(0,0,0,0.9);
+            animation: pulse-neon 4s infinite alternate;
+        }
+        @keyframes pulse-neon { 0% { border-color: rgba(59, 130, 246, 0.2); box-shadow: 0 0 15px rgba(59, 130, 246, 0.05); } 100% { border-color: rgba(59, 130, 246, 0.6); box-shadow: 0 0 40px rgba(59, 130, 246, 0.2); } }
+        
+        .insight-summary h3 { font-size: 1.5rem; margin-bottom: 20px; display: flex; align-items: center; gap: 14px; font-weight: 800; }
+        .insight-summary h3 i { background: rgba(255,255,255,0.05); padding: 12px; border-radius: 12px; box-shadow: 0 5px 20px rgba(0,0,0,0.5); border: 1px solid rgba(255,255,255,0.1); }
+        .insight-summary p { font-size: 1.15rem; line-height: 1.8; color: #E5E7EB; text-shadow: 0 1px 3px rgba(0,0,0,0.8); }
+
+        /* MARKETING ACTION CARDS (NEW) */
+        .action-card {
+            background: linear-gradient(135deg, rgba(212, 175, 55, 0.08), rgba(0, 0, 0, 0.5));
+            border: 1px dashed rgba(212, 175, 55, 0.5);
+            padding: 30px; border-radius: var(--radius-lg); margin-bottom: 40px;
+            box-shadow: inset 0 0 20px rgba(212, 175, 55, 0.05);
+            display: flex; gap: 24px; align-items: flex-start;
+        }
+        .action-icon {
+            width: 60px; height: 60px; border-radius: 50%; background: rgba(212, 175, 55, 0.15);
+            display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+            color: var(--gold); font-size: 1.8rem; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3); border: 1px solid var(--gold);
+        }
+        .action-content h3 { color: var(--gold); font-size: 1.4rem; margin-bottom: 12px; letter-spacing: 0.5px; }
+        .action-content ul { list-style: none; }
+        .action-content li { font-size: 1.1rem; line-height: 1.8; color: #D1D5DB; margin-bottom: 8px; position: relative; padding-left: 24px; }
+        .action-content li::before { content: '✓'; position: absolute; left: 0; color: var(--brand-accent); font-weight: bold; }
+        .action-content strong { color: #FFF; background: rgba(255,255,255,0.1); padding: 2px 6px; border-radius: 4px; }
+
+        .highlight-tag { color: #fff; font-weight: 800; background: linear-gradient(90deg, rgba(59, 130, 246, 0.5), rgba(59, 130, 246, 0.15)); padding: 4px 12px; border-radius: 8px; border: 1px solid rgba(59,130,246,0.7); display: inline-block; margin: 0 4px; }
+        .highlight-gold { background: linear-gradient(90deg, rgba(212, 175, 55, 0.5), rgba(212, 175, 55, 0.15)); border-color: rgba(212, 175, 55, 0.7); }
+
+    </style>
 </head>
 <body>
 
-    <!-- Header -->
-    <header class="header">
-        <div class="container header-container">
-            <a href="#" class="logo">LUXE MIRRORS</a>
-            <nav class="nav">
-                <ul>
-                    <li><a href="#hero">Trang chủ</a></li>
-                    <li><a href="#features">Đặc điểm</a></li>
-                    <li><a href="#best-sellers">Sản phẩm</a></li>
-                    <li><a href="#wholesale">Khách sỉ</a></li>
-                </ul>
-            </nav>
-            <a href="#best-sellers" class="btn btn-primary">Mua Ngay</a>
+    <aside class="sidebar">
+        <div class="brand">
+            <div class="brand-icon"><i class="fa-solid fa-chart-line"></i></div>
+            <div class="brand-text text-gradient">LuxeMetrics UI</div>
         </div>
-    </header>
 
-    <!-- Hero Section -->
-    <section id="hero" class="hero">
-        <div class="hero-bg">
-            <img src="assets/hero_mirror.png" alt="Phòng tắm sang trọng với gương LED viền trong">
-            <div class="hero-overlay"></div>
+        <div class="nav-group">
+            <div class="nav-label">Core Dashboard</div>
+            <div class="nav-item active" data-tab="dashboard"><i class="fa-solid fa-border-all"></i> Executive Summary</div>
         </div>
-        <div class="container hero-content">
-            <h1 class="fade-in-up">Bừng Sáng Không Gian<br><span class="text-gold">Đẳng Cấp Ngôi Nhà Bạn</span></h1>
-            <p class="fade-in-up delay-1">Dòng sản phẩm Gương LED Viền Trong mang đến vẻ đẹp tối giản, sang trọng và hiện đại. Trải nghiệm không gian sống hoàn mỹ hơn mỗi ngày.</p>
-            <div class="hero-buttons fade-in-up delay-2">
-                <a href="#best-sellers" class="btn btn-primary btn-large">Khám Phá Ngay</a>
-                <a href="#wholesale" class="btn btn-outline btn-large">Dành Cho Khách Sỉ</a>
-            </div>
-        </div>
-    </section>
 
-    <!-- Features Section -->
-    <section id="features" class="features">
-        <div class="container">
-            <div class="section-header">
-                <h2>Tại Sao Chọn <span class="text-gold">LED Viền Trong?</span></h2>
-                <p>Xu hướng thiết kế được ưa chuộng nhất mang lại vẻ đẹp liền mạch và ánh sáng hoàn hảo.</p>
+        <div class="nav-group">
+            <div class="nav-label">Phân Tích Đa Chiều (OLAP)</div>
+            <div class="nav-item" data-tab="insight-1"><i class="fa-brands fa-facebook-messenger"></i> 1. Kênh & Khách Hàng</div>
+            <div class="nav-item" data-tab="insight-2"><i class="fa-regular fa-lightbulb"></i> 2. Hiệu Quả Sản Phẩm</div>
+            <div class="nav-item" data-tab="insight-3"><i class="fa-solid fa-compress"></i> 3. Kích Thước & Thiết Kế</div>
+            <div class="nav-item" data-tab="insight-7"><i class="fa-solid fa-calendar-trend-up"></i> 4. Chu Kỳ Mùa Vụ</div>
+        </div>
+        
+        <div class="nav-group">
+            <div class="nav-label">Insights Ẩn (Hidden)</div>
+            <div class="nav-item" data-tab="insight-4"><i class="fa-solid fa-user-check"></i> 5. Lỗ Hổng Retention</div>
+            <div class="nav-item" data-tab="insight-6"><i class="fa-solid fa-mask"></i> 6. Ảo Giác Định Giá</div>
+            <div class="nav-item" data-tab="insight-5"><i class="fa-solid fa-truck-fast"></i> 7. Ma Trận Vận Hành</div>
+        </div>
+    </aside>
+
+    <main class="main-container">
+        <header class="topbar">
+            <div class="topbar-title">
+                <h1 id="page-title">Executive Summary</h1>
+                <div class="topbar-subtitle"><div class="pulse-dot"></div> Báo cáo Phân tích Chiến lược Tiếp thị | Cập nhật 2026</div>
             </div>
+        </header>
+
+        <div class="content-area">
             
-            <div class="feature-grid">
-                <div class="feature-card glass-panel">
-                    <div class="icon">✨</div>
-                    <h3>Ánh Sáng Tinh Tế</h3>
-                    <p>Hệ thống đèn LED âm viền tỏa ánh sáng đều đặn, không gây chói mắt, tạo không gian ấm áp và thư giãn.</p>
-                </div>
-                <div class="feature-card glass-panel">
-                    <div class="icon">💎</div>
-                    <h3>Thiết Kế Tối Giản</h3>
-                    <p>Viền gương siêu mỏng mang lại vẻ đẹp hiện đại, liền khối, phù hợp với mọi phong cách nội thất cao cấp.</p>
-                </div>
-                <div class="feature-card glass-panel">
-                    <div class="icon">🛡️</div>
-                    <h3>Độ Bền Vượt Trội</h3>
-                    <p>Sử dụng phôi gương Bỉ cao cấp chống ố mốc, kết hợp đèn LED siêu bền với tuổi thọ lên tới 50,000 giờ.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Best Sellers Section -->
-    <section id="best-sellers" class="best-sellers">
-        <div class="container">
-            <div class="section-header">
-                <h2>Bộ Sưu Tập <span class="text-gold">Bán Chạy Nhất</span></h2>
-                <p>Những mẫu gương LED viền trong đang dẫn đầu xu hướng thị trường.</p>
-            </div>
-            
-            <div class="product-grid">
-                <!-- Product 1 -->
-                <div class="product-card">
-                    <div class="product-img">
-                        <img src="assets/round_mirror.png" alt="Gương Tròn LED Viền Trong">
-                        <div class="badge">Bán Chạy</div>
+            <!-- VIEW: DASHBOARD -->
+            <div id="dashboard" class="tab-section active">
+                <div class="kpi-grid">
+                    <div class="kpi-card">
+                        <div class="kpi-header"><span class="kpi-title">Doanh Thu</span><div class="kpi-icon"><i class="fa-solid fa-wallet"></i></div></div>
+                        <div class="kpi-value">4.34 Tỷ ₫</div>
+                        <div class="kpi-trend"><span class="trend-up"><i class="fa-solid fa-arrow-trend-up"></i> +12.5%</span></div>
                     </div>
-                    <div class="product-info">
-                        <h3>Gương Tròn LED Viền Trong</h3>
-                        <p class="desc">Thiết kế bo tròn mềm mại, tạo điểm nhấn thanh lịch cho phòng tắm hoặc bàn trang điểm.</p>
-                        <div class="price">
-                            <span class="current">Từ 345.000đ</span>
-                            <span class="freeship">Miễn phí lắp đặt</span>
-                        </div>
-                        <a href="https://zalo.me" class="btn btn-primary btn-full" target="_blank">Đặt Hàng Qua Zalo</a>
+                    <div class="kpi-card">
+                        <div class="kpi-header"><span class="kpi-title">Lợi Nhuận Gộp</span><div class="kpi-icon" style="color: var(--gold);"><i class="fa-solid fa-coins"></i></div></div>
+                        <div class="kpi-value text-gold-gradient">16.1 Tỷ ₫</div>
+                        <div class="kpi-trend"><span class="trend-up" style="border-color:var(--gold); color:var(--gold);"><i class="fa-solid fa-bolt"></i> Margin 370%</span></div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-header"><span class="kpi-title">Tổng Lượng Đơn</span><div class="kpi-icon" style="color: var(--brand-cyan);"><i class="fa-solid fa-box-open"></i></div></div>
+                        <div class="kpi-value">2,782</div>
+                        <div class="kpi-trend"><span class="trend-up" style="color:var(--brand-cyan); border-color:var(--brand-cyan)"><i class="fa-solid fa-users"></i> Lẻ mới chiếm ưu thế</span></div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-header"><span class="kpi-title">AOV Trung Bình</span><div class="kpi-icon" style="color: var(--brand-pink);"><i class="fa-solid fa-receipt"></i></div></div>
+                        <div class="kpi-value">1.56 Tr ₫</div>
+                        <div class="kpi-trend"><span class="trend-up" style="color:var(--brand-pink); border-color:var(--brand-pink)"><i class="fa-solid fa-gem"></i> Khách Sỉ kéo AOV</span></div>
                     </div>
                 </div>
-
-                <!-- Product 2 -->
-                <div class="product-card">
-                    <div class="product-img">
-                        <img src="assets/rectangle_mirror.png" alt="Gương Chữ Nhật LED Viền Trong">
+                <div class="dashboard-layout">
+                    <div class="panel col-span-8">
+                        <div class="panel-header"><div class="panel-title"><h3><i class="fa-solid fa-chart-line"></i> Tăng Trưởng (Volume vs Revenue)</h3></div></div>
+                        <div class="chart-container"><canvas id="chartExecMix"></canvas></div>
                     </div>
-                    <div class="product-info">
-                        <h3>Gương Chữ Nhật LED Viền Trong</h3>
-                        <p class="desc">Mở rộng không gian với kiểu dáng chữ nhật mạnh mẽ, tối ưu hóa ánh sáng cho căn phòng.</p>
-                        <div class="price">
-                            <span class="current">Từ 385.000đ</span>
-                            <span class="freeship">Miễn phí lắp đặt</span>
-                        </div>
-                        <a href="https://zalo.me" class="btn btn-primary btn-full" target="_blank">Đặt Hàng Qua Zalo</a>
+                    <div class="panel col-span-4">
+                        <div class="panel-header"><div class="panel-title"><h3><i class="fa-solid fa-chart-pie"></i> Tỷ Trọng Kênh</h3></div></div>
+                        <div class="chart-container"><canvas id="chartChannelSplit"></canvas></div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
 
-    <!-- Wholesale Section -->
-    <section id="wholesale" class="wholesale">
-        <div class="container wholesale-container">
-            <div class="wholesale-content">
-                <h2>Cơ Hội Vàng Cho <span class="text-gold">Khách Sỉ & Đại Lý</span></h2>
-                <p>Trở thành đối tác của Luxe Mirrors để nhận ngay mức ưu đãi hấp dẫn nhất thị trường. Chúng tôi mang đến sản phẩm có biên độ lợi nhuận cao với chính sách hỗ trợ tận tâm.</p>
-                <ul class="benefit-list">
-                    <li><span class="check">✓</span> Chiết khấu cực khủng lên đến 40%</li>
-                    <li><span class="check">✓</span> Tham gia Group Zalo VIP nhận mẫu mới mỗi tuần</li>
-                    <li><span class="check">✓</span> Miễn phí vận chuyển cho đơn hàng số lượng lớn</li>
-                    <li><span class="check">✓</span> Hỗ trợ hình ảnh, tài liệu marketing chuyên nghiệp</li>
-                </ul>
-                <a href="https://zalo.me" class="btn btn-gold btn-large" target="_blank">Kết Nối Zalo Mua Sỉ Ngay</a>
+            <!-- VIEW: INSIGHT 1 -->
+            <div id="insight-1" class="tab-section">
+                <div class="insight-summary">
+                    <h3 class="text-neon-blue"><i class="fa-solid fa-magnifying-glass-chart"></i> Insight 1: Trận Chiến Zalo vs Facebook</h3>
+                    <p>Zalo đang đè bẹp Facebook khi <span class="highlight-tag">Doanh thu Zalo cao gấp 1.8 lần</span>. Bên cạnh đó, tệp <span class="highlight-tag highlight-gold">SỈ CŨ</span> mang lại AOV x3 lần (3.79Tr) và đóng góp 1.14 Tỷ doanh thu chỉ với 301 đơn, hiệu quả gấp nhiều lần việc chạy ads lấy 2200 đơn Lẻ Mới.</p>
+                </div>
+                <!-- CHIẾN LƯỢC 1 -->
+                <div class="action-card">
+                    <div class="action-icon"><i class="fa-solid fa-crosshairs"></i></div>
+                    <div class="action-content">
+                        <h3>Chiến lược Thực thi: "Zalo-First & Sỉ Trọng Tâm"</h3>
+                        <ul>
+                            <li><strong>Chuyển dịch ngân sách:</strong> Cắt giảm 30% ngân sách từ Facebook Ads chuyển sang Zalo Form Ads. Nhắm mục tiêu bám đuổi các chủ shop nội thất, thợ thầu xây dựng.</li>
+                            <li><strong>Xây dựng Zalo OA chuyên nghiệp:</strong> Cập nhật Catalog sản phẩm cao cấp, thiết lập kịch bản Auto-reply phân luồng Khách Sỉ và Khách Lẻ ngay từ tin nhắn đầu tiên.</li>
+                            <li><strong>Chính sách riêng cho Sỉ Cũ:</strong> Tạo chương trình "Khách hàng kim cương". Giảm thêm 5% cho Sỉ Cũ nhập hàng đều đặn mỗi tháng để giữ chân tệp AOV siêu khủng này.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dashboard-layout">
+                    <div class="panel col-span-6"><div class="panel-header"><div class="panel-title"><h3><i class="fa-solid fa-layer-group"></i> Cơ Cấu Doanh Thu & Lợi Nhuận</h3></div></div><div class="chart-container"><canvas id="chartSourceStacked"></canvas></div></div>
+                    <div class="panel col-span-6"><div class="panel-header"><div class="panel-title"><h3><i class="fa-solid fa-money-bill-wave"></i> Giá Trị Đơn Trung Bình (AOV)</h3></div></div><div class="chart-container"><canvas id="chartSourceAOV"></canvas></div></div>
+                </div>
             </div>
-        </div>
-    </section>
 
-    <!-- Footer -->
-    <footer class="footer">
-        <div class="container footer-content">
-            <div class="footer-brand">
-                <h3>LUXE MIRRORS</h3>
-                <p>Tỏa sáng không gian sống của bạn bằng những kiệt tác gương LED hiện đại.</p>
+            <!-- VIEW: INSIGHT 2 -->
+            <div id="insight-2" class="tab-section">
+                <div class="insight-summary">
+                    <h3 class="text-neon-blue"><i class="fa-solid fa-star"></i> Insight 2: Khám Phá "Sản Phẩm Vua"</h3>
+                    <p>Mẫu <span class="highlight-tag highlight-gold">Gương LED Viền Trong</span> là "Cash Cow". 1,512 đơn hàng tạo ra 1.2 Tỷ doanh thu cơ bản. Các loại LED hắt, thường không có chỗ đứng trong tâm trí khách hàng.</p>
+                </div>
+                <!-- CHIẾN LƯỢC 2 -->
+                <div class="action-card">
+                    <div class="action-icon"><i class="fa-solid fa-crown"></i></div>
+                    <div class="action-content">
+                        <h3>Chiến lược Thực thi: "Hero Product Lead Magnet"</h3>
+                        <ul>
+                            <li><strong>Tối ưu hóa hình ảnh Ads:</strong> Chỉ sử dụng hình ảnh Gương Tròn/Chữ nhật Viền Trong làm Visual chính (Hero Image) trên mọi banner quảng cáo để tối đa hóa CTR (Tỷ lệ click).</li>
+                            <li><strong>Cắt giảm sản xuất:</strong> Giảm tồn kho và ngừng sản xuất đại trà dòng LED hắt/LED thường để dồn dòng tiền (Cash Flow) nhập nguyên vật liệu cấu thành LED Viền Trong, đàm phán giá vốn rẻ hơn.</li>
+                            <li><strong>Mồi nhử giá rẻ:</strong> Bán mẫu LED Viền Trong size nhỏ (D50) với mức giá hòa vốn để kéo lượng lớn Lẻ Mới vào Zalo OA, sau đó sale sẽ upsell lên size to hơn.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dashboard-layout">
+                    <div class="panel col-span-6"><div class="panel-header"><div class="panel-title"><h3><i class="fa-solid fa-dharmachakra"></i> Mật Độ Đơn Hàng LED (Polar Area)</h3></div></div><div class="chart-container"><canvas id="chartLedPolar"></canvas></div></div>
+                    <div class="panel col-span-6"><div class="panel-header"><div class="panel-title"><h3><i class="fa-solid fa-chart-column"></i> Doanh Thu Loại LED (Log Scale)</h3></div></div><div class="chart-container"><canvas id="chartLedBar"></canvas></div></div>
+                </div>
             </div>
-            <div class="footer-links">
-                <h4>Liên Kết</h4>
-                <ul>
-                    <li><a href="#hero">Trang chủ</a></li>
-                    <li><a href="#features">Đặc điểm</a></li>
-                    <li><a href="#best-sellers">Sản phẩm</a></li>
-                </ul>
-            </div>
-            <div class="footer-contact">
-                <h4>Liên Hệ</h4>
-                <p>Hotline/Zalo: 09xx xxx xxx</p>
-                <p>Email: contact@luxemirrors.com</p>
-            </div>
-        </div>
-        <div class="footer-bottom">
-            <p>&copy; 2026 Luxe Mirrors. All rights reserved.</p>
-        </div>
-    </footer>
 
+            <!-- VIEW: INSIGHT 3 -->
+            <div id="insight-3" class="tab-section">
+                <div class="insight-summary">
+                    <h3 class="text-neon-blue"><i class="fa-solid fa-ruler-combined"></i> Insight 3: Hình Dáng & Kích Thước</h3>
+                    <p><span class="highlight-tag">Chữ Nhật</span> và <span class="highlight-tag">Tròn</span> là "chân ái". Nhóm <span class="highlight-tag highlight-gold">D80 và D100+</span> có AOV 2-4 Triệu/đơn, biên độ lợi nhuận cực kỳ lý tưởng để Upsell.</p>
+                </div>
+                <!-- CHIẾN LƯỢC 3 -->
+                <div class="action-card">
+                    <div class="action-icon"><i class="fa-solid fa-expand"></i></div>
+                    <div class="action-content">
+                        <h3>Chiến lược Thực thi: "B2B Upsell & Không Gian Hóa"</h3>
+                        <ul>
+                            <li><strong>Kịch bản Upsell:</strong> Telesale luôn xin khách gửi "Ảnh góc phòng dự định treo gương". Từ đó tư vấn kích thước D80 hoặc D100+ để "hợp phong thủy, sang trọng không gian", giúp tăng AOV ngay lập tức.</li>
+                            <li><strong>Gói B2B Resort/Studio:</strong> Thiết kế riêng "Combo 5 Gương D100+" gửi trực tiếp (Direct Message) cho các chủ Studio áo cưới, Salon tóc, Spa trên Zalo. Nhóm này không mua size nhỏ.</li>
+                            <li><strong>Hình ảnh minh họa:</strong> Trên website, luôn đặt hình người thật đứng cạnh gương D80/D100+ để khách hình dung độ hoành tráng của sản phẩm.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dashboard-layout">
+                    <div class="panel col-span-6"><div class="panel-header"><div class="panel-title"><h3><i class="fa-solid fa-spider"></i> Phân Bổ Kích Thước (Size Radar)</h3></div></div><div class="chart-container"><canvas id="chartSizeRadar"></canvas></div></div>
+                    <div class="panel col-span-6"><div class="panel-header"><div class="panel-title"><h3><i class="fa-solid fa-shapes"></i> Top Hình Dáng Bán Chạy</h3></div></div><div class="chart-container"><canvas id="chartShapeBar"></canvas></div></div>
+                </div>
+            </div>
+
+            <!-- VIEW: INSIGHT 7 (Seasonality) -->
+            <div id="insight-7" class="tab-section">
+                <div class="insight-summary">
+                    <h3 class="text-neon-blue"><i class="fa-solid fa-calendar-trend-up"></i> Insight 4: Chu Kỳ Mùa Vụ (Seasonality)</h3>
+                    <p>Tháng 1 tạo đỉnh doanh thu (1.37 Tỷ) nhờ hiệu ứng tân trang nhà cửa đón Tết. Các tháng sau sụt giảm và duy trì ổn định. Hiểu được mùa vụ giúp phân bổ ngân sách khôn ngoan.</p>
+                </div>
+                <!-- CHIẾN LƯỢC 4 -->
+                <div class="action-card">
+                    <div class="action-icon"><i class="fa-solid fa-leaf"></i></div>
+                    <div class="action-content">
+                        <h3>Chiến lược Thực thi: "Seasonal Budgeting" (Ngân sách theo mùa)</h3>
+                        <ul>
+                            <li><strong>Quý 1 (Mùa Tết):</strong> Giải ngân 50% tổng ngân sách Marketing nguyên năm. Chạy tệp Broad (diện rộng) để vét toàn bộ nhu cầu mua sắm tân trang nhà cửa.</li>
+                            <li><strong>Tháng 2 (Hậu Tết):</strong> Cắt giảm 70% ngân sách Ads do sức mua giảm. Tung chương trình "Lì xì đầu năm" (Tặng Voucher) để kích sale lại tệp khách đã inbox hỏi nhưng chưa chốt trước Tết.</li>
+                            <li><strong>Mùa thấp điểm (Tháng 5-7):</strong> Ngừng chạy Ads mở rộng. Dùng Zalo ZNS đẩy tin nhắn chăm sóc khách cũ, chạy chương trình xả kho (Clearance Sale) thu hồi vốn chuẩn bị vòng lặp cuối năm.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dashboard-layout">
+                    <div class="panel col-span-12"><div class="panel-header"><div class="panel-title"><h3><i class="fa-solid fa-wave-square"></i> Chu Kỳ Biến Động Doanh Thu Hàng Tháng</h3></div></div><div class="chart-container" style="min-height: 400px;"><canvas id="chartSeasonality"></canvas></div></div>
+                </div>
+            </div>
+
+            <!-- VIEW: INSIGHT 4 (Retention) -->
+            <div id="insight-4" class="tab-section">
+                <div class="insight-summary">
+                    <h3 class="text-neon-blue"><i class="fa-solid fa-eye-slash"></i> Insight 5: Lỗ Hổng Hậu Mãi & Retention</h3>
+                    <p>Khách <span class="highlight-tag">Lẻ Mới</span> có 2200 đơn, nhưng tỷ lệ làm Lẻ Cũ cực thấp (<10%). Doanh nghiệp "thủng phễu". Chuyển họ thành <span class="highlight-tag highlight-gold">Khách Sỉ</span> sẽ x3 AOV với CPA bằng 0.</p>
+                </div>
+                <!-- CHIẾN LƯỢC 5 -->
+                <div class="action-card">
+                    <div class="action-icon"><i class="fa-solid fa-magnet"></i></div>
+                    <div class="action-content">
+                        <h3>Chiến lược Thực thi: "Zalo ZNS Loyalty Automation"</h3>
+                        <ul>
+                            <li><strong>Ngày 3 (Sau nhận hàng):</strong> Tự động gửi tin Zalo: "Gương anh/chị lắp đã ổn chưa? Gửi shop 1 ảnh feedback để nhận ngay thẻ nạp điện thoại 50k nhé!".</li>
+                            <li><strong>Ngày 30:</strong> Tự động gửi Voucher giảm 15% cho lần mua thứ 2 (Biến Lẻ Mới thành Lẻ Cũ).</li>
+                            <li><strong>Ngày 60 (Lọc tệp Lẻ Cũ):</strong> Gọi Telesale mời: "Anh/Chị đã trải nghiệm gương thấy tốt, có muốn làm Cộng tác viên / Đại lý bán hàng cho xưởng với chiết khấu 40% không?". (Chuyển đổi thành Sỉ Mới).</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dashboard-layout">
+                    <div class="panel col-span-12"><div class="panel-header"><div class="panel-title"><h3><i class="fa-solid fa-filter"></i> Phễu LTV Funnel (Bar + Line)</h3></div></div><div class="chart-container" style="min-height: 400px;"><canvas id="chartFunnel"></canvas></div></div>
+                </div>
+            </div>
+
+            <!-- VIEW: INSIGHT 6 (Margin) -->
+            <div id="insight-6" class="tab-section">
+                <div class="insight-summary">
+                    <h3 class="text-neon-blue"><i class="fa-solid fa-mask"></i> Insight 6: Ảo Giác Định Giá Hình Dáng</h3>
+                    <p>Các <strong>hình dáng mới lạ</strong> như <span class="highlight-tag">Gấu (532%)</span>, <span class="highlight-tag">Vuông (523%)</span>, <span class="highlight-tag">Vòm (900%)</span> cho phép thổi giá bán lên cực cao so với giá vốn do tính độc quyền thẩm mỹ.</p>
+                </div>
+                <!-- CHIẾN LƯỢC 6 -->
+                <div class="action-card">
+                    <div class="action-icon"><i class="fa-solid fa-gem"></i></div>
+                    <div class="action-content">
+                        <h3>Chiến lược Thực thi: "Premium Scarcity" (Khan hiếm cao cấp)</h3>
+                        <ul>
+                            <li><strong>Định vị Luxury:</strong> KHÔNG BAO GIỜ giảm giá các mẫu Gương Vòm, Gương Gấu. Phải định vị đây là hàng thiết kế độc quyền "Limited Edition".</li>
+                            <li><strong>Concept hình ảnh:</strong> Các mẫu này không chụp phông nền trắng. Phải thuê Studio / Dùng AI ghép vào các không gian Châu Âu, Villa sang trọng để hợp lý hóa mức giá cao chót vót.</li>
+                            <li><strong>Chiến thuật mỏ neo (Price Anchoring):</strong> Đặt giá Gương Vòm cao gấp 3 lần Gương Tròn. Khi khách hàng nhìn vào, họ sẽ thấy Gương Tròn rất rẻ và chốt đơn Gương Tròn nhanh hơn, tạo ra Cash Flow. Những ai chịu chơi mua Gương Vòm sẽ mang lại siêu lợi nhuận.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dashboard-layout">
+                    <div class="panel col-span-12"><div class="panel-header"><div class="panel-title"><h3><i class="fa-solid fa-meteor"></i> Ma Trận Biên Lợi Nhuận (Bubble)</h3></div></div><div class="chart-container" style="min-height: 450px;"><canvas id="chartMarginIllusion"></canvas></div></div>
+                </div>
+            </div>
+
+            <!-- VIEW: INSIGHT 5 (Logistics) -->
+            <div id="insight-5" class="tab-section">
+                <div class="insight-summary">
+                    <h3 class="text-neon-blue"><i class="fa-solid fa-truck-fast"></i> Insight 7: Ma Trận Vận Hành Kênh & Vận Chuyển</h3>
+                    <p>Giao qua <span class="highlight-tag">GHTK</span> tốn cước lớn (926K). Khách Sỉ giao qua <span class="highlight-tag highlight-gold">Chành Xe (NT)</span> có chi phí tối ưu hơn nhiều. Phải kiểm soát cước GHTK để bảo vệ Margin.</p>
+                </div>
+                <!-- CHIẾN LƯỢC 7 -->
+                <div class="action-card">
+                    <div class="action-icon"><i class="fa-solid fa-truck"></i></div>
+                    <div class="action-content">
+                        <h3>Chiến lược Thực thi: "Freeship Psychology" (Tâm lý Miễn ship)</h3>
+                        <ul>
+                            <li><strong>Cấu trúc lại giá Lẻ (Zalo/FB):</strong> Phí ship GHTK quá cao (926k) khiến khách dễ rụng đơn ở khâu chốt. Giải pháp: Nâng giá niêm yết của sản phẩm lên 1 Triệu, và chạy thông điệp <strong>"FREESHIP TOÀN QUỐC CÓ BẢO HIỂM RƠI VỠ"</strong>. Khách hàng cực kỳ thích Freeship đối với hàng cồng kềnh.</li>
+                            <li><strong>Ưu đãi Sỉ Chành Xe (NT):</strong> Đăng bài Zalo OA tuyển sỉ: "Trợ giá ngay 50% cước nhà xe cho đơn sỉ từ 10 tấm". Giúp đẩy mạnh phân phối về các tỉnh.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dashboard-layout">
+                    <div class="panel col-span-12"><div class="panel-header"><div class="panel-title"><h3><i class="fa-solid fa-boxes-stacked"></i> Tương Quan Cước Vận Chuyển & AOV</h3></div></div><div class="chart-container"><canvas id="chartShip"></canvas></div></div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <script>
+        // Tab Logic & Charts execution remain identical, focusing HTML on UI structure.
+        const navItems = document.querySelectorAll('.nav-item');
+        const tabSections = document.querySelectorAll('.tab-section');
+        const pageTitle = document.getElementById('page-title');
+
+        navItems.forEach(item => {
+            item.addEventListener('click', () => {
+                const tabId = item.getAttribute('data-tab');
+                navItems.forEach(n => n.classList.remove('active'));
+                tabSections.forEach(s => s.classList.remove('active'));
+                item.classList.add('active');
+                document.getElementById(tabId).classList.add('active');
+                pageTitle.textContent = item.textContent.trim();
+            });
+        });
+
+        // Chart defaults
+        Chart.defaults.color = '#9CA3AF';
+        Chart.defaults.font.family = "'Plus Jakarta Sans', sans-serif";
+        const gridDark = { color: 'rgba(255,255,255,0.04)', drawBorder: false };
+        const tooltipGlow = { backgroundColor: 'rgba(3, 7, 18, 0.95)', titleColor: '#3B82F6', bodyColor: '#FFF', padding: 16, borderColor: 'rgba(59, 130, 246, 0.4)', borderWidth: 1, displayColors: true, cornerRadius: 8 };
+        function createGradient(ctx, colorStart, colorEnd) { const gradient = ctx.createLinearGradient(0, 0, 0, 450); gradient.addColorStop(0, colorStart); gradient.addColorStop(1, colorEnd); return gradient; }
+
+        window.onload = function() {
+            // Dashboard Exec Mix
+            const ctxExec = document.getElementById('chartExecMix').getContext('2d');
+            new Chart(ctxExec, {
+                type: 'bar',
+                data: {
+                    labels: ['Tháng 1', 'Tháng 2', 'Tháng 3', 'Tháng 4', 'Tháng 5', 'Tháng 6'],
+                    datasets: [
+                        { type: 'line', label: 'Doanh Thu (Tỷ VND)', data: [1.37, 0.42, 0.93, 0.78, 0.75, 0.07], borderColor: '#10B981', backgroundColor: '#10B981', borderWidth: 4, tension: 0.4, pointBackgroundColor: '#030712', pointBorderColor: '#10B981', pointBorderWidth: 3, pointRadius: 7, yAxisID: 'y1' },
+                        { type: 'bar', label: 'Lượng Đơn (Volume)', data: [1002, 333, 502, 474, 400, 71], backgroundColor: createGradient(ctxExec, 'rgba(59, 130, 246, 0.7)', 'rgba(59, 130, 246, 0.1)'), borderColor: '#3B82F6', borderWidth: 1, borderRadius: 8, barPercentage: 0.6, yAxisID: 'y' }
+                    ]
+                },
+                options: { responsive: true, maintainAspectRatio: false, animation: { duration: 1500 }, plugins: { tooltip: tooltipGlow, legend: { position: 'top', labels: {color: '#FFF'} } }, scales: { y: { type: 'linear', position: 'left', grid: gridDark }, y1: { type: 'linear', position: 'right', grid: { drawOnChartArea: false } } } }
+            });
+
+            // Channel Doughnut
+            const ctxChannel = document.getElementById('chartChannelSplit').getContext('2d');
+            new Chart(ctxChannel, {
+                type: 'doughnut', data: { labels: ['Zalo (2.77 Tỷ)', 'Facebook (1.56 Tỷ)'], datasets: [{ data: [2.77, 1.56], backgroundColor: ['#10B981', '#3B82F6'], borderColor: '#0B0F19', borderWidth: 6 }] },
+                options: { responsive: true, maintainAspectRatio: false, cutout: '75%', animation: { animateScale: true }, plugins: { legend: { position: 'bottom', labels:{color:'#fff', padding:20} }, tooltip: tooltipGlow } }
+            });
+
+            // Stacked Bar (Revenue vs Profit)
+            const ctxStacked = document.getElementById('chartSourceStacked').getContext('2d');
+            new Chart(ctxStacked, {
+                type: 'bar',
+                data: {
+                    labels: ['Lẻ Mới', 'Sỉ Cũ', 'Lẻ Cũ', 'Sỉ Mới'],
+                    datasets: [
+                        { label: 'Doanh Thu (Tỷ)', data: [2.75, 1.14, 0.26, 0.16], backgroundColor: '#3B82F6', borderRadius: {topLeft: 0, topRight: 0, bottomLeft: 6, bottomRight: 6} },
+                        { label: 'Lợi Nhuận Gộp (Tỷ)', data: [10.69, 3.75, 1.01, 0.62], backgroundColor: '#10B981', borderRadius: {topLeft: 6, topRight: 6, bottomLeft: 0, bottomRight: 0} }
+                    ]
+                },
+                options: { responsive: true, maintainAspectRatio: false, plugins: { tooltip: tooltipGlow, legend: {labels:{color:'#fff'}} }, scales: { x: { stacked: true, grid: {display:false} }, y: { stacked: true, grid: gridDark } } }
+            });
+
+            // AOV Bar
+            const ctxSourceAOV = document.getElementById('chartSourceAOV').getContext('2d');
+            new Chart(ctxSourceAOV, {
+                type: 'bar', data: { labels: ['Lẻ Mới', 'Lẻ Cũ', 'Sỉ Cũ', 'Sỉ Mới'], datasets: [{ label: 'AOV (Triệu)', data: [1.25, 1.10, 3.79, 4.55], backgroundColor: [ createGradient(ctxSourceAOV, '#3B82F6', 'rgba(59,130,246,0.1)'), createGradient(ctxSourceAOV, '#64748B', 'rgba(100,116,139,0.1)'), createGradient(ctxSourceAOV, '#D4AF37', 'rgba(212,175,55,0.1)'), createGradient(ctxSourceAOV, '#10B981', 'rgba(16,185,129,0.1)') ], borderColor: ['#3B82F6', '#64748B', '#D4AF37', '#10B981'], borderWidth: 2, borderRadius: 8 }] },
+                options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: tooltipGlow }, scales: { y: { grid: gridDark } } }
+            });
+
+            // Polar Area
+            const ctxPolar = document.getElementById('chartLedPolar').getContext('2d');
+            new Chart(ctxPolar, {
+                type: 'polarArea', data: { labels: ['LED viền trong', 'LED hắt', 'LED thường', 'LED viền ngoài'], datasets: [{ data: [1512, 145, 72, 51], backgroundColor: ['rgba(212, 175, 55, 0.8)', 'rgba(59, 130, 246, 0.8)', 'rgba(16, 185, 129, 0.8)', 'rgba(239, 68, 68, 0.8)'], borderColor: '#0B0F19', borderWidth: 3 }] },
+                options: { responsive: true, maintainAspectRatio: false, scales: { r: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: {display: false} } }, plugins: { legend: { position: 'right', labels:{color:'#fff'} }, tooltip: tooltipGlow } }
+            });
+
+            // LED Bar
+            const ctxLed = document.getElementById('chartLedBar').getContext('2d');
+            new Chart(ctxLed, {
+                type: 'bar', data: { labels: ['LED viền trong', 'LED hắt', 'LED thường', 'LED viền ngoài'], datasets: [{ label: 'Doanh Thu (Triệu)', data: [1203, 134, 61, 40], backgroundColor: createGradient(ctxLed, '#D4AF37', '#10141C'), borderColor: '#D4AF37', borderWidth: 2, borderRadius: 8 }] },
+                options: { responsive: true, maintainAspectRatio: false, scales: { y: { grid: gridDark, type: 'logarithmic' } }, plugins: { tooltip: tooltipGlow, legend:{display:false} } }
+            });
+
+            // Size Radar
+            const ctxSize = document.getElementById('chartSizeRadar').getContext('2d');
+            new Chart(ctxSize, {
+                type: 'radar', data: { labels: ['≤D50', 'D60', 'D70', 'D80', 'D90-100', 'D100+'], datasets: [{ label: 'Volume', data: [333, 363, 186, 141, 38, 44], backgroundColor: 'rgba(59, 130, 246, 0.3)', borderColor: '#3B82F6', borderWidth: 3, pointBackgroundColor: '#030712', pointBorderColor: '#3B82F6', pointBorderWidth: 2 }] },
+                options: { responsive: true, maintainAspectRatio: false, scales: { r: { angleLines: { color: 'rgba(255,255,255,0.05)' }, grid: { color: 'rgba(255,255,255,0.05)' }, pointLabels: { color: '#FFF', font: {size: 13} }, ticks: {display: false} } }, plugins: { legend: {display: false}, tooltip: tooltipGlow } }
+            });
+
+            // Shape Bar
+            const ctxShape = document.getElementById('chartShapeBar').getContext('2d');
+            new Chart(ctxShape, {
+                type: 'bar', data: { labels: ['Chữ nhật', 'Tròn', 'Nhộng', 'Elip', 'Khác'], datasets: [{ label: 'Đơn Hàng', data: [889, 798, 98, 76, 30], backgroundColor: createGradient(ctxShape, '#8B5CF6', '#3B82F6'), borderRadius: 6, borderColor: '#8B5CF6', borderWidth: 1 }] },
+                options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false, scales: { x: { grid: gridDark }, y:{grid:{display:false}} }, plugins: { legend: {display: false}, tooltip: tooltipGlow } }
+            });
+
+            // Seasonality
+            const ctxSeason = document.getElementById('chartSeasonality').getContext('2d');
+            new Chart(ctxSeason, {
+                type: 'line', data: { labels: ['Tháng 1 (Tết)', 'Tháng 2', 'Tháng 3', 'Tháng 4', 'Tháng 5', 'Tháng 6'], datasets: [{ label: 'Doanh Thu (Tỷ VND)', data: [1.37, 0.42, 0.93, 0.78, 0.75, 0.07], borderColor: '#10B981', backgroundColor: createGradient(ctxSeason, 'rgba(16, 185, 129, 0.5)', 'transparent'), borderWidth: 4, fill: true, tension: 0.4, pointBackgroundColor: '#030712', pointBorderColor: '#10B981', pointBorderWidth: 3, pointRadius: 8 }] },
+                options: { responsive: true, maintainAspectRatio: false, plugins: { tooltip: tooltipGlow, legend: {labels:{color:'#fff'}} }, scales: { y: { grid: gridDark }, x: { grid: { display: false } } } }
+            });
+
+            // Funnel
+            const ctxFunnel = document.getElementById('chartFunnel').getContext('2d');
+            new Chart(ctxFunnel, {
+                type: 'bar', data: { labels: ['1. Lẻ Mới', '2. Lẻ Cũ', '3. Khách Sỉ'], datasets: [{ label: 'Lượng Đơn', data: [2200, 241, 337], backgroundColor: createGradient(ctxFunnel, 'rgba(59, 130, 246, 0.6)', 'rgba(59, 130, 246, 0.1)'), borderColor: '#3B82F6', borderWidth: 2, borderRadius: 12, yAxisID: 'y' }, { type: 'line', label: 'AOV (Triệu ₫)', data: [1.25, 1.10, 3.87], borderColor: '#D4AF37', backgroundColor: '#D4AF37', borderWidth: 5, tension: 0.4, pointRadius: 12, pointBackgroundColor: '#030712', pointBorderColor: '#D4AF37', pointBorderWidth: 4, yAxisID: 'y1' }] },
+                options: { responsive: true, maintainAspectRatio: false, scales: { y: { type: 'linear', position: 'left', grid: gridDark }, y1: { type: 'linear', position: 'right', grid: { drawOnChartArea: false } } }, plugins: { tooltip: tooltipGlow } }
+            });
+
+            // Bubble Margin Illusion
+            const ctxMargin = document.getElementById('chartMarginIllusion').getContext('2d');
+            new Chart(ctxMargin, {
+                type: 'bubble', data: { datasets: [{ label: 'Gương Chữ Nhật', data: [{x: 889, y: 402.2, r: 25}], backgroundColor: 'rgba(59, 130, 246, 0.8)', borderColor: '#FFF', borderWidth: 1 }, { label: 'Gương Tròn', data: [{x: 798, y: 395.5, r: 22}], backgroundColor: 'rgba(16, 185, 129, 0.8)', borderColor: '#FFF', borderWidth: 1 }, { label: 'Gương Vòm', data: [{x: 1, y: 900.0, r: 20}], backgroundColor: 'rgba(239, 68, 68, 1)', borderColor: '#FFF', borderWidth: 3 }, { label: 'Gương Gấu', data: [{x: 5, y: 532.2, r: 18}], backgroundColor: 'rgba(245, 158, 11, 0.9)', borderColor: '#FFF', borderWidth: 2 }, { label: 'Gương Vuông', data: [{x: 3, y: 523.2, r: 15}], backgroundColor: 'rgba(139, 92, 246, 0.9)', borderColor: '#FFF', borderWidth: 2 }, { label: 'Gương Elip', data: [{x: 76, y: 451.1, r: 18}], backgroundColor: 'rgba(212, 175, 55, 0.9)', borderColor: '#FFF', borderWidth: 2 }] },
+                options: { responsive: true, maintainAspectRatio: false, plugins: { tooltip: { callbacks: { label: function(c) { return c.dataset.label + ': ' + c.parsed.y + '% Margin'; } }, ...tooltipGlow }, legend: { position: 'bottom', labels: {color:'#fff', padding: 15} } }, scales: { x: { title: { display: true, text: 'Số Đơn Hàng', color: '#9CA3AF' }, grid: gridDark, type: 'logarithmic' }, y: { title: { display: true, text: 'Biên Lợi Nhuận (%)', color: '#9CA3AF' }, grid: gridDark } } }
+            });
+
+            // Ship Matrix
+            const ctxShip = document.getElementById('chartShip').getContext('2d');
+            new Chart(ctxShip, {
+                type: 'bar', data: { labels: ['Giao GHTK', 'Nhà Xe', 'Kho Trực Tiếp'], datasets: [{ label: 'AOV Doanh Thu/Đơn', data: [1.49, 2.06, 2.00], backgroundColor: createGradient(ctxShip, '#10B981', 'rgba(16,185,129,0.1)'), borderColor: '#10B981', borderWidth: 2, borderRadius: 6 }, { label: 'Chi Phí Ship', data: [0.92, 1.31, 1.19], backgroundColor: createGradient(ctxShip, '#EF4444', 'rgba(239,68,68,0.1)'), borderColor: '#EF4444', borderWidth: 2, borderRadius: 6 }] },
+                options: { responsive: true, maintainAspectRatio: false, scales: { y: { grid: gridDark } }, plugins: { tooltip: tooltipGlow, legend: {labels:{color:'#fff'}} } }
+            });
+        };
+    </script>
 </body>
 </html>
