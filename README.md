@@ -1,98 +1,73 @@
-# vinext-starter
+# ADY Study Lab
 
-A clean full-stack starter running on
-[vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
-Drizzle support.
+Website học và kiểm tra bốn đề ADY201m gần nhất:
 
-## Prerequisites
+- SP26-FE — 18/04/2026
+- FA25-FE — 18/11/2025
+- SU25-FE — 31/07/2025
+- FA24-RE — 20/11/2024
 
-- Node.js `>=22.13.0`
+Mỗi đề có đúng 50 câu và giữ ảnh đính kèm gốc ở độ rộng 1920 px. Nội dung chữ
+được OCR hai lượt, sau đó đối chiếu lại trước khi đưa vào ngân hàng câu hỏi.
+File `ADY201m-4-de-anh-goc.zip` chứa toàn bộ 200 ảnh cùng bốn manifest SHA-256.
 
-## Quick Start
+## Chạy trên localhost
 
-```bash
-npm install
+Nhanh nhất: nhấp đúp `C:\Users\hachimi\Downloads\ôn\MO-ADY201m.bat`.
+
+Hoặc chạy thủ công:
+
+```powershell
+cd "C:\Users\hachimi\Downloads\ôn\luyen-tap-50-cau"
 npm run dev
-npm run build
 ```
 
-This starter does not use `wrangler.jsonc`.
+Mở địa chỉ `Local` được in trong cửa sổ lệnh. Website lưu kỷ lục, số lượt làm và
+tiến độ lộ trình bằng `localStorage`, không gửi dữ liệu học tập ra bên ngoài.
 
-## Included Shape
+## Chế độ học
 
-- edit site code under `app/`
-- `.openai/hosting.json` declares optional Sites D1 and R2 bindings
-- `vite.config.ts` simulates declared bindings for local development
-- `db/schema.ts` starts intentionally empty
-- `examples/d1/` contains an optional D1 example surface
-- `drizzle.config.ts` supports local migration generation when needed
+- **Học & xem giải thích:** mở sẵn đáp án, dịch câu hỏi và toàn bộ lựa chọn sang
+  tiếng Việt, sau đó ưu tiên infographic, luồng suy luận, bản đồ đáp án màu và
+  móc ghi nhớ ngắn. Phần giải thích dài được thu gọn trong “Đọc thêm khi cần”.
+- **Kiểm tra:** giữ kín đáp án đến lúc nộp bài, có đồng hồ và bản đồ 50 câu.
+- **Ảnh gốc:** mở ảnh độ phân giải cao để tự đối chiếu với OCR.
+- **Độ trùng đề:** hiển thị phần trăm và từng cặp số câu trùng giữa sáu cặp đề.
 
-## Workspace Auth Headers
+## Kiểm tra dữ liệu và bản dựng
 
-OpenAI workspace sites can read the current user's email from
-`oai-authenticated-user-email`.
-
-SIWC-authenticated workspace sites may also receive
-`oai-authenticated-user-full-name` when the user's SIWC profile has a non-empty
-`name` claim. The full-name value is percent-encoded UTF-8 and is accompanied by
-`oai-authenticated-user-full-name-encoding: percent-encoded-utf-8`.
-
-Treat the full name as optional and fall back to email when it is absent:
-
-```tsx
-import { headers } from "next/headers";
-
-export default async function Home() {
-  const requestHeaders = await headers();
-  const email = requestHeaders.get("oai-authenticated-user-email");
-  const encodedFullName = requestHeaders.get("oai-authenticated-user-full-name");
-  const fullName =
-    encodedFullName &&
-    requestHeaders.get("oai-authenticated-user-full-name-encoding") ===
-      "percent-encoded-utf-8"
-      ? decodeURIComponent(encodedFullName)
-      : null;
-
-  const displayName = fullName ?? email;
-  // ...
-}
+```powershell
+npm test
 ```
 
-## Optional Dispatch-Owned ChatGPT Sign-In
+Bộ kiểm tra xác nhận mỗi đề có 50 câu, ảnh nguồn tồn tại và đủ 200 bài học. Mỗi
+bài học phải phân tích đúng số lựa chọn, có đúng một đáp án đúng, đủ ví dụ và
+minh họa, đồng thời kiểm tra lại báo cáo trùng đề.
 
-Import the ready-to-use helpers from `app/chatgpt-auth.ts` when the site needs
-optional or required ChatGPT sign-in:
+## Cấu trúc dữ liệu
 
-- Use `getChatGPTUser()` for optional signed-in UI.
-- Use `requireChatGPTUser(returnTo)` for server-rendered pages that should send
-  anonymous visitors through Sign in with ChatGPT.
-- Use `chatGPTSignInPath(returnTo)` and `chatGPTSignOutPath(returnTo)` for
-  browser links or actions.
-- Pass a same-origin relative `returnTo` path for the destination after sign-in
-  or sign-out. The helper validates and safely encodes it.
-- Mark protected pages with `export const dynamic = "force-dynamic"` because
-  they depend on per-request identity headers.
+- `data/exams/*.json`: câu hỏi đã chuẩn hóa và giải thích đáp án.
+- `data/lessons/*.json`: 200 bản dịch và bài giảng chuyên sâu bằng tiếng Việt.
+- `data/comparison.json`: số liệu và từng cặp câu trùng đã được agent kiểm tra.
+- `data/ocr-raw/*.json`: kết quả OCR hai lượt để truy vết.
+- `data/qa/*.md`: ghi chú đối chiếu và các điểm cần lưu ý.
+- `public/exams/*/images`: 200 ảnh đính kèm gốc.
+- `public/exams/*/manifest.csv`: kích thước, định dạng và SHA-256 của từng ảnh.
 
-Dispatch owns `/signin-with-chatgpt`, `/signout-with-chatgpt`, `/callback`, the
-OAuth cookies, and identity header injection. Do not implement app routes for
-those reserved paths. Routes that do not import and call the helper remain
-anonymous-compatible.
+## SSG105
 
-SIWC establishes identity only; it does not prove workspace membership. Use the
-Sites hosting platform's access policy controls for workspace-wide restrictions,
-or enforce explicit server-side membership or allowlist checks.
+Tab `/ssg105` bổ sung phần SSG105 từ cùng bộ Google Slides. Deck có 507 slide; slide 377 là mốc môn học và 130 câu SSG105 nằm liên tục từ slide 378 đến 507.
 
-Use SIWC for account pages, user-specific dashboards, saved records, and write
-actions tied to the current ChatGPT user. Leave public content anonymous.
+- 130 ảnh nguồn PNG sạch 960 × 540 tại `public/ssg105/source`.
+- Ba bộ luyện, mỗi bộ đúng 50 câu. Hai bộ đầu phủ 100 câu, bộ ba gồm 30 câu còn lại và 20 câu trọng tâm được lặp có chủ đích.
+- Đáp án và lời giải lấy từ speaker notes; chín bản ghi thiếu trường được bổ sung bằng đối chiếu ảnh, OCR và kiểm tra đáp án độc lập. Dữ liệu gốc vẫn được giữ nguyên để truy vết.
+- Trang có chế độ học có lời giải, chế độ kiểm tra, lưu kết quả cục bộ, thống kê câu được xếp lặp và gợi ý chủ đề nên ưu tiên.
 
-## Useful Commands
+Tạo lại dữ liệu và chạy bộ kiểm chứng riêng:
 
-- `npm run dev`: start local development
-- `npm run build`: verify the vinext build output
-- `npm test`: build the starter and verify its rendered loading skeleton
-- `npm run db:generate`: generate Drizzle migrations after schema changes
+```powershell
+npm run build:ssg105
+npm run validate:ssg105
+```
 
-## Learn More
-
-- [vinext Documentation](https://github.com/cloudflare/vinext)
-- [Drizzle D1 Guide](https://orm.drizzle.team/docs/get-started/d1-new)
+Báo cáo kiểm chứng nằm trong `data/ssg105/audit`; OCR độc lập bằng RapidOCR nằm tại `data/ssg105/ocr-raw/rapidocr.json`.

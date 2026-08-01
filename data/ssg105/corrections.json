@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "subject": "SSG105",
+  "purpose": "Complete nine records whose speaker notes do not contain a labeled answer line and/or a full explanation. Raw speaker notes remain unchanged in source-notes.json.",
+  "corrections": [
+    {
+      "sourceSlide": 409,
+      "questionVi": "Tình huống nào tại Đại học FPT minh họa rõ nhất yếu tố Context?",
+      "correctAnswer": "Giảng viên đăng cập nhật hạn chót trên FAP và kỳ vọng sinh viên kiểm tra hằng ngày, trong khi sinh viên năm nhất lại chờ thông báo trực tiếp trên lớp. – A lecturer posts a deadline update on FAP expecting students to check the portal daily, but a freshman expects a verbal announcement in class.",
+      "correctAnswerEn": "A lecturer posts a deadline update on FAP expecting students to check the portal daily, but a freshman expects a verbal announcement in class.",
+      "correctAnswerVi": "Giảng viên đăng cập nhật hạn chót trên FAP và kỳ vọng sinh viên kiểm tra hằng ngày, trong khi sinh viên năm nhất lại chờ thông báo trực tiếp trên lớp.",
+      "explanationVi": "Hai bên có nền tảng kỳ vọng và khung diễn giải khác nhau về kênh nhận thông tin. Sự lệch pha đó chính là yếu tố ngữ cảnh; phương án A là nhiễu, C nhấn mạnh kênh truyền và D là phản hồi.",
+      "confidence": 0.99,
+      "evidence": ["speaker-note-answer-code:B", "slide-image-option:B", "windows-ocr-audit", "independent-extraction-audit"],
+      "reviewedBy": ["root-visual-review", "speaker-notes-audit", "ocr-asset-audit"]
+    },
+    {
+      "sourceSlide": 413,
+      "questionVi": "Một sinh viên FPT gửi email cho bộ phận IT Helpdesk vì không thể nộp bài. Theo nguyên tắc dùng từ ngữ cụ thể và tránh mơ hồ, câu nào là lựa chọn tốt nhất?",
+      "correctAnswer": "EduNext hiển thị thông báo ‘Error 404’ mỗi khi tôi bấm nút ‘Submit’ cho kho Capstone Phase 1. – EduNext displays an ‘Error 404’ message every time I click the ‘Submit’ button for my Capstone Phase 1 repository.",
+      "correctAnswerEn": "EduNext displays an ‘Error 404’ message every time I click the ‘Submit’ button for my Capstone Phase 1 repository.",
+      "correctAnswerVi": "EduNext hiển thị thông báo ‘Error 404’ mỗi khi tôi bấm nút ‘Submit’ cho kho Capstone Phase 1.",
+      "explanationVi": "Phương án A nêu rõ hệ thống, mã lỗi, thao tác và vị trí xảy ra lỗi nên Helpdesk có thể chẩn đoán nhanh. Các phương án còn lại dùng từ mơ hồ hoặc khoa trương mà không cung cấp dữ kiện xử lý.",
+      "confidence": 0.99,
+      "evidence": ["speaker-note-answer-code:A", "slide-image-option:A", "windows-ocr-audit", "independent-extraction-audit"],
+      "reviewedBy": ["root-visual-review", "speaker-notes-audit", "ocr-asset-audit"]
+    },
+    {
+      "sourceSlide": 477,
+      "questionVi": "Một nhà lãnh đạo thay đổi phong cách giao tiếp tùy theo độ khó của nhiệm vụ và kinh nghiệm của đội nhóm. Nguyên tắc nào được minh họa?",
+      "correctAnswer": "Tính linh hoạt của lãnh đạo theo tình huống. – Situational leadership flexibility.",
+      "correctAnswerEn": "Situational leadership flexibility.",
+      "correctAnswerVi": "Tính linh hoạt của lãnh đạo theo tình huống.",
+      "explanationVi": "Lãnh đạo theo tình huống điều chỉnh mức chỉ dẫn, hỗ trợ và cách giao tiếp theo độ khó của nhiệm vụ cùng năng lực, kinh nghiệm của nhóm. Vì vậy đây không phải sự nhất quán cứng nhắc, quyền lực tập trung hay cạnh tranh cá nhân.",
+      "confidence": 0.99,
+      "evidence": ["speaker-note-answer-code:B", "slide-image-option:B", "windows-ocr-audit"],
+      "reviewedBy": ["root-visual-review", "speaker-notes-audit", "ocr-asset-audit"]
+    },
+    {
+      "sourceSlide": 479,
+      "questionVi": "Điều gì làm cho việc nhắn tin trong kinh doanh trở nên hiệu quả?",
+      "correctAnswer": "Tất cả các đáp án đều đúng. – All of them are correct.",
+      "correctAnswerEn": "All of them are correct.",
+      "correctAnswerVi": "Tất cả các đáp án đều đúng.",
+      "explanationVi": "Nhắn tin kinh doanh hiệu quả cần xác định rõ người nhận, hiểu cách ký hiệu/mã truyền tải ý tưởng và cảm xúc, sử dụng đúng đặc trưng của thông điệp viết, đồng thời nhận biết giới hạn của kênh để giữ nội dung ngắn gọn và tránh hiểu sai.",
+      "confidence": 0.98,
+      "evidence": ["speaker-note-answer-code:E", "slide-image-option:E", "windows-ocr-audit"],
+      "reviewedBy": ["root-visual-review", "speaker-notes-audit", "ocr-asset-audit"]
+    },
+    {
+      "sourceSlide": 480,
+      "questionVi": "Định nghĩa nào đúng nhất về email?",
+      "correctAnswer": "Thư điện tử, thường gọi là email, có thể được dùng tương tự tin nhắn và chuyển tới điện thoại di động. – Electronic mail, usually called email, may be used like text and delivered to a cell phone.",
+      "correctAnswerEn": "Electronic mail, usually called email, may be used like text and delivered to a cell phone.",
+      "correctAnswerVi": "Thư điện tử, thường gọi là email, có thể được dùng tương tự tin nhắn và chuyển tới điện thoại di động.",
+      "explanationVi": "Phương án A mô tả trực tiếp thư điện tử và cách nó được chuyển tới thiết bị. Các phương án B và C chỉ nêu mục đích giao tiếp chung, còn D sai vì email chủ yếu là kênh ngôn ngữ viết chứ không phải định nghĩa về giao tiếp phi ngôn ngữ.",
+      "confidence": 0.98,
+      "evidence": ["speaker-note-answer-code:A", "slide-image-option:A", "windows-ocr-audit"],
+      "reviewedBy": ["root-visual-review", "speaker-notes-audit", "ocr-asset-audit"]
+    },
+    {
+      "sourceSlide": 483,
+      "questionVi": "Đâu là mô tả đúng nhất về Thư thương mại (Business Letter)?",
+      "correctAnswer": "Thư là những thông điệp ngắn gọn gửi tới người nhận thường ở bên ngoài tổ chức. – Letters are brief messages sent to recipients who are often outside the organization.",
+      "correctAnswerEn": "Letters are brief messages sent to recipients who are often outside the organization.",
+      "correctAnswerVi": "Thư là những thông điệp ngắn gọn gửi tới người nhận thường ở bên ngoài tổ chức.",
+      "explanationVi": "Thư thương mại thường phục vụ giao tiếp chính thức với khách hàng, đối tác hoặc nhà cung cấp bên ngoài tổ chức. Phương án D chỉ nói về một ứng dụng riêng là thư xin việc, còn B và C quá chung nên không phải định nghĩa.",
+      "confidence": 0.99,
+      "evidence": ["speaker-note-answer-code:A", "slide-image-option:A", "windows-ocr-audit", "independent-extraction-audit"],
+      "reviewedBy": ["root-visual-review", "speaker-notes-audit", "ocr-asset-audit"]
+    },
+    {
+      "sourceSlide": 499,
+      "questionVi": "Đặc điểm then chốt của một đội nhóm (team) là gì?",
+      "correctAnswer": "Cùng chia sẻ trách nhiệm giải trình để đạt một mục tiêu chung cụ thể. – Share accountability for achieving a specific common goal.",
+      "correctAnswerEn": "Share accountability for achieving a specific common goal.",
+      "correctAnswerVi": "Cùng chia sẻ trách nhiệm giải trình để đạt một mục tiêu chung cụ thể.",
+      "explanationVi": "Trách nhiệm chung đối với một mục tiêu cụ thể là điểm phân biệt cốt lõi giữa team và work group thông thường. Chia sẻ thông tin, sự ổn định hay khả năng ra quyết định có thể xuất hiện trong nhóm nhưng không phải đặc điểm phân biệt quan trọng nhất.",
+      "confidence": 0.99,
+      "evidence": ["speaker-note-answer-code:A", "slide-image-option:A", "windows-ocr-audit"],
+      "reviewedBy": ["root-visual-review", "speaker-notes-audit", "ocr-asset-audit"]
+    },
+    {
+      "sourceSlide": 500,
+      "questionVi": "Tại sao các tổ chức lớn phụ thuộc nhiều vào đội nhóm để cải thiện hoạt động?",
+      "correctAnswer": "Tất cả các đáp án đều đúng. – All of them.",
+      "correctAnswerEn": "All of them.",
+      "correctAnswerVi": "Tất cả các đáp án đều đúng.",
+      "explanationVi": "Hoạt động theo đội nhóm có thể tăng năng suất, giảm lỗi dịch vụ, xử lý nhiều loại thách thức, hỗ trợ giao tiếp hiệu quả và cải thiện việc ra quyết định, giải quyết vấn đề. Vì cả A–D đều là lợi ích hợp lý nên chọn E.",
+      "confidence": 0.99,
+      "evidence": ["speaker-note-answer-code:E", "slide-image-option:E", "windows-ocr-audit"],
+      "reviewedBy": ["root-visual-review", "speaker-notes-audit", "ocr-asset-audit"]
+    },
+    {
+      "sourceSlide": 503,
+      "questionVi": "Động lực nhóm (group motivation) có nghĩa là gì?",
+      "correctAnswer": "Động lực nhóm tạo ra cảm hứng và khuyến khích các thành viên cùng làm việc để đạt một mục tiêu chung. – Group motivation provides the inspiration and incentive that moves group members to work together to achieve a common goal.",
+      "correctAnswerEn": "Group motivation provides the inspiration and incentive that moves group members to work together to achieve a common goal.",
+      "correctAnswerVi": "Động lực nhóm tạo ra cảm hứng và khuyến khích các thành viên cùng làm việc để đạt một mục tiêu chung.",
+      "explanationVi": "Phương án B mô tả đúng động lực ở cấp độ nhóm: cảm hứng và khuyến khích thúc đẩy các thành viên phối hợp hướng tới mục tiêu chung. A là định nghĩa động lực nói chung, C nói về trao quyền và D nói về ý nghĩa của mục tiêu nhóm.",
+      "confidence": 0.99,
+      "evidence": ["speaker-note-answer-code:B", "slide-image-option:B", "windows-ocr-audit"],
+      "reviewedBy": ["root-visual-review", "speaker-notes-audit", "ocr-asset-audit"]
+    }
+  ]
+}

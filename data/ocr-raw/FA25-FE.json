@@ -1,0 +1,4976 @@
+[
+  {
+    "question": 1,
+    "image": "/exams/FA25-FE/images/Q1.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "a914ebe6ab8c14813d93bcc130d09b8c8e93b6681a7165b534e459d2f1a05c35",
+    "pass_original": [
+      {
+        "text": "What is thepurpose of cross-validation in machinelearning?",
+        "score": 0.963537,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "Question:1",
+        "score": 0.985251,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Improving the model's accuracy on the training set",
+        "score": 0.948509,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.96291,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.Evaluating the model'sperformance ona separate test set",
+        "score": 0.950696,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Dividing the dataset into training and testing subsets",
+        "score": 0.961307,
+        "x": 831.0,
+        "y": 120.0
+      },
+      {
+        "text": "D.Assessing themodel'sgeneralization across different data folds",
+        "score": 0.962619,
+        "x": 831.0,
+        "y": 153.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What is the purpose of cross-validation in machine leaming?",
+        "score": 0.991915,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "Question:1",
+        "score": 0.993626,
+        "x": 36.77,
+        "y": 40.98
+      },
+      {
+        "text": "A. Improving the model's accuracy on the training set",
+        "score": 0.98135,
+        "x": 1656.77,
+        "y": 103.42
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.971689,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.Evaluating the mode's performance on a separate test set",
+        "score": 0.967821,
+        "x": 1658.71,
+        "y": 171.72
+      },
+      {
+        "text": "C.Dividing the dataset into training and testing subsets",
+        "score": 0.985997,
+        "x": 1658.71,
+        "y": 236.12
+      },
+      {
+        "text": "D. Assessing the model's generalization across different data folds",
+        "score": 0.973837,
+        "x": 1662.58,
+        "y": 306.37
+      }
+    ]
+  },
+  {
+    "question": 2,
+    "image": "/exams/FA25-FE/images/Q2.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "ac64b3f4a0cdb5b63be4dfb20b764c934d0f3f86b7bb27c18e57741528f710ec",
+    "pass_original": [
+      {
+        "text": "What is the primary goal of Data Science?",
+        "score": 0.970148,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "Question:2",
+        "score": 0.987345,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Studying computer science",
+        "score": 0.975571,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.974725,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Extracting insights from data",
+        "score": 0.983926,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Designing databases",
+        "score": 0.993405,
+        "x": 831.0,
+        "y": 120.0
+      },
+      {
+        "text": "D.Creating graphical user interfaces",
+        "score": 0.983326,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question:2",
+        "score": 0.993932,
+        "x": 36.77,
+        "y": 39.03
+      },
+      {
+        "text": "What is the primary goal of Data Science?",
+        "score": 0.986839,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "A. Studying computer science",
+        "score": 0.974672,
+        "x": 1658.71,
+        "y": 107.33
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.935075,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. Extracting insights from data",
+        "score": 0.973166,
+        "x": 1656.77,
+        "y": 171.72
+      },
+      {
+        "text": "C. Designing databases",
+        "score": 0.976166,
+        "x": 1658.71,
+        "y": 236.12
+      },
+      {
+        "text": "D. Creating graphical user interfaces",
+        "score": 0.967838,
+        "x": 1660.65,
+        "y": 302.47
+      }
+    ]
+  },
+  {
+    "question": 3,
+    "image": "/exams/FA25-FE/images/Q3.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "74f0aa1cd2168d83ba26117b4057e4eb34c3be6e6e3d3172d2ebd70f36b5ec56",
+    "pass_original": [
+      {
+        "text": "In the context of machine learning, what does the term \"hyperparameter tuning\" refer to?",
+        "score": 0.966141,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "Question:3",
+        "score": 0.988474,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Adjusting the weights of the model during training",
+        "score": 0.975451,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.96198,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.Selecting the mostimportant featuresina dataset",
+        "score": 0.974535,
+        "x": 829.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.Fine-tuning the model'sparameters to improve performance",
+        "score": 0.95455,
+        "x": 829.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Creating additional features to enhance model complexity",
+        "score": 0.956701,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question:3",
+        "score": 0.981462,
+        "x": 38.71,
+        "y": 40.98
+      },
+      {
+        "text": "A. Adjusting the weights of the model during training",
+        "score": 0.982052,
+        "x": 1656.77,
+        "y": 105.38
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.965756,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. Selecting the most important features in a dataset",
+        "score": 0.96112,
+        "x": 1656.77,
+        "y": 171.72
+      },
+      {
+        "text": "C. Fine-tuning the model's parameters to improve performance",
+        "score": 0.988092,
+        "x": 1658.71,
+        "y": 238.07
+      },
+      {
+        "text": "D.Creating additional features to enhance model complexity",
+        "score": 0.967241,
+        "x": 1660.65,
+        "y": 304.42
+      }
+    ]
+  },
+  {
+    "question": 4,
+    "image": "/exams/FA25-FE/images/Q4.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "aa0d42718999ecded940ea918386e3d6f61e4489b770ca0d33e35bdbf54b861f",
+    "pass_original": [
+      {
+        "text": "What doestheterm'missingvalue imputation'refertoinEDA?",
+        "score": 0.963962,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "Question:4",
+        "score": 0.990578,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Filling in missing values using statistical measures",
+        "score": 0.956457,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.953913,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Removing missing values from the dataset",
+        "score": 0.967485,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Replacingmissing valueswith arbitrarynumbers",
+        "score": 0.979623,
+        "x": 831.0,
+        "y": 120.0
+      },
+      {
+        "text": "D. Ignoring missing values during analysis",
+        "score": 0.984432,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What does the term'missing value imputation' refer to in EDA?",
+        "score": 0.97162,
+        "x": 1660.65,
+        "y": 37.08
+      },
+      {
+        "text": "Question:4",
+        "score": 0.990336,
+        "x": 36.77,
+        "y": 40.98
+      },
+      {
+        "text": "A. Filling in missing values using statistical measures",
+        "score": 0.980388,
+        "x": 1662.58,
+        "y": 109.28
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.974602,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. Removing missing values from the dataset",
+        "score": 0.976545,
+        "x": 1656.77,
+        "y": 171.72
+      },
+      {
+        "text": "C. Replacing missing values with arbitrary numbers",
+        "score": 0.972476,
+        "x": 1658.71,
+        "y": 238.07
+      },
+      {
+        "text": "D. Ignoring missing values during analysis",
+        "score": 0.977766,
+        "x": 1660.65,
+        "y": 300.51
+      }
+    ]
+  },
+  {
+    "question": 5,
+    "image": "/exams/FA25-FE/images/Q5.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "b0bb36d09e29026d06d545af58a8ff9227aa7d42a3358873b11ea2f61bcc7004",
+    "pass_original": [
+      {
+        "text": "What is the primary purpose of the \"Evaluation” stage in the Data Science pipeline?",
+        "score": 0.956532,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "Question:5",
+        "score": 0.986707,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A. Building machine learning models",
+        "score": 0.975325,
+        "x": 829.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.967373,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.Assessing the performance of the model",
+        "score": 0.973136,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Understanding the data distribution",
+        "score": 0.988185,
+        "x": 831.0,
+        "y": 120.0
+      },
+      {
+        "text": "D. Collecting data for analysis",
+        "score": 0.981578,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question:5",
+        "score": 0.990974,
+        "x": 36.77,
+        "y": 39.03
+      },
+      {
+        "text": "A. Building machine learning models",
+        "score": 0.977651,
+        "x": 1660.65,
+        "y": 109.28
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.980001,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. Assessing the performance of the model",
+        "score": 0.98344,
+        "x": 1656.77,
+        "y": 171.72
+      },
+      {
+        "text": "C. Understanding the data distribution",
+        "score": 0.976698,
+        "x": 1660.65,
+        "y": 238.07
+      },
+      {
+        "text": "D. Collecting data for analysis",
+        "score": 0.953017,
+        "x": 1660.65,
+        "y": 306.37
+      }
+    ]
+  },
+  {
+    "question": 6,
+    "image": "/exams/FA25-FE/images/Q6.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "2ebece785c57d1e7e1dd2baf14fa3364ac9a90106dcd5daec9142bd8e25a9653",
+    "pass_original": [
+      {
+        "text": "Question:6",
+        "score": 0.990355,
+        "x": 19.0,
+        "y": 20.0
+      },
+      {
+        "text": "What is the primary goal of the Diagnostic Measures phase in Data Science evaluation?",
+        "score": 0.957814,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Toidentify and understand why the model fails or succeeds",
+        "score": 0.963486,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.961808,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.To predict future outcomes",
+        "score": 0.958265,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.To fine-tune hyperparameters for model improvement",
+        "score": 0.961973,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.To createvisualizationsof data distributions",
+        "score": 0.964369,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What is the primary goal of the Diagnostic Measures phase in Data Science evaluation?",
+        "score": 0.992742,
+        "x": 1658.71,
+        "y": 37.08
+      },
+      {
+        "text": "Question:6",
+        "score": 0.988297,
+        "x": 38.71,
+        "y": 40.98
+      },
+      {
+        "text": "A. To identify and understand why the model fails or succeeds",
+        "score": 0.968259,
+        "x": 1658.71,
+        "y": 105.38
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.966286,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.Topredict future outcomes",
+        "score": 0.968417,
+        "x": 1658.71,
+        "y": 171.72
+      },
+      {
+        "text": "C. To fine-tune hyperparameters for model improvement",
+        "score": 0.986861,
+        "x": 1662.58,
+        "y": 240.02
+      },
+      {
+        "text": "D.Tocreatevisualizationsof data distributions",
+        "score": 0.972034,
+        "x": 1662.58,
+        "y": 304.42
+      }
+    ]
+  },
+  {
+    "question": 7,
+    "image": "/exams/FA25-FE/images/Q7.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "7609313832e643e69db1c839c46afe239f4a034651ca880b0ffbd193ed6bf196",
+    "pass_original": [
+      {
+        "text": "Question:7",
+        "score": 0.983943,
+        "x": 19.0,
+        "y": 20.0
+      },
+      {
+        "text": "InSQL,what keyword is used to filterrecords based on a specified condition？",
+        "score": 0.927954,
+        "x": 831.0,
+        "y": 21.0
+      },
+      {
+        "text": "A. LIMIT",
+        "score": 0.965429,
+        "x": 829.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.949315,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. WHERE",
+        "score": 0.993538,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. FILTER",
+        "score": 0.973081,
+        "x": 831.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.SORT",
+        "score": 0.996131,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question:7",
+        "score": 0.989447,
+        "x": 36.77,
+        "y": 39.03
+      },
+      {
+        "text": "In SQL, what keyword is used to filter records based on a specified condition?",
+        "score": 0.96968,
+        "x": 1658.71,
+        "y": 39.03
+      },
+      {
+        "text": "A. LIMIT",
+        "score": 0.985013,
+        "x": 1654.84,
+        "y": 105.38
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.980447,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. WHERE",
+        "score": 0.992881,
+        "x": 1658.71,
+        "y": 173.67
+      },
+      {
+        "text": "C. FILTER",
+        "score": 0.988236,
+        "x": 1660.65,
+        "y": 240.02
+      },
+      {
+        "text": "D. SORT",
+        "score": 0.965501,
+        "x": 1658.71,
+        "y": 302.47
+      }
+    ]
+  },
+  {
+    "question": 8,
+    "image": "/exams/FA25-FE/images/Q8.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "3d535375272cfcaadf5bbad92ca0cb33304ddd0298244f493aaa7b70d7a8a75a",
+    "pass_original": [
+      {
+        "text": "Whichof thefollowingstepsis typicallyrequiredtoestablishaconnectiontoaDB2databaseusingibm_dbin",
+        "score": 0.980908,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "Question:8",
+        "score": 0.985319,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "Python?",
+        "score": 0.992352,
+        "x": 830.0,
+        "y": 38.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.972278,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "A.connect(database,user,password)",
+        "score": 0.964964,
+        "x": 829.0,
+        "y": 68.0
+      },
+      {
+        "text": "B.connect_db2(database, user,password)",
+        "score": 0.968157,
+        "x": 828.0,
+        "y": 102.0
+      },
+      {
+        "text": "C.create_connection(database,user,password)",
+        "score": 0.977951,
+        "x": 829.0,
+        "y": 135.0
+      },
+      {
+        "text": "D.establish(database, user,password)",
+        "score": 0.961459,
+        "x": 830.0,
+        "y": 169.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question:8",
+        "score": 0.98769,
+        "x": 36.77,
+        "y": 39.03
+      },
+      {
+        "text": "Python?",
+        "score": 0.955448,
+        "x": 1660.65,
+        "y": 74.15
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.979044,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "A. connect(database,user,password)",
+        "score": 0.980686,
+        "x": 1658.71,
+        "y": 136.6
+      },
+      {
+        "text": "B.connect_db2(database, user, password)",
+        "score": 0.974207,
+        "x": 1658.71,
+        "y": 204.9
+      },
+      {
+        "text": "C.create_connection(database,user,password)",
+        "score": 0.972369,
+        "x": 1658.71,
+        "y": 271.24
+      },
+      {
+        "text": "D. establish(database, user, password)",
+        "score": 0.971312,
+        "x": 1658.71,
+        "y": 337.59
+      }
+    ]
+  },
+  {
+    "question": 9,
+    "image": "/exams/FA25-FE/images/Q9.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "5466f2241661af139f9483dc06d0a65d0cde3bb090b9ed8c25eb4b99c889be81",
+    "pass_original": [
+      {
+        "text": "What does the term\"Data Cleaning”refer to in the context of data preprocessing for databases?",
+        "score": 0.950647,
+        "x": 830.0,
+        "y": 18.0
+      },
+      {
+        "text": "Question:9",
+        "score": 0.981421,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Creating new data points for analysis",
+        "score": 0.974007,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.962223,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.Removing unnecessary columns from a table",
+        "score": 0.973888,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Identifying and correcting errors or inconsistencies in data",
+        "score": 0.969811,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Rearranging rows in a table",
+        "score": 0.958439,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question:9",
+        "score": 0.986742,
+        "x": 34.84,
+        "y": 37.08
+      },
+      {
+        "text": "What does the term *Data Cleaning”refer to in the context of data preprocessing for databases?",
+        "score": 0.966555,
+        "x": 1658.71,
+        "y": 37.08
+      },
+      {
+        "text": "A.Creating new datapointsfor analysis",
+        "score": 0.956304,
+        "x": 1662.58,
+        "y": 109.28
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.97435,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.Removing unnecessary columns from a table",
+        "score": 0.978373,
+        "x": 1658.71,
+        "y": 171.72
+      },
+      {
+        "text": "C. Identifying and correcting errors or inconsistencies in data",
+        "score": 0.977745,
+        "x": 1658.71,
+        "y": 236.12
+      },
+      {
+        "text": "D.Rearranging rows in a table",
+        "score": 0.965961,
+        "x": 1660.65,
+        "y": 302.47
+      }
+    ]
+  },
+  {
+    "question": 10,
+    "image": "/exams/FA25-FE/images/Q10.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "8b993db8a31d9e41845c9765a1b9ca1f897a1f9fc750987551f781533322da0d",
+    "pass_original": [
+      {
+        "text": "Question:10",
+        "score": 0.985178,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "What command inDB2isused toremove a tablefromthe database?",
+        "score": 0.959473,
+        "x": 831.0,
+        "y": 21.0
+      },
+      {
+        "text": "A. DROP TABLE",
+        "score": 0.928215,
+        "x": 831.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1 answer)",
+        "score": 0.95131,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.ERASETABLE",
+        "score": 0.994349,
+        "x": 831.0,
+        "y": 87.0
+      },
+      {
+        "text": "C. DELETE TABLE",
+        "score": 0.964048,
+        "x": 831.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.REMOVE TABLE",
+        "score": 0.972774,
+        "x": 829.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What command inDB2 is used to remove a table from thedatabase?",
+        "score": 0.952161,
+        "x": 1658.71,
+        "y": 39.03
+      },
+      {
+        "text": "Question:10",
+        "score": 0.998167,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A.DROP TABLE",
+        "score": 0.98422,
+        "x": 1658.71,
+        "y": 109.28
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.964757,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. ERASE TABLE",
+        "score": 0.980343,
+        "x": 1660.65,
+        "y": 173.67
+      },
+      {
+        "text": "C. DELETE TABLE",
+        "score": 0.97317,
+        "x": 1660.65,
+        "y": 240.02
+      },
+      {
+        "text": "D. REMOVE TABLE",
+        "score": 0.961225,
+        "x": 1660.65,
+        "y": 306.37
+      }
+    ]
+  },
+  {
+    "question": 11,
+    "image": "/exams/FA25-FE/images/Q11.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "03d732810449960aeb78050f4b3075bee989c06258ce8e3c08a679aad1c3282a",
+    "pass_original": [
+      {
+        "text": "How is data typically organized in a relational database?",
+        "score": 0.966952,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "Question:11",
+        "score": 0.982396,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A. In a single flat file",
+        "score": 0.988874,
+        "x": 829.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.970905,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Ina hierarchical structure",
+        "score": 0.972983,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.In tables with rows and columns",
+        "score": 0.95504,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.In a network structure",
+        "score": 0.932632,
+        "x": 829.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "How is data typically organized in a relational database?",
+        "score": 0.985272,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "Question:11",
+        "score": 0.995879,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A. In a single flat file",
+        "score": 0.95241,
+        "x": 1654.84,
+        "y": 105.38
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.978071,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.In ahierarchical structure",
+        "score": 0.973887,
+        "x": 1656.77,
+        "y": 169.77
+      },
+      {
+        "text": "C. In tables with rows and columns",
+        "score": 0.966523,
+        "x": 1662.58,
+        "y": 240.02
+      },
+      {
+        "text": "D.In anetwork structure",
+        "score": 0.953966,
+        "x": 1658.71,
+        "y": 300.51
+      }
+    ]
+  },
+  {
+    "question": 12,
+    "image": "/exams/FA25-FE/images/Q12.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "d14121d9be758768cccf23418f3b457519eff0659b0b68b38e6e344ca87ddf01",
+    "pass_original": [
+      {
+        "text": "What is the purpose of the WHERE clause ina SQL query?",
+        "score": 0.959714,
+        "x": 830.0,
+        "y": 18.0
+      },
+      {
+        "text": "Question:12",
+        "score": 0.987392,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.To specify the columns to be selected",
+        "score": 0.948611,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.966513,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.To filter rows based on a specified condition",
+        "score": 0.940918,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.To order theresults in ascending or descending order",
+        "score": 0.96391,
+        "x": 829.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.To join two tables together",
+        "score": 0.968614,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What is the purpose of the WHERE clause in a SQL query?",
+        "score": 0.979636,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "Question:12",
+        "score": 0.996313,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A. To specify the columns to be selected",
+        "score": 0.980393,
+        "x": 1660.65,
+        "y": 107.33
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.972913,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.To filter rows based on a specified condition",
+        "score": 0.965648,
+        "x": 1656.77,
+        "y": 171.72
+      },
+      {
+        "text": "C. To order the results in ascending or descending order",
+        "score": 0.96866,
+        "x": 1658.71,
+        "y": 236.12
+      },
+      {
+        "text": "D. To join two tables together",
+        "score": 0.957586,
+        "x": 1660.65,
+        "y": 306.37
+      }
+    ]
+  },
+  {
+    "question": 13,
+    "image": "/exams/FA25-FE/images/Q13.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "d3033aa1ed7ad5738e6d1846d4e96de5e513c8072b510558bf8d2ba38f4441eb",
+    "pass_original": [
+      {
+        "text": "Question:13",
+        "score": 0.979934,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "When using ibm_db tofetchrowsfrom a resultset,whatmethod fetchesmultiplerows at once?",
+        "score": 0.948259,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.fetchallO",
+        "score": 0.930007,
+        "x": 828.0,
+        "y": 51.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.956766,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.fetch0",
+        "score": 0.959797,
+        "x": 828.0,
+        "y": 84.0
+      },
+      {
+        "text": "C.retrieve0",
+        "score": 0.965131,
+        "x": 829.0,
+        "y": 117.0
+      },
+      {
+        "text": "D.fetch_many0",
+        "score": 0.986184,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question:13",
+        "score": 0.976371,
+        "x": 34.84,
+        "y": 37.08
+      },
+      {
+        "text": "When using ibm_db to fetch rows from a result set, what method fetches multiple rows at once?",
+        "score": 0.980746,
+        "x": 1658.71,
+        "y": 37.08
+      },
+      {
+        "text": "A. fetchall",
+        "score": 0.937311,
+        "x": 1654.84,
+        "y": 103.42
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.980164,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. fetch0",
+        "score": 0.905907,
+        "x": 1652.9,
+        "y": 167.82
+      },
+      {
+        "text": "C. retrieve0",
+        "score": 0.928023,
+        "x": 1656.77,
+        "y": 234.17
+      },
+      {
+        "text": "D.fetch_many0",
+        "score": 0.99082,
+        "x": 1656.77,
+        "y": 298.56
+      }
+    ]
+  },
+  {
+    "question": 14,
+    "image": "/exams/FA25-FE/images/Q14.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "e3cc342007e3f5dff3645933dfec3f8d56754f30c5479966e694259fbf1b8e1b",
+    "pass_original": [
+      {
+        "text": "Which Pythonlibrary is commonly used to connect to a SQL database from a Jupyter Notebook?",
+        "score": 0.955912,
+        "x": 831.0,
+        "y": 19.0
+      },
+      {
+        "text": "Question:14",
+        "score": 0.982851,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.SQLite3",
+        "score": 0.988988,
+        "x": 829.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.955091,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.SQLAlchemy",
+        "score": 0.984849,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Psycopg2",
+        "score": 0.996124,
+        "x": 829.0,
+        "y": 117.0
+      },
+      {
+        "text": "D.PyODBC",
+        "score": 0.997843,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question: 14",
+        "score": 0.962236,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A. SQLite3",
+        "score": 0.921652,
+        "x": 1654.84,
+        "y": 103.42
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.977536,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. SQLAlchemy",
+        "score": 0.993027,
+        "x": 1652.9,
+        "y": 165.87
+      },
+      {
+        "text": "C. Psycopg2",
+        "score": 0.997856,
+        "x": 1656.77,
+        "y": 232.22
+      },
+      {
+        "text": "D. PyODBC",
+        "score": 0.974052,
+        "x": 1654.84,
+        "y": 300.51
+      }
+    ]
+  },
+  {
+    "question": 15,
+    "image": "/exams/FA25-FE/images/Q15.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "dbbd9dbb0ea0952b84208bdc0201a56e0c50598f25ffaafbdd97f7fc37061321",
+    "pass_original": [
+      {
+        "text": "Question:15",
+        "score": 0.98424,
+        "x": 19.0,
+        "y": 20.0
+      },
+      {
+        "text": "Whichcategory ofDataScience tools isassociatedwithsoftware likeJupyterNotebook,RStudio,and",
+        "score": 0.95891,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "Spyder?",
+        "score": 0.997211,
+        "x": 831.0,
+        "y": 37.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.975738,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A.DevelopmentEnvironment tools",
+        "score": 0.97993,
+        "x": 831.0,
+        "y": 69.0
+      },
+      {
+        "text": "B.DataVisualization tools",
+        "score": 0.991496,
+        "x": 830.0,
+        "y": 103.0
+      },
+      {
+        "text": "C.Data Analysis tools",
+        "score": 0.977349,
+        "x": 830.0,
+        "y": 135.0
+      },
+      {
+        "text": "D.Data Cleaning tools",
+        "score": 0.982825,
+        "x": 830.0,
+        "y": 168.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Which category of Data Science tools is associated with software like Jupyter Notebook, RStudio, and",
+        "score": 0.962776,
+        "x": 1656.77,
+        "y": 35.12
+      },
+      {
+        "text": "Question:15",
+        "score": 0.987416,
+        "x": 34.84,
+        "y": 37.08
+      },
+      {
+        "text": "Spyder?",
+        "score": 0.998393,
+        "x": 1662.58,
+        "y": 74.15
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.954687,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "A.DevelopmentEnvironment tools",
+        "score": 0.970825,
+        "x": 1660.65,
+        "y": 138.55
+      },
+      {
+        "text": "B. Data Visualization tools",
+        "score": 0.979213,
+        "x": 1660.65,
+        "y": 206.85
+      },
+      {
+        "text": "C.Data Analysis tools",
+        "score": 0.967587,
+        "x": 1658.71,
+        "y": 269.29
+      },
+      {
+        "text": "D. Data Cleaning tools",
+        "score": 0.975741,
+        "x": 1658.71,
+        "y": 335.64
+      }
+    ]
+  },
+  {
+    "question": 16,
+    "image": "/exams/FA25-FE/images/Q16.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "84a8cceb7bc056e6db35fe03b6a002ca28126feb1623b83325d3db30f9801486",
+    "pass_original": [
+      {
+        "text": "Question:16",
+        "score": 0.987898,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "In the context of GitHub,what is a'pull request'used for?",
+        "score": 0.938634,
+        "x": 831.0,
+        "y": 21.0
+      },
+      {
+        "text": "A. Merging code changes from one branch to another",
+        "score": 0.973669,
+        "x": 829.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.934132,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Requesting data access",
+        "score": 0.975917,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. Opening an issue for discussion",
+        "score": 0.986639,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.Creating a newrepository",
+        "score": 0.968795,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "In the context of GitHub, what is a'pull request' used for?",
+        "score": 0.982856,
+        "x": 1658.71,
+        "y": 39.03
+      },
+      {
+        "text": "Question:16",
+        "score": 0.995887,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A. Merging code changes from one branch to another",
+        "score": 0.990846,
+        "x": 1658.71,
+        "y": 107.33
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.972586,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.Requesting data access",
+        "score": 0.974765,
+        "x": 1656.77,
+        "y": 171.72
+      },
+      {
+        "text": "C. Opening an issue for discussion",
+        "score": 0.990116,
+        "x": 1658.71,
+        "y": 236.12
+      },
+      {
+        "text": "D.Creating a newrepository",
+        "score": 0.968992,
+        "x": 1660.65,
+        "y": 302.47
+      }
+    ]
+  },
+  {
+    "question": 17,
+    "image": "/exams/FA25-FE/images/Q17.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "25a320e044301ffbe3920885a485dcb7735bf24c5d83384102fa46a4554adabc",
+    "pass_original": [
+      {
+        "text": "Question:17",
+        "score": 0.987422,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "What isthepurposeofcontainerizationtoolslikeDocker in thecontext ofdatascienceworkflows?",
+        "score": 0.967484,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Storing and managing large datasets",
+        "score": 0.969432,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.966315,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.Providing a consistent environment for code execution",
+        "score": 0.958957,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Creating 3Dvisualizations of data",
+        "score": 0.968848,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Managing virtual environments for different projects",
+        "score": 0.969823,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What is the purpose of containerization tools like Docker in the context of data science workflows?",
+        "score": 0.969326,
+        "x": 1658.71,
+        "y": 37.08
+      },
+      {
+        "text": "Question:17",
+        "score": 0.989208,
+        "x": 38.71,
+        "y": 40.98
+      },
+      {
+        "text": "A.Storing and managing large datasets",
+        "score": 0.98564,
+        "x": 1658.71,
+        "y": 105.38
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.972405,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.Providing a consistent environment for code execution",
+        "score": 0.973968,
+        "x": 1658.71,
+        "y": 171.72
+      },
+      {
+        "text": "C. Creating 3D visualizations of data",
+        "score": 0.958201,
+        "x": 1660.65,
+        "y": 238.07
+      },
+      {
+        "text": "D. Managing virtual environments for different projects",
+        "score": 0.977681,
+        "x": 1660.65,
+        "y": 302.47
+      }
+    ]
+  },
+  {
+    "question": 18,
+    "image": "/exams/FA25-FE/images/Q18.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "ea8581529395124ef6315e83c4f074b67d9c6a6884c95e5dfc4fa1f1b87cebfc",
+    "pass_original": [
+      {
+        "text": "How doesKaggle contribute to the data science community?",
+        "score": 0.949288,
+        "x": 831.0,
+        "y": 19.0
+      },
+      {
+        "text": "Question:18",
+        "score": 0.986876,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.It is a programming language for machinelearning",
+        "score": 0.965367,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.9655,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.It provides datasets and hosts machine learning competitions",
+        "score": 0.966343,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.It is a web-based platform for collaborative coding",
+        "score": 0.945257,
+        "x": 829.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.It is a version control system for data",
+        "score": 0.933204,
+        "x": 829.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "How does Kaggle contribute to the data science community?",
+        "score": 0.972553,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "Question:18",
+        "score": 0.986982,
+        "x": 38.71,
+        "y": 40.98
+      },
+      {
+        "text": "A. lt is a programming language for machine learning",
+        "score": 0.982593,
+        "x": 1656.77,
+        "y": 105.38
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.971859,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. It provides datasets and hosts machine learning competitions",
+        "score": 0.968194,
+        "x": 1658.71,
+        "y": 171.72
+      },
+      {
+        "text": "C. It is a web-based platform for collaborative coding",
+        "score": 0.976316,
+        "x": 1658.71,
+        "y": 236.12
+      },
+      {
+        "text": "D.It is a versioncontrol system for data",
+        "score": 0.943796,
+        "x": 1658.71,
+        "y": 302.47
+      }
+    ]
+  },
+  {
+    "question": 19,
+    "image": "/exams/FA25-FE/images/Q19.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "c60e40d3b890a40e9a6ced3b1dfd37a55b191dd30270ebf972fe788bed9d5e1e",
+    "pass_original": [
+      {
+        "text": "Which of the following is an immutable data type inPython?",
+        "score": 0.96226,
+        "x": 830.0,
+        "y": 18.0
+      },
+      {
+        "text": "Question:19",
+        "score": 0.982419,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Tuple",
+        "score": 0.994348,
+        "x": 828.0,
+        "y": 51.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.955091,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. List",
+        "score": 0.926407,
+        "x": 828.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Dictionary",
+        "score": 0.99449,
+        "x": 830.0,
+        "y": 117.0
+      },
+      {
+        "text": "D.Set",
+        "score": 0.992847,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Which of the following is an immutable data type in Python?",
+        "score": 0.973864,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "Question:19",
+        "score": 0.997543,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A. Tuple",
+        "score": 0.945337,
+        "x": 1652.9,
+        "y": 101.47
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.977536,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. List",
+        "score": 0.949854,
+        "x": 1652.9,
+        "y": 167.82
+      },
+      {
+        "text": "C.Dictionary",
+        "score": 0.997042,
+        "x": 1656.77,
+        "y": 232.22
+      },
+      {
+        "text": "D. Set",
+        "score": 0.956227,
+        "x": 1656.77,
+        "y": 302.47
+      }
+    ]
+  },
+  {
+    "question": 20,
+    "image": "/exams/FA25-FE/images/Q20.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "8c52db4a20cff9cf5c967ef79af199bf1395e68f33517658a10a7f75fecd2395",
+    "pass_original": [
+      {
+        "text": "WhatisthekeycharacteristicofaPythonset?",
+        "score": 0.99334,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "Question:20",
+        "score": 0.985878,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Maintaining orderof elements",
+        "score": 0.97647,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.961989,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Allowing duplicate elements",
+        "score": 0.952804,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Storing elements inkey-value pairs",
+        "score": 0.968025,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.Ensuring elements are unique and unordered",
+        "score": 0.963449,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What is the key characteristic of a Python set?",
+        "score": 0.979854,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "Question:20",
+        "score": 0.995575,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A.Maintaining order of elements",
+        "score": 0.98242,
+        "x": 1656.77,
+        "y": 105.38
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.977667,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.Allowing duplicate elements",
+        "score": 0.958904,
+        "x": 1656.77,
+        "y": 171.72
+      },
+      {
+        "text": "C.Storing elements in key-value pairs",
+        "score": 0.964392,
+        "x": 1658.71,
+        "y": 236.12
+      },
+      {
+        "text": "D.Ensuring elements are unique and unordered",
+        "score": 0.989873,
+        "x": 1662.58,
+        "y": 306.37
+      }
+    ]
+  },
+  {
+    "question": 21,
+    "image": "/exams/FA25-FE/images/Q21.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "265f92769c9927e8ab872234ea21783fbaf3604806f7b3f4e04e078fb9963156",
+    "pass_original": [
+      {
+        "text": "Suppose we have a NumPy array arr with shape(6,6).How would you select a submatrix consisting of the",
+        "score": 0.929798,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "Question:21",
+        "score": 0.985039,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "first3rowsandlast3columns?",
+        "score": 0.987025,
+        "x": 831.0,
+        "y": 38.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.979722,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "A.submatrix=arr[：3,-3:]",
+        "score": 0.9364,
+        "x": 830.0,
+        "y": 69.0
+      },
+      {
+        "text": "B.submatrix=arr[3:-3:]",
+        "score": 0.966167,
+        "x": 829.0,
+        "y": 101.0
+      },
+      {
+        "text": "C.submatrix=arr[0:3:,:3:]",
+        "score": 0.89653,
+        "x": 830.0,
+        "y": 135.0
+      },
+      {
+        "text": "D.submatrix= arr[3,3:]",
+        "score": 0.920279,
+        "x": 829.0,
+        "y": 168.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question:21",
+        "score": 0.995116,
+        "x": 36.77,
+        "y": 39.03
+      },
+      {
+        "text": "first3rowsandlast3columns?",
+        "score": 0.975526,
+        "x": 1660.65,
+        "y": 74.15
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.961992,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "A. submatrix = am[:3,-3:]",
+        "score": 0.909326,
+        "x": 1656.77,
+        "y": 134.65
+      },
+      {
+        "text": "B.submatrix= am[3:,-3:]",
+        "score": 0.92547,
+        "x": 1656.77,
+        "y": 204.9
+      },
+      {
+        "text": "C. submatrix = arr[0:3:, :3:]",
+        "score": 0.92589,
+        "x": 1658.71,
+        "y": 269.29
+      },
+      {
+        "text": "D. submatrix = arr[:3, 3:]",
+        "score": 0.923011,
+        "x": 1658.71,
+        "y": 335.64
+      }
+    ]
+  },
+  {
+    "question": 22,
+    "image": "/exams/FA25-FE/images/Q22.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "a28ece17f181c4040c88f0efd9710164c58b7baed081bfbed1ec2fc242705d26",
+    "pass_original": [
+      {
+        "text": "What does thefollowingnumpy array slicing expressiondo?",
+        "score": 0.959176,
+        "x": 829.0,
+        "y": 18.0
+      },
+      {
+        "text": "Question:22",
+        "score": 0.987426,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "arr = np.array(I[1, 2,3], [4, 5, 6], [7,8, 9]])",
+        "score": 0.905392,
+        "x": 830.0,
+        "y": 37.0
+      },
+      {
+        "text": "sliced_arr = arr[1:, :-1]",
+        "score": 0.968193,
+        "x": 831.0,
+        "y": 54.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.957797,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "A.Selects allrowsstarting from the secondrow and all columns inreverse order.",
+        "score": 0.947611,
+        "x": 829.0,
+        "y": 86.0
+      },
+      {
+        "text": "B.Selectsallrowsstartingfrom thefirstrowandreversesthe orderof columns.",
+        "score": 0.963645,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "C.Selects allrows andreverses theorderof columnsstarting from thefirstrow.",
+        "score": 0.959783,
+        "x": 830.0,
+        "y": 151.0
+      },
+      {
+        "text": "D.Selects all rows starting from the second row and all columns except the last column.",
+        "score": 0.965515,
+        "x": 831.0,
+        "y": 186.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What does thefollowingnumpyarray slicing expressiondo?",
+        "score": 0.971594,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "Question:22",
+        "score": 0.992673,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "19euedu=e",
+        "score": 0.511243,
+        "x": 1660.65,
+        "y": 74.15
+      },
+      {
+        "text": "sliced_arr = arr[1:, :-1]",
+        "score": 0.942643,
+        "x": 1660.65,
+        "y": 107.33
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.967851,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "A. Selects all rows starting from the second row and all columns in reverse order.",
+        "score": 0.983466,
+        "x": 1658.71,
+        "y": 171.72
+      },
+      {
+        "text": "B. Selects all rows starting from the first row and reverses the order of columns.",
+        "score": 0.980242,
+        "x": 1660.65,
+        "y": 240.02
+      },
+      {
+        "text": "C.Selectsall rows and reverses theorder of columnsstartingfromthefirstrow.",
+        "score": 0.954231,
+        "x": 1660.65,
+        "y": 306.37
+      },
+      {
+        "text": "D.Selects allrows starting from the second row and all columns except thelast column.",
+        "score": 0.959592,
+        "x": 1660.65,
+        "y": 370.76
+      }
+    ]
+  },
+  {
+    "question": 23,
+    "image": "/exams/FA25-FE/images/Q23.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "1f835ac52ab35283a45b1e3afaf9d90863e84d1f53cba4c9976bb5fa2a97e54f",
+    "pass_original": [
+      {
+        "text": "What does the follwing numpy array slicing expression do?",
+        "score": 0.96532,
+        "x": 829.0,
+        "y": 19.0
+      },
+      {
+        "text": "Question:23",
+        "score": 0.984638,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "arr =np.array(I[1,2,3],[4,5, 6],[7,8, 9]])",
+        "score": 0.877209,
+        "x": 830.0,
+        "y": 37.0
+      },
+      {
+        "text": "sliced_arr = arr[:, 1:]",
+        "score": 0.877063,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.966913,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "A.An array containing all elements except the first row and the first column.",
+        "score": 0.935962,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "B.An array containing allelements except the last row and thelast column.",
+        "score": 0.950943,
+        "x": 831.0,
+        "y": 120.0
+      },
+      {
+        "text": "C.An array containing all elements except the first column.",
+        "score": 0.933298,
+        "x": 829.0,
+        "y": 151.0
+      },
+      {
+        "text": "D.An array containing all elements except the last column.",
+        "score": 0.977739,
+        "x": 829.0,
+        "y": 185.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What does thefollowing numpyarray slicing expression do?",
+        "score": 0.967599,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "Question:23",
+        "score": 0.994253,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "sliced_arr = arr[:,1:]",
+        "score": 0.922551,
+        "x": 1660.65,
+        "y": 105.38
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.96668,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "A. An array containing all elements except the first row and the first column.",
+        "score": 0.975247,
+        "x": 1656.77,
+        "y": 169.77
+      },
+      {
+        "text": "B.An array containing allelements except the last row and the last column.",
+        "score": 0.986313,
+        "x": 1658.71,
+        "y": 236.12
+      },
+      {
+        "text": "C. An array containing all elements except the first column.",
+        "score": 0.979167,
+        "x": 1658.71,
+        "y": 304.42
+      },
+      {
+        "text": "D.An array containing all elements except the last column.",
+        "score": 0.981571,
+        "x": 1660.65,
+        "y": 370.76
+      }
+    ]
+  },
+  {
+    "question": 24,
+    "image": "/exams/FA25-FE/images/Q24.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "7fccc5429e5841caa935e0413c6b74c4567e8efa0de11e6a25aa8c3f56aa0ac9",
+    "pass_original": [
+      {
+        "text": "What function in NumPy is used to generate a sequence of numbers within a specified range?",
+        "score": 0.955585,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "Question:24",
+        "score": 0.984444,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.arange()",
+        "score": 0.889198,
+        "x": 828.0,
+        "y": 51.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.949315,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.sequence0",
+        "score": 0.952866,
+        "x": 828.0,
+        "y": 84.0
+      },
+      {
+        "text": "C.range0",
+        "score": 0.984426,
+        "x": 829.0,
+        "y": 117.0
+      },
+      {
+        "text": "D.generate0",
+        "score": 0.950347,
+        "x": 828.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question: 24",
+        "score": 0.983828,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A. arange0",
+        "score": 0.942074,
+        "x": 1652.9,
+        "y": 99.52
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.980447,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. sequence()",
+        "score": 0.950356,
+        "x": 1652.9,
+        "y": 165.87
+      },
+      {
+        "text": "C.range0)",
+        "score": 0.92809,
+        "x": 1652.9,
+        "y": 230.26
+      },
+      {
+        "text": "D. generate()",
+        "score": 0.954968,
+        "x": 1656.77,
+        "y": 298.56
+      }
+    ]
+  },
+  {
+    "question": 25,
+    "image": "/exams/FA25-FE/images/Q25.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "e22da06d0b611ea7fe139043b333e91d416810d07b4c1060f4b15c7f359c7fc1",
+    "pass_original": [
+      {
+        "text": "WhichPandasfunctionisused tocalculate thecorrelationbetweennumericalcolumns inaDataFrame?",
+        "score": 0.974701,
+        "x": 831.0,
+        "y": 19.0
+      },
+      {
+        "text": "Question:25",
+        "score": 0.98092,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.corr 0",
+        "score": 0.948644,
+        "x": 828.0,
+        "y": 50.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.976876,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.correlate()",
+        "score": 0.955414,
+        "x": 828.0,
+        "y": 84.0
+      },
+      {
+        "text": "C. correlation 0",
+        "score": 0.929542,
+        "x": 829.0,
+        "y": 117.0
+      },
+      {
+        "text": "D.correlation_matrix0",
+        "score": 0.977605,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question:25",
+        "score": 0.997636,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A.corr 0",
+        "score": 0.932629,
+        "x": 1652.9,
+        "y": 99.52
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.981543,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. correlate()",
+        "score": 0.949402,
+        "x": 1654.84,
+        "y": 167.82
+      },
+      {
+        "text": "C. correlation 0",
+        "score": 0.9103,
+        "x": 1658.71,
+        "y": 234.17
+      },
+      {
+        "text": "D. correlation_matrix(",
+        "score": 0.91645,
+        "x": 1656.77,
+        "y": 296.61
+      }
+    ]
+  },
+  {
+    "question": 26,
+    "image": "/exams/FA25-FE/images/Q26.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "379e6a8c096c8737564e2b91797e8a3510c5390374a9de050de3e9bf6531224f",
+    "pass_original": [
+      {
+        "text": "Question:26",
+        "score": 0.986059,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "In the context of data serialization,what does the term\"pickling”referto?",
+        "score": 0.922727,
+        "x": 831.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Sorting elements in a list",
+        "score": 0.969658,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.963471,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.Converting Python objects into a byte stream",
+        "score": 0.959005,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Creating3Dvisualizations of data",
+        "score": 0.954886,
+        "x": 831.0,
+        "y": 120.0
+      },
+      {
+        "text": "D.Performing mathematical operations on data",
+        "score": 0.958655,
+        "x": 831.0,
+        "y": 153.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "In the context of data serialization, what does the term \"pickling\" refer to?",
+        "score": 0.969259,
+        "x": 1658.71,
+        "y": 39.03
+      },
+      {
+        "text": "Question:26",
+        "score": 0.994655,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A.Sorting elements in a list",
+        "score": 0.981932,
+        "x": 1656.77,
+        "y": 105.38
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.977196,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. Converting Python objects into a byte stream",
+        "score": 0.99088,
+        "x": 1656.77,
+        "y": 167.82
+      },
+      {
+        "text": "C. Creating 3D visualizations of data",
+        "score": 0.973172,
+        "x": 1660.65,
+        "y": 238.07
+      },
+      {
+        "text": "D. Performing mathematical operations on data",
+        "score": 0.98031,
+        "x": 1662.58,
+        "y": 306.37
+      }
+    ]
+  },
+  {
+    "question": 27,
+    "image": "/exams/FA25-FE/images/Q27.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "70d95bc1db526f57f3e1c91161c1cccb9e388be6e56b59cca143bf3b7674146f",
+    "pass_original": [
+      {
+        "text": "Question:27",
+        "score": 0.988917,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "What istheprimaryadvantageof usingthepandaslibrary inPythonfordatamanipulation?",
+        "score": 0.983458,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.It isprimarilyused for webscraping",
+        "score": 0.950343,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.954177,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.It provides high-level data structures and functions for easy data manipulation",
+        "score": 0.957309,
+        "x": 829.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.It is designed for creatingvisualizations",
+        "score": 0.934881,
+        "x": 831.0,
+        "y": 120.0
+      },
+      {
+        "text": "D.It focuses onreal-time data processing",
+        "score": 0.956302,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What is the primary advantage of using the pandas library in Python for data manipulation?",
+        "score": 0.994272,
+        "x": 1658.71,
+        "y": 37.08
+      },
+      {
+        "text": "Question:27",
+        "score": 0.989699,
+        "x": 36.77,
+        "y": 39.03
+      },
+      {
+        "text": "A. It is primarily used for web scraping",
+        "score": 0.911771,
+        "x": 1658.71,
+        "y": 105.38
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.969349,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.It provides high-level data structures and functions for easy data manipulation",
+        "score": 0.963316,
+        "x": 1658.71,
+        "y": 171.72
+      },
+      {
+        "text": "C.It is designed for creatingvisualizations",
+        "score": 0.93381,
+        "x": 1660.65,
+        "y": 238.07
+      },
+      {
+        "text": "D.It focuses onreal-time dataprocessing",
+        "score": 0.964519,
+        "x": 1658.71,
+        "y": 300.51
+      }
+    ]
+  },
+  {
+    "question": 28,
+    "image": "/exams/FA25-FE/images/Q28.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "57869ad5b53f242b99a31ad56a3cd2566679503c487b3897f213139a5bb4d794",
+    "pass_original": [
+      {
+        "text": "Which function in NumPy is used to calculate theexponential values of elements in an array?",
+        "score": 0.955799,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "Question:28",
+        "score": 0.981076,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A. exp0",
+        "score": 0.913358,
+        "x": 827.0,
+        "y": 48.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.949315,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.exp_values()",
+        "score": 0.989212,
+        "x": 829.0,
+        "y": 84.0
+      },
+      {
+        "text": "C.exponential0",
+        "score": 0.943393,
+        "x": 829.0,
+        "y": 117.0
+      },
+      {
+        "text": "D. power0",
+        "score": 0.930758,
+        "x": 828.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Which function in NumPy is used to calculate the exponential values of elements in an array?",
+        "score": 0.969243,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "Question:28",
+        "score": 0.997902,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A.exp0",
+        "score": 0.973948,
+        "x": 1652.9,
+        "y": 99.52
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.980447,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. exp_values()",
+        "score": 0.958382,
+        "x": 1654.84,
+        "y": 163.92
+      },
+      {
+        "text": "C. exponential)",
+        "score": 0.941618,
+        "x": 1656.77,
+        "y": 234.17
+      },
+      {
+        "text": "D. power0",
+        "score": 0.919344,
+        "x": 1654.84,
+        "y": 298.56
+      }
+    ]
+  },
+  {
+    "question": 29,
+    "image": "/exams/FA25-FE/images/Q29.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "49a742d1ccb5e95968cafa6506b024ae8b7ccbd7ddd56cbb5ffdeb9899921766",
+    "pass_original": [
+      {
+        "text": "Question:29",
+        "score": 0.985065,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "Howdoesthecsvmodule inPythoncontribute toworkingwithCSVfiles?",
+        "score": 0.965564,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.It createsgraphical visualizations",
+        "score": 0.953775,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.956103,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.It facilitatessorting datainascending order",
+        "score": 0.953166,
+        "x": 829.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.It providesfunctionalityforreading from andwriting toCSVfiles",
+        "score": 0.962432,
+        "x": 831.0,
+        "y": 120.0
+      },
+      {
+        "text": "D.It is used for performing statistical analysis",
+        "score": 0.942485,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "How does the csv module in Python contribute to working with CSV files?",
+        "score": 0.976319,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "Question:29",
+        "score": 0.98617,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A.lt createsgraphical visualizations",
+        "score": 0.971068,
+        "x": 1656.77,
+        "y": 105.38
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.972856,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.It facilitatessorting data inascending order",
+        "score": 0.955665,
+        "x": 1656.77,
+        "y": 171.72
+      },
+      {
+        "text": "C. It provides functionality for reading from and writing to CSV files",
+        "score": 0.942907,
+        "x": 1658.71,
+        "y": 236.12
+      },
+      {
+        "text": "D.It isusedforperforming statistical analysis",
+        "score": 0.950551,
+        "x": 1660.65,
+        "y": 306.37
+      }
+    ]
+  },
+  {
+    "question": 30,
+    "image": "/exams/FA25-FE/images/Q30.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "9d3013f40e1bf2d06b000cba6bd93d6dfd331fa3e56a1c66fc172bc6833ddb9c",
+    "pass_original": [
+      {
+        "text": "How would you access the first-row and first column in the dataframe df?",
+        "score": 0.976848,
+        "x": 831.0,
+        "y": 19.0
+      },
+      {
+        "text": "Question:30",
+        "score": 0.979281,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A. df.ix[0,0]",
+        "score": 0.895879,
+        "x": 828.0,
+        "y": 51.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.949859,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.df.ix[1,0]",
+        "score": 0.96517,
+        "x": 828.0,
+        "y": 84.0
+      },
+      {
+        "text": "C. df.x[0,1]",
+        "score": 0.921837,
+        "x": 829.0,
+        "y": 117.0
+      },
+      {
+        "text": "D. df.ix[1,1]",
+        "score": 0.932954,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "How would you access the first-row and first column in the dataframe df?",
+        "score": 0.989626,
+        "x": 1662.58,
+        "y": 39.03
+      },
+      {
+        "text": "Question: 30",
+        "score": 0.988074,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.980659,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. df.ix[1,0]",
+        "score": 0.941138,
+        "x": 1652.9,
+        "y": 167.82
+      },
+      {
+        "text": "C. df.ix[0,1]",
+        "score": 0.973504,
+        "x": 1656.77,
+        "y": 234.17
+      },
+      {
+        "text": "D. df.x[1,1]",
+        "score": 0.961432,
+        "x": 1656.77,
+        "y": 300.51
+      }
+    ]
+  },
+  {
+    "question": 31,
+    "image": "/exams/FA25-FE/images/Q31.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "7bfac9e3723e08eb2de24b4007af4d0718fa0704eec79b63de9b7137340580da",
+    "pass_original": [
+      {
+        "text": "Question:31",
+        "score": 0.984444,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "In the simplelinearregressionequation,the termB0 represents the:",
+        "score": 0.947433,
+        "x": 831.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.estimated slope",
+        "score": 0.974989,
+        "x": 829.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.967624,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.estimated orpredicted response",
+        "score": 0.97087,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.estimated intercept",
+        "score": 0.975698,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.explanatory variable",
+        "score": 0.977284,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "In the simple linear regression equation, the term BO represents the:",
+        "score": 0.980763,
+        "x": 1656.77,
+        "y": 37.08
+      },
+      {
+        "text": "Question:31",
+        "score": 0.995899,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A. estimated slope",
+        "score": 0.964572,
+        "x": 1656.77,
+        "y": 107.33
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.931186,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. estimated or predicted response",
+        "score": 0.967623,
+        "x": 1656.77,
+        "y": 171.72
+      },
+      {
+        "text": "C.estimated intercept",
+        "score": 0.99137,
+        "x": 1656.77,
+        "y": 236.12
+      },
+      {
+        "text": "D.explanatory variable",
+        "score": 0.976957,
+        "x": 1660.65,
+        "y": 304.42
+      }
+    ]
+  },
+  {
+    "question": 32,
+    "image": "/exams/FA25-FE/images/Q32.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "1abeca62b4123ea338c5ab6adcf70eeedf86aefd3753f31181d0a3090d8a449a",
+    "pass_original": [
+      {
+        "text": "Question:32",
+        "score": 0.980717,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "Which method inMatplotlib isused to saveaplotasan imagefile?",
+        "score": 0.959123,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "A. savefig(",
+        "score": 0.922883,
+        "x": 828.0,
+        "y": 50.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.949315,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.save_figure0",
+        "score": 0.941614,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. save_plot0",
+        "score": 0.931478,
+        "x": 829.0,
+        "y": 117.0
+      },
+      {
+        "text": "D. save_image()",
+        "score": 0.917814,
+        "x": 828.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question: 32",
+        "score": 0.962885,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A. savefig0",
+        "score": 0.910269,
+        "x": 1654.84,
+        "y": 101.47
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.980447,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. save_figure0",
+        "score": 0.940247,
+        "x": 1654.84,
+        "y": 167.82
+      },
+      {
+        "text": "C. save_plot)",
+        "score": 0.939057,
+        "x": 1656.77,
+        "y": 234.17
+      },
+      {
+        "text": "D. save_image0",
+        "score": 0.937459,
+        "x": 1658.71,
+        "y": 298.56
+      }
+    ]
+  },
+  {
+    "question": 33,
+    "image": "/exams/FA25-FE/images/Q33.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "501a061caf8a02b0c3c4f9412aa67f4b10148d28239a845413fb5d1044d73a79",
+    "pass_original": [
+      {
+        "text": "Given the following DataFrame df:",
+        "score": 0.967358,
+        "x": 831.0,
+        "y": 19.0
+      },
+      {
+        "text": "Question:33",
+        "score": 0.985405,
+        "x": 19.0,
+        "y": 20.0
+      },
+      {
+        "text": "import pandas as pd",
+        "score": 0.996572,
+        "x": 830.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.977881,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "data ={",
+        "score": 0.938618,
+        "x": 831.0,
+        "y": 86.0
+      },
+      {
+        "text": "‘Department': [HR',\"HR',IT,IT,'Sales', 'Sales','HR', IT],",
+        "score": 0.809286,
+        "x": 846.0,
+        "y": 102.0
+      },
+      {
+        "text": "Employee'[Hieu',“Hao','Hoa'，“Kiem',“Khanh'，“Phuc'，Thu'，'Nga’],",
+        "score": 0.789102,
+        "x": 848.0,
+        "y": 120.0
+      },
+      {
+        "text": "'Salary': [50000, 60000,70000, 80000, 75000, 90000,65000, 72000]",
+        "score": 0.954237,
+        "x": 847.0,
+        "y": 136.0
+      },
+      {
+        "text": "df = pd.DataFrame(data)",
+        "score": 0.971022,
+        "x": 829.0,
+        "y": 169.0
+      },
+      {
+        "text": "Which of the following code snippets will correctly calculate the average salaryby department?",
+        "score": 0.954111,
+        "x": 829.0,
+        "y": 201.0
+      },
+      {
+        "text": "A.df.groupby(Department)[Salary'].mean()",
+        "score": 0.941308,
+        "x": 829.0,
+        "y": 234.0
+      },
+      {
+        "text": "B.df.groupby(Department)[Salary].average()",
+        "score": 0.959664,
+        "x": 829.0,
+        "y": 268.0
+      },
+      {
+        "text": "C.df.groupby(Employee)[Salary].mean()",
+        "score": 0.946128,
+        "x": 829.0,
+        "y": 300.0
+      },
+      {
+        "text": "D.df.groupby(Department')[Salary'].count)",
+        "score": 0.938163,
+        "x": 830.0,
+        "y": 334.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question:33",
+        "score": 0.992488,
+        "x": 36.77,
+        "y": 37.08
+      },
+      {
+        "text": "Given thefollowingDataFramedf:",
+        "score": 0.957603,
+        "x": 1662.58,
+        "y": 39.03
+      },
+      {
+        "text": "import pandas as pd",
+        "score": 0.974553,
+        "x": 1660.65,
+        "y": 103.42
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.970634,
+        "x": 38.71,
+        "y": 126.84
+      },
+      {
+        "text": "data ={",
+        "score": 0.908611,
+        "x": 1660.65,
+        "y": 169.77
+      },
+      {
+        "text": "'Department: [HR','HR','T, 'IT','Sales','Sales',\"HR', \"T],",
+        "score": 0.823142,
+        "x": 1689.68,
+        "y": 206.85
+      },
+      {
+        "text": "'Employee':『Hieu'，“Hao',“Hoa',“Kiem','Khanh”,'Phuc’,“Thu',\"Nga],",
+        "score": 0.761273,
+        "x": 1689.68,
+        "y": 236.12
+      },
+      {
+        "text": "'Salary':[50000, 60000,70000, 80000,75000, 90000,65000,72000]",
+        "score": 0.954829,
+        "x": 1689.68,
+        "y": 269.29
+      },
+      {
+        "text": "df = pd.DataFrame(data)",
+        "score": 0.970874,
+        "x": 1660.65,
+        "y": 339.54
+      },
+      {
+        "text": "Which of the following code snippets will correctly calculate the average salary by department?",
+        "score": 0.957157,
+        "x": 1660.65,
+        "y": 403.94
+      },
+      {
+        "text": "A.df.groupby(Department')'Salary].mean0",
+        "score": 0.925415,
+        "x": 1658.71,
+        "y": 468.33
+      },
+      {
+        "text": "B.df.groupby(Department)'Salary].average0",
+        "score": 0.926448,
+        "x": 1658.71,
+        "y": 536.63
+      },
+      {
+        "text": "C.df.groupby(Employee)[Salary].mean0)",
+        "score": 0.940712,
+        "x": 1658.71,
+        "y": 599.08
+      },
+      {
+        "text": "D. df.groupby(Department)['Salary].count()",
+        "score": 0.943339,
+        "x": 1658.71,
+        "y": 665.42
+      }
+    ]
+  },
+  {
+    "question": 34,
+    "image": "/exams/FA25-FE/images/Q34.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "00698c4161b4fe752ddaca53d5998b6b755e6d9af1285c4e4b2b598495dfedc5",
+    "pass_original": [
+      {
+        "text": "Question:34",
+        "score": 0.981582,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "What's thebest way to display median and outliers?",
+        "score": 0.934429,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.A time series plot",
+        "score": 0.984747,
+        "x": 829.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1 answer)",
+        "score": 0.958092,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.A bubble chart",
+        "score": 0.972459,
+        "x": 829.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.A scatter plot",
+        "score": 0.96584,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. A box plot",
+        "score": 0.987622,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What's the best way to display median and outliers?",
+        "score": 0.966699,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "Question: 34",
+        "score": 0.9759,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A. A time series plot",
+        "score": 0.979873,
+        "x": 1656.77,
+        "y": 107.33
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.976759,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. A bubble chart",
+        "score": 0.964661,
+        "x": 1654.84,
+        "y": 169.77
+      },
+      {
+        "text": "C. A scatter plot",
+        "score": 0.948239,
+        "x": 1658.71,
+        "y": 238.07
+      },
+      {
+        "text": "D. A box plot",
+        "score": 0.970485,
+        "x": 1658.71,
+        "y": 302.47
+      }
+    ]
+  },
+  {
+    "question": 35,
+    "image": "/exams/FA25-FE/images/Q35.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "384c21608bebb77da1abe547662a78195f18501b90db2ffe19c67aa6dffa997e",
+    "pass_original": [
+      {
+        "text": "lfyou gota75ona testina class witha mean score of 85and a standard deviation of 5,thez-score of your",
+        "score": 0.927504,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "Question:35",
+        "score": 0.976955,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "testscorewouldbe",
+        "score": 0.995726,
+        "x": 832.0,
+        "y": 38.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.966582,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A.3",
+        "score": 0.973269,
+        "x": 830.0,
+        "y": 69.0
+      },
+      {
+        "text": "B.-3",
+        "score": 0.968738,
+        "x": 829.0,
+        "y": 102.0
+      },
+      {
+        "text": "C.2",
+        "score": 0.992859,
+        "x": 829.0,
+        "y": 134.0
+      },
+      {
+        "text": "D.-2",
+        "score": 0.965575,
+        "x": 828.0,
+        "y": 166.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "1f you got a 75 ona test in a class with a mean score of 85 and a standard deviation of 5, the z-score of your",
+        "score": 0.940443,
+        "x": 1656.77,
+        "y": 37.08
+      },
+      {
+        "text": "Question:35",
+        "score": 0.996632,
+        "x": 38.71,
+        "y": 40.98
+      },
+      {
+        "text": "testscorewouldbe",
+        "score": 0.997531,
+        "x": 1660.65,
+        "y": 72.2
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.981094,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "A.3",
+        "score": 0.981173,
+        "x": 1654.84,
+        "y": 136.6
+      },
+      {
+        "text": "B.-3",
+        "score": 0.992189,
+        "x": 1654.84,
+        "y": 204.9
+      },
+      {
+        "text": "C.2",
+        "score": 0.992172,
+        "x": 1654.84,
+        "y": 269.29
+      },
+      {
+        "text": "D. -2",
+        "score": 0.924789,
+        "x": 1656.77,
+        "y": 335.64
+      }
+    ]
+  },
+  {
+    "question": 36,
+    "image": "/exams/FA25-FE/images/Q36.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "5a53442d145ad4cb8c384b1955267f8ba83ca5715b65d0644db4a52649b59fa9",
+    "pass_original": [
+      {
+        "text": "Question:36",
+        "score": 0.986952,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "Pearsoncorrelationareconcernedwith",
+        "score": 0.993592,
+        "x": 831.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.therelationshipbetweena quantitative explanatoryvariable and a categorical responsevariable",
+        "score": 0.968533,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.951773,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.therelationshipbetween twoquantitativevariables",
+        "score": 0.978737,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.therelationshipbetweenacategoricalexplanatoryvariableandaquantitativeresponsevariable",
+        "score": 0.984968,
+        "x": 831.0,
+        "y": 120.0
+      },
+      {
+        "text": "D.therelationshipbetween twocategoricalvariables",
+        "score": 0.987576,
+        "x": 830.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question:36",
+        "score": 0.980398,
+        "x": 38.71,
+        "y": 40.98
+      },
+      {
+        "text": "Pearsoncorrelationareconcermedwith",
+        "score": 0.986857,
+        "x": 1662.58,
+        "y": 40.98
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.966243,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.therelationshipbetweentwoquantitativevariables",
+        "score": 0.986775,
+        "x": 1658.71,
+        "y": 171.72
+      },
+      {
+        "text": "D.therelationshipbetweentwocategoricalvariables",
+        "score": 0.989707,
+        "x": 1660.65,
+        "y": 304.42
+      }
+    ]
+  },
+  {
+    "question": 37,
+    "image": "/exams/FA25-FE/images/Q37.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "1140ae61d7257b0c4abd49327750d45c3b0f0916c90145334bddcc2af8f9f735",
+    "pass_original": [
+      {
+        "text": "Which assumption is crucial for ANOVA testing?",
+        "score": 0.958875,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "Question:37",
+        "score": 0.984226,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Homogeneity of variance",
+        "score": 0.951622,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.965682,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Skewness of the data",
+        "score": 0.966391,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.Independence of observations",
+        "score": 0.966505,
+        "x": 829.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Multicollinearitybetweenvariables",
+        "score": 0.984558,
+        "x": 829.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Which assumption is crucial for ANOVA testing?",
+        "score": 0.993751,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "Question:37",
+        "score": 0.991728,
+        "x": 38.71,
+        "y": 40.98
+      },
+      {
+        "text": "A.Homogeneity of variance",
+        "score": 0.978538,
+        "x": 1658.71,
+        "y": 107.33
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.980692,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.Skewness of the data",
+        "score": 0.917904,
+        "x": 1654.84,
+        "y": 169.77
+      },
+      {
+        "text": "C. Independence of observations",
+        "score": 0.970471,
+        "x": 1660.65,
+        "y": 238.07
+      },
+      {
+        "text": "D. Multicollinearity between variables",
+        "score": 0.957636,
+        "x": 1660.65,
+        "y": 302.47
+      }
+    ]
+  },
+  {
+    "question": 38,
+    "image": "/exams/FA25-FE/images/Q38.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "2010a2526d32db43a084545f12fe4a3c2fb69501e9a3a30893b353889e8f80d0",
+    "pass_original": [
+      {
+        "text": "Question:38",
+        "score": 0.98302,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.GLM is only applicable to binary outcomes",
+        "score": 0.948394,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.961427,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.GLMallows for non-linearrelationshipsbetween variables",
+        "score": 0.968638,
+        "x": 829.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.GLM requires normality assumptions about the residuals",
+        "score": 0.963972,
+        "x": 831.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.GLM extends the scope beyond linear regression tovarious types of dependent variables and error",
+        "score": 0.959346,
+        "x": 829.0,
+        "y": 150.0
+      },
+      {
+        "text": "distributions",
+        "score": 0.967962,
+        "x": 829.0,
+        "y": 169.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What distinguishes Generalized Linear Models (GLM) from traditional linear regression models?",
+        "score": 0.972696,
+        "x": 1658.71,
+        "y": 37.08
+      },
+      {
+        "text": "Question:38",
+        "score": 0.974872,
+        "x": 38.71,
+        "y": 40.98
+      },
+      {
+        "text": "A.GLM is only applicable to binary outcomes",
+        "score": 0.979444,
+        "x": 1658.71,
+        "y": 107.33
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.952421,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. GLM allows for non-linear relationships between variables",
+        "score": 0.9604,
+        "x": 1660.65,
+        "y": 171.72
+      },
+      {
+        "text": "C. GLM requires normality assumptions about the residuals",
+        "score": 0.98699,
+        "x": 1660.65,
+        "y": 240.02
+      },
+      {
+        "text": "D. GLM extends the scope beyond inear regression to various types of dependent variables and error",
+        "score": 0.982704,
+        "x": 1656.77,
+        "y": 300.51
+      },
+      {
+        "text": "distnibutions",
+        "score": 0.94299,
+        "x": 1660.65,
+        "y": 339.54
+      }
+    ]
+  },
+  {
+    "question": 39,
+    "image": "/exams/FA25-FE/images/Q39.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "c6ba76bd50e9301ed61e1edb3bed77798127f3b684b03579ffa4fe83a52a810c",
+    "pass_original": [
+      {
+        "text": "Question:39",
+        "score": 0.978097,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "What is asuitablewaytodisplay the averagebasketballscoresbetweentwo teams?",
+        "score": 0.961671,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.A bar chart",
+        "score": 0.961007,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.949758,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. A pie chart",
+        "score": 0.95045,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.A histogram",
+        "score": 0.958428,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.A scatter plot",
+        "score": 0.957244,
+        "x": 829.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question: 39",
+        "score": 0.97052,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A.A bar chart",
+        "score": 0.986619,
+        "x": 1654.84,
+        "y": 103.42
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.980659,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. A pie chart",
+        "score": 0.964644,
+        "x": 1654.84,
+        "y": 167.82
+      },
+      {
+        "text": "C. A histogram",
+        "score": 0.956972,
+        "x": 1658.71,
+        "y": 234.17
+      },
+      {
+        "text": "D.A scatter plot",
+        "score": 0.968168,
+        "x": 1656.77,
+        "y": 300.51
+      }
+    ]
+  },
+  {
+    "question": 40,
+    "image": "/exams/FA25-FE/images/Q40.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "b119283782d4626a5c2ed1694c666ee03966618f2ae5735ba9f37f0ab0bf4660",
+    "pass_original": [
+      {
+        "text": "Question:40",
+        "score": 0.98749,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A manufacturing companywants to compare themean tensilestrengthof twodifferentmaterialsused in their",
+        "score": 0.956678,
+        "x": 831.0,
+        "y": 21.0
+      },
+      {
+        "text": "products.They collect data from twoindependent samples:Material A(n=20)and Material B(n=25).After",
+        "score": 0.95405,
+        "x": 829.0,
+        "y": 37.0
+      },
+      {
+        "text": "conducting a two-sample t-test,the calculated p-value is 0.10.What decision should the companymake",
+        "score": 0.967595,
+        "x": 829.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.965472,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "regarding thenullhypothesisatasignificancelevelofO.05?",
+        "score": 0.971234,
+        "x": 829.0,
+        "y": 69.0
+      },
+      {
+        "text": "A.Material typewill affect to the strength of tensile",
+        "score": 0.953109,
+        "x": 831.0,
+        "y": 104.0
+      },
+      {
+        "text": "B.Material A willhavehigher strength thanMaterial B",
+        "score": 0.93668,
+        "x": 829.0,
+        "y": 134.0
+      },
+      {
+        "text": "C.Material Bwill have higher strength than Material A",
+        "score": 0.946398,
+        "x": 831.0,
+        "y": 170.0
+      },
+      {
+        "text": "D.Inconclusive test since thep-value is too small",
+        "score": 0.966993,
+        "x": 830.0,
+        "y": 202.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "A manufacturing company wants to compare the mean tensile strength of two different materials used in their",
+        "score": 0.951534,
+        "x": 1660.65,
+        "y": 40.98
+      },
+      {
+        "text": "Question:40",
+        "score": 0.994473,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "products.They collect data from two independent samples:Material A (n=20) and Material B (n=25).After",
+        "score": 0.975745,
+        "x": 1662.58,
+        "y": 76.1
+      },
+      {
+        "text": "conducting a two-sample t-test, the calculated p-value is 0.10.What decision should the company make",
+        "score": 0.957479,
+        "x": 1662.58,
+        "y": 109.28
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.972625,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "regarding thenullhypothesisatasignificancelevel of0.05?",
+        "score": 0.945946,
+        "x": 1658.71,
+        "y": 138.55
+      },
+      {
+        "text": "A. Material type will affect to the strength of tensile",
+        "score": 0.927588,
+        "x": 1660.65,
+        "y": 206.85
+      },
+      {
+        "text": "B. Material A will have higher strength than Material B",
+        "score": 0.948072,
+        "x": 1658.71,
+        "y": 271.24
+      },
+      {
+        "text": "C. Material B will have higher strength than Material A",
+        "score": 0.963203,
+        "x": 1658.71,
+        "y": 337.59
+      },
+      {
+        "text": "D. Inconclusive test since the p-value is too small",
+        "score": 0.978528,
+        "x": 1660.65,
+        "y": 403.94
+      }
+    ]
+  },
+  {
+    "question": 41,
+    "image": "/exams/FA25-FE/images/Q41.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "b15da643a54b9e0de97a9a4674a9190e8b49561ac53d606ff873acd3f1526af3",
+    "pass_original": [
+      {
+        "text": "Question:41",
+        "score": 0.985718,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "You havecollecteddatafrom two independent samplesandwant tocompare theirmeansusinga t-test.",
+        "score": 0.962887,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "Beforeproceeding with the t-test,you decide to conductaLevene's test.Whichstatementbest describesthe",
+        "score": 0.951619,
+        "x": 831.0,
+        "y": 37.0
+      },
+      {
+        "text": "purpose of performing the Levene's test in this context?",
+        "score": 0.947426,
+        "x": 830.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.964734,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "A.To assess the equality of variances between the two samples.",
+        "score": 0.969163,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "B.Toevaluate theeffectsizeof thedifferencebetween themeans",
+        "score": 0.965,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "C.To identify potential outliers in the dataset.",
+        "score": 0.936004,
+        "x": 829.0,
+        "y": 150.0
+      },
+      {
+        "text": "D.To determine whether the data is normally distributed.",
+        "score": 0.947319,
+        "x": 830.0,
+        "y": 186.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Youhavecollecteddatafrom twoindependentsamplesandwanttocomparetheirmeansusingat-test.",
+        "score": 0.976253,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "Question:41",
+        "score": 0.989482,
+        "x": 38.71,
+        "y": 40.98
+      },
+      {
+        "text": "Before proceeding with the t-test, you decide to conduct a Levene's test.Which statement best describes the",
+        "score": 0.966004,
+        "x": 1662.58,
+        "y": 74.15
+      },
+      {
+        "text": "purpose of performing the Levene's test in this context?",
+        "score": 0.969109,
+        "x": 1660.65,
+        "y": 105.38
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.972857,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "A.To assess the equality of variances between the two samples.",
+        "score": 0.974973,
+        "x": 1658.71,
+        "y": 171.72
+      },
+      {
+        "text": "B.To evaluate theeffectsizeof thedifferencebetween themeans.",
+        "score": 0.951876,
+        "x": 1658.71,
+        "y": 236.12
+      },
+      {
+        "text": "C. To identify potential outiers in the dataset.",
+        "score": 0.985623,
+        "x": 1662.58,
+        "y": 306.37
+      },
+      {
+        "text": "D.To determinewhether thedata isnormallydistributed.",
+        "score": 0.95052,
+        "x": 1662.58,
+        "y": 370.76
+      }
+    ]
+  },
+  {
+    "question": 42,
+    "image": "/exams/FA25-FE/images/Q42.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "9853603ba9bcfdba2dd41cf32b14c58367306c4b3a2dd658751f0b71dadfdc1b",
+    "pass_original": [
+      {
+        "text": "What is the primary challenge when dealing with underfitting?",
+        "score": 0.937471,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "Question:42",
+        "score": 0.984814,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A. High bias",
+        "score": 0.968847,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.969427,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Low training error",
+        "score": 0.973402,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Modelcomplexity",
+        "score": 0.994012,
+        "x": 829.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Overreliance on the validation set",
+        "score": 0.979506,
+        "x": 830.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question:42",
+        "score": 0.99567,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A. High bias",
+        "score": 0.954275,
+        "x": 1656.77,
+        "y": 107.33
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.981261,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. Low training error",
+        "score": 0.951259,
+        "x": 1656.77,
+        "y": 169.77
+      },
+      {
+        "text": "C.Model complexity",
+        "score": 0.980848,
+        "x": 1658.71,
+        "y": 236.12
+      },
+      {
+        "text": "D.Overreliance on the validation set",
+        "score": 0.972213,
+        "x": 1658.71,
+        "y": 300.51
+      }
+    ]
+  },
+  {
+    "question": 43,
+    "image": "/exams/FA25-FE/images/Q43.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "7f3accea7127525f9dfd3aabbabf88b76ecbf28560c936af1076f311456af7f8",
+    "pass_original": [
+      {
+        "text": "What is theprimarypurpose of feature scaling in machine learning?",
+        "score": 0.966345,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "Question:43",
+        "score": 0.986845,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.To convert categorical features into numerical values",
+        "score": 0.968441,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.963651,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.To standardize therange of independent variables",
+        "score": 0.972952,
+        "x": 829.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.To increase the complexity of the model",
+        "score": 0.957061,
+        "x": 829.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.To reduce the dimensionality of the dataset",
+        "score": 0.957826,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "wea suyoe un ues ane o asodnd ewd a si eu",
+        "score": 0.51553,
+        "x": 1658.71,
+        "y": 37.08
+      },
+      {
+        "text": "Question:43",
+        "score": 0.983471,
+        "x": 38.71,
+        "y": 40.98
+      },
+      {
+        "text": "A. To convert categorical features into numerical values",
+        "score": 0.977377,
+        "x": 1660.65,
+        "y": 109.28
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.97481,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.To standardize the range of independent variables",
+        "score": 0.980385,
+        "x": 1658.71,
+        "y": 171.72
+      },
+      {
+        "text": "C.To increase the complexityof the model",
+        "score": 0.969163,
+        "x": 1660.65,
+        "y": 236.12
+      },
+      {
+        "text": "D.To reduce the dimensionality of the dataset",
+        "score": 0.971377,
+        "x": 1660.65,
+        "y": 302.47
+      }
+    ]
+  },
+  {
+    "question": 44,
+    "image": "/exams/FA25-FE/images/Q44.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "86ed8df855a56e530b5bf5973085edd14e38f57bcce76ce9bc83e38884def10e",
+    "pass_original": [
+      {
+        "text": "WhichPandas method is used tocheckfor and handle missing values in a DataFrame?",
+        "score": 0.942565,
+        "x": 831.0,
+        "y": 19.0
+      },
+      {
+        "text": "Question:44",
+        "score": 0.980708,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.clean0",
+        "score": 0.91228,
+        "x": 828.0,
+        "y": 51.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.949315,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.check_missing0",
+        "score": 0.955639,
+        "x": 829.0,
+        "y": 83.0
+      },
+      {
+        "text": "C.fill_missing0s",
+        "score": 0.894643,
+        "x": 829.0,
+        "y": 117.0
+      },
+      {
+        "text": "D. isnullO",
+        "score": 0.884022,
+        "x": 828.0,
+        "y": 149.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Question:44",
+        "score": 0.997783,
+        "x": 36.77,
+        "y": 39.03
+      },
+      {
+        "text": "WhichPandas method is used to check for and handle missing values in a DataFrame?",
+        "score": 0.951498,
+        "x": 1660.65,
+        "y": 39.03
+      },
+      {
+        "text": "A.clean0",
+        "score": 0.958819,
+        "x": 1654.84,
+        "y": 103.42
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.980447,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. check_missing0",
+        "score": 0.975202,
+        "x": 1654.84,
+        "y": 167.82
+      },
+      {
+        "text": "C. fil_missing0s",
+        "score": 0.915724,
+        "x": 1656.77,
+        "y": 234.17
+      },
+      {
+        "text": "D. isnull0",
+        "score": 0.920785,
+        "x": 1654.84,
+        "y": 296.61
+      }
+    ]
+  },
+  {
+    "question": 45,
+    "image": "/exams/FA25-FE/images/Q45.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "18c0d00fc936a6002d411fb9770660fd9609799e22b50ecbc4bcd832667c4f18",
+    "pass_original": [
+      {
+        "text": "Question:45",
+        "score": 0.984403,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "Ink-fold cross-validation,how many times is the dataset split into training and test sets?",
+        "score": 0.9511,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Once",
+        "score": 0.981587,
+        "x": 828.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.967389,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Twice",
+        "score": 0.993784,
+        "x": 828.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.ktimes",
+        "score": 0.990056,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.It depends on the size of the dataset",
+        "score": 0.937748,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "In k-fold cross-validation, how many times is the dataset split into training and test sets?",
+        "score": 0.981132,
+        "x": 1658.71,
+        "y": 39.03
+      },
+      {
+        "text": "Question:45",
+        "score": 0.995875,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A.Once",
+        "score": 0.990711,
+        "x": 1652.9,
+        "y": 103.42
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.979178,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.Twice",
+        "score": 0.998749,
+        "x": 1654.84,
+        "y": 169.77
+      },
+      {
+        "text": "C.ktimes",
+        "score": 0.982933,
+        "x": 1656.77,
+        "y": 234.17
+      },
+      {
+        "text": "D. It depends on the size of the dataset",
+        "score": 0.97715,
+        "x": 1660.65,
+        "y": 304.42
+      }
+    ]
+  },
+  {
+    "question": 46,
+    "image": "/exams/FA25-FE/images/Q46.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "73106475e9a7ec275de21721cc90aea6bfdda860d89b8e5b418dfeecb94c4847",
+    "pass_original": [
+      {
+        "text": "Question:46",
+        "score": 0.988001,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "If the R-squared (R2) value of a regression model is 0.75,what does this mean?",
+        "score": 0.943757,
+        "x": 831.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.The model explains75%of the variance in the dependent variable",
+        "score": 0.960627,
+        "x": 831.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.9566,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.Themodelhasa75%accuracyrate",
+        "score": 0.995782,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Themodel hasa25%errorrate",
+        "score": 0.976557,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.The model isperfectlyaccurate",
+        "score": 0.963901,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "1f the R-squared (R2) value of a regression model is 0.75, what does this mean?",
+        "score": 0.990075,
+        "x": 1656.77,
+        "y": 37.08
+      },
+      {
+        "text": "Question:46",
+        "score": 0.984385,
+        "x": 38.71,
+        "y": 40.98
+      },
+      {
+        "text": "A. The model explains 75% of the variance in the dependent variable",
+        "score": 0.987298,
+        "x": 1660.65,
+        "y": 107.33
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.971323,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.Themodelhasa75%accuracyrate",
+        "score": 0.997679,
+        "x": 1658.71,
+        "y": 171.72
+      },
+      {
+        "text": "C.Themodelhasa25%errorrate",
+        "score": 0.990962,
+        "x": 1658.71,
+        "y": 236.12
+      },
+      {
+        "text": "D.The model isperfectly accurate",
+        "score": 0.985051,
+        "x": 1662.58,
+        "y": 306.37
+      }
+    ]
+  },
+  {
+    "question": 47,
+    "image": "/exams/FA25-FE/images/Q47.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "85fcf784beed2ab13e4a20c058a1e3af1a789577c09d084952cad26f9c779e9c",
+    "pass_original": [
+      {
+        "text": "Which method is used to address class imbalance in a classification problem?",
+        "score": 0.96935,
+        "x": 830.0,
+        "y": 18.0
+      },
+      {
+        "text": "Question:47",
+        "score": 0.985223,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Over-sampling the minority class",
+        "score": 0.982264,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.9686,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Under-sampling the majority class",
+        "score": 0.990798,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Synthetic data generation",
+        "score": 0.980302,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.All of the above",
+        "score": 0.945637,
+        "x": 829.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Which method is used to address class imbalance inaclassificationproblem?",
+        "score": 0.966509,
+        "x": 1662.58,
+        "y": 39.03
+      },
+      {
+        "text": "Question:47",
+        "score": 0.995919,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A.Over-sampling the minority class",
+        "score": 0.983979,
+        "x": 1656.77,
+        "y": 105.38
+      },
+      {
+        "text": "(Choose1 answer)",
+        "score": 0.95102,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. Under-sampling the majority class",
+        "score": 0.989541,
+        "x": 1658.71,
+        "y": 171.72
+      },
+      {
+        "text": "C. Synthetic data generation",
+        "score": 0.982846,
+        "x": 1660.65,
+        "y": 238.07
+      },
+      {
+        "text": "D. Allof the above",
+        "score": 0.975821,
+        "x": 1660.65,
+        "y": 304.42
+      }
+    ]
+  },
+  {
+    "question": 48,
+    "image": "/exams/FA25-FE/images/Q48.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "0288baec7ba1f50e8d23c13f30d7ad0ce142a09cae802508be8f18a38b04026c",
+    "pass_original": [
+      {
+        "text": "Question:48",
+        "score": 0.985184,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "Whichtechniqueisused toreduce thedimensionalityofadatasetwhilepreserving important information?",
+        "score": 0.979295,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Principal Component Analysis (PCA)",
+        "score": 0.958843,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.966231,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. K-Nearest Neighbors (KNN)",
+        "score": 0.983616,
+        "x": 829.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.Support Vector Machines (SVM)",
+        "score": 0.960416,
+        "x": 829.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Decision Trees",
+        "score": 0.971793,
+        "x": 829.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Which technique is used to reduce the dimensionality of a dataset while preserving important information?",
+        "score": 0.981935,
+        "x": 1658.71,
+        "y": 37.08
+      },
+      {
+        "text": "Question:48",
+        "score": 0.994859,
+        "x": 38.71,
+        "y": 42.93
+      },
+      {
+        "text": "A. Principal Component Analysis (PCA)",
+        "score": 0.987336,
+        "x": 1658.71,
+        "y": 109.28
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.979897,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B. K-Nearest Neighbors (KNN)",
+        "score": 0.973898,
+        "x": 1656.77,
+        "y": 171.72
+      },
+      {
+        "text": "C.Support Vector Machines (SVM)",
+        "score": 0.970086,
+        "x": 1658.71,
+        "y": 236.12
+      },
+      {
+        "text": "D.Decision Trees",
+        "score": 0.976639,
+        "x": 1662.58,
+        "y": 306.37
+      }
+    ]
+  },
+  {
+    "question": 49,
+    "image": "/exams/FA25-FE/images/Q49.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "8f606fef965b3f37074792a136d5f23c9c5b3d01583c401edfde00d79062a126",
+    "pass_original": [
+      {
+        "text": "If the correlation coefficient between twovariables is-0.75,what does this indicateabout therelationship",
+        "score": 0.948932,
+        "x": 829.0,
+        "y": 18.0
+      },
+      {
+        "text": "Question:49",
+        "score": 0.983214,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "between thevariables?",
+        "score": 0.964925,
+        "x": 831.0,
+        "y": 37.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.976142,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "A.Astrongpositivelinearrelationship",
+        "score": 0.986553,
+        "x": 830.0,
+        "y": 69.0
+      },
+      {
+        "text": "B.A strong negative linear relationship",
+        "score": 0.958886,
+        "x": 829.0,
+        "y": 102.0
+      },
+      {
+        "text": "C.A weak positive linear relationship",
+        "score": 0.929315,
+        "x": 829.0,
+        "y": 134.0
+      },
+      {
+        "text": "D.No linear relationship",
+        "score": 0.960301,
+        "x": 830.0,
+        "y": 168.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "1f the correlationcoefficient between twovariablesis-0.75,what doesthis indicate about therelationship",
+        "score": 0.942145,
+        "x": 1658.71,
+        "y": 37.08
+      },
+      {
+        "text": "Question:49",
+        "score": 0.987942,
+        "x": 36.77,
+        "y": 39.03
+      },
+      {
+        "text": "between thevariables?",
+        "score": 0.980834,
+        "x": 1662.58,
+        "y": 74.15
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.980733,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "A. A strong positive linear relationship",
+        "score": 0.979323,
+        "x": 1656.77,
+        "y": 136.6
+      },
+      {
+        "text": "B.Astrongnegativelinearrelationship",
+        "score": 0.975846,
+        "x": 1656.77,
+        "y": 204.9
+      },
+      {
+        "text": "C.A weak positive linear relationship",
+        "score": 0.983161,
+        "x": 1658.71,
+        "y": 269.29
+      },
+      {
+        "text": "D. No linear relationship",
+        "score": 0.956979,
+        "x": 1658.71,
+        "y": 335.64
+      }
+    ]
+  },
+  {
+    "question": 50,
+    "image": "/exams/FA25-FE/images/Q50.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "187a5d52352466ce10257c5f9249e21767d74cc1b660f850fac39d858f80d7c7",
+    "pass_original": [
+      {
+        "text": "What role does Conda play in managing dependencies in data science projects?",
+        "score": 0.955642,
+        "x": 830.0,
+        "y": 18.0
+      },
+      {
+        "text": "Question:50",
+        "score": 0.985277,
+        "x": 19.0,
+        "y": 21.0
+      },
+      {
+        "text": "A. It is a version control system for code",
+        "score": 0.926415,
+        "x": 829.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.958516,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.It is aweb-basedplatformfor collaboration",
+        "score": 0.965039,
+        "x": 829.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.It is apackage managerfor softwarelibraries and environments",
+        "score": 0.953149,
+        "x": 831.0,
+        "y": 120.0
+      },
+      {
+        "text": "D.It is aprogramming languagefor statistical analysis",
+        "score": 0.956797,
+        "x": 829.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What role does Conda play in managing dependencies in data science projects?",
+        "score": 0.99158,
+        "x": 1658.71,
+        "y": 37.08
+      },
+      {
+        "text": "Question:50",
+        "score": 0.979784,
+        "x": 38.71,
+        "y": 40.98
+      },
+      {
+        "text": "A.It is aversion control system forcode",
+        "score": 0.954467,
+        "x": 1660.65,
+        "y": 107.33
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.970862,
+        "x": 38.71,
+        "y": 124.89
+      },
+      {
+        "text": "B.lt is a web-basedplatform for collaboration",
+        "score": 0.948171,
+        "x": 1658.71,
+        "y": 171.72
+      },
+      {
+        "text": "C. It is a package manager for software libraries and environments",
+        "score": 0.980263,
+        "x": 1660.65,
+        "y": 238.07
+      },
+      {
+        "text": "D. It is a programming language for statistical analysis",
+        "score": 0.945854,
+        "x": 1658.71,
+        "y": 304.42
+      }
+    ]
+  }
+]

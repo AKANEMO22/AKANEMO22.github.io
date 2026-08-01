@@ -1,0 +1,5168 @@
+[
+  {
+    "question": 1,
+    "image": "/exams/FA24-RE/images/Q1.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "6aad294eec386ca4618aaa958645e357c75b37c249d1fca27f365ac518090486",
+    "pass_original": [
+      {
+        "text": "fuoverflow",
+        "score": 0.9992,
+        "x": 17.0,
+        "y": 18.0
+      },
+      {
+        "text": "What does the term \"Big Data\" refer to in Data Science?",
+        "score": 0.976299,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. Small datasets that fit in memory",
+        "score": 0.973145,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.978558,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Extremely large and complex datasets",
+        "score": 0.990685,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. Data collected from social media only",
+        "score": 0.984254,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. Data with low variability",
+        "score": 0.963724,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow",
+        "score": 0.998045,
+        "x": 23.23,
+        "y": 29.25
+      },
+      {
+        "text": "What does the term“BigData”refer toinDataScience?",
+        "score": 0.936159,
+        "x": 1248.39,
+        "y": 29.25
+      },
+      {
+        "text": "A. Small datasets that fit in memory",
+        "score": 0.961455,
+        "x": 1244.03,
+        "y": 77.51
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.989494,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.Extremely large and complex datasets",
+        "score": 0.966132,
+        "x": 1242.58,
+        "y": 127.24
+      },
+      {
+        "text": "C.Data collected from social media only",
+        "score": 0.981011,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.Datawith kowvariability",
+        "score": 0.945138,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 2,
+    "image": "/exams/FA24-RE/images/Q2.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "2f6da21692fff56ded4285b7a84eeb159f487b264d93b8174bbc1ade6090dada",
+    "pass_original": [
+      {
+        "text": "fuoverflow",
+        "score": 0.999438,
+        "x": 17.0,
+        "y": 18.0
+      },
+      {
+        "text": "What is the importance of exploratory data analysis (EDA) in Data Science?",
+        "score": 0.985771,
+        "x": 831.0,
+        "y": 21.0
+      },
+      {
+        "text": "A. Building machine learning models",
+        "score": 0.987905,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.974498,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Creating visualizations to understand data patterns",
+        "score": 0.996135,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. Cleaning and organizing raw data",
+        "score": 0.997628,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. Dealing with numerical data",
+        "score": 0.968414,
+        "x": 831.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow:",
+        "score": 0.971985,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "What istheimportanceofexploratory data analysis(EDA)inDataScience?",
+        "score": 0.965436,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "A.Building machine learning models",
+        "score": 0.982323,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.981347,
+        "x": 30.48,
+        "y": 95.06
+      },
+      {
+        "text": "B.Creating visualizations to understand data patterns",
+        "score": 0.955927,
+        "x": 1245.48,
+        "y": 128.7
+      },
+      {
+        "text": "C.Cleaning and organizingrawdata",
+        "score": 0.98359,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.Dealing withnumerical data",
+        "score": 0.96227,
+        "x": 1246.94,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 3,
+    "image": "/exams/FA24-RE/images/Q3.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "d9a6dcf5bfbaf4728d4186b7ffda1dbc6904ac34bb6cd103258e2df587b094fb",
+    "pass_original": [
+      {
+        "text": "fuoverflow",
+        "score": 0.998887,
+        "x": 16.0,
+        "y": 18.0
+      },
+      {
+        "text": "In the context of Data Science deployment, what are the key security considerations, and how can they be",
+        "score": 0.986081,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "addressed?",
+        "score": 0.998581,
+        "x": 831.0,
+        "y": 38.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.967958,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A.Security considerations only apply to data collection",
+        "score": 0.98175,
+        "x": 830.0,
+        "y": 69.0
+      },
+      {
+        "text": "B. Security considerations involve protecting data from unauthorized access and ensuring model robustness",
+        "score": 0.991979,
+        "x": 831.0,
+        "y": 104.0
+      },
+      {
+        "text": "C. Security considerations are unrelated to the deployment stage",
+        "score": 0.990002,
+        "x": 830.0,
+        "y": 135.0
+      },
+      {
+        "text": "D. Security considerations focus on optimizing model performance",
+        "score": 0.984719,
+        "x": 830.0,
+        "y": 168.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow:",
+        "score": 0.938093,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "addressed?",
+        "score": 0.99658,
+        "x": 1248.39,
+        "y": 57.04
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.984965,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "A.Security considerationsonly apply to datacollection",
+        "score": 0.959467,
+        "x": 1245.48,
+        "y": 105.3
+      },
+      {
+        "text": "B.Security considerations involve protecting data from unauthorized access and ensuring model robustness",
+        "score": 0.983166,
+        "x": 1244.03,
+        "y": 153.56
+      },
+      {
+        "text": "C.Security considerations are unrelated to the deployment stage",
+        "score": 0.972341,
+        "x": 1245.48,
+        "y": 204.75
+      },
+      {
+        "text": "D.Security considerations focus on optimizing model performance",
+        "score": 0.983291,
+        "x": 1245.48,
+        "y": 253.01
+      }
+    ]
+  },
+  {
+    "question": 4,
+    "image": "/exams/FA24-RE/images/Q4.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "cd07a5fcee5fdc0124ec44ca5d6ef31cb42e598276bd4e066ed571f7cd0fe219",
+    "pass_original": [
+      {
+        "text": "fuoverflow",
+        "score": 0.999723,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "What is the initial step in the Data Science pipeline?",
+        "score": 0.978394,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. Problem formulation",
+        "score": 0.994198,
+        "x": 831.0,
+        "y": 54.0
+      },
+      {
+        "text": "(Choose 1answer)",
+        "score": 0.958364,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Data collection",
+        "score": 0.969597,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. Modeling",
+        "score": 0.994897,
+        "x": 830.0,
+        "y": 117.0
+      },
+      {
+        "text": "D. Deployment",
+        "score": 0.9934,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow",
+        "score": 0.999244,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "What is the initial step in the Data Science pipeline?",
+        "score": 0.991163,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "A.Problem formulation",
+        "score": 0.981304,
+        "x": 1244.03,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.945843,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B. Data collection",
+        "score": 0.973935,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C. Modeling",
+        "score": 0.951886,
+        "x": 1242.58,
+        "y": 175.5
+      },
+      {
+        "text": "D. Deployment",
+        "score": 0.96258,
+        "x": 1244.03,
+        "y": 225.22
+      }
+    ]
+  },
+  {
+    "question": 5,
+    "image": "/exams/FA24-RE/images/Q5.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "75a5dd2a12a3a60543caa492a1f889219d8d59b453136fa2cae3063e2e200d78",
+    "pass_original": [
+      {
+        "text": "fuoverflowi",
+        "score": 0.981732,
+        "x": 16.0,
+        "y": 16.0
+      },
+      {
+        "text": "What is the primary function of the BeautifulSoup library in Python?",
+        "score": 0.979203,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. Scraping and parsing HTML/XML data",
+        "score": 0.985203,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.980458,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Handling HTTP requests",
+        "score": 0.991413,
+        "x": 831.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. Cleaning and preprocessing text data",
+        "score": 0.99501,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. Analyzing financial data",
+        "score": 0.983319,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow i",
+        "score": 0.959919,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "What is the primary function of theBeautifulSoup library in Python?",
+        "score": 0.9736,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "A. Scraping and parsing HTML/XML data",
+        "score": 0.979791,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.989854,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.Handling HTTP requests",
+        "score": 0.961668,
+        "x": 1244.03,
+        "y": 127.24
+      },
+      {
+        "text": "C. Cleaning and preprocessing text data",
+        "score": 0.986332,
+        "x": 1245.48,
+        "y": 176.96
+      },
+      {
+        "text": "D.Analyzing financial data",
+        "score": 0.970289,
+        "x": 1245.48,
+        "y": 229.61
+      }
+    ]
+  },
+  {
+    "question": 6,
+    "image": "/exams/FA24-RE/images/Q6.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "5ad99e7a6da3e64060c502a6a918f173b10919a02696036304b1cd856ec1584a",
+    "pass_original": [
+      {
+        "text": "fuoverflow;",
+        "score": 0.963109,
+        "x": 15.0,
+        "y": 17.0
+      },
+      {
+        "text": "What is the role of the GROUP BY clause in SQL queries?",
+        "score": 0.989915,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. Sorting rows in ascending order",
+        "score": 0.998306,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.972096,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Grouping rows based on the values in one or more columns",
+        "score": 0.990535,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. Joining two tables together",
+        "score": 0.972713,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. Filtering rows based on a specified condition",
+        "score": 0.983647,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflowi",
+        "score": 0.971241,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "What is theroleof theGROUPBYclauseinSQLqueries?",
+        "score": 0.96824,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "A.Sortingrowsin ascending order",
+        "score": 0.968299,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.986232,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.Grouping rows based on the values in one or more columns",
+        "score": 0.971762,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C.Joiningtwo tablestogether",
+        "score": 0.979659,
+        "x": 1244.03,
+        "y": 176.96
+      },
+      {
+        "text": "D.Filteringrowsbased onaspecified condition",
+        "score": 0.976109,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 7,
+    "image": "/exams/FA24-RE/images/Q7.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "f20c00208597925b12dedb19ec94d11c33165e9142f2f184cb4a9c532552d347",
+    "pass_original": [
+      {
+        "text": "fuoverflow",
+        "score": 0.999867,
+        "x": 17.0,
+        "y": 18.0
+      },
+      {
+        "text": "What Python library is commonly used to perform data manipulation and analysis before sending SQL",
+        "score": 0.98424,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "queries?",
+        "score": 0.996661,
+        "x": 829.0,
+        "y": 35.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.955112,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A. NumPys",
+        "score": 0.989438,
+        "x": 829.0,
+        "y": 67.0
+      },
+      {
+        "text": "B. Matplotlib",
+        "score": 0.990926,
+        "x": 829.0,
+        "y": 102.0
+      },
+      {
+        "text": "C. Pandas",
+        "score": 0.998278,
+        "x": 830.0,
+        "y": 135.0
+      },
+      {
+        "text": "D. SciPy",
+        "score": 0.995252,
+        "x": 829.0,
+        "y": 166.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow",
+        "score": 0.999505,
+        "x": 23.23,
+        "y": 29.25
+      },
+      {
+        "text": "What Python library is commonlyused toperform data manipulationand analysis beforesending SQL",
+        "score": 0.967419,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "queries?",
+        "score": 0.995051,
+        "x": 1244.03,
+        "y": 52.65
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.981384,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "A. NumPys",
+        "score": 0.994101,
+        "x": 1241.13,
+        "y": 100.91
+      },
+      {
+        "text": "B. Matplotib",
+        "score": 0.90759,
+        "x": 1241.13,
+        "y": 153.56
+      },
+      {
+        "text": "C.Pandas",
+        "score": 0.998207,
+        "x": 1242.58,
+        "y": 201.82
+      },
+      {
+        "text": "D. SciPy",
+        "score": 0.960954,
+        "x": 1242.58,
+        "y": 250.09
+      }
+    ]
+  },
+  {
+    "question": 8,
+    "image": "/exams/FA24-RE/images/Q8.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "3b48ca669a9b32284e8b08a1aafe0433ed1a597b50f5704a08c3a94df5869d9f",
+    "pass_original": [
+      {
+        "text": "fuoverflow;:",
+        "score": 0.902943,
+        "x": 17.0,
+        "y": 19.0
+      },
+      {
+        "text": "What SQL command is used to retrieve all records from a table named \"students\"?",
+        "score": 0.978468,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. SELECT * FROM students",
+        "score": 0.952654,
+        "x": 831.0,
+        "y": 55.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.980696,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. RETRIEVE *FROM students",
+        "score": 0.977599,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. GET ALL FROM students",
+        "score": 0.972545,
+        "x": 830.0,
+        "y": 120.0
+      },
+      {
+        "text": "D.FETCH*FROM students",
+        "score": 0.974353,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow:",
+        "score": 0.964303,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "WhatSQL command is used to retrieve allrecordsfrom a table named*students\"?",
+        "score": 0.951156,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "A.SELECT*FROM students",
+        "score": 0.980086,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.991187,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.RETRIEVE*FROM students",
+        "score": 0.985408,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "C.GET ALLFROM students",
+        "score": 0.952348,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D.FETCH*FROM students",
+        "score": 0.961985,
+        "x": 1245.48,
+        "y": 229.61
+      }
+    ]
+  },
+  {
+    "question": 9,
+    "image": "/exams/FA24-RE/images/Q9.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "0af89f3c815c7d9624d8ea654ce2654be2cc0ebe27781a6a74237d8efb983c1b",
+    "pass_original": [
+      {
+        "text": "fuoverflow",
+        "score": 0.999758,
+        "x": 17.0,
+        "y": 18.0
+      },
+      {
+        "text": "What SQL statement is used to modify existing records in a table?",
+        "score": 0.980769,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. UPDATE TABLE",
+        "score": 0.993733,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1answer)",
+        "score": 0.957016,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. MODIFY RECORD",
+        "score": 0.966949,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. ALTER TABLE",
+        "score": 0.995002,
+        "x": 831.0,
+        "y": 120.0
+      },
+      {
+        "text": "D. UPDATE",
+        "score": 0.996932,
+        "x": 831.0,
+        "y": 153.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow",
+        "score": 0.999004,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "WhatSQLstatement isused tomodifyexistingrecordsina table?",
+        "score": 0.967942,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "A.UPDATE TABLE",
+        "score": 0.973452,
+        "x": 1244.03,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1 answer)",
+        "score": 0.974426,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.MODIFY RECORD",
+        "score": 0.97276,
+        "x": 1244.03,
+        "y": 130.16
+      },
+      {
+        "text": "C. ALTER TABLE",
+        "score": 0.979182,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D. UPDATE",
+        "score": 0.960243,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 10,
+    "image": "/exams/FA24-RE/images/Q10.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "7ee7e94ba6a64f33b398e329827e5b4e0b1498f12065d21645261cc566cd22de",
+    "pass_original": [
+      {
+        "text": "fuoverflowo",
+        "score": 0.996906,
+        "x": 17.0,
+        "y": 18.0
+      },
+      {
+        "text": "How is a JOIN operation used in SQL?",
+        "score": 0.978685,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.To create a new table",
+        "score": 0.974809,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.979306,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.To combine rows from two or more tables",
+        "score": 0.987806,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.To delete records from a table",
+        "score": 0.968067,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. To rearrange the columns of a table",
+        "score": 0.989309,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow",
+        "score": 0.963398,
+        "x": 23.23,
+        "y": 29.25
+      },
+      {
+        "text": "How is a JOIN operation used in SQL?",
+        "score": 0.940596,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "A.To createanew table",
+        "score": 0.958185,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.971436,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.To combinerowsfrom two or more tables",
+        "score": 0.963832,
+        "x": 1244.03,
+        "y": 127.24
+      },
+      {
+        "text": "C. To delete records from a table",
+        "score": 0.952724,
+        "x": 1246.94,
+        "y": 179.89
+      },
+      {
+        "text": "D.To rearrange the columns of a table",
+        "score": 0.950166,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 11,
+    "image": "/exams/FA24-RE/images/Q11.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "ccaba8da14ba98142c3041c6964d66ecdaac735f8f6a9371996014b6e0b092df",
+    "pass_original": [
+      {
+        "text": "fuoverflow1",
+        "score": 0.987929,
+        "x": 17.0,
+        "y": 19.0
+      },
+      {
+        "text": "How is data typically organized in a relational database?",
+        "score": 0.996077,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. In a single flat file",
+        "score": 0.947348,
+        "x": 831.0,
+        "y": 54.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.978782,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. In a hierarchical structure",
+        "score": 0.976411,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. In tables with rows and columns",
+        "score": 0.976286,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.In a network structure",
+        "score": 0.953529,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow1",
+        "score": 0.99694,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "How is data typically organized in a relational database?",
+        "score": 0.969726,
+        "x": 1246.94,
+        "y": 32.17
+      },
+      {
+        "text": "A. In a single flat file",
+        "score": 0.932856,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.99032,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.In ahierarchical structure",
+        "score": 0.966853,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "C. In tables with rows and columns",
+        "score": 0.981801,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D.Inanetworkstructure",
+        "score": 0.990808,
+        "x": 1244.03,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 12,
+    "image": "/exams/FA24-RE/images/Q12.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "afed2805c53d96dbc2890f5ba573710435927930e85ac24a7105d09a10ac0571",
+    "pass_original": [
+      {
+        "text": "fuoverflow2",
+        "score": 0.998735,
+        "x": 16.0,
+        "y": 18.0
+      },
+      {
+        "text": "In the context of distributed databases, what are the challenges and solutions related to data consistency?",
+        "score": 0.98676,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. Ensuring data is the same across all nodes in real-time",
+        "score": 0.978259,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.96849,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Accepting eventual consistency and resolving conflicts",
+        "score": 0.988872,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. Utilizing synchronous replication for all transactions",
+        "score": 0.997653,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. Avoiding data replication entirely",
+        "score": 0.995453,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow2",
+        "score": 0.979306,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "In the context of distributed databases,what are the challenges and solutions related to data consistency?",
+        "score": 0.960594,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "A. Ensuring data is the same across all nodes in real-time",
+        "score": 0.979824,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.985594,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Accepting eventual consistency and resolving conflicts",
+        "score": 0.96889,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C.Utilizing synchronousreplication for alltransactions",
+        "score": 0.964553,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D.Avoiding datareplication entirely",
+        "score": 0.981221,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 13,
+    "image": "/exams/FA24-RE/images/Q13.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "e59034b4cb90d896ad0a95df6a926589fd0b872e238842e2594e2dc2b3a6061e",
+    "pass_original": [
+      {
+        "text": "fuoverflow3",
+        "score": 0.99782,
+        "x": 17.0,
+        "y": 17.0
+      },
+      {
+        "text": "What is the primary purpose of using virtual environments in Python for data science projects?",
+        "score": 0.983961,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. To create isolated environments for different projects",
+        "score": 0.983529,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.972059,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.To optimize code for execution speed",
+        "score": 0.984111,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. To visualize data in 3D space",
+        "score": 0.980583,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. To generate synthetic datasets",
+        "score": 0.990137,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow3",
+        "score": 0.975042,
+        "x": 24.68,
+        "y": 29.25
+      },
+      {
+        "text": "A. To create isolated environments for different projects",
+        "score": 0.972083,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.985514,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.To optimize code forexecution speed",
+        "score": 0.952065,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "C.Tovisualize data in3Dspace",
+        "score": 0.96439,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.Togenerate synthetic datasets",
+        "score": 0.965258,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 14,
+    "image": "/exams/FA24-RE/images/Q14.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "bf7c315725249504530e349546c094f04bd935936d9cd624ffa28eb77124a3d4",
+    "pass_original": [
+      {
+        "text": "fuoverflow4",
+        "score": 0.998078,
+        "x": 17.0,
+        "y": 19.0
+      },
+      {
+        "text": "Explain the role of Apache Hadoop in the context of big data and data science.",
+        "score": 0.974872,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "A. A distributed computing framework for processing large datasets",
+        "score": 0.986906,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.96754,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. An interactive development environment for data analysis",
+        "score": 0.989357,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. A machine learning library for distributed computing",
+        "score": 0.991441,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. A version control system for Hadoop applications",
+        "score": 0.981381,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow4",
+        "score": 0.963526,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "Explain theroleof ApacheHadoop in the contextof big data and datascience",
+        "score": 0.949959,
+        "x": 1249.84,
+        "y": 32.17
+      },
+      {
+        "text": "A. A distributed computing framework for processing large datasets",
+        "score": 0.968219,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.982701,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Aninteractivedevelopmentenvironment fordata analysis",
+        "score": 0.980127,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "C.Amachine learning libraryfor distributed computing",
+        "score": 0.953899,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D.Aversioncontrol systemforHadoopapplications",
+        "score": 0.97614,
+        "x": 1246.94,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 15,
+    "image": "/exams/FA24-RE/images/Q15.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "ebfd10e2da78297d066450f48f9a5ed58c1053878688b504ae89e63b990faa43",
+    "pass_original": [
+      {
+        "text": "fuoverflow5",
+        "score": 0.999379,
+        "x": 17.0,
+        "y": 17.0
+      },
+      {
+        "text": "Which category of Data Science tools is associated with software like Jupyter Notebook, RStudio, and",
+        "score": 0.982478,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "Spyder?",
+        "score": 0.999242,
+        "x": 830.0,
+        "y": 35.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.985018,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A.Development Environment tools",
+        "score": 0.99203,
+        "x": 831.0,
+        "y": 70.0
+      },
+      {
+        "text": "B. Data Visualization tools",
+        "score": 0.987271,
+        "x": 830.0,
+        "y": 103.0
+      },
+      {
+        "text": "C. Data Analysis tools",
+        "score": 0.980876,
+        "x": 831.0,
+        "y": 137.0
+      },
+      {
+        "text": "D. Data Cleaning tools",
+        "score": 0.99723,
+        "x": 830.0,
+        "y": 168.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow5",
+        "score": 0.97004,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "WhichcategoryofDataScience toolsisassociatedwithsoftwarelikeJupyterNotebook,RStudio,and",
+        "score": 0.956188,
+        "x": 1244.03,
+        "y": 27.79
+      },
+      {
+        "text": "Spyder?",
+        "score": 0.998674,
+        "x": 1245.48,
+        "y": 55.58
+      },
+      {
+        "text": "(Choose1 answer)",
+        "score": 0.97595,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "A.DevelopmentEnvironmenttools",
+        "score": 0.989701,
+        "x": 1245.48,
+        "y": 103.84
+      },
+      {
+        "text": "B. Data Visualization tools",
+        "score": 0.963995,
+        "x": 1244.03,
+        "y": 153.56
+      },
+      {
+        "text": "C.Data Analysis tools",
+        "score": 0.978651,
+        "x": 1244.03,
+        "y": 204.75
+      },
+      {
+        "text": "D.Data Cleaning tools",
+        "score": 0.99475,
+        "x": 1245.48,
+        "y": 253.01
+      }
+    ]
+  },
+  {
+    "question": 16,
+    "image": "/exams/FA24-RE/images/Q16.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "1065a2f65f5b2820d67e7cd8cd64c6f3349d6c6de3fe28edcf9a8431c00313eb",
+    "pass_original": [
+      {
+        "text": "fuoverflow6",
+        "score": 0.998393,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "Which magic command is used in Jupyter Notebook to display Matplotib plots inline?",
+        "score": 0.989972,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. %matplotlib inline",
+        "score": 0.988325,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1answer)",
+        "score": 0.962323,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. %plot",
+        "score": 0.937062,
+        "x": 828.0,
+        "y": 84.0
+      },
+      {
+        "text": "C. %inlineplot",
+        "score": 0.993651,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. %showplot",
+        "score": 0.995147,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow  6",
+        "score": 0.93688,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "Which magic command is used in Jupyter Notebook to display Matplotib plots inline?",
+        "score": 0.959942,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "A. %matplotib inline",
+        "score": 0.967829,
+        "x": 1244.03,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.973072,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.%plot",
+        "score": 0.998361,
+        "x": 1241.13,
+        "y": 127.24
+      },
+      {
+        "text": "C. %inlineplot",
+        "score": 0.990773,
+        "x": 1242.58,
+        "y": 176.96
+      },
+      {
+        "text": "D.%showplot",
+        "score": 0.996874,
+        "x": 1244.03,
+        "y": 225.22
+      }
+    ]
+  },
+  {
+    "question": 17,
+    "image": "/exams/FA24-RE/images/Q17.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "71025ccdec6fa8ba0ab8610b4d8181b7336e8406248f9361d53088b194a1f095",
+    "pass_original": [
+      {
+        "text": "fuoverflow7",
+        "score": 0.998114,
+        "x": 17.0,
+        "y": 18.0
+      },
+      {
+        "text": "How does Docker contribute to reproducibility in data science projects?",
+        "score": 0.985244,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. It is a version control system for datasets",
+        "score": 0.972075,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.971711,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. It provides a consistent environment for code execution",
+        "score": 0.988278,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. It is a web-based platform for collaborative coding",
+        "score": 0.989023,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. It automates the process of model training",
+        "score": 0.981244,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow7",
+        "score": 0.987678,
+        "x": 24.68,
+        "y": 29.25
+      },
+      {
+        "text": "How does Docker contribute to reproducibility in data scienceprojects?",
+        "score": 0.959011,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "A.It isaversion control system for datasets",
+        "score": 0.95991,
+        "x": 1244.03,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.981038,
+        "x": 30.48,
+        "y": 95.06
+      },
+      {
+        "text": "B.It provides a consistent environment for code execution",
+        "score": 0.966924,
+        "x": 1245.48,
+        "y": 128.7
+      },
+      {
+        "text": "C.It is a web-basedplatform for collaborative coding",
+        "score": 0.950396,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.It automates theprocess ofmodel training",
+        "score": 0.967506,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 18,
+    "image": "/exams/FA24-RE/images/Q18.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "c765ba374b227934cf640dcf580aa3c71d7805209da89e7b41cd49cb04da7f95",
+    "pass_original": [
+      {
+        "text": "fuoverflow8",
+        "score": 0.997516,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "Which statement best describes a \"commit\" in Git?",
+        "score": 0.971569,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. A snapshot of changes made to the repository",
+        "score": 0.985619,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.971185,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.A command used to sync local and remote repositories",
+        "score": 0.985169,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. A log of all changes made by team members",
+        "score": 0.996665,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. A branch in the repository",
+        "score": 0.977601,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow8",
+        "score": 0.982803,
+        "x": 24.68,
+        "y": 29.25
+      },
+      {
+        "text": "Whichstatementbest describes a*commit”in Git?",
+        "score": 0.927314,
+        "x": 1248.39,
+        "y": 29.25
+      },
+      {
+        "text": "A.A snapshot of changes made to the repository",
+        "score": 0.976936,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.987888,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.A command used to sync local and remole repositories",
+        "score": 0.966649,
+        "x": 1244.03,
+        "y": 127.24
+      },
+      {
+        "text": "C.A log of all changes made by team members",
+        "score": 0.965305,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D.Abranchintherepository",
+        "score": 0.997006,
+        "x": 1244.03,
+        "y": 225.22
+      }
+    ]
+  },
+  {
+    "question": 19,
+    "image": "/exams/FA24-RE/images/Q19.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "97469707d5b6b4f79fb67ab5ab8adac449c46a375accb5c0d247d936b6cb2ef7",
+    "pass_original": [
+      {
+        "text": "fuoverflow9",
+        "score": 0.998263,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "What data structure in Python is best used to store key-value pairs?",
+        "score": 0.989138,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. Dictionary",
+        "score": 0.995871,
+        "x": 829.0,
+        "y": 51.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.971681,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Tuple",
+        "score": 0.968673,
+        "x": 829.0,
+        "y": 84.0
+      },
+      {
+        "text": "C. List",
+        "score": 0.970541,
+        "x": 830.0,
+        "y": 117.0
+      },
+      {
+        "text": "D. Set",
+        "score": 0.979368,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow  9",
+        "score": 0.930776,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "Whatdatastructure inPython isbest used tostorekey-valuepairs?",
+        "score": 0.973515,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "A.Dictionary",
+        "score": 0.995161,
+        "x": 1241.13,
+        "y": 77.51
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.981437,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B. Tuple",
+        "score": 0.937876,
+        "x": 1241.13,
+        "y": 125.78
+      },
+      {
+        "text": "C.List",
+        "score": 0.99664,
+        "x": 1242.58,
+        "y": 175.5
+      },
+      {
+        "text": "D.Set",
+        "score": 0.997366,
+        "x": 1242.58,
+        "y": 225.22
+      }
+    ]
+  },
+  {
+    "question": 20,
+    "image": "/exams/FA24-RE/images/Q20.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "0165f95ab9c9f2285f8a080eb5619ab4a93b36a2abff8fafc8b96c607d28f513",
+    "pass_original": [
+      {
+        "text": "fuoverflowo",
+        "score": 0.988383,
+        "x": 17.0,
+        "y": 18.0
+      },
+      {
+        "text": "What is the purpose of the pd.concatO function in pandas?",
+        "score": 0.976875,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. To concatenate two or more pandas DataFrames or Series",
+        "score": 0.991579,
+        "x": 830.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.969706,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. To perform concatenation of arrays in NumPy",
+        "score": 0.983786,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. To compute the correlation coefficient between two variables",
+        "score": 0.970961,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. To concatenate strings in pandas Series",
+        "score": 0.995223,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflowo",
+        "score": 0.991123,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "What is thepurpose of thepd.concatofunction in pandas?",
+        "score": 0.968574,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "A.To concatenate two or more pandas DataFrames or Series",
+        "score": 0.952357,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.980685,
+        "x": 30.48,
+        "y": 95.06
+      },
+      {
+        "text": "B.Toperformconcatenationofarrays inNumPy",
+        "score": 0.974084,
+        "x": 1245.48,
+        "y": 127.24
+      },
+      {
+        "text": "C.To compute the correlation coefficient between two variables",
+        "score": 0.952308,
+        "x": 1246.94,
+        "y": 179.89
+      },
+      {
+        "text": "D.Toconcatenatestrings inpandasSeries",
+        "score": 0.979311,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 21,
+    "image": "/exams/FA24-RE/images/Q21.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "25a99cc08ae4e42d82c10d1400f2ff64008601151855c0130cff5cff3d4c8f0f",
+    "pass_original": [
+      {
+        "text": "fuoverflow1",
+        "score": 0.952322,
+        "x": 17.0,
+        "y": 18.0
+      },
+      {
+        "text": "What does the function np.arange(10) return in NumPy?",
+        "score": 0.988063,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. An array containing numbers from O to 9",
+        "score": 0.983695,
+        "x": 830.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.971658,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. An array containing numbers from 1 to 10",
+        "score": 0.990363,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. An array containing 10 random numbers",
+        "score": 0.990733,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. An array containing 10 elements, all initialized to zero",
+        "score": 0.995069,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow:1",
+        "score": 0.961971,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "What does the function np.arange(10) return in NumPy?",
+        "score": 0.952358,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "A.An array containing numbers from 0 to 9",
+        "score": 0.962194,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.987541,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.An array containing numbers from 1 to 10",
+        "score": 0.966566,
+        "x": 1244.03,
+        "y": 127.24
+      },
+      {
+        "text": "C.An array containing 10 random numbers",
+        "score": 0.945472,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D. An array containing 10 elements, all initialized to zero",
+        "score": 0.9547,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 22,
+    "image": "/exams/FA24-RE/images/Q22.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "c4d870a7dd91989225b6c82b82ecda808ec31dccccd445f397131426b9c42c79",
+    "pass_original": [
+      {
+        "text": "fuoverflow2",
+        "score": 0.995462,
+        "x": 17.0,
+        "y": 17.0
+      },
+      {
+        "text": "What does the Python csv module provide for working with CSV files?",
+        "score": 0.96869,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. Tools for creating graphical visualizations",
+        "score": 0.994728,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.973406,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Methods for sorting data in ascending order",
+        "score": 0.983092,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. Functionality for reading from and writing to CSV files",
+        "score": 0.990966,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. Features for conducting statistical analysis",
+        "score": 0.976156,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow:2",
+        "score": 0.938955,
+        "x": 24.68,
+        "y": 29.25
+      },
+      {
+        "text": "WhatdoesthePythoncsvmoduleprovideforworkingwithCSVfiles?",
+        "score": 0.981515,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "A.Tools for creating graphical visualizations",
+        "score": 0.957628,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.98176,
+        "x": 30.48,
+        "y": 95.06
+      },
+      {
+        "text": "B.Methodsforsorting data in ascending order",
+        "score": 0.95774,
+        "x": 1245.48,
+        "y": 127.24
+      },
+      {
+        "text": "C.Functionality for reading from and writing to CSV files",
+        "score": 0.948828,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D.Featuresforconducting statistical analysis",
+        "score": 0.975339,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 23,
+    "image": "/exams/FA24-RE/images/Q23.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "341c09493bf620cdea1849c74a199b991425f717beaaed14e9a8a2c3e3aa3438",
+    "pass_original": [
+      {
+        "text": "fuoverflow3",
+        "score": 0.99973,
+        "x": 17.0,
+        "y": 17.0
+      },
+      {
+        "text": "Given the code below:",
+        "score": 0.966316,
+        "x": 832.0,
+        "y": 20.0
+      },
+      {
+        "text": "import numpy as np",
+        "score": 0.964711,
+        "x": 830.0,
+        "y": 37.0
+      },
+      {
+        "text": "matrix=np.array(1, 2], [3, 4]],[[5, 6], [7, 8]],[9, 10], [11, 12]])",
+        "score": 0.958605,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.935485,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "How to get element 7 from the matrix?",
+        "score": 0.967513,
+        "x": 830.0,
+        "y": 69.0
+      },
+      {
+        "text": "A. matrix[1,1,0]",
+        "score": 0.977573,
+        "x": 830.0,
+        "y": 102.0
+      },
+      {
+        "text": "B. matrix[0,1,0]",
+        "score": 0.977842,
+        "x": 829.0,
+        "y": 135.0
+      },
+      {
+        "text": "C. matrix[.,]",
+        "score": 0.911238,
+        "x": 830.0,
+        "y": 168.0
+      },
+      {
+        "text": "D. matrix[1,:1:,0:]",
+        "score": 0.894473,
+        "x": 830.0,
+        "y": 202.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow:3",
+        "score": 0.95648,
+        "x": 23.23,
+        "y": 26.32
+      },
+      {
+        "text": "Giventhecodebelow:",
+        "score": 0.95996,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "importnumpyasnp",
+        "score": 0.993793,
+        "x": 1245.48,
+        "y": 55.58
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.978085,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "Howtogetelement7fromthematrix?",
+        "score": 0.993515,
+        "x": 1246.94,
+        "y": 106.76
+      },
+      {
+        "text": "A. matix[1,1,0]",
+        "score": 0.937239,
+        "x": 1242.58,
+        "y": 152.1
+      },
+      {
+        "text": "B. matrix[0,1,0]",
+        "score": 0.958174,
+        "x": 1242.58,
+        "y": 200.36
+      },
+      {
+        "text": "C. matrix[,.0]",
+        "score": 0.868674,
+        "x": 1242.58,
+        "y": 250.09
+      },
+      {
+        "text": "D. matrix[：:1,:1:,0:]",
+        "score": 0.874944,
+        "x": 1244.03,
+        "y": 301.27
+      }
+    ]
+  },
+  {
+    "question": 24,
+    "image": "/exams/FA24-RE/images/Q24.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "9d90d9149979a696f82a4878c13763b14cc6d047f0214baead552a0880b443c5",
+    "pass_original": [
+      {
+        "text": "fuoverflow:4",
+        "score": 0.951543,
+        "x": 16.0,
+        "y": 18.0
+      },
+      {
+        "text": "Given the code bellow:",
+        "score": 0.992963,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "from bs4 import BeautifulSoup",
+        "score": 0.964696,
+        "x": 830.0,
+        "y": 36.0
+      },
+      {
+        "text": "(Choose 1answer)",
+        "score": 0.962226,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "html_doc = \"",
+        "score": 0.919697,
+        "x": 829.0,
+        "y": 66.0
+      },
+      {
+        "text": "<wy>",
+        "score": 0.560584,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "<head>",
+        "score": 0.99886,
+        "x": 832.0,
+        "y": 103.0
+      },
+      {
+        "text": "<title>Sample HTML Document</title>",
+        "score": 0.976969,
+        "x": 832.0,
+        "y": 119.0
+      },
+      {
+        "text": "</head>",
+        "score": 0.995259,
+        "x": 831.0,
+        "y": 135.0
+      },
+      {
+        "text": "<body>",
+        "score": 0.996811,
+        "x": 831.0,
+        "y": 153.0
+      },
+      {
+        "text": "<table id=\"data-table\">",
+        "score": 0.994283,
+        "x": 832.0,
+        "y": 170.0
+      },
+      {
+        "text": "<tr>",
+        "score": 0.985664,
+        "x": 840.0,
+        "y": 188.0
+      },
+      {
+        "text": "<th>Name</th>",
+        "score": 0.996344,
+        "x": 848.0,
+        "y": 203.0
+      },
+      {
+        "text": "<th>Age</th>",
+        "score": 0.977958,
+        "x": 846.0,
+        "y": 218.0
+      },
+      {
+        "text": "</tr>",
+        "score": 0.993913,
+        "x": 840.0,
+        "y": 236.0
+      },
+      {
+        "text": "<r>",
+        "score": 0.984116,
+        "x": 838.0,
+        "y": 252.0
+      },
+      {
+        "text": "<td>1</td>",
+        "score": 0.991047,
+        "x": 846.0,
+        "y": 270.0
+      },
+      {
+        "text": "<td>3</td>",
+        "score": 0.954152,
+        "x": 847.0,
+        "y": 286.0
+      },
+      {
+        "text": "</tr>",
+        "score": 0.975019,
+        "x": 838.0,
+        "y": 301.0
+      },
+      {
+        "text": "<tr>",
+        "score": 0.992747,
+        "x": 839.0,
+        "y": 319.0
+      },
+      {
+        "text": "<td>2</td>",
+        "score": 0.964402,
+        "x": 846.0,
+        "y": 334.0
+      },
+      {
+        "text": "<td>4</td>",
+        "score": 0.980205,
+        "x": 847.0,
+        "y": 352.0
+      },
+      {
+        "text": "</tr>",
+        "score": 0.99302,
+        "x": 838.0,
+        "y": 367.0
+      },
+      {
+        "text": "</table>",
+        "score": 0.996244,
+        "x": 832.0,
+        "y": 385.0
+      },
+      {
+        "text": "</body>",
+        "score": 0.991824,
+        "x": 832.0,
+        "y": 402.0
+      },
+      {
+        "text": "</html>",
+        "score": 0.989304,
+        "x": 832.0,
+        "y": 418.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow:4",
+        "score": 0.982397,
+        "x": 23.23,
+        "y": 26.32
+      },
+      {
+        "text": "Giventhecodebellow:",
+        "score": 0.97854,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "frombs4importBeautifulSoup",
+        "score": 0.980611,
+        "x": 1244.03,
+        "y": 52.65
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.937669,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "html_doc = um",
+        "score": 0.904403,
+        "x": 1242.58,
+        "y": 99.45
+      },
+      {
+        "text": "<html>",
+        "score": 0.961719,
+        "x": 1244.03,
+        "y": 127.24
+      },
+      {
+        "text": "<head>",
+        "score": 0.994112,
+        "x": 1244.03,
+        "y": 150.64
+      },
+      {
+        "text": "<title>SampleHTMLDocument</title>",
+        "score": 0.950186,
+        "x": 1248.39,
+        "y": 178.43
+      },
+      {
+        "text": "</head>",
+        "score": 0.988115,
+        "x": 1248.39,
+        "y": 204.75
+      },
+      {
+        "text": "<body>",
+        "score": 0.993523,
+        "x": 1248.39,
+        "y": 228.15
+      },
+      {
+        "text": "<tableid=\"data-table”>",
+        "score": 0.950747,
+        "x": 1248.39,
+        "y": 253.01
+      },
+      {
+        "text": "<t>",
+        "score": 0.69455,
+        "x": 1258.55,
+        "y": 280.8
+      },
+      {
+        "text": "<th>Age</th>",
+        "score": 0.951756,
+        "x": 1268.71,
+        "y": 327.6
+      },
+      {
+        "text": "</tr>",
+        "score": 0.956948,
+        "x": 1258.55,
+        "y": 351.0
+      },
+      {
+        "text": "<t>",
+        "score": 0.837985,
+        "x": 1258.55,
+        "y": 378.79
+      },
+      {
+        "text": "<td>1</td>",
+        "score": 0.949261,
+        "x": 1271.61,
+        "y": 405.11
+      },
+      {
+        "text": "<td>3</td>",
+        "score": 0.979131,
+        "x": 1270.16,
+        "y": 428.51
+      },
+      {
+        "text": "</t>",
+        "score": 0.923044,
+        "x": 1257.1,
+        "y": 450.45
+      },
+      {
+        "text": "<t>",
+        "score": 0.852634,
+        "x": 1258.55,
+        "y": 478.24
+      },
+      {
+        "text": "<td>2</td>",
+        "score": 0.944132,
+        "x": 1271.61,
+        "y": 504.56
+      },
+      {
+        "text": "<td>4</td>",
+        "score": 0.978685,
+        "x": 1271.61,
+        "y": 527.96
+      },
+      {
+        "text": "</tr>",
+        "score": 0.918821,
+        "x": 1258.55,
+        "y": 551.36
+      },
+      {
+        "text": "</table>",
+        "score": 0.993896,
+        "x": 1248.39,
+        "y": 577.69
+      },
+      {
+        "text": "</body>",
+        "score": 0.985159,
+        "x": 1245.48,
+        "y": 602.55
+      },
+      {
+        "text": "</htm>",
+        "score": 0.989807,
+        "x": 1248.39,
+        "y": 625.95
+      }
+    ]
+  },
+  {
+    "question": 25,
+    "image": "/exams/FA24-RE/images/Q25.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "20badcfce6471d128f5a427bdbe00bec3ce1480f646a98bae552d2de4d370f96",
+    "pass_original": [
+      {
+        "text": "fuoverflow5",
+        "score": 0.998567,
+        "x": 16.0,
+        "y": 16.0
+      },
+      {
+        "text": "What are the 3 parts to a response message?",
+        "score": 0.989755,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. HTTP headers, blank line, and body",
+        "score": 0.983971,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.979306,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Start or status line, header, and body",
+        "score": 0.996872,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. Bookmarks, history, and security",
+        "score": 0.97353,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. Encoding, body, and cache",
+        "score": 0.996665,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow5",
+        "score": 0.969666,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "What are the 3 parts to a response message?",
+        "score": 0.982114,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "A. HTTP headers, blank line, and body",
+        "score": 0.974338,
+        "x": 1245.48,
+        "y": 78.97
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.990592,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.Start or status line,header, and body",
+        "score": 0.973061,
+        "x": 1242.58,
+        "y": 125.78
+      },
+      {
+        "text": "C.Bookmarks,history,and security",
+        "score": 0.985398,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.Encoding,body, and cache",
+        "score": 0.976048,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 26,
+    "image": "/exams/FA24-RE/images/Q26.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "e92a25e558551f71c4cc509e101604c10b81cb7199b4d21c5d8a4cf939206906",
+    "pass_original": [
+      {
+        "text": "fuoverflow6",
+        "score": 0.991405,
+        "x": 17.0,
+        "y": 17.0
+      },
+      {
+        "text": "What is the primary purpose of the requests library in Python?",
+        "score": 0.984814,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. Generating random numbers",
+        "score": 0.990563,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.970833,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Interacting with web services and making HTTP requests",
+        "score": 0.984123,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. Reading and writing CSV files",
+        "score": 0.985254,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. Creating visualizations",
+        "score": 0.99126,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow:6",
+        "score": 0.944356,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "What is the primary purpose of the requests library in Python?",
+        "score": 0.968785,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "A.Generating random numbers",
+        "score": 0.963978,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.987035,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B. Interacting with web services and making HTTP requests",
+        "score": 0.972368,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C.Reading and writingCSVfiles",
+        "score": 0.958936,
+        "x": 1245.48,
+        "y": 176.96
+      },
+      {
+        "text": "D.Creatingvisualizations",
+        "score": 0.975999,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 27,
+    "image": "/exams/FA24-RE/images/Q27.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "027f14717f144252e1bd523c7121648922d5a425c7630899f9391999491fe68c",
+    "pass_original": [
+      {
+        "text": "fuoverflow7",
+        "score": 0.997811,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "What is the primary use of the BeautifulSoup library in Python for web scraping?",
+        "score": 0.98584,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. Generating synthetic datasets",
+        "score": 0.997969,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.974923,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Scraping and parsing HTML and XML documents",
+        "score": 0.992523,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. Sorting elements in a list",
+        "score": 0.978522,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. Creating visualizations using Matplotlib",
+        "score": 0.987416,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow:7",
+        "score": 0.962469,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "What is the primary use of the BeautifulSoup library in Python for web scraping?",
+        "score": 0.969588,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "A.Generating synthetic datasets",
+        "score": 0.939347,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.981965,
+        "x": 30.48,
+        "y": 95.06
+      },
+      {
+        "text": "B. Scraping and parsing HTML and XML documents",
+        "score": 0.99055,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C.Sorting elements in alist",
+        "score": 0.945588,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D.Creating visualizationsusing Matplotib",
+        "score": 0.959246,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 28,
+    "image": "/exams/FA24-RE/images/Q28.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "271987573a892f2086db294957fd625148b7f6f6afea892045659d154dabf77a",
+    "pass_original": [
+      {
+        "text": "fuoverflow8",
+        "score": 0.998794,
+        "x": 17.0,
+        "y": 18.0
+      },
+      {
+        "text": "What kind of APl does Watson Text to Speech primarily offer for integration into applications?",
+        "score": 0.974871,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. RESTful API",
+        "score": 0.963014,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1answer)",
+        "score": 0.962323,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. WebSockets API",
+        "score": 0.964872,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. SOAP API",
+        "score": 0.992406,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. GraphQL API",
+        "score": 0.996152,
+        "x": 831.0,
+        "y": 153.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow8",
+        "score": 0.994034,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "What kind of API doesWatsonText toSpeech primarily offer for integration into applications?",
+        "score": 0.946054,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "A. RESTful API",
+        "score": 0.917146,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.966326,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B. WebSockets API",
+        "score": 0.958615,
+        "x": 1244.03,
+        "y": 130.16
+      },
+      {
+        "text": "C. SOAP API",
+        "score": 0.923395,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D. GraphQL API",
+        "score": 0.985136,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 29,
+    "image": "/exams/FA24-RE/images/Q29.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "411959f8c1020a6a936cd4f802a8d9ab60472ad9eba20da5df2bbc06ffad939c",
+    "pass_original": [
+      {
+        "text": "fuoverflow:9",
+        "score": 0.937463,
+        "x": 16.0,
+        "y": 18.0
+      },
+      {
+        "text": "What does the following numpy array slicing expression do?",
+        "score": 0.982082,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "(l6 ' '] [9 ' '] [e ' ')euedu = e",
+        "score": 0.727468,
+        "x": 830.0,
+        "y": 38.0
+      },
+      {
+        "text": "sliced_arr = arr[, 1:]",
+        "score": 0.948842,
+        "x": 830.0,
+        "y": 55.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.971191,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A. An array containing all elements except the first row and the first column.",
+        "score": 0.993428,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "B.An array containing all elements except the last row and the last column.",
+        "score": 0.984593,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "C. An array containing all elements except the first row.",
+        "score": 0.979118,
+        "x": 830.0,
+        "y": 151.0
+      },
+      {
+        "text": "D. An array containing all elements except the last column.",
+        "score": 0.991673,
+        "x": 830.0,
+        "y": 186.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow9",
+        "score": 0.989979,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "Whatdoesthefollowingnumpyarrayslicingexpressiondo?",
+        "score": 0.988128,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "sliced_arr = arrf, 1:]",
+        "score": 0.940919,
+        "x": 1246.94,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.987623,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "A.An array containing allelements except the first row and the first column.",
+        "score": 0.968707,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "B.An array containing allelements except the lastrow and the last column.",
+        "score": 0.970022,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "C. An array containing all elements except the first row.",
+        "score": 0.95942,
+        "x": 1245.48,
+        "y": 226.69
+      },
+      {
+        "text": "D. An array containing all elements except the last column.",
+        "score": 0.970092,
+        "x": 1245.48,
+        "y": 277.88
+      }
+    ]
+  },
+  {
+    "question": 30,
+    "image": "/exams/FA24-RE/images/Q30.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "38201561aeb70e407499598314e0b335ee3928920c9397647346981ffe91dc70",
+    "pass_original": [
+      {
+        "text": "fuoverflow0",
+        "score": 0.987468,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "The Python library we used to plot the chart in the lab is",
+        "score": 0.977553,
+        "x": 832.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. MatPlotlLib",
+        "score": 0.925493,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.949238,
+        "x": 20.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.PyCoinGecko",
+        "score": 0.999058,
+        "x": 829.0,
+        "y": 84.0
+      },
+      {
+        "text": "C. Pandas",
+        "score": 0.987385,
+        "x": 830.0,
+        "y": 117.0
+      },
+      {
+        "text": "D. Plotly",
+        "score": 0.948266,
+        "x": 829.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow 0",
+        "score": 0.923564,
+        "x": 23.23,
+        "y": 24.86
+      },
+      {
+        "text": "The Python library we used to plot the chart in the lab is",
+        "score": 0.977811,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "A. MatPlotLib",
+        "score": 0.94622,
+        "x": 1244.03,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.984452,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.PyCoinGecko",
+        "score": 0.998643,
+        "x": 1242.58,
+        "y": 127.24
+      },
+      {
+        "text": "C. Pandas",
+        "score": 0.969464,
+        "x": 1244.03,
+        "y": 176.96
+      },
+      {
+        "text": "D.Plotly",
+        "score": 0.943854,
+        "x": 1242.58,
+        "y": 225.22
+      }
+    ]
+  },
+  {
+    "question": 31,
+    "image": "/exams/FA24-RE/images/Q31.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "038cc9e37764ba516d88a33d249ae4c8ad8ccb83e2182ba91ce91856399df762",
+    "pass_original": [
+      {
+        "text": "fuoverflow1",
+        "score": 0.990461,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "If you got a 75 on a test in a class with a mean score of 85 and a standard deviation of 5, the z-score of your",
+        "score": 0.976489,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "testscorewouldbe",
+        "score": 0.998441,
+        "x": 830.0,
+        "y": 38.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.971766,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A.3",
+        "score": 0.997902,
+        "x": 829.0,
+        "y": 69.0
+      },
+      {
+        "text": "B. -3",
+        "score": 0.924191,
+        "x": 830.0,
+        "y": 103.0
+      },
+      {
+        "text": "C.2",
+        "score": 0.995423,
+        "x": 829.0,
+        "y": 135.0
+      },
+      {
+        "text": "D. -2",
+        "score": 0.904913,
+        "x": 830.0,
+        "y": 168.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow1",
+        "score": 0.963719,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "Ifyougota75ona testinaclasswithameanscoreof85anda standard deviationof5,thez-scoreofyour",
+        "score": 0.96203,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "testscorewouldbe",
+        "score": 0.992741,
+        "x": 1245.48,
+        "y": 55.58
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.970665,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "A3",
+        "score": 0.999388,
+        "x": 1242.58,
+        "y": 103.84
+      },
+      {
+        "text": "B.-3",
+        "score": 0.960339,
+        "x": 1242.58,
+        "y": 153.56
+      },
+      {
+        "text": "C.2",
+        "score": 0.990986,
+        "x": 1241.13,
+        "y": 200.36
+      },
+      {
+        "text": "D.-2",
+        "score": 0.995136,
+        "x": 1241.13,
+        "y": 250.09
+      }
+    ]
+  },
+  {
+    "question": 32,
+    "image": "/exams/FA24-RE/images/Q32.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "147bf0363286f939a9839e9ca7a17f9fc0f8400e83b321a11f527c5be8ee8040",
+    "pass_original": [
+      {
+        "text": "fuoverflow2",
+        "score": 0.993305,
+        "x": 17.0,
+        "y": 18.0
+      },
+      {
+        "text": "When is it appropriate to use a pie chart for data visualization?",
+        "score": 0.990596,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. When comparing the distribution of categories in a whole",
+        "score": 0.989211,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.971423,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. When showing trends over time",
+        "score": 0.980512,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. When displaying relationships between two variables",
+        "score": 0.967803,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. When comparing values of different groups",
+        "score": 0.986788,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow2",
+        "score": 0.990993,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "When is it appropriate to use a pie chart for data visualization?",
+        "score": 0.955828,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "A. When comparing the distribution of categories in a whole",
+        "score": 0.985569,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.984533,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Whenshowing trendsovertime",
+        "score": 0.989127,
+        "x": 1245.48,
+        "y": 128.7
+      },
+      {
+        "text": "C.When displaying relationships between two variables",
+        "score": 0.966204,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D.Whencomparingvaluesof different groups",
+        "score": 0.971975,
+        "x": 1246.94,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 33,
+    "image": "/exams/FA24-RE/images/Q33.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "8eedcbec13d76dd1d3f7a578eb57466553a1ec077d3a33e16548e2291723c9fe",
+    "pass_original": [
+      {
+        "text": "fuoverflow3",
+        "score": 0.998373,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "Which phase of the Data Science lifecycle involves selecting the appropriate machine learning algorithms?",
+        "score": 0.990552,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. Data Collection",
+        "score": 0.974129,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1answer)",
+        "score": 0.964464,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Data Cleaning",
+        "score": 0.984151,
+        "x": 830.0,
+        "y": 84.0
+      },
+      {
+        "text": "C. Model Building",
+        "score": 0.982923,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. Model Deployment",
+        "score": 0.994194,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow3",
+        "score": 0.999377,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "A. Data Collection",
+        "score": 0.97136,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.965459,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.Data Cleaning",
+        "score": 0.995386,
+        "x": 1242.58,
+        "y": 127.24
+      },
+      {
+        "text": "C.Model Building",
+        "score": 0.988185,
+        "x": 1244.03,
+        "y": 176.96
+      },
+      {
+        "text": "D. Model Deployment",
+        "score": 0.985229,
+        "x": 1245.48,
+        "y": 229.61
+      }
+    ]
+  },
+  {
+    "question": 34,
+    "image": "/exams/FA24-RE/images/Q34.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "fe4349735bb654f0be90b9ac668007209f4a9b1663ec1272d72ec442cfea7497",
+    "pass_original": [
+      {
+        "text": "fuoverflow4",
+        "score": 0.990597,
+        "x": 16.0,
+        "y": 18.0
+      },
+      {
+        "text": "In which scenario is the median a more appropriate measure of central tendency than the mean?",
+        "score": 0.993533,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. When the data is symmetrically distributed",
+        "score": 0.981232,
+        "x": 831.0,
+        "y": 54.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.975225,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. When there are extreme outliers in the dataset",
+        "score": 0.988362,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. When the data is normally distributed",
+        "score": 0.979711,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. When the data has a bell-shaped curve",
+        "score": 0.969058,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow4",
+        "score": 0.99692,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "In which scenario is the mediana more appropriate measureof central tendency than the mean?",
+        "score": 0.961018,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "A.When the data is symmetrically distributed",
+        "score": 0.97964,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.981307,
+        "x": 30.48,
+        "y": 95.06
+      },
+      {
+        "text": "B.Whenthereareextremeoutliers in thedataset",
+        "score": 0.964141,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "C.When the data is normally distributed",
+        "score": 0.969204,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D.When the data hasabell-shapedcurve",
+        "score": 0.950494,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 35,
+    "image": "/exams/FA24-RE/images/Q35.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "fc1030826ccb65ed587f21b0bc7f5ee47b31ef193fb10350073cc093f2ff8cbd",
+    "pass_original": [
+      {
+        "text": "fuoverflow5",
+        "score": 0.999705,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "In a normal distribution, what percentage of data falls within one standard deviation of the mean?",
+        "score": 0.972154,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A.25%",
+        "score": 0.99663,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.960766,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.50%",
+        "score": 0.998858,
+        "x": 829.0,
+        "y": 84.0
+      },
+      {
+        "text": "68%",
+        "score": 0.997881,
+        "x": 851.0,
+        "y": 120.0
+      },
+      {
+        "text": "C.",
+        "score": 0.991445,
+        "x": 832.0,
+        "y": 121.0
+      },
+      {
+        "text": "D. 95%",
+        "score": 0.968835,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow 5",
+        "score": 0.962135,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "A.25%",
+        "score": 0.907398,
+        "x": 1242.58,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.981437,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.50%",
+        "score": 0.999031,
+        "x": 1242.58,
+        "y": 128.7
+      },
+      {
+        "text": "C. 68%",
+        "score": 0.922032,
+        "x": 1244.03,
+        "y": 176.96
+      },
+      {
+        "text": "D.95%",
+        "score": 0.99809,
+        "x": 1244.03,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 36,
+    "image": "/exams/FA24-RE/images/Q36.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "faac9570945f8793cf8afbacfe5998a17d7bd03bc1a206e6c76820d90b693a3d",
+    "pass_original": [
+      {
+        "text": "fuoverflow6",
+        "score": 0.995848,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "Which method in Matplotlib is used to save a plot as an image file?",
+        "score": 0.99044,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. savefig0",
+        "score": 0.979058,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.971681,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. save_figure0)",
+        "score": 0.949404,
+        "x": 829.0,
+        "y": 84.0
+      },
+      {
+        "text": "C. save_plot0)",
+        "score": 0.929136,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. save_image0",
+        "score": 0.988268,
+        "x": 829.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow 6",
+        "score": 0.964168,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "A. savefig0",
+        "score": 0.927392,
+        "x": 1241.13,
+        "y": 77.51
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.981437,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B. save_figure0",
+        "score": 0.908963,
+        "x": 1242.58,
+        "y": 127.24
+      },
+      {
+        "text": "C. save_plot0",
+        "score": 0.934832,
+        "x": 1244.03,
+        "y": 175.5
+      },
+      {
+        "text": "D. save_image0",
+        "score": 0.963193,
+        "x": 1244.03,
+        "y": 225.22
+      }
+    ]
+  },
+  {
+    "question": 37,
+    "image": "/exams/FA24-RE/images/Q37.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "2047a416715a4f5c4cd3f9823e8a9887bb665241e358f041ad83388f9910c5ad",
+    "pass_original": [
+      {
+        "text": "fuoverflow7",
+        "score": 0.998776,
+        "x": 16.0,
+        "y": 18.0
+      },
+      {
+        "text": "We run a regression analysis between two continuous variables amount of food eaten vs the amount of",
+        "score": 0.983045,
+        "x": 831.0,
+        "y": 21.0
+      },
+      {
+        "text": "calories burnt. If I get a coefficient of -0.33 for the amount of food eaten and an R-square value of 0.81. What",
+        "score": 0.966982,
+        "x": 830.0,
+        "y": 37.0
+      },
+      {
+        "text": "is the correlation coefficient?",
+        "score": 0.979273,
+        "x": 830.0,
+        "y": 55.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.971681,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A. -0.9",
+        "score": 0.927707,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "B. 0.9",
+        "score": 0.96024,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "C. -0.66",
+        "score": 0.961379,
+        "x": 830.0,
+        "y": 152.0
+      },
+      {
+        "text": "D. 0.66",
+        "score": 0.957906,
+        "x": 830.0,
+        "y": 186.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow 17",
+        "score": 0.933407,
+        "x": 23.23,
+        "y": 26.32
+      },
+      {
+        "text": "Werunaregressionanalysisbetweentwocontinuousvariablesamountoffoodeatenvstheamountof",
+        "score": 0.994358,
+        "x": 1246.94,
+        "y": 32.17
+      },
+      {
+        "text": "caloriesbumt.If1getacoefficientof-0.33fortheamountoffoodeatenandanR-squarevalueof0.81.What",
+        "score": 0.978183,
+        "x": 1248.39,
+        "y": 58.5
+      },
+      {
+        "text": "isthecorrelationcoefficient?",
+        "score": 0.98884,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.969647,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "A.-0.9",
+        "score": 0.967284,
+        "x": 1242.58,
+        "y": 128.7
+      },
+      {
+        "text": "B.0.9",
+        "score": 0.999106,
+        "x": 1241.13,
+        "y": 175.5
+      },
+      {
+        "text": "C.-0.66",
+        "score": 0.970389,
+        "x": 1244.03,
+        "y": 226.69
+      },
+      {
+        "text": "D. 0.66",
+        "score": 0.929028,
+        "x": 1244.03,
+        "y": 279.34
+      }
+    ]
+  },
+  {
+    "question": 38,
+    "image": "/exams/FA24-RE/images/Q38.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "e1b2837b68aee278fca2f482058c510df34c2506de68649d8b3fc30355486082",
+    "pass_original": [
+      {
+        "text": "fuoverflow8",
+        "score": 0.997977,
+        "x": 17.0,
+        "y": 18.0
+      },
+      {
+        "text": "When presented with a new dataset, what is the primary step in data exploration and preparation?",
+        "score": 0.989336,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. Cleaning missing values",
+        "score": 0.997411,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.983821,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Visualizing the data",
+        "score": 0.984189,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.Feature selection",
+        "score": 0.986883,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. Calculating summary statistics",
+        "score": 0.97237,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow8",
+        "score": 0.995604,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "When presented with a new dataset, what is the primary step in data exploration and preparation?",
+        "score": 0.957738,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "A. Cleaning missing values",
+        "score": 0.976248,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.963362,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Visualizing the data",
+        "score": 0.962558,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C.Feature selection",
+        "score": 0.976951,
+        "x": 1244.03,
+        "y": 178.43
+      },
+      {
+        "text": "D.Calculating summary statistics",
+        "score": 0.97928,
+        "x": 1245.48,
+        "y": 229.61
+      }
+    ]
+  },
+  {
+    "question": 39,
+    "image": "/exams/FA24-RE/images/Q39.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "14122d9f42087bbb1d5b8144c8774a2785eeabcd0959a4690991beb270e10757",
+    "pass_original": [
+      {
+        "text": "fuoverflow9",
+        "score": 0.96703,
+        "x": 16.0,
+        "y": 18.0
+      },
+      {
+        "text": "A manufacturing company wants to compare the mean tensile strength of two diferent materials used in their",
+        "score": 0.994238,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "products. They collect data from two independent samples: Material A (n=20) and Material B (n=25). After",
+        "score": 0.986301,
+        "x": 830.0,
+        "y": 37.0
+      },
+      {
+        "text": "conducting a two-sample t-test, the calculated p-value is 0.10. What decision should the company make",
+        "score": 0.988743,
+        "x": 829.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.970833,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "regarding the null hypothesis at a significance level of 0.05?",
+        "score": 0.975087,
+        "x": 830.0,
+        "y": 69.0
+      },
+      {
+        "text": "A. Material type will affect to the strength of tensile",
+        "score": 0.971881,
+        "x": 831.0,
+        "y": 104.0
+      },
+      {
+        "text": "B. Material A will have higher strength than Material B",
+        "score": 0.990365,
+        "x": 830.0,
+        "y": 136.0
+      },
+      {
+        "text": "C. Material B will have higher strength than Material A",
+        "score": 0.985177,
+        "x": 830.0,
+        "y": 169.0
+      },
+      {
+        "text": "D. Inconclusive test since the p-value is too small",
+        "score": 0.982211,
+        "x": 830.0,
+        "y": 202.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow9",
+        "score": 0.956715,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "products.They collect data from twoindependent samples:Material A(n=20) and Material B(n=25).After",
+        "score": 0.956175,
+        "x": 1245.48,
+        "y": 55.58
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.981347,
+        "x": 30.48,
+        "y": 95.06
+      },
+      {
+        "text": "regardingthenullhypothesisatasignificancelevelofO.05?",
+        "score": 0.974849,
+        "x": 1246.94,
+        "y": 105.3
+      },
+      {
+        "text": "A.Material type will affect to the strength of tensile",
+        "score": 0.959978,
+        "x": 1246.94,
+        "y": 157.95
+      },
+      {
+        "text": "B.Material A will have higher strength than Material B",
+        "score": 0.979581,
+        "x": 1245.48,
+        "y": 204.75
+      },
+      {
+        "text": "C.Material B will have higher strength than Material A",
+        "score": 0.947763,
+        "x": 1245.48,
+        "y": 253.01
+      },
+      {
+        "text": "D.Inconclusive test since the p-value is too small",
+        "score": 0.971245,
+        "x": 1246.94,
+        "y": 302.74
+      }
+    ]
+  },
+  {
+    "question": 40,
+    "image": "/exams/FA24-RE/images/Q40.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "86ad9d7e20155d8cb1440aad18b06ff6f80c7764fc949937275801c08574bd1f",
+    "pass_original": [
+      {
+        "text": "fuoverflowo",
+        "score": 0.979531,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "ANOVA (Analysis of Variance) is used to compare means between:",
+        "score": 0.979815,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "A. More than two independent groups",
+        "score": 0.995871,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.978937,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Two independent groups",
+        "score": 0.973434,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. Categorical and continuous variables",
+        "score": 0.990077,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. Paired samples",
+        "score": 0.983709,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflowo",
+        "score": 0.992353,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "ANOVA(Analysis of Variance) is used to compare means between:",
+        "score": 0.94047,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "A.More than two independent groups",
+        "score": 0.978449,
+        "x": 1244.03,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.98969,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.Two independent groups",
+        "score": 0.969901,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C. Categorical and continuous variables",
+        "score": 0.96993,
+        "x": 1246.94,
+        "y": 179.89
+      },
+      {
+        "text": "D.Paired samples",
+        "score": 0.94493,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 41,
+    "image": "/exams/FA24-RE/images/Q41.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "846cb21b148957938137c5db7c376f3a4f0c1f8508b9ca30c32bc8049cc752aa",
+    "pass_original": [
+      {
+        "text": "fuoverflow 1",
+        "score": 0.941588,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "Which chart is most suitable for visualizing the spread and density of a dataset along with its probability",
+        "score": 0.989473,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "distribution?",
+        "score": 0.999253,
+        "x": 832.0,
+        "y": 38.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.963361,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A. Violin plot",
+        "score": 0.983955,
+        "x": 830.0,
+        "y": 69.0
+      },
+      {
+        "text": "B. Area plot",
+        "score": 0.99217,
+        "x": 829.0,
+        "y": 102.0
+      },
+      {
+        "text": "C. Bar plot",
+        "score": 0.997124,
+        "x": 830.0,
+        "y": 135.0
+      },
+      {
+        "text": "D. Pie chart",
+        "score": 0.992661,
+        "x": 830.0,
+        "y": 167.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow1",
+        "score": 0.971082,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "Whichchartismostsuitableforvisualizing thespread and densityof adataset along withitsprobability",
+        "score": 0.963605,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "distribution?",
+        "score": 0.996979,
+        "x": 1246.94,
+        "y": 57.04
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.979606,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "A. Violin plot",
+        "score": 0.975778,
+        "x": 1244.03,
+        "y": 105.3
+      },
+      {
+        "text": "B. Area plot",
+        "score": 0.956721,
+        "x": 1241.13,
+        "y": 152.1
+      },
+      {
+        "text": "C.Bar plot",
+        "score": 0.925875,
+        "x": 1242.58,
+        "y": 201.82
+      },
+      {
+        "text": "D. Pie chart",
+        "score": 0.973077,
+        "x": 1245.48,
+        "y": 253.01
+      }
+    ]
+  },
+  {
+    "question": 42,
+    "image": "/exams/FA24-RE/images/Q42.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "7e2dad77269f263f3659f846df9113e30937be0c18589911875edc3e770a1da4",
+    "pass_original": [
+      {
+        "text": "fuoverflow12",
+        "score": 0.931676,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "According to the rules of probability, what is the probability of either event A or event B occurring?",
+        "score": 0.987014,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. P(* P(B)",
+        "score": 0.976828,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.971681,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. P(+ P(B)",
+        "score": 0.96593,
+        "x": 829.0,
+        "y": 84.0
+      },
+      {
+        "text": "C. P(/ P(B)",
+        "score": 0.986936,
+        "x": 829.0,
+        "y": 115.0
+      },
+      {
+        "text": "D. P(A and B)",
+        "score": 0.965371,
+        "x": 830.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow 2",
+        "score": 0.960233,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "According to the rules of probability,what is the probability of either event A or event B occurring?",
+        "score": 0.938281,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "A. P(* P(B)",
+        "score": 0.928064,
+        "x": 1242.58,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.981437,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B. P(+P(B)",
+        "score": 0.994428,
+        "x": 1241.13,
+        "y": 124.31
+      },
+      {
+        "text": "C.P(/P(B)",
+        "score": 0.96559,
+        "x": 1242.58,
+        "y": 175.5
+      },
+      {
+        "text": "D. P(A and B)",
+        "score": 0.990984,
+        "x": 1244.03,
+        "y": 225.22
+      }
+    ]
+  },
+  {
+    "question": 43,
+    "image": "/exams/FA24-RE/images/Q43.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "dcb12e21c0f2e1aa665ca87bece56a0aac46a8f291933162b3ef4c63881597c2",
+    "pass_original": [
+      {
+        "text": "fuoverflow3",
+        "score": 0.999164,
+        "x": 17.0,
+        "y": 17.0
+      },
+      {
+        "text": "Which category of Data Science tools encompasses libraries like TensorFlow, PyTorch, and Keras?",
+        "score": 0.988178,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. Machine Learning tools",
+        "score": 0.996299,
+        "x": 830.0,
+        "y": 54.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.984548,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Data Cleaning tools",
+        "score": 0.994327,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. Data Visualization tools",
+        "score": 0.978295,
+        "x": 831.0,
+        "y": 120.0
+      },
+      {
+        "text": "D. Data Integration tools",
+        "score": 0.985769,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow3",
+        "score": 0.998947,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "Which category of DataScience tools encompasses libraries likeTensorFlow,PyTorch,and Keras?",
+        "score": 0.962935,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "A. Machine Learning tools",
+        "score": 0.97443,
+        "x": 1244.03,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1 answer)",
+        "score": 0.966884,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.Data Cleaning tools",
+        "score": 0.992402,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C.Data Visualization tools",
+        "score": 0.958961,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D.Data Integration tools",
+        "score": 0.979663,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 44,
+    "image": "/exams/FA24-RE/images/Q44.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "3b58fb63644bfe9eb133c2c12f56f99a8797721d0bbb2592d30694ab93d328b7",
+    "pass_original": [
+      {
+        "text": "fuoverflow4",
+        "score": 0.999041,
+        "x": 17.0,
+        "y": 17.0
+      },
+      {
+        "text": "Which category of Data Science tools encompasses software like Apache Airflow, Luigi, and Oozie?",
+        "score": 0.991479,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. Workflow Management tools",
+        "score": 0.988998,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.984514,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Big Data tools",
+        "score": 0.995029,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. Data Cleaning tools",
+        "score": 0.986433,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. Data Integration tools",
+        "score": 0.985734,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow4",
+        "score": 0.998065,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "Which category of Data Science tools encompasses software like Apache Airflow,Luigi,and Oozie?",
+        "score": 0.95571,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "A. Workflow Management tools",
+        "score": 0.977325,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.992506,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.Big Data tools",
+        "score": 0.978087,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "C.Data Cleaning tools",
+        "score": 0.972229,
+        "x": 1244.03,
+        "y": 178.43
+      },
+      {
+        "text": "D.Data Integration tools",
+        "score": 0.981429,
+        "x": 1246.94,
+        "y": 229.61
+      }
+    ]
+  },
+  {
+    "question": 45,
+    "image": "/exams/FA24-RE/images/Q45.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "1cd28aac8be3c7c34739cc48508d6ab8d6e9ae42b918494e6e6ddb8a5cb9165d",
+    "pass_original": [
+      {
+        "text": "fuoverflow15",
+        "score": 0.970792,
+        "x": 16.0,
+        "y": 16.0
+      },
+      {
+        "text": "Which category of Data Science tools involves platforms like Alteryx, Talend, and Informatica?",
+        "score": 0.983369,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. Data Integration tools",
+        "score": 0.996733,
+        "x": 831.0,
+        "y": 54.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.985018,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Data Cleaning tools",
+        "score": 0.995166,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. Data Analysis tools",
+        "score": 0.986889,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. Machine Learning tools",
+        "score": 0.992855,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow15",
+        "score": 0.955049,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "Whichcategory of DataScience tools involvesplatformslikeAlteryx,Talend,and Informatica?",
+        "score": 0.947744,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "A.Data Integration tools",
+        "score": 0.984443,
+        "x": 1242.58,
+        "y": 77.51
+      },
+      {
+        "text": "(Choose1 answer)",
+        "score": 0.976634,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.Data Cleaning tools",
+        "score": 0.994499,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C. Data Analysis tools",
+        "score": 0.942171,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.Machine Learning tools",
+        "score": 0.982399,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 46,
+    "image": "/exams/FA24-RE/images/Q46.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "3cb7c979ea15018cdc76c264e464a1763d7027314d5c5edf42ed8da3b0f50cbd",
+    "pass_original": [
+      {
+        "text": "fuoverflow6",
+        "score": 0.998835,
+        "x": 17.0,
+        "y": 18.0
+      },
+      {
+        "text": "Which category of Data Science tools includes platforms like SAS, SPSS, and STATA?",
+        "score": 0.979213,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. Data Analysis tools",
+        "score": 0.996967,
+        "x": 830.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.984548,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Data Cleaning tools",
+        "score": 0.995012,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. Machine Learning tools",
+        "score": 0.991511,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. Data Visualization tools",
+        "score": 0.981881,
+        "x": 831.0,
+        "y": 153.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow6",
+        "score": 0.999019,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "A.Data Analysis tools",
+        "score": 0.977615,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1 answer)",
+        "score": 0.975964,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.Data Cleaning tools",
+        "score": 0.993879,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C.Machine Learning tools",
+        "score": 0.979122,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.DataVisualization tools",
+        "score": 0.977877,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 47,
+    "image": "/exams/FA24-RE/images/Q47.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "fc43857575f6509460ae65804b14739c998a39f82775021a79b290d2d637c3f3",
+    "pass_original": [
+      {
+        "text": "fuoverflow7",
+        "score": 0.998752,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "Which category of Data Science tools involves software like Docker, Kubernetes, and Ansible?",
+        "score": 0.993326,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. Development Environment tools",
+        "score": 0.995714,
+        "x": 831.0,
+        "y": 54.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.982109,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. Big Data tools",
+        "score": 0.990283,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. Data Integration tools",
+        "score": 0.985528,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. Workflow Management tools",
+        "score": 0.971227,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow7",
+        "score": 0.99831,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "Which category of DataScience tools involvessoftware likeDocker,Kubernetes, and Ansible?",
+        "score": 0.966052,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "A. Development Environment tools",
+        "score": 0.958301,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.990665,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.BigData tools",
+        "score": 0.988588,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C.Data Integration tools",
+        "score": 0.966694,
+        "x": 1244.03,
+        "y": 176.96
+      },
+      {
+        "text": "D.WorkflowManagement tools",
+        "score": 0.99213,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 48,
+    "image": "/exams/FA24-RE/images/Q48.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "7ba0f2108f60e818a7aa44eddc547e5e1f96c94ed6bc9aab02a8509696a86378",
+    "pass_original": [
+      {
+        "text": "fuoverflow8",
+        "score": 0.999483,
+        "x": 16.0,
+        "y": 17.0
+      },
+      {
+        "text": "If arr is a 2D numpy array of shape (5, 5), what will be the shape of arr[:2, ::2]?",
+        "score": 0.967612,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A. (3, 3)",
+        "score": 0.990328,
+        "x": 829.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.971681,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B. (5, 5)",
+        "score": 0.951053,
+        "x": 828.0,
+        "y": 84.0
+      },
+      {
+        "text": "C. (2, 2)",
+        "score": 0.972409,
+        "x": 828.0,
+        "y": 117.0
+      },
+      {
+        "text": "D. (3, 5)",
+        "score": 0.949943,
+        "x": 828.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow8",
+        "score": 0.988163,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "A. (3,3)",
+        "score": 0.947758,
+        "x": 1241.13,
+        "y": 77.51
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.981437,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B. (5,5)",
+        "score": 0.995199,
+        "x": 1241.13,
+        "y": 125.78
+      },
+      {
+        "text": "C. (2,2)",
+        "score": 0.944607,
+        "x": 1241.13,
+        "y": 174.04
+      },
+      {
+        "text": "D. (3,5)",
+        "score": 0.947923,
+        "x": 1241.13,
+        "y": 223.76
+      }
+    ]
+  },
+  {
+    "question": 49,
+    "image": "/exams/FA24-RE/images/Q49.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "abb89d9a77cb51c5ac95904ea4aa29d56f2313c919a388e2d7153dd304ca61bb",
+    "pass_original": [
+      {
+        "text": "fuoverflow9",
+        "score": 0.942748,
+        "x": 16.0,
+        "y": 18.0
+      },
+      {
+        "text": "What does the following numpy array slicing expression do?",
+        "score": 0.992516,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "arr = np.array(I[1, 2, 3], [4, 5, 6], [7, 8, 9])",
+        "score": 0.948105,
+        "x": 830.0,
+        "y": 37.0
+      },
+      {
+        "text": "sliced_arr = arr[1:, ::-1]",
+        "score": 0.931283,
+        "x": 830.0,
+        "y": 55.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.964684,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A.Selects all rows starting from the second row and all columns in reverse order.",
+        "score": 0.977912,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "B.Selects allrows starting from the first row and reverses the order of columns.",
+        "score": 0.97126,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "C.Selects all rows and reverses the order of columns starting from the first row.",
+        "score": 0.959176,
+        "x": 830.0,
+        "y": 152.0
+      },
+      {
+        "text": "D.Selects allrows starting from the second row and all columns except the last column.",
+        "score": 0.969321,
+        "x": 830.0,
+        "y": 186.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow9",
+        "score": 0.935494,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "l9）eed=e",
+        "score": 0.501407,
+        "x": 1246.94,
+        "y": 57.04
+      },
+      {
+        "text": "sliced_arr = arr[1:, -1]",
+        "score": 0.932432,
+        "x": 1246.94,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.97805,
+        "x": 30.48,
+        "y": 95.06
+      },
+      {
+        "text": "A.Selects all rows starting from the secondrow and all columns in reverse order.",
+        "score": 0.948391,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "B.Selects all rows starting from the first row and reverses the order of columns.",
+        "score": 0.981213,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "C.Selects allrows and reverses the orderof columns starting from the firstrow",
+        "score": 0.943727,
+        "x": 1245.48,
+        "y": 228.15
+      },
+      {
+        "text": "D.Selects all rows starting from the second row and all columns except the last column.",
+        "score": 0.970453,
+        "x": 1245.48,
+        "y": 279.34
+      }
+    ]
+  },
+  {
+    "question": 50,
+    "image": "/exams/FA24-RE/images/Q50.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "PNG",
+    "sha256": "e73a0d993a9b428086706b067cf5716148e87656ddb20a183e1824a506367e37",
+    "pass_original": [
+      {
+        "text": "fuoverflowio",
+        "score": 0.964779,
+        "x": 16.0,
+        "y": 16.0
+      },
+      {
+        "text": "What will be the shape of the sliced numpy array if arr is a 2D numpy array of shape (6, 6) and we use the",
+        "score": 0.982899,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "slicing expression arr[1.:2, ::2]?",
+        "score": 0.974245,
+        "x": 830.0,
+        "y": 36.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.971681,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A. (3, 3)",
+        "score": 0.947625,
+        "x": 828.0,
+        "y": 67.0
+      },
+      {
+        "text": "B. (3, 4)",
+        "score": 0.939098,
+        "x": 828.0,
+        "y": 101.0
+      },
+      {
+        "text": "C. (2, 2)",
+        "score": 0.892795,
+        "x": 828.0,
+        "y": 134.0
+      },
+      {
+        "text": "D. (4,3)",
+        "score": 0.985572,
+        "x": 828.0,
+        "y": 166.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "fuoverflow io",
+        "score": 0.911732,
+        "x": 23.23,
+        "y": 27.79
+      },
+      {
+        "text": "slicingexpressionarr[1.:2,::2]?",
+        "score": 0.912441,
+        "x": 1248.39,
+        "y": 58.5
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.981437,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "A.(3,3)",
+        "score": 0.922563,
+        "x": 1242.58,
+        "y": 102.38
+      },
+      {
+        "text": "B. (3,4)",
+        "score": 0.989233,
+        "x": 1241.13,
+        "y": 152.1
+      },
+      {
+        "text": "C. (2, 2)",
+        "score": 0.947765,
+        "x": 1241.13,
+        "y": 200.36
+      },
+      {
+        "text": "D. (4, 3)",
+        "score": 0.946452,
+        "x": 1242.58,
+        "y": 250.09
+      }
+    ]
+  }
+]

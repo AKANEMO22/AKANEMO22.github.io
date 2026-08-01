@@ -1,0 +1,1313 @@
+{
+  "schemaVersion": 1,
+  "subject": "SSG105",
+  "sourceFile": "SEMESTER_4_SSG104 - Google Trang trình bày.html",
+  "sourceSha256": "f360cb3b5bde750840eff7bca16974bdc0ef5bbe4471e1e4b3d5850f1a470674",
+  "documentId": "1jSA13wRNJPU1fIQMf-gFIM-C9l4ZmWnPC6gdE9-3E8Y",
+  "revision": 1668,
+  "firstSlide": 378,
+  "lastSlide": 507,
+  "assetCount": 130,
+  "assets": [
+    {
+      "sourceSlide": 378,
+      "pageId": "g3f965153a77_1_5",
+      "path": "/ssg105/source/slide-0378.png",
+      "bytes": 31896,
+      "sha256": "6cc0bb1a4d379e5c08e98f60f1e495b6d4bee0cd5ccd8bc1607f37ca7a26a66b",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 379,
+      "pageId": "g3f965153a77_1_11",
+      "path": "/ssg105/source/slide-0379.png",
+      "bytes": 44967,
+      "sha256": "830daebaed9e4379e4d937fe50739713df68a179287158b9ebd1a58ad8ec7d5f",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 380,
+      "pageId": "g3f965153a77_1_17",
+      "path": "/ssg105/source/slide-0380.png",
+      "bytes": 30682,
+      "sha256": "0b157801288fdad334861cc35080e3a655c03c2fb7006859867e1a0f044b1be5",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 381,
+      "pageId": "g3f965153a77_1_22",
+      "path": "/ssg105/source/slide-0381.png",
+      "bytes": 41670,
+      "sha256": "c99c85927a1c9bfe30b5fa3755dd2b3d76de53703818957b33b3851914ef21c8",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 382,
+      "pageId": "g3f965153a77_1_27",
+      "path": "/ssg105/source/slide-0382.png",
+      "bytes": 33434,
+      "sha256": "45967ca17987b726d9d8be0402e714357589f406b5a0e4d368a81a0a4af4d3d6",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 383,
+      "pageId": "g3f965153a77_1_32",
+      "path": "/ssg105/source/slide-0383.png",
+      "bytes": 26780,
+      "sha256": "cfb38875174c3c989c43c9616d8c9d6cc6a31eb0e5509a32b8e140fd74f73c60",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 384,
+      "pageId": "g3f965153a77_1_37",
+      "path": "/ssg105/source/slide-0384.png",
+      "bytes": 44816,
+      "sha256": "784d6cb48f3bf360e32546cfeac8a518f1d87af09bdfce99c8b6a6adf18115a7",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 385,
+      "pageId": "g3f965153a77_1_42",
+      "path": "/ssg105/source/slide-0385.png",
+      "bytes": 32432,
+      "sha256": "47caa1c313b9085dcd43c1e8d064572dbf24bcbc1991d909867d75a2fb5807f1",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 386,
+      "pageId": "g3f965153a77_1_47",
+      "path": "/ssg105/source/slide-0386.png",
+      "bytes": 36766,
+      "sha256": "9f3d51defe00b34f7c7250ec3cc80dd8756fc07fa49398164800cf38333ce2cc",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 387,
+      "pageId": "g3f965153a77_1_52",
+      "path": "/ssg105/source/slide-0387.png",
+      "bytes": 36522,
+      "sha256": "bde6f482b421133edc768faff7a7e8bc771cbee4f7c71983c788534b99823995",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 388,
+      "pageId": "g3f965153a77_1_57",
+      "path": "/ssg105/source/slide-0388.png",
+      "bytes": 41929,
+      "sha256": "7696d4fb2f2871bf2bb712f29c7aba634b5e4c7b7fbd099cd7b6807cf3443251",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 389,
+      "pageId": "g3f965153a77_1_62",
+      "path": "/ssg105/source/slide-0389.png",
+      "bytes": 38551,
+      "sha256": "e1c1b9e3fcaa2f605f383c7eb6b98944a3785334e40be7bb72533c044a738597",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 390,
+      "pageId": "g3f965153a77_1_67",
+      "path": "/ssg105/source/slide-0390.png",
+      "bytes": 32011,
+      "sha256": "dcce2b6e2abb694d7a70a316d6babebbaf92eb8b1aa8ea21d3d5023cc663cd0f",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 391,
+      "pageId": "g3f965153a77_1_72",
+      "path": "/ssg105/source/slide-0391.png",
+      "bytes": 36631,
+      "sha256": "a23c1f4eb2ab01a6f46ee51f09426776d8617fae68553668020172a04f8e1c99",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 392,
+      "pageId": "g3f965153a77_1_77",
+      "path": "/ssg105/source/slide-0392.png",
+      "bytes": 48413,
+      "sha256": "062f0fda648de34e096d951318f20c9192bd1dccfae6d3336ff003cf406bf44d",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 393,
+      "pageId": "g3f965153a77_1_82",
+      "path": "/ssg105/source/slide-0393.png",
+      "bytes": 42417,
+      "sha256": "591b6614add5ce9306ef2d27819e01dc10c1f7b0982ffcee28f6d21330671948",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 394,
+      "pageId": "g3f965153a77_1_87",
+      "path": "/ssg105/source/slide-0394.png",
+      "bytes": 40350,
+      "sha256": "68b60a895494b0a9e2f63d4c3b193e1f3b82c5c9a2f12ce16f98b5daa3e91008",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 395,
+      "pageId": "g3f965153a77_1_92",
+      "path": "/ssg105/source/slide-0395.png",
+      "bytes": 34144,
+      "sha256": "065efae230595640efbfe9647ad1f5fd053423eb067de9c4bbde22ee94c2fd4d",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 396,
+      "pageId": "g3f965153a77_1_97",
+      "path": "/ssg105/source/slide-0396.png",
+      "bytes": 34531,
+      "sha256": "5efa3cfecbe91df28878e8c0e830c12827c392f73913626d50f3ce6700402281",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-download"
+    },
+    {
+      "sourceSlide": 397,
+      "pageId": "g3f965153a77_1_102",
+      "path": "/ssg105/source/slide-0397.png",
+      "bytes": 53094,
+      "sha256": "18d6cc08cf2b33d5ffa64c1820148777f128d82ebfb5d8fa2979560e06c173cb",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 398,
+      "pageId": "g3f965153a77_1_107",
+      "path": "/ssg105/source/slide-0398.png",
+      "bytes": 118068,
+      "sha256": "ba7867e4d0a5438ebaaa5cc1fbbcfc6dd97cb5366926b2d0d246492eff4ea293",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 399,
+      "pageId": "g3f965153a77_1_112",
+      "path": "/ssg105/source/slide-0399.png",
+      "bytes": 102533,
+      "sha256": "e4637b864373c544c3699ced2d415c40b7c526b9eb4bd97847d7c3158270c022",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 400,
+      "pageId": "g3f965153a77_1_117",
+      "path": "/ssg105/source/slide-0400.png",
+      "bytes": 101566,
+      "sha256": "89f34d3f041e5ea46e53bbd557d52a5a03260fd4d17f123eb949e197ca2d0a63",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 401,
+      "pageId": "g3f965153a77_1_122",
+      "path": "/ssg105/source/slide-0401.png",
+      "bytes": 86336,
+      "sha256": "9f28430097f4e29745f93782429e2f67d4e609369e3db64e33d79b9cfa06c811",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 402,
+      "pageId": "g3f965153a77_1_127",
+      "path": "/ssg105/source/slide-0402.png",
+      "bytes": 123967,
+      "sha256": "75da516a56378e761be4ae1128aaaa0d03d6addc5947a32778d62e80ef54e79a",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 403,
+      "pageId": "g3f965153a77_1_132",
+      "path": "/ssg105/source/slide-0403.png",
+      "bytes": 97406,
+      "sha256": "01e29d095073ee8ce00313707bc91291e727e73747a175df8a390540cd350512",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 404,
+      "pageId": "g3f965153a77_1_137",
+      "path": "/ssg105/source/slide-0404.png",
+      "bytes": 112318,
+      "sha256": "5443b69185b2d80d2b8218870983e60d8cbe0fc200b7d8319cdf727d5a11ac4c",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 405,
+      "pageId": "g3f965153a77_1_142",
+      "path": "/ssg105/source/slide-0405.png",
+      "bytes": 92148,
+      "sha256": "b879664d69298abcdccb026df4189cb83deb79246e2db5ad79c299179d63b15e",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 406,
+      "pageId": "g3f965153a77_1_147",
+      "path": "/ssg105/source/slide-0406.png",
+      "bytes": 90761,
+      "sha256": "ed6f3fe96f07ac209ade1aa03866b947f12b1ee9aa1ef44012da32010b85745f",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 407,
+      "pageId": "g3f965153a77_1_152",
+      "path": "/ssg105/source/slide-0407.png",
+      "bytes": 106731,
+      "sha256": "a5de9cb7448f81f068006c98b5be21da043c6a45f93a01151d94f05d1f01ab4f",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 408,
+      "pageId": "g3f965153a77_1_157",
+      "path": "/ssg105/source/slide-0408.png",
+      "bytes": 99598,
+      "sha256": "50fa22e877838818fc0d7cb47c4445dca079f6c69783224b8c34a4cec9f3452e",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 409,
+      "pageId": "g3f965153a77_1_162",
+      "path": "/ssg105/source/slide-0409.png",
+      "bytes": 172028,
+      "sha256": "c8a2da20db1ac55878702379e207e83847b8008975732475bdc2204d9694e441",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 410,
+      "pageId": "g3f965153a77_1_167",
+      "path": "/ssg105/source/slide-0410.png",
+      "bytes": 66928,
+      "sha256": "be69000ce770ae6b3821514ae7077e69dabec856f7c57563ce3f37edf306edb8",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 411,
+      "pageId": "g3f965153a77_1_172",
+      "path": "/ssg105/source/slide-0411.png",
+      "bytes": 138778,
+      "sha256": "4a669d3138970372bc6f57b08758a3261d8dc64f142e15ddf3f81b17988ebc91",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 412,
+      "pageId": "g3f965153a77_1_177",
+      "path": "/ssg105/source/slide-0412.png",
+      "bytes": 154296,
+      "sha256": "5569695d41636725722ab7669fce58d7f92c123b86f8ac41f30e7481a7b23f45",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 413,
+      "pageId": "g3f965153a77_1_182",
+      "path": "/ssg105/source/slide-0413.png",
+      "bytes": 153901,
+      "sha256": "f6a830f1be6c131e829d8e0738c2dc9630d26a7c9ce9b76c0089e8585bcbbbea",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 414,
+      "pageId": "g3f965153a77_1_187",
+      "path": "/ssg105/source/slide-0414.png",
+      "bytes": 102734,
+      "sha256": "9871eab1ec53bb030e5551e91125cb48f5d725354edaba64895f7082194ab720",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 415,
+      "pageId": "g3f965153a77_1_192",
+      "path": "/ssg105/source/slide-0415.png",
+      "bytes": 107186,
+      "sha256": "5298fee18eb3f5c6b822605066c343ea0ee8b7e9c070f231b8409674d22d7347",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 416,
+      "pageId": "g3f965153a77_1_197",
+      "path": "/ssg105/source/slide-0416.png",
+      "bytes": 101445,
+      "sha256": "b8a1f7a5311b67b921b30880d57756d6ace7e413a9f485d44c21278eab6ec643",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 417,
+      "pageId": "g3f965153a77_1_202",
+      "path": "/ssg105/source/slide-0417.png",
+      "bytes": 101184,
+      "sha256": "4715b7d0c40f6b915d837a5c74942cb59b5867e0b93f1c318d8ac69a7e86df31",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 418,
+      "pageId": "g3f965153a77_1_207",
+      "path": "/ssg105/source/slide-0418.png",
+      "bytes": 80255,
+      "sha256": "6024f218fc1f62f1849bfb6e20083a02aea4446e0f90c6fbfa67174a38a8b9ea",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 419,
+      "pageId": "g3f965153a77_1_212",
+      "path": "/ssg105/source/slide-0419.png",
+      "bytes": 49775,
+      "sha256": "9cf55dd0343bc58f9271d974100b0b21657b2147a64eff3380076a59e3f06208",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 420,
+      "pageId": "g3f965153a77_1_217",
+      "path": "/ssg105/source/slide-0420.png",
+      "bytes": 60202,
+      "sha256": "fc57cab731cc73ec2a9eb63fc7277264fe35ea2cb0091428f86cd67359790455",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 421,
+      "pageId": "g3f965153a77_1_265",
+      "path": "/ssg105/source/slide-0421.png",
+      "bytes": 44901,
+      "sha256": "886dec354b99445f1809898c2f0f9a1fcb19e2c121a91d2f1b0b0590cb4aaf81",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 422,
+      "pageId": "g3f965153a77_1_270",
+      "path": "/ssg105/source/slide-0422.png",
+      "bytes": 48491,
+      "sha256": "0de9b06298c532076d3ef9f865e3349d7585a11401782b3a543c3a5f8cd3c456",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 423,
+      "pageId": "g3f965153a77_1_275",
+      "path": "/ssg105/source/slide-0423.png",
+      "bytes": 60344,
+      "sha256": "dae49d11ec9af9e357b739bf67b7355470fecfae589b056904b6cc2fe6592972",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 424,
+      "pageId": "g3f965153a77_1_280",
+      "path": "/ssg105/source/slide-0424.png",
+      "bytes": 33350,
+      "sha256": "700d9681e5203ab92fc9b8b1d4313b3d65f674aa8b821eb82a1594f10e3dc628",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 425,
+      "pageId": "g3f965153a77_1_285",
+      "path": "/ssg105/source/slide-0425.png",
+      "bytes": 58416,
+      "sha256": "2275f3a46863f84f172e0ae0a6a5e5c191037911a9f20fa10b1471d176a86a45",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 426,
+      "pageId": "g3f965153a77_1_290",
+      "path": "/ssg105/source/slide-0426.png",
+      "bytes": 73034,
+      "sha256": "65e1768fc69e75e163d7c370e4ed0ad0e95ddd2d2503c7eb7c211eeecd760bd1",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 427,
+      "pageId": "g3f965153a77_1_295",
+      "path": "/ssg105/source/slide-0427.png",
+      "bytes": 61212,
+      "sha256": "3d01ec29b9c2ca9500dd682ed5e81df593938918c004cef833bdf88522fd564b",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 428,
+      "pageId": "g3f965153a77_1_300",
+      "path": "/ssg105/source/slide-0428.png",
+      "bytes": 98069,
+      "sha256": "1e376b2030400ed55c7f7a1f97063cbc5a5b4787c774ad6d1a4e192e1943c39d",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 429,
+      "pageId": "g3f965153a77_1_305",
+      "path": "/ssg105/source/slide-0429.png",
+      "bytes": 80419,
+      "sha256": "513cbb3f1162d0278de12a73a36cb372725cf83f6d7cb7a4c0494f5c93726d12",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 430,
+      "pageId": "g3f965153a77_1_310",
+      "path": "/ssg105/source/slide-0430.png",
+      "bytes": 63660,
+      "sha256": "2c07822f3f1dfa94feeaf33f06f40c928fa6c2b7cd9950b40e7ef3b993e0bbd6",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 431,
+      "pageId": "g3f965153a77_1_315",
+      "path": "/ssg105/source/slide-0431.png",
+      "bytes": 66328,
+      "sha256": "c2b54b476f03fa36f7e246e1b33b189d3f50697cc41d6aec81b04b4ff92fe4eb",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 432,
+      "pageId": "g3f965153a77_1_320",
+      "path": "/ssg105/source/slide-0432.png",
+      "bytes": 74391,
+      "sha256": "ff1967db3038b1715596ff8d20f90cf617e1fcbff26bf7686a8d1fb73fa64871",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 433,
+      "pageId": "g3f965153a77_1_325",
+      "path": "/ssg105/source/slide-0433.png",
+      "bytes": 42953,
+      "sha256": "e446df7c051e3d67751e17bfb8a3f49252154bf7b7df51999849fc4d9a2b7177",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 434,
+      "pageId": "g3f965153a77_1_330",
+      "path": "/ssg105/source/slide-0434.png",
+      "bytes": 43732,
+      "sha256": "f094714c1489bd12c20a67a9da20d0cc9bf2e9b7489671c06a87b4441e123d72",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 435,
+      "pageId": "g3f965153a77_1_335",
+      "path": "/ssg105/source/slide-0435.png",
+      "bytes": 52076,
+      "sha256": "e9c8a7dc2962b7b66ea3ad012e429db3c8153649ed67640d4ea319aa9def6ef1",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 436,
+      "pageId": "g3f965153a77_1_340",
+      "path": "/ssg105/source/slide-0436.png",
+      "bytes": 61151,
+      "sha256": "84099d624614128b1d7870b492158f6e71456465e4e50473ab39836d2208ad03",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 437,
+      "pageId": "g3f965153a77_1_345",
+      "path": "/ssg105/source/slide-0437.png",
+      "bytes": 62754,
+      "sha256": "029194ead72b1458d88e3ab5765592fa2bb862b9040c426ca75aaccb01d61e1f",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 438,
+      "pageId": "g3f965153a77_1_350",
+      "path": "/ssg105/source/slide-0438.png",
+      "bytes": 115115,
+      "sha256": "3a6faf30cc23a2f7f30a83d2d47e5249599980f8f1baf7a86d599da5d2eb10b2",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 439,
+      "pageId": "g3f965153a77_1_355",
+      "path": "/ssg105/source/slide-0439.png",
+      "bytes": 90199,
+      "sha256": "a4d1d0e1f5956532e1d1e8b0f6a7058f0f1d4677eda45b71424eabf4af979588",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 440,
+      "pageId": "g3f965153a77_1_360",
+      "path": "/ssg105/source/slide-0440.png",
+      "bytes": 84027,
+      "sha256": "c1130271c0723b18e4666a4c1ab0293b89190f5a6d913dbf424d5e48806d09ab",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 441,
+      "pageId": "g3f965153a77_1_365",
+      "path": "/ssg105/source/slide-0441.png",
+      "bytes": 80610,
+      "sha256": "9d8c544186946b6348d2fe2aad9f8fd1f7c89628071284c65921a7ec599930c1",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 442,
+      "pageId": "g3f965153a77_1_370",
+      "path": "/ssg105/source/slide-0442.png",
+      "bytes": 61964,
+      "sha256": "07c3d38a68a42f16640a919759d9c78631a0e45f6b11006d03d154507d3ac2e5",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 443,
+      "pageId": "g3f965153a77_1_375",
+      "path": "/ssg105/source/slide-0443.png",
+      "bytes": 67783,
+      "sha256": "41603812c16b8df9c5432773ca8b16569ca6d137dfb1bd9d82bd9b6d6de0b210",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 444,
+      "pageId": "g3f965153a77_1_380",
+      "path": "/ssg105/source/slide-0444.png",
+      "bytes": 70887,
+      "sha256": "44bfebc1d860ba9da0f0fa351dc564dbe0b3eaa5eb685384c27776318c2a7e35",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 445,
+      "pageId": "g3f965153a77_1_385",
+      "path": "/ssg105/source/slide-0445.png",
+      "bytes": 76979,
+      "sha256": "da63fb64ab18c60ce205b44f64b66f1674d2d3a71c5e81edcc6114b5464d3f3d",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 446,
+      "pageId": "g3f965153a77_1_390",
+      "path": "/ssg105/source/slide-0446.png",
+      "bytes": 89492,
+      "sha256": "18f01b8bd961aacd362630d1c6a9dbb1e41e17cd8f7aeaa4b44e966bb8c81fa3",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 447,
+      "pageId": "g3f965153a77_1_395",
+      "path": "/ssg105/source/slide-0447.png",
+      "bytes": 48771,
+      "sha256": "84a4d58a26b23500a94741a232a60133010cf71fb29994bb4771dc2fdd745f3a",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 448,
+      "pageId": "g3f965153a77_1_400",
+      "path": "/ssg105/source/slide-0448.png",
+      "bytes": 63495,
+      "sha256": "194aecb07c1829ceb1509add2d0d1975d7545368465dfbeb9825c881aa79943b",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 449,
+      "pageId": "g3f965153a77_1_432",
+      "path": "/ssg105/source/slide-0449.png",
+      "bytes": 61319,
+      "sha256": "845fd2b3a183020f57d5eb636f0a415428eaad912cf0de8340fcefcdef9f3f61",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 450,
+      "pageId": "g3f965153a77_1_437",
+      "path": "/ssg105/source/slide-0450.png",
+      "bytes": 96045,
+      "sha256": "35d42032babb2bca8a37beb639cd1cd49f2689c18924a3ab3432183bb30b1a29",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 451,
+      "pageId": "g3f965153a77_1_442",
+      "path": "/ssg105/source/slide-0451.png",
+      "bytes": 91760,
+      "sha256": "c9509baf44e96655d3fa9cd2ca348acb01280db61a2fbb2ad713c930a88aa421",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 452,
+      "pageId": "g3f965153a77_1_447",
+      "path": "/ssg105/source/slide-0452.png",
+      "bytes": 80966,
+      "sha256": "9fae8385a0971e82dc30fa194528f48a5821b268d450fbd9819abb9d1bf7ee05",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 453,
+      "pageId": "g3f965153a77_1_452",
+      "path": "/ssg105/source/slide-0453.png",
+      "bytes": 55131,
+      "sha256": "bba1dd3096bcde5fdf48ac0ec98e0ba5410e64bcc7f7a40c66ad76384821029d",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 454,
+      "pageId": "g3f965153a77_1_457",
+      "path": "/ssg105/source/slide-0454.png",
+      "bytes": 75983,
+      "sha256": "f41701042bef316b96b59b3d2179e2b50fbd6f5d2b67abff3eecc6d761fccd9e",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 455,
+      "pageId": "g3f965153a77_1_462",
+      "path": "/ssg105/source/slide-0455.png",
+      "bytes": 49790,
+      "sha256": "c5aa6bcb6e1873a5231c22da66fa599e886f2d2b7a6354f5b9c1ffdff2d46454",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 456,
+      "pageId": "g3f965153a77_1_467",
+      "path": "/ssg105/source/slide-0456.png",
+      "bytes": 89437,
+      "sha256": "6fd6ff48ead08a8e195467ad40225cefb3cab38a0bdb4266c0109d4c4e95b92e",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 457,
+      "pageId": "g3f965153a77_1_472",
+      "path": "/ssg105/source/slide-0457.png",
+      "bytes": 82399,
+      "sha256": "df76b578230058548ee847709677c9c9898bfa522baa17f496e6e72cb598ad29",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 458,
+      "pageId": "g3f965153a77_1_477",
+      "path": "/ssg105/source/slide-0458.png",
+      "bytes": 66992,
+      "sha256": "88af44b84725d7aee91f8f79534e5e2b96e236f9e0ae598b36fc343c5920890c",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 459,
+      "pageId": "g3f965153a77_1_482",
+      "path": "/ssg105/source/slide-0459.png",
+      "bytes": 51544,
+      "sha256": "77959c3e14212ab7bd1fda443bc7292e942813edc33982bf96a276b46085d867",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 460,
+      "pageId": "g3f965153a77_1_487",
+      "path": "/ssg105/source/slide-0460.png",
+      "bytes": 65079,
+      "sha256": "86f58c07a2648983e92ee483132654bcac9713eba9f0fbc8d4c1abc1467b3116",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 461,
+      "pageId": "g3f965153a77_1_492",
+      "path": "/ssg105/source/slide-0461.png",
+      "bytes": 66984,
+      "sha256": "82db3c38ec925bc5ea87a3aeaa93c453c974abf3fc38acf955ffa1cb2fbd6297",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 462,
+      "pageId": "g3f965153a77_1_497",
+      "path": "/ssg105/source/slide-0462.png",
+      "bytes": 64938,
+      "sha256": "8d0604333d997166deb4bcce0f6a2a44556ae4ed58522808550efcff372dbf54",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 463,
+      "pageId": "g3f965153a77_1_502",
+      "path": "/ssg105/source/slide-0463.png",
+      "bytes": 59472,
+      "sha256": "1c883200eb9a094a7bd96a3a9b5da9f74a82d3713281b8f3456bdd36e0d0b824",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 464,
+      "pageId": "g3f965153a77_1_507",
+      "path": "/ssg105/source/slide-0464.png",
+      "bytes": 58776,
+      "sha256": "3b81b1d9f3a058ad9563515327ae311ed3f1ef77772ffb560fe51ab361e40ed2",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 465,
+      "pageId": "g3f965153a77_1_512",
+      "path": "/ssg105/source/slide-0465.png",
+      "bytes": 55558,
+      "sha256": "483111d1a05b29a7f2d36879bb1d7b852d4e459fc4a841f1ecc9f3d825885991",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 466,
+      "pageId": "g3f965153a77_1_517",
+      "path": "/ssg105/source/slide-0466.png",
+      "bytes": 63227,
+      "sha256": "be64e8cba7eb5a6b25ac9398780c0b2db3490bab3026b04a6babf8fe240ce935",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 467,
+      "pageId": "g3f965153a77_1_522",
+      "path": "/ssg105/source/slide-0467.png",
+      "bytes": 36124,
+      "sha256": "bbd66e2ae3cf2684518c7a64062bc0dd3ae789ae12336b81f4a7131a57281cfb",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 468,
+      "pageId": "g3f965153a77_1_527",
+      "path": "/ssg105/source/slide-0468.png",
+      "bytes": 52244,
+      "sha256": "ef1c9f85ed9dd8ef3f938588e7055b13cb720933077f50901a622761323ba56a",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 469,
+      "pageId": "g3f965153a77_1_532",
+      "path": "/ssg105/source/slide-0469.png",
+      "bytes": 65184,
+      "sha256": "81c44657aa577a53b9fca72dc7a6badae758a7c96be0ea4a376671161d4355b0",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 470,
+      "pageId": "g3f965153a77_1_537",
+      "path": "/ssg105/source/slide-0470.png",
+      "bytes": 48426,
+      "sha256": "074b8c720642a4674fce35a23c2ec94c5ab7042c9e8f27bab9ecfe0314c30a1d",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 471,
+      "pageId": "g3f965153a77_1_542",
+      "path": "/ssg105/source/slide-0471.png",
+      "bytes": 75814,
+      "sha256": "1dba73a521430e5da6d0b233bdaf9754ed98eaea2be736c622c7317a4a1c1d85",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 472,
+      "pageId": "g3f965153a77_1_547",
+      "path": "/ssg105/source/slide-0472.png",
+      "bytes": 68577,
+      "sha256": "fede4edd6e60006bfd5639bad730e39c86924993854bc4aba5a0db4749728dae",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 473,
+      "pageId": "g3f965153a77_1_552",
+      "path": "/ssg105/source/slide-0473.png",
+      "bytes": 56850,
+      "sha256": "65a9d1022f5aae091537a34bb40d902eb01f5c8908f284f9fc47fa2ee549d975",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 474,
+      "pageId": "g3f965153a77_1_557",
+      "path": "/ssg105/source/slide-0474.png",
+      "bytes": 76001,
+      "sha256": "65b9d58ec8c06411b3c94934b79d80536b4324c4a4fa4df2ada3c1cbdb6713a3",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 475,
+      "pageId": "g3f965153a77_1_562",
+      "path": "/ssg105/source/slide-0475.png",
+      "bytes": 56069,
+      "sha256": "878d074205b0e47e6856cfb7779975ca7f904ffa477254d7bb70041ad20aa9d2",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 476,
+      "pageId": "g3f965153a77_1_567",
+      "path": "/ssg105/source/slide-0476.png",
+      "bytes": 64549,
+      "sha256": "32a67d1031d4933927fd0f2e94021f7c390d8cf4985d9a83ca09504db557fa43",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 477,
+      "pageId": "g3f965153a77_1_572",
+      "path": "/ssg105/source/slide-0477.png",
+      "bytes": 66162,
+      "sha256": "f9fd21ff213140080217f97e5a530ac22079b57d4ecf61c63a7ef0c53ffa0fd1",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 478,
+      "pageId": "g3f965153a77_1_577",
+      "path": "/ssg105/source/slide-0478.png",
+      "bytes": 81789,
+      "sha256": "a1b48e7aa3487afd3232ddb12fd2b2dd217cc7099da18b6ba1b6bd06fd238d41",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 479,
+      "pageId": "g3f965153a77_1_582",
+      "path": "/ssg105/source/slide-0479.png",
+      "bytes": 82748,
+      "sha256": "2e340bea95a16612892964380faf1cf9f47ba2a1f36a68aff7c4610171c4b7be",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 480,
+      "pageId": "g3f965153a77_1_587",
+      "path": "/ssg105/source/slide-0480.png",
+      "bytes": 74573,
+      "sha256": "f669f77f5dc8d8819692b57d700ae2c80caea60a2bf7f14ac728b2ba1706af80",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 481,
+      "pageId": "g3f965153a77_1_592",
+      "path": "/ssg105/source/slide-0481.png",
+      "bytes": 78129,
+      "sha256": "815fc6486221d9cd53a031e8636c250e7f6bfebfc59678fb9d80a5debdac3825",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 482,
+      "pageId": "g3f965153a77_1_597",
+      "path": "/ssg105/source/slide-0482.png",
+      "bytes": 83095,
+      "sha256": "0c69fcc5f36485c75c02d2b3c0b00d7f3253b1f468c74fd613499934620a508e",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 483,
+      "pageId": "g3f965153a77_1_602",
+      "path": "/ssg105/source/slide-0483.png",
+      "bytes": 83036,
+      "sha256": "83d087b82c9f5106a0ec81fa14f92d4d484624ffaaa39aefd25e8cf71356d4dd",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 484,
+      "pageId": "g3f965153a77_1_607",
+      "path": "/ssg105/source/slide-0484.png",
+      "bytes": 78595,
+      "sha256": "d09e62577b3f414cc064ed86306e60069dc44d119d6299fa56fe9a58654bc420",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 485,
+      "pageId": "g3f965153a77_1_612",
+      "path": "/ssg105/source/slide-0485.png",
+      "bytes": 68169,
+      "sha256": "cfe3bac92d1bf8072e4cb66a79fb82fd4608201e0e43e4fae0f649a01f82d164",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 486,
+      "pageId": "g3f965153a77_1_617",
+      "path": "/ssg105/source/slide-0486.png",
+      "bytes": 62795,
+      "sha256": "5649564d993303caec5ddb1f7765227cb16cfdad38deb012363d867007ce301b",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 487,
+      "pageId": "g3f965153a77_1_622",
+      "path": "/ssg105/source/slide-0487.png",
+      "bytes": 68853,
+      "sha256": "bdd0ae627357dd7461c7b00e0438538e615054c92b56742b3c9a1bfbc9aadcf2",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 488,
+      "pageId": "g3f965153a77_1_627",
+      "path": "/ssg105/source/slide-0488.png",
+      "bytes": 63834,
+      "sha256": "b377731fbe2effb41314cb044a6371d51297597b38c7a89378bae1352485965e",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 489,
+      "pageId": "g3f965153a77_1_632",
+      "path": "/ssg105/source/slide-0489.png",
+      "bytes": 68554,
+      "sha256": "ce02800c7c619643405c4aff42631dd3ca30e654fc0222dc8021be5831cd0a21",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 490,
+      "pageId": "g3f965153a77_1_637",
+      "path": "/ssg105/source/slide-0490.png",
+      "bytes": 72377,
+      "sha256": "5085def6e80d31d0ca45c9a57ee2158c3040992d5c33963fbd0ec5a31b4d955b",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 491,
+      "pageId": "g3f965153a77_1_642",
+      "path": "/ssg105/source/slide-0491.png",
+      "bytes": 65967,
+      "sha256": "fa8984df9cb86657aebcef9a52168b35c60343199c6605e113f4623944c2ab30",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 492,
+      "pageId": "g3f965153a77_1_647",
+      "path": "/ssg105/source/slide-0492.png",
+      "bytes": 59766,
+      "sha256": "99067e4e7a6069cec883b9ddd228c328d39c32f6f960a4869e1f6487f75d4003",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 493,
+      "pageId": "g3f965153a77_1_652",
+      "path": "/ssg105/source/slide-0493.png",
+      "bytes": 54464,
+      "sha256": "75eaa7673941e33009272863481b5bb624739d7d7cd34ffd31875b68d581d44e",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 494,
+      "pageId": "g3f965153a77_1_657",
+      "path": "/ssg105/source/slide-0494.png",
+      "bytes": 63152,
+      "sha256": "24d5beca81db2c089013228bc6acd82849aa6803eb67a511a0ba89e29034e4c9",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 495,
+      "pageId": "g3f965153a77_1_662",
+      "path": "/ssg105/source/slide-0495.png",
+      "bytes": 64290,
+      "sha256": "ade1bb6b9e9bdc3608e64a802e1498e585841e41daf31de2bf33e9851eebfe03",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 496,
+      "pageId": "g3f965153a77_1_667",
+      "path": "/ssg105/source/slide-0496.png",
+      "bytes": 57997,
+      "sha256": "3f11511b86b546ac436e3b4f9d76ae14e1f6ec6cea4f8b97e7e90f231e4aee8f",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 497,
+      "pageId": "g3f965153a77_1_672",
+      "path": "/ssg105/source/slide-0497.png",
+      "bytes": 40451,
+      "sha256": "045875433c9f548cf9f8b4a41efa368a1456659f263c422216df8192abb48df0",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 498,
+      "pageId": "g3f965153a77_1_727",
+      "path": "/ssg105/source/slide-0498.png",
+      "bytes": 81384,
+      "sha256": "773e781194ef44293b39263e541046e215562fc676a978b2b9f645b7f6e674df",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 499,
+      "pageId": "g3f965153a77_1_732",
+      "path": "/ssg105/source/slide-0499.png",
+      "bytes": 69201,
+      "sha256": "45b8b4984775e3bc5766e8fc3b4d14dab7d8f2105ff30a4d2a6a4b2d002f1627",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 500,
+      "pageId": "g3f965153a77_1_737",
+      "path": "/ssg105/source/slide-0500.png",
+      "bytes": 97169,
+      "sha256": "b4a91d48478ccdc3a6892685c14270e954e36e8a4bbad7ed03f64032fefa7eaa",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 501,
+      "pageId": "g3f965153a77_1_742",
+      "path": "/ssg105/source/slide-0501.png",
+      "bytes": 91221,
+      "sha256": "07dbe02637f93563e34f9a9cf9493247b4055f8433c14d337609e26be41d998e",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 502,
+      "pageId": "g3f965153a77_1_747",
+      "path": "/ssg105/source/slide-0502.png",
+      "bytes": 73153,
+      "sha256": "d571632a1e38b72135d04defa6d9f58dc81e58a5c230d0cfb2c5b725778259ae",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 503,
+      "pageId": "g3f965153a77_1_752",
+      "path": "/ssg105/source/slide-0503.png",
+      "bytes": 89348,
+      "sha256": "5bbdfabf1b46f2278a203325399af2558116f8351b4b66d6ad97b0a7b3fae217",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 504,
+      "pageId": "g3f965153a77_1_757",
+      "path": "/ssg105/source/slide-0504.png",
+      "bytes": 50340,
+      "sha256": "b4e1d4a92652e47e3447a2e646a82f12c1dae719b037cb87cfa43a27cc153c5d",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 505,
+      "pageId": "g3f965153a77_1_762",
+      "path": "/ssg105/source/slide-0505.png",
+      "bytes": 78629,
+      "sha256": "7ff315974039835d755184f4e22a0a818086b21c145439df35def561841dd6e7",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 506,
+      "pageId": "g3f965153a77_1_767",
+      "path": "/ssg105/source/slide-0506.png",
+      "bytes": 47386,
+      "sha256": "2992f27639b08bbb5aaf300e1cf72df34ecaa982470b49e2402de9253ca96eaf",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    },
+    {
+      "sourceSlide": 507,
+      "pageId": "g3f965153a77_1_772",
+      "path": "/ssg105/source/slide-0507.png",
+      "bytes": 54207,
+      "sha256": "2e51349e53694e84cacad0de4831a5575a59b48691db1890ad8366f360383d8e",
+      "width": 960,
+      "height": 540,
+      "renderMethod": "authenticated-viewpage-render"
+    }
+  ]
+}

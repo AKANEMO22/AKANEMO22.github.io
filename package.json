@@ -1,5 +1,5 @@
 {
-  "name": "ail303m-luyen-50-cau",
+  "name": "ady201m-study-lab",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -9,7 +9,12 @@
     "dev": "vinext dev",
     "build": "vinext build",
     "start": "vinext start",
-    "test": "npm run build && node --test tests/rendered-html.test.mjs",
+    "compare": "node scripts/compare_exams.mjs",
+    "build:ssg105": "node scripts/build_ssg105_manifest.mjs && node scripts/build_ssg105_data.mjs",
+    "validate:ssg105": "node scripts/validate_ssg105.mjs",
+    "validate:ocr": "node scripts/validate_ocr_coverage.mjs",
+    "validate:lessons": "node scripts/validate_lessons.mjs",
+    "test": "npm run compare && npm run validate:ocr && npm run validate:lessons && npm run build:ssg105 && npm run validate:ssg105 && npm run build && node --test tests/rendered-html.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate"
   },

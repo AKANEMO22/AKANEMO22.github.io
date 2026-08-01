@@ -1,0 +1,4490 @@
+[
+  {
+    "question": 1,
+    "image": "/exams/SP26-FE/images/Q1.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "e8cef1ad6feb19c90559c52160c6a8431c956f70d9ff900b96c05bdc58305c6c",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.996413,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Explainthedifferencebetweenprecisionandrecallinthecontextofbinaryclassification",
+        "score": 0.994432,
+        "x": 42.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Precisionmeasures theabilityofamodel tocorrectlyidentifypositiveinstances,whilerecallmeasures the",
+        "score": 0.967841,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "abilitytocorrectlyidentifyallactualpositiveinstances",
+        "score": 0.978196,
+        "x": 40.0,
+        "y": 99.0
+      },
+      {
+        "text": "B.Precision andrecallarethesameconceptand canbeusedinterchangeablyinbinaryclassification",
+        "score": 0.980445,
+        "x": 40.0,
+        "y": 132.0
+      },
+      {
+        "text": "C.Precisionandrecallareirrelevantinbinaryclassification",
+        "score": 0.987499,
+        "x": 41.0,
+        "y": 166.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.992859,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "ability tocorrectlyidentify allactualpositiveinstances",
+        "score": 0.961439,
+        "x": 83.23,
+        "y": 201.87
+      },
+      {
+        "text": "B.Precision and recallare the same concept and canbe used interchangeably in binaryclassification",
+        "score": 0.954563,
+        "x": 81.29,
+        "y": 266.62
+      },
+      {
+        "text": "C.Precisionandrecallareirrelevantinbinaryclassification",
+        "score": 0.989643,
+        "x": 83.23,
+        "y": 331.37
+      }
+    ]
+  },
+  {
+    "question": 2,
+    "image": "/exams/SP26-FE/images/Q2.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "da8604bbdae4b9c34647e667e75879ff5f91ff5fd55e0397f9745b13f4bec77a",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995959,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What is thepurposeofevaluating data miningresults?",
+        "score": 0.954683,
+        "x": 40.0,
+        "y": 49.0
+      },
+      {
+        "text": "A.Toconductanin-sample forecast”totest thepredictivecapabilitiesof models",
+        "score": 0.956186,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Toselectthemostsuitabledataminingsoftware",
+        "score": 0.982015,
+        "x": 40.0,
+        "y": 116.0
+      },
+      {
+        "text": "C.Todetermine thecostsandbenefitsof thedataminingexercise",
+        "score": 0.984643,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Tovisualizedata using advanced graphingcapabilities",
+        "score": 0.960259,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.992393,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "What is the purpose of evaluating data mining results?",
+        "score": 0.982948,
+        "x": 81.29,
+        "y": 100.93
+      },
+      {
+        "text": "A. To conduct an “in-sample forecast” to test the predictive capabilities of models",
+        "score": 0.950375,
+        "x": 79.35,
+        "y": 167.59
+      },
+      {
+        "text": "B.To select the most suitable data mining software",
+        "score": 0.960549,
+        "x": 79.35,
+        "y": 234.24
+      },
+      {
+        "text": "C.To determine the costs and benefits of the data mining exercise",
+        "score": 0.968272,
+        "x": 83.23,
+        "y": 300.9
+      },
+      {
+        "text": "D. To visualize data using advanced graphing capabilities",
+        "score": 0.966544,
+        "x": 83.23,
+        "y": 365.65
+      }
+    ]
+  },
+  {
+    "question": 3,
+    "image": "/exams/SP26-FE/images/Q3.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "c508d0a26da21040ae726c15f297de6e0a7e86955c20fedfc013c777ceb414aa",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995603,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "You'verecentlystartedasmallmanufacturingbusiness.You'vebeenfocusedonproductionbutrealizethe",
+        "score": 0.987096,
+        "x": 40.0,
+        "y": 49.0
+      },
+      {
+        "text": "importanceofdataforbetterdecision-making.Whatshouldbeyourinitial steptoharnessthepowerofdata",
+        "score": 0.973925,
+        "x": 40.0,
+        "y": 66.0
+      },
+      {
+        "text": "sciencetoimproveyouroperations?",
+        "score": 0.994073,
+        "x": 39.0,
+        "y": 83.0
+      },
+      {
+        "text": "A.Documentyourexisting data collectionand archivingpractices",
+        "score": 0.975184,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "B.Increaseyouradvertisingbudget to attract morecustomers",
+        "score": 0.957026,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "C.Investinexpensivedata analyticssoftware",
+        "score": 0.978794,
+        "x": 40.0,
+        "y": 182.0
+      },
+      {
+        "text": "D.Beginhiringateam ofdatascientists",
+        "score": 0.971217,
+        "x": 41.0,
+        "y": 217.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.992319,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "You'verecentlystartedasmallmanufacturingbusiness.Youvebeenfocusedonproductionbutrealizethe",
+        "score": 0.973066,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "sciencetoimproveyouroperations?",
+        "score": 0.994949,
+        "x": 85.16,
+        "y": 171.4
+      },
+      {
+        "text": "A. Document your existing data collection and archiving practices",
+        "score": 0.982718,
+        "x": 81.29,
+        "y": 234.24
+      },
+      {
+        "text": "B. Increase your advertising budget to attract more customers",
+        "score": 0.960292,
+        "x": 79.35,
+        "y": 298.99
+      },
+      {
+        "text": "C.Invest inexpensive data analyticssoftware",
+        "score": 0.964504,
+        "x": 83.23,
+        "y": 365.65
+      },
+      {
+        "text": "D.Begin hiring a team of data scientists",
+        "score": 0.977255,
+        "x": 83.23,
+        "y": 434.21
+      }
+    ]
+  },
+  {
+    "question": 4,
+    "image": "/exams/SP26-FE/images/Q4.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "1a32c5df1446b4f74afa49ccf80f4d48c95b74443d8c5fd0fa205cf82e70dbfd",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.996356,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Infinancial data analysis,whichPython library is commonlyused toretrievestockmarketdatafromAPls？",
+        "score": 0.953302,
+        "x": 40.0,
+        "y": 49.0
+      },
+      {
+        "text": "A.BeautifulSoup",
+        "score": 0.968961,
+        "x": 39.0,
+        "y": 81.0
+      },
+      {
+        "text": "B.Pandas",
+        "score": 0.989636,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Requests",
+        "score": 0.991508,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.yfinance",
+        "score": 0.984936,
+        "x": 39.0,
+        "y": 181.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.994659,
+        "x": 60.0,
+        "y": 17.14
+      },
+      {
+        "text": "In financial data analysis, which Python library is commonly used to retrieve stock market data from APls?",
+        "score": 0.992973,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "A.BeautiulSoup",
+        "score": 0.978371,
+        "x": 77.42,
+        "y": 163.78
+      },
+      {
+        "text": "B.Pandas",
+        "score": 0.997429,
+        "x": 79.35,
+        "y": 232.34
+      },
+      {
+        "text": "C.Requests",
+        "score": 0.981973,
+        "x": 79.35,
+        "y": 298.99
+      },
+      {
+        "text": "D.yfinance",
+        "score": 0.995949,
+        "x": 79.35,
+        "y": 361.84
+      }
+    ]
+  },
+  {
+    "question": 5,
+    "image": "/exams/SP26-FE/images/Q5.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "2e2351f3bdec47d78f3a838a1077bcc9c99825520b231f63808fc88b4ff3ca21",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.996293,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What is theprimarygoalofdata transformation intheUnderstandingtoPreparationphase?",
+        "score": 0.97082,
+        "x": 40.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Toconvertdataintoasuitableformatforanalysis",
+        "score": 0.976314,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Tocomplicatethedatasetstructure",
+        "score": 0.99361,
+        "x": 39.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Tovisualizedatadistributions",
+        "score": 0.992813,
+        "x": 41.0,
+        "y": 149.0
+      },
+      {
+        "text": "D.Toincreasetheamountofmissingdata",
+        "score": 0.993889,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.992651,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "What is the primary goal of data transformation in the Understanding to Preparation phase?",
+        "score": 0.990895,
+        "x": 81.29,
+        "y": 100.93
+      },
+      {
+        "text": "A.Toconvert data into a suitableformatforanalysis",
+        "score": 0.958702,
+        "x": 81.29,
+        "y": 169.49
+      },
+      {
+        "text": "B.Tocomplicate the datasetstructure",
+        "score": 0.966508,
+        "x": 83.23,
+        "y": 234.24
+      },
+      {
+        "text": "C.Tovisualizedata distributions",
+        "score": 0.959542,
+        "x": 83.23,
+        "y": 300.9
+      },
+      {
+        "text": "D.Toincreasethe amount ofmissingdata",
+        "score": 0.967733,
+        "x": 81.29,
+        "y": 363.74
+      }
+    ]
+  },
+  {
+    "question": 6,
+    "image": "/exams/SP26-FE/images/Q6.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "1879fa1bf6bcc8b410b92ec8b563053e4bbbee0bb268356c4cba0a9cb9b4b039",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.996177,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What is theprimarygoal of theBusinessUnderstandingstagein theDataScienceprocess?",
+        "score": 0.972149,
+        "x": 40.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Tounderstand theprojectobjectivesandrequirements",
+        "score": 0.976763,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Tocollectandcleanrawdata",
+        "score": 0.975023,
+        "x": 39.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Tocreatepredictivemodels",
+        "score": 0.992242,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Todeploymachinelearningalgorithms",
+        "score": 0.989071,
+        "x": 41.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.994032,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "A.Tounderstand theprojectobjectivesand requirements",
+        "score": 0.976462,
+        "x": 81.29,
+        "y": 167.59
+      },
+      {
+        "text": "B.Tocollectandcleanrawdata",
+        "score": 0.985665,
+        "x": 79.35,
+        "y": 232.34
+      },
+      {
+        "text": "C.Tocreatepredictivemodels",
+        "score": 0.995857,
+        "x": 83.23,
+        "y": 298.99
+      },
+      {
+        "text": "D.To deploymachinelearning algorithms",
+        "score": 0.979607,
+        "x": 81.29,
+        "y": 363.74
+      }
+    ]
+  },
+  {
+    "question": 7,
+    "image": "/exams/SP26-FE/images/Q7.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "802d268f88255ad883a770f078565d6facb48ba3f7eb5374ea331c43c613f3a0",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.996305,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "WhichPythonlibraryiscommonlyusedtoconnectandinteractwithIBMDB2databases?",
+        "score": 0.986896,
+        "x": 42.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.ibm_db",
+        "score": 0.98373,
+        "x": 39.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.sqlalchemy",
+        "score": 0.992483,
+        "x": 39.0,
+        "y": 113.0
+      },
+      {
+        "text": "C.pandas",
+        "score": 0.984268,
+        "x": 41.0,
+        "y": 149.0
+      },
+      {
+        "text": "D.cx_Oracle",
+        "score": 0.983386,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995177,
+        "x": 58.06,
+        "y": 15.24
+      },
+      {
+        "text": "WhichPython library is commonlyused to connectand interact withIBM DB2databases?",
+        "score": 0.947161,
+        "x": 81.29,
+        "y": 99.03
+      },
+      {
+        "text": "A.ibm_db",
+        "score": 0.989408,
+        "x": 77.42,
+        "y": 163.78
+      },
+      {
+        "text": "B.sqlalchemy",
+        "score": 0.966019,
+        "x": 77.42,
+        "y": 226.62
+      },
+      {
+        "text": "C.pandas",
+        "score": 0.996573,
+        "x": 79.35,
+        "y": 295.18
+      },
+      {
+        "text": "D.cx_Oracle",
+        "score": 0.965006,
+        "x": 79.35,
+        "y": 363.74
+      }
+    ]
+  },
+  {
+    "question": 8,
+    "image": "/exams/SP26-FE/images/Q8.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "a3bdd3d22c4feb11379b30ed01bed5028409634dcf4a75718716a93311f731e5",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995812,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Explaintheconceptof databasesharding anditsrole inachievingscalability.",
+        "score": 0.975789,
+        "x": 41.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Creatingmultiplecopiesofa databaseforredundancy",
+        "score": 0.982803,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Dividinga databaseintosmaller,moremanageablepieces",
+        "score": 0.975372,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Encryptingsensitivedatainadatabase",
+        "score": 0.99057,
+        "x": 40.0,
+        "y": 147.0
+      },
+      {
+        "text": "D.Implementing advancedindexingtechniques",
+        "score": 0.974555,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.992615,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "Explain the concept of database sharding and its role in achieving scalability.",
+        "score": 0.955187,
+        "x": 85.16,
+        "y": 104.74
+      },
+      {
+        "text": "A.Creatingmultiplecopiesofa databaseforredundancy",
+        "score": 0.979265,
+        "x": 79.35,
+        "y": 167.59
+      },
+      {
+        "text": "B.Dividing a database into smaller, more manageable pieces",
+        "score": 0.966837,
+        "x": 81.29,
+        "y": 234.24
+      },
+      {
+        "text": "C. Encrypting sensitive data in a database",
+        "score": 0.973052,
+        "x": 83.23,
+        "y": 298.99
+      },
+      {
+        "text": "D. Implementing advanced indexing techniques",
+        "score": 0.971284,
+        "x": 83.23,
+        "y": 365.65
+      }
+    ]
+  },
+  {
+    "question": 9,
+    "image": "/exams/SP26-FE/images/Q9.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "e2c211947a89a0d24fa4b2463cac140dbf85007f33b9513478bda865239e00cc",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995371,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "WhichPythonlibrarycommonlyaccompaniesibm_dbtofacilitatedatamanipulation andanalysiswhen",
+        "score": 0.981931,
+        "x": 40.0,
+        "y": 51.0
+      },
+      {
+        "text": "workingwithDB2?",
+        "score": 0.980362,
+        "x": 40.0,
+        "y": 67.0
+      },
+      {
+        "text": "A.pandas",
+        "score": 0.989246,
+        "x": 39.0,
+        "y": 98.0
+      },
+      {
+        "text": "B.sqlalchemy",
+        "score": 0.992808,
+        "x": 39.0,
+        "y": 132.0
+      },
+      {
+        "text": "C.numpy",
+        "score": 0.987072,
+        "x": 39.0,
+        "y": 164.0
+      },
+      {
+        "text": "D.matplotlib",
+        "score": 0.951958,
+        "x": 39.0,
+        "y": 198.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.978975,
+        "x": 58.06,
+        "y": 13.33
+      },
+      {
+        "text": "WhichPython library commonly accompanies ibm_db to facilitate data manipulation and analysis when",
+        "score": 0.979148,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "working with DB2?",
+        "score": 0.98082,
+        "x": 81.29,
+        "y": 135.21
+      },
+      {
+        "text": "A. pandas",
+        "score": 0.968283,
+        "x": 77.42,
+        "y": 196.15
+      },
+      {
+        "text": "B. sqlalchemy",
+        "score": 0.995966,
+        "x": 77.42,
+        "y": 262.81
+      },
+      {
+        "text": "C. numpy",
+        "score": 0.995466,
+        "x": 77.42,
+        "y": 329.46
+      },
+      {
+        "text": "D. matplotib",
+        "score": 0.960233,
+        "x": 79.35,
+        "y": 398.02
+      }
+    ]
+  },
+  {
+    "question": 10,
+    "image": "/exams/SP26-FE/images/Q10.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "e732ec153be662dcbf5330389ff9e98b76cb18ebc5bb405adb95c427807d3954",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995405,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What istheroleof theGROUPBYclauseinSQLqueries?",
+        "score": 0.959933,
+        "x": 40.0,
+        "y": 50.0
+      },
+      {
+        "text": "A.Sortingrowsinascending order",
+        "score": 0.978634,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Grouping rowsbased onthevalues inone ormore columns",
+        "score": 0.952471,
+        "x": 39.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Joiningtwotablestogether",
+        "score": 0.992891,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Filteringrowsbased ona specified condition",
+        "score": 0.968048,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.994291,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "Whatis theroleof theGROUPBYclauseinSQLqueries?",
+        "score": 0.941491,
+        "x": 83.23,
+        "y": 100.93
+      },
+      {
+        "text": "A.Sortingrowsinascendingorder",
+        "score": 0.997077,
+        "x": 79.35,
+        "y": 167.59
+      },
+      {
+        "text": "B. Grouping rows based on the values in one or more columns",
+        "score": 0.975346,
+        "x": 81.29,
+        "y": 234.24
+      },
+      {
+        "text": "C.Joining two tables together",
+        "score": 0.954181,
+        "x": 79.35,
+        "y": 298.99
+      },
+      {
+        "text": "D. Filtering rows based on a specified condition",
+        "score": 0.954391,
+        "x": 83.23,
+        "y": 365.65
+      }
+    ]
+  },
+  {
+    "question": 11,
+    "image": "/exams/SP26-FE/images/Q11.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "1587715453a9af769f48c81a417cdfcd55a35b2437337d743fe4ec3da0421473",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.996195,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "WhatisthefunctionofaWHEREclauseinanUPDATEstatement?",
+        "score": 0.988873,
+        "x": 42.0,
+        "y": 52.0
+      },
+      {
+        "text": "A.AWHEREclauseisneverusedwithanUPDATEstatement",
+        "score": 0.986088,
+        "x": 40.0,
+        "y": 83.0
+      },
+      {
+        "text": "B.AWHEREclauseenablesyoutospecifyanewtabletoreceivetheupdates",
+        "score": 0.985398,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.AWHEREclauseenablesyou tolist thecolumn and data tobeupdated",
+        "score": 0.957378,
+        "x": 41.0,
+        "y": 149.0
+      },
+      {
+        "text": "D.AWHEREclause enablesyou tospecifywhichrowswillbeupdated",
+        "score": 0.979156,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.992525,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "What is the functionofaWHEREclause in an UPDATEstatement?",
+        "score": 0.955568,
+        "x": 83.23,
+        "y": 102.84
+      },
+      {
+        "text": "A.A WHERE clause is neverused with anUPDATE statement",
+        "score": 0.955867,
+        "x": 81.29,
+        "y": 169.49
+      },
+      {
+        "text": "B. A WHERE clause enables you to specify a new table to receive the updates",
+        "score": 0.974681,
+        "x": 79.35,
+        "y": 234.24
+      },
+      {
+        "text": "C. A WHERE clause enables you to list the column and data to be updated",
+        "score": 0.947283,
+        "x": 83.23,
+        "y": 300.9
+      }
+    ]
+  },
+  {
+    "question": 12,
+    "image": "/exams/SP26-FE/images/Q12.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "0779af6210408a3e297cf903eb3bfa76e898ec4eb0b4a772e5e0ea578ab5f3f1",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995546,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Which statement isused toinstall the ibm_dbPythonpackage?",
+        "score": 0.963818,
+        "x": 40.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.pipinstallibm_db",
+        "score": 0.98422,
+        "x": 39.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.ibm_dbinstall",
+        "score": 0.99383,
+        "x": 39.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.conda installibm_db",
+        "score": 0.931302,
+        "x": 41.0,
+        "y": 149.0
+      },
+      {
+        "text": "D.python-m ibm_dbinstall",
+        "score": 0.973928,
+        "x": 40.0,
+        "y": 181.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995208,
+        "x": 60.0,
+        "y": 15.24
+      },
+      {
+        "text": "Which statement is used to install the ibm_db Python package?",
+        "score": 0.976523,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "A. pip install ibm_db",
+        "score": 0.962695,
+        "x": 79.35,
+        "y": 169.49
+      },
+      {
+        "text": "B. ibm_db install",
+        "score": 0.973073,
+        "x": 81.29,
+        "y": 234.24
+      },
+      {
+        "text": "C. conda installibm_db",
+        "score": 0.915026,
+        "x": 79.35,
+        "y": 295.18
+      },
+      {
+        "text": "D. python -m ibm_db install",
+        "score": 0.994093,
+        "x": 83.23,
+        "y": 365.65
+      }
+    ]
+  },
+  {
+    "question": 13,
+    "image": "/exams/SP26-FE/images/Q13.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "9119c9cfa01344049f3b28e5fcceffbb400f4ff9c5604450806a062f3e29f76f",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.99645,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Toquerydatafromtablesindatabaseaconnection to thedatabaseneedstobeestablished.Whichof the",
+        "score": 0.978818,
+        "x": 41.0,
+        "y": 51.0
+      },
+      {
+        "text": "followingisNOTrequiredtoestablishaconnectionwitharelationaldatabasefromaPythonnotebook?",
+        "score": 0.982691,
+        "x": 41.0,
+        "y": 68.0
+      },
+      {
+        "text": "A.Databasename",
+        "score": 0.988856,
+        "x": 40.0,
+        "y": 98.0
+      },
+      {
+        "text": "B.UsernameandPassword",
+        "score": 0.992016,
+        "x": 40.0,
+        "y": 133.0
+      },
+      {
+        "text": "C.TableandColumnnames",
+        "score": 0.992007,
+        "x": 41.0,
+        "y": 166.0
+      },
+      {
+        "text": "D.AnSQLorDatabaseAPT",
+        "score": 0.988952,
+        "x": 41.0,
+        "y": 200.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.993005,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "Toquery datafromtablesindatabaseaconnection to thedatabaseneedstobeestablished.Whichof the",
+        "score": 0.969946,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "A.Databasename",
+        "score": 0.965979,
+        "x": 79.35,
+        "y": 196.15
+      },
+      {
+        "text": "B.UsernameandPassword",
+        "score": 0.996867,
+        "x": 81.29,
+        "y": 266.62
+      },
+      {
+        "text": "C.TableandColumnnames",
+        "score": 0.995441,
+        "x": 81.29,
+        "y": 331.37
+      },
+      {
+        "text": "D.AnSQLorDatabaseAPT",
+        "score": 0.99574,
+        "x": 83.23,
+        "y": 399.93
+      }
+    ]
+  },
+  {
+    "question": 14,
+    "image": "/exams/SP26-FE/images/Q14.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "0d2bf47317e9fda6e561f757bef89d20026996243470d57fb95d79b6ac8a2997",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995401,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Whichstatementbestdescribes a\"commit\"inGit?",
+        "score": 0.952909,
+        "x": 40.0,
+        "y": 50.0
+      },
+      {
+        "text": "A.Asnapshotof changesmadeto therepository",
+        "score": 0.972721,
+        "x": 41.0,
+        "y": 84.0
+      },
+      {
+        "text": "B.Acommandused to synclocal andremoterepositories",
+        "score": 0.962054,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.A log ofall changesmadeby teammembers",
+        "score": 0.948361,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Abranch in therepository",
+        "score": 0.9593,
+        "x": 39.0,
+        "y": 180.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.994379,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "Which statement best describes a\"commit'in Git?",
+        "score": 0.929074,
+        "x": 83.23,
+        "y": 104.74
+      },
+      {
+        "text": "A.A snapshot of changes made to therepository",
+        "score": 0.947913,
+        "x": 79.35,
+        "y": 165.68
+      },
+      {
+        "text": "B. A command used to sync local and remote repositories",
+        "score": 0.985255,
+        "x": 79.35,
+        "y": 234.24
+      },
+      {
+        "text": "C. A log of all changes made by team members",
+        "score": 0.983746,
+        "x": 81.29,
+        "y": 298.99
+      },
+      {
+        "text": "D.A branch in therepository",
+        "score": 0.947069,
+        "x": 79.35,
+        "y": 361.84
+      }
+    ]
+  },
+  {
+    "question": 15,
+    "image": "/exams/SP26-FE/images/Q15.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "2c77b7edb87448aed25eabdc8e840aa7371c5d33fd3e488c41eb9512440e10b5",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.9958,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Whichlibraryprovidestoolsforcreating interactivevisualizationsinPython?",
+        "score": 0.985125,
+        "x": 40.0,
+        "y": 50.0
+      },
+      {
+        "text": "A.Plotly",
+        "score": 0.957762,
+        "x": 39.0,
+        "y": 81.0
+      },
+      {
+        "text": "B.Matplotlib",
+        "score": 0.965144,
+        "x": 39.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Seaborn",
+        "score": 0.964627,
+        "x": 39.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Bokeh",
+        "score": 0.989935,
+        "x": 39.0,
+        "y": 180.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.994825,
+        "x": 58.06,
+        "y": 15.24
+      },
+      {
+        "text": "Whichlibrary provides tools for creating interactive visualizations in Python?",
+        "score": 0.977383,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "A.Ploty",
+        "score": 0.981905,
+        "x": 77.42,
+        "y": 163.78
+      },
+      {
+        "text": "B.Matplotib",
+        "score": 0.980312,
+        "x": 77.42,
+        "y": 228.53
+      },
+      {
+        "text": "C.Seabom",
+        "score": 0.989241,
+        "x": 77.42,
+        "y": 293.28
+      },
+      {
+        "text": "D.Bokeh",
+        "score": 0.996711,
+        "x": 79.35,
+        "y": 363.74
+      }
+    ]
+  },
+  {
+    "question": 16,
+    "image": "/exams/SP26-FE/images/Q16.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "e372ab927c0422de73a413b0961d5088e45588cd8201cfe32741bf0aa426933c",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.996238,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Whichcategoryof DataSciencetoolsinvolvesplatforms likeTableau,PowerBl,andPlotly?",
+        "score": 0.957602,
+        "x": 41.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.DataVisualizationtools",
+        "score": 0.990931,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.DataIntegrationtools",
+        "score": 0.988552,
+        "x": 40.0,
+        "y": 116.0
+      },
+      {
+        "text": "C.DataCleaningtools",
+        "score": 0.991661,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.DataAnalysistools",
+        "score": 0.992579,
+        "x": 39.0,
+        "y": 181.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.994822,
+        "x": 60.0,
+        "y": 17.14
+      },
+      {
+        "text": "A.DataVisualizationtools",
+        "score": 0.99538,
+        "x": 79.35,
+        "y": 169.49
+      },
+      {
+        "text": "B.DataIntegrationtools",
+        "score": 0.990949,
+        "x": 77.42,
+        "y": 228.53
+      },
+      {
+        "text": "C.DataCleaningtools",
+        "score": 0.968913,
+        "x": 79.35,
+        "y": 298.99
+      },
+      {
+        "text": "D.DataAnalysistools",
+        "score": 0.997021,
+        "x": 83.23,
+        "y": 365.65
+      }
+    ]
+  },
+  {
+    "question": 17,
+    "image": "/exams/SP26-FE/images/Q17.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "6dd3f803590e79e2f6be20202ac8c8b5d42a4079d7bd8ae74decdc757993f15c",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995189,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "WhichserviceontheIBMCloudprovidesaunified environment forAl,analytics,anddatamanagement,",
+        "score": 0.959816,
+        "x": 40.0,
+        "y": 49.0
+      },
+      {
+        "text": "supportingWatsonStudiointegration?",
+        "score": 0.986503,
+        "x": 41.0,
+        "y": 67.0
+      },
+      {
+        "text": "A.IBMCloudPakforData",
+        "score": 0.983832,
+        "x": 41.0,
+        "y": 100.0
+      },
+      {
+        "text": "B.IBMCloudFunctions",
+        "score": 0.967942,
+        "x": 40.0,
+        "y": 134.0
+      },
+      {
+        "text": "C.IBMCloudVirtual Servers",
+        "score": 0.966617,
+        "x": 41.0,
+        "y": 166.0
+      },
+      {
+        "text": "D.IBM CloudDatabases",
+        "score": 0.968127,
+        "x": 41.0,
+        "y": 198.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.965797,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "Whichservice on the IBM Cloudprovides a unified environment forAl,analytics,and datamanagement,",
+        "score": 0.958543,
+        "x": 79.35,
+        "y": 97.12
+      },
+      {
+        "text": "supporting Watson Studio integration?",
+        "score": 0.971827,
+        "x": 83.23,
+        "y": 135.21
+      },
+      {
+        "text": "A.IBM Cloud Pak for Data",
+        "score": 0.953815,
+        "x": 79.35,
+        "y": 196.15
+      },
+      {
+        "text": "B. IBM Cloud Functions",
+        "score": 0.974628,
+        "x": 81.29,
+        "y": 268.52
+      },
+      {
+        "text": "C.IBM Cloud Virtual Servers",
+        "score": 0.979047,
+        "x": 83.23,
+        "y": 333.27
+      },
+      {
+        "text": "D.IBM CloudDatabases",
+        "score": 0.982739,
+        "x": 81.29,
+        "y": 396.12
+      }
+    ]
+  },
+  {
+    "question": 18,
+    "image": "/exams/SP26-FE/images/Q18.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "120c3c6e9c221f9ceba7bfbb682112e46031818ecb456bc9fd477f93a370a0cf",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.9956,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Howcanusers access IBMWatsonStudioon theIBMCsud?",
+        "score": 0.953551,
+        "x": 40.0,
+        "y": 50.0
+      },
+      {
+        "text": "A.Byusingawebbrowser",
+        "score": 0.99148,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Onlythroughadesktopapplication",
+        "score": 0.991904,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Byinstallingastandaloneserver",
+        "score": 0.993391,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Viaamobileapp",
+        "score": 0.984949,
+        "x": 39.0,
+        "y": 180.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.980252,
+        "x": 58.06,
+        "y": 17.14
+      },
+      {
+        "text": "How can users access IBMWatson StudioontheIBM Csud?",
+        "score": 0.936507,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "A.Byusingawebbrowser",
+        "score": 0.997569,
+        "x": 81.29,
+        "y": 169.49
+      },
+      {
+        "text": "B.Only through a desktop application",
+        "score": 0.961686,
+        "x": 79.35,
+        "y": 230.43
+      },
+      {
+        "text": "C. By installing a standalone server",
+        "score": 0.973788,
+        "x": 81.29,
+        "y": 298.99
+      },
+      {
+        "text": "D.Viaamobile app",
+        "score": 0.943815,
+        "x": 77.42,
+        "y": 359.93
+      }
+    ]
+  },
+  {
+    "question": 19,
+    "image": "/exams/SP26-FE/images/Q19.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "b3d2007466e209464c8a96db9c5e3e9fbf94ab5e0a3caca49344a2a3ceb764df",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.99604,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Inthecontextofdatascience,whatisthepurposeoftheCRISP-DMframework?",
+        "score": 0.962697,
+        "x": 41.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Amethodologyfordatacleaning",
+        "score": 0.991051,
+        "x": 41.0,
+        "y": 84.0
+      },
+      {
+        "text": "B.Aprocessmodelforsolvingcomplexbusinessproblems",
+        "score": 0.993112,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Aprogramminglanguagefordatamanipulation",
+        "score": 0.990729,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Astatistical techniqueforfeatureselection",
+        "score": 0.978443,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.992939,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "In the context of data science, what is the purpose of the CRiSP-DM framework?",
+        "score": 0.960687,
+        "x": 83.23,
+        "y": 102.84
+      },
+      {
+        "text": "A.Amethodologyfordatacleaning",
+        "score": 0.993689,
+        "x": 79.35,
+        "y": 167.59
+      },
+      {
+        "text": "B.Aprocessmodel for solving complexbusinessproblems",
+        "score": 0.974932,
+        "x": 79.35,
+        "y": 230.43
+      },
+      {
+        "text": "C.Aprogramming language fordatamanipulation",
+        "score": 0.971114,
+        "x": 79.35,
+        "y": 298.99
+      },
+      {
+        "text": "D.A statistical technique for feature selection",
+        "score": 0.968741,
+        "x": 81.29,
+        "y": 365.65
+      }
+    ]
+  },
+  {
+    "question": 20,
+    "image": "/exams/SP26-FE/images/Q20.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "99aaec44793770c941070f6a98fb759fa15c2da47c8f67f3cb4977966f8da90c",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995472,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Inwhichformatscanyoushare anotebookwithotherusers?",
+        "score": 0.982008,
+        "x": 41.0,
+        "y": 50.0
+      },
+      {
+        "text": "A.xls",
+        "score": 0.819848,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.pdf",
+        "score": 0.944788,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.ppt",
+        "score": 0.926669,
+        "x": 38.0,
+        "y": 147.0
+      },
+      {
+        "text": "D.dic",
+        "score": 0.9761,
+        "x": 40.0,
+        "y": 181.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.980791,
+        "x": 58.06,
+        "y": 17.14
+      },
+      {
+        "text": "Inwhichformatscanyoushare anotebookwithother users?",
+        "score": 0.976395,
+        "x": 81.29,
+        "y": 99.03
+      },
+      {
+        "text": "A.xls",
+        "score": 0.886511,
+        "x": 77.42,
+        "y": 163.78
+      },
+      {
+        "text": "B. pdf",
+        "score": 0.933547,
+        "x": 77.42,
+        "y": 228.53
+      },
+      {
+        "text": "C.ppt",
+        "score": 0.957559,
+        "x": 75.48,
+        "y": 293.28
+      },
+      {
+        "text": "D. dic",
+        "score": 0.951145,
+        "x": 77.42,
+        "y": 361.84
+      }
+    ]
+  },
+  {
+    "question": 21,
+    "image": "/exams/SP26-FE/images/Q21.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "08bb2df5bbe632447b4ad9878053ec2a3db520654bc035d75184a603cc608dc7",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995597,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What does the functionnp.linspace(0,10,5)return inNumPy?",
+        "score": 0.942662,
+        "x": 40.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Anarrayof fiveequallyspacedvaluesbetween0and10",
+        "score": 0.981958,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Anarrayof fiverandomvaluesbetween0and10",
+        "score": 0.980529,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.An arrayof tenequallyspacedvaluesbetween 0and5",
+        "score": 0.962675,
+        "x": 40.0,
+        "y": 149.0
+      },
+      {
+        "text": "D.An arrayof tenequallyspacedvaluesbetween 0and10",
+        "score": 0.960962,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.959889,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "What does the function np.linspace(0, 10, 5) return in NumPy?",
+        "score": 0.992442,
+        "x": 81.29,
+        "y": 100.93
+      },
+      {
+        "text": "A. An array of five equally spaced values between 0 and 10",
+        "score": 0.958314,
+        "x": 81.29,
+        "y": 167.59
+      },
+      {
+        "text": "B. An array of five random values between 0 and 10",
+        "score": 0.955032,
+        "x": 81.29,
+        "y": 232.34
+      },
+      {
+        "text": "C.An array of ten equally spaced values between 0 and 5",
+        "score": 0.935952,
+        "x": 79.35,
+        "y": 297.09
+      }
+    ]
+  },
+  {
+    "question": 22,
+    "image": "/exams/SP26-FE/images/Q22.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "bb87ee574f958305bf3e5834c854b6138f8f30b8277e6250a72477068ea040ff",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.99586,
+        "x": 30.0,
+        "y": 8.0
+      },
+      {
+        "text": "A.(3,3)",
+        "score": 0.914927,
+        "x": 40.0,
+        "y": 83.0
+      },
+      {
+        "text": "B.(5,5)",
+        "score": 0.895864,
+        "x": 38.0,
+        "y": 114.0
+      },
+      {
+        "text": "C.(2,2)",
+        "score": 0.921377,
+        "x": 39.0,
+        "y": 146.0
+      },
+      {
+        "text": "D.(3,5)",
+        "score": 0.922422,
+        "x": 38.0,
+        "y": 179.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.973684,
+        "x": 58.06,
+        "y": 17.14
+      },
+      {
+        "text": "If arr is a 2D numpy array of shape (5,5),what willbe the shape of arr[:2, :2]?",
+        "score": 0.917553,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "A. (3,3)",
+        "score": 0.896735,
+        "x": 77.42,
+        "y": 165.68
+      },
+      {
+        "text": "B.(5,5)",
+        "score": 0.955189,
+        "x": 73.55,
+        "y": 226.62
+      },
+      {
+        "text": "C.(2.2)",
+        "score": 0.928037,
+        "x": 77.42,
+        "y": 291.38
+      },
+      {
+        "text": "D. (3,5)",
+        "score": 0.972174,
+        "x": 77.42,
+        "y": 359.93
+      }
+    ]
+  },
+  {
+    "question": 23,
+    "image": "/exams/SP26-FE/images/Q23.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "2012a87a371b10ea802260abc2fa81cd4bd7858750c0fad0e3135d2fd1ca0ccf",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995556,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What is thefunction used inNumPy tocreate an identitymatrix?",
+        "score": 0.94919,
+        "x": 40.0,
+        "y": 49.0
+      },
+      {
+        "text": "A.exe0",
+        "score": 0.921908,
+        "x": 39.0,
+        "y": 80.0
+      },
+      {
+        "text": "B.identityO",
+        "score": 0.96255,
+        "x": 39.0,
+        "y": 113.0
+      },
+      {
+        "text": "C.ones0",
+        "score": 0.895435,
+        "x": 39.0,
+        "y": 145.0
+      },
+      {
+        "text": "D.zeros0",
+        "score": 0.937036,
+        "x": 39.0,
+        "y": 179.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.979324,
+        "x": 58.06,
+        "y": 17.14
+      },
+      {
+        "text": "What is the function used in NumPy to create an identity matrix?",
+        "score": 0.959476,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "A.exe0",
+        "score": 0.945138,
+        "x": 77.42,
+        "y": 163.78
+      },
+      {
+        "text": "B.identityO",
+        "score": 0.956024,
+        "x": 77.42,
+        "y": 228.53
+      },
+      {
+        "text": "C.ones0",
+        "score": 0.922867,
+        "x": 77.42,
+        "y": 291.38
+      },
+      {
+        "text": "D.zeros0",
+        "score": 0.971343,
+        "x": 79.35,
+        "y": 361.84
+      }
+    ]
+  },
+  {
+    "question": 24,
+    "image": "/exams/SP26-FE/images/Q24.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "8acd18bb0a4af87b6dc50edebbc7629affa19a2c46dd8140953dabf140867188",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995519,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What is the primarypurpose of a generatorinPython?",
+        "score": 0.938314,
+        "x": 39.0,
+        "y": 49.0
+      },
+      {
+        "text": "A.Generatingrandomnumbers",
+        "score": 0.992697,
+        "x": 39.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Creating3Dvisualizationsofdata",
+        "score": 0.991482,
+        "x": 40.0,
+        "y": 116.0
+      },
+      {
+        "text": "C.Producingvalueson-the-flywithoutstoring them inmemory",
+        "score": 0.974749,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Sortingelementsinalist",
+        "score": 0.958213,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.970034,
+        "x": 60.0,
+        "y": 17.14
+      },
+      {
+        "text": "What is the primary purpose of a generator in Python?",
+        "score": 0.981052,
+        "x": 81.29,
+        "y": 100.93
+      },
+      {
+        "text": "A.Generating random numbers",
+        "score": 0.968039,
+        "x": 79.35,
+        "y": 167.59
+      },
+      {
+        "text": "B. Creating 3D visualizations of data",
+        "score": 0.957543,
+        "x": 79.35,
+        "y": 230.43
+      },
+      {
+        "text": "C.Producing values on-the-fty without storing them in memory",
+        "score": 0.975868,
+        "x": 79.35,
+        "y": 297.09
+      },
+      {
+        "text": "D. Sorting elements in a list",
+        "score": 0.948634,
+        "x": 83.23,
+        "y": 365.65
+      }
+    ]
+  },
+  {
+    "question": 25,
+    "image": "/exams/SP26-FE/images/Q25.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "eceea2873658de4a5e97045185ce879c805ceb8131c5b3f7c4b6360049f61821",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995351,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Giventhecodebelow?",
+        "score": 0.988256,
+        "x": 42.0,
+        "y": 50.0
+      },
+      {
+        "text": "importrequests",
+        "score": 0.995747,
+        "x": 41.0,
+        "y": 68.0
+      },
+      {
+        "text": "response =requests.get(\"https://api.example.com/data\",params={param1\":\"value1\",\"param2\":\"value2\")",
+        "score": 0.929156,
+        "x": 40.0,
+        "y": 99.0
+      },
+      {
+        "text": "print(response.url)",
+        "score": 0.985213,
+        "x": 42.0,
+        "y": 118.0
+      },
+      {
+        "text": "Whatistheoutputof thecode?",
+        "score": 0.97452,
+        "x": 40.0,
+        "y": 132.0
+      },
+      {
+        "text": "A.https://api.example.com/data?param1=value1&param2=value2",
+        "score": 0.982391,
+        "x": 40.0,
+        "y": 165.0
+      },
+      {
+        "text": "B.https://api.example.com/data=[param1,value1]&[param2,value2]",
+        "score": 0.978461,
+        "x": 41.0,
+        "y": 199.0
+      },
+      {
+        "text": "C.https://api.example.com/data%param1==value1&param2==value2",
+        "score": 0.978789,
+        "x": 41.0,
+        "y": 232.0
+      },
+      {
+        "text": "D.https://api.example.com/data/param1/value1/param2/value2",
+        "score": 0.979734,
+        "x": 42.0,
+        "y": 265.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.994164,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "Giventhecodebelow?",
+        "score": 0.960863,
+        "x": 83.23,
+        "y": 99.03
+      },
+      {
+        "text": "importrequests",
+        "score": 0.993441,
+        "x": 85.16,
+        "y": 135.21
+      },
+      {
+        "text": "print(response.url)",
+        "score": 0.964534,
+        "x": 83.23,
+        "y": 236.15
+      },
+      {
+        "text": "What is theoutput of thecode?",
+        "score": 0.959836,
+        "x": 83.23,
+        "y": 268.52
+      },
+      {
+        "text": "A.https://api.example.com/data?param1=value1&param2=value2",
+        "score": 0.987145,
+        "x": 81.29,
+        "y": 333.27
+      },
+      {
+        "text": "C.https://api.example.com/data%param1==value1&param2==value2",
+        "score": 0.981238,
+        "x": 81.29,
+        "y": 462.77
+      },
+      {
+        "text": "D.https://api.example.com/data/param1value1/param2value2",
+        "score": 0.975312,
+        "x": 81.29,
+        "y": 529.43
+      }
+    ]
+  },
+  {
+    "question": 26,
+    "image": "/exams/SP26-FE/images/Q26.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "e267b2e84b01baa394a7870c875af1509e55cfc01b5b614efa543c10b2ff751a",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.996032,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What is theprimaryuseof theBeautifulSouplibraryinPythonforwebscraping?",
+        "score": 0.968298,
+        "x": 40.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Generatingsyntheticdatasets",
+        "score": 0.988954,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.ScrapingandparsingHTMLandXMLdocuments",
+        "score": 0.990203,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Sortingelementsinalist",
+        "score": 0.992912,
+        "x": 41.0,
+        "y": 149.0
+      },
+      {
+        "text": "D.CreatingvisualizationsusingMatplotlib",
+        "score": 0.975882,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.99429,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "What is the primary use of the BeautifulSoup library in Python for web scraping?",
+        "score": 0.968624,
+        "x": 81.29,
+        "y": 99.03
+      },
+      {
+        "text": "A.Generating syntheticdatasets",
+        "score": 0.979516,
+        "x": 79.35,
+        "y": 167.59
+      },
+      {
+        "text": "B.Scraping and parsing HTML and XML documents",
+        "score": 0.962705,
+        "x": 79.35,
+        "y": 230.43
+      },
+      {
+        "text": "C. Sorting elements in a list",
+        "score": 0.962749,
+        "x": 83.23,
+        "y": 300.9
+      },
+      {
+        "text": "D.Creating visualizations using Matplotlib",
+        "score": 0.956891,
+        "x": 83.23,
+        "y": 365.65
+      }
+    ]
+  },
+  {
+    "question": 27,
+    "image": "/exams/SP26-FE/images/Q27.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "7d3daf7e420f329cc26e5b198f3bdb3ec8d15f574c8424d1953ecf6296c2622c",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995835,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "WhatmethodinPythonremovesandreturnsthelastelementfromalist?",
+        "score": 0.986972,
+        "x": 41.0,
+        "y": 50.0
+      },
+      {
+        "text": "A.list.popO",
+        "score": 0.932591,
+        "x": 39.0,
+        "y": 81.0
+      },
+      {
+        "text": "B.list.removeO",
+        "score": 0.940076,
+        "x": 39.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.list.clearO",
+        "score": 0.938417,
+        "x": 39.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.list.deleteO",
+        "score": 0.974225,
+        "x": 39.0,
+        "y": 180.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.972398,
+        "x": 58.06,
+        "y": 17.14
+      },
+      {
+        "text": "What method in Python removes and retums the last element from a list?",
+        "score": 0.973573,
+        "x": 83.23,
+        "y": 99.03
+      },
+      {
+        "text": "A.list.popo",
+        "score": 0.899951,
+        "x": 77.42,
+        "y": 163.78
+      },
+      {
+        "text": "B.list.remove0",
+        "score": 0.973964,
+        "x": 77.42,
+        "y": 226.62
+      },
+      {
+        "text": "C.list.clearo",
+        "score": 0.945655,
+        "x": 77.42,
+        "y": 295.18
+      },
+      {
+        "text": "D.list.deleteO",
+        "score": 0.929699,
+        "x": 77.42,
+        "y": 361.84
+      }
+    ]
+  },
+  {
+    "question": 28,
+    "image": "/exams/SP26-FE/images/Q28.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "8137f44f881d0b746762f6246de9128d561724a589b9860977db21993a9b4393",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995566,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What method isused toconvert a string tolowercase inPython?",
+        "score": 0.953079,
+        "x": 40.0,
+        "y": 50.0
+      },
+      {
+        "text": "A.lowerO",
+        "score": 0.914035,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.MakeLowerO",
+        "score": 0.964798,
+        "x": 39.0,
+        "y": 114.0
+      },
+      {
+        "text": "C.toLowerO",
+        "score": 0.963072,
+        "x": 39.0,
+        "y": 146.0
+      },
+      {
+        "text": "D.caseLowerO",
+        "score": 0.953555,
+        "x": 39.0,
+        "y": 181.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.978747,
+        "x": 58.06,
+        "y": 17.14
+      },
+      {
+        "text": "What method is used to convert a string to lowercase in Python?",
+        "score": 0.979557,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "A.lowerO",
+        "score": 0.90248,
+        "x": 79.35,
+        "y": 163.78
+      },
+      {
+        "text": "B.MakeLower",
+        "score": 0.99014,
+        "x": 75.48,
+        "y": 228.53
+      },
+      {
+        "text": "C.toLowerO",
+        "score": 0.971972,
+        "x": 77.42,
+        "y": 295.18
+      },
+      {
+        "text": "D.caseLowero",
+        "score": 0.945549,
+        "x": 77.42,
+        "y": 361.84
+      }
+    ]
+  },
+  {
+    "question": 29,
+    "image": "/exams/SP26-FE/images/Q29.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "25c6b705a23f22c90fb0aa701303d75bf43b00463bc6541ebeb663cd83351e38",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995363,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What is theprimarypurpose of the requests library inPython?",
+        "score": 0.950667,
+        "x": 40.0,
+        "y": 50.0
+      },
+      {
+        "text": "A.Generatingrandomnumbers",
+        "score": 0.992408,
+        "x": 39.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.InteractingwithwebservicesandmakingHTTPrequests",
+        "score": 0.991707,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.ReadingandwritingCSVfiles",
+        "score": 0.976375,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Creatingvisualizations",
+        "score": 0.98793,
+        "x": 39.0,
+        "y": 181.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.9634,
+        "x": 60.0,
+        "y": 17.14
+      },
+      {
+        "text": "What is the primary purpose of the requests library in Python?",
+        "score": 0.967954,
+        "x": 81.29,
+        "y": 100.93
+      },
+      {
+        "text": "A.Generating random numbers",
+        "score": 0.975753,
+        "x": 81.29,
+        "y": 169.49
+      },
+      {
+        "text": "B. Interacting with web services and making HTTP requests",
+        "score": 0.981306,
+        "x": 79.35,
+        "y": 232.34
+      },
+      {
+        "text": "C.Reading and writing CSVfiles",
+        "score": 0.958827,
+        "x": 79.35,
+        "y": 297.09
+      },
+      {
+        "text": "D.Creatingvisualizations",
+        "score": 0.990105,
+        "x": 83.23,
+        "y": 365.65
+      }
+    ]
+  },
+  {
+    "question": 30,
+    "image": "/exams/SP26-FE/images/Q30.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "25c6b705a23f22c90fb0aa701303d75bf43b00463bc6541ebeb663cd83351e38",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995363,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What is theprimarypurpose of the requests library inPython?",
+        "score": 0.950667,
+        "x": 40.0,
+        "y": 50.0
+      },
+      {
+        "text": "A.Generatingrandomnumbers",
+        "score": 0.992408,
+        "x": 39.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.InteractingwithwebservicesandmakingHTTPrequests",
+        "score": 0.991707,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.ReadingandwritingCSVfiles",
+        "score": 0.976375,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Creatingvisualizations",
+        "score": 0.98793,
+        "x": 39.0,
+        "y": 181.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.9634,
+        "x": 60.0,
+        "y": 17.14
+      },
+      {
+        "text": "What is the primary purpose of the requests library in Python?",
+        "score": 0.967954,
+        "x": 81.29,
+        "y": 100.93
+      },
+      {
+        "text": "A.Generating random numbers",
+        "score": 0.975753,
+        "x": 81.29,
+        "y": 169.49
+      },
+      {
+        "text": "B. Interacting with web services and making HTTP requests",
+        "score": 0.981306,
+        "x": 79.35,
+        "y": 232.34
+      },
+      {
+        "text": "C.Reading and writing CSVfiles",
+        "score": 0.958827,
+        "x": 79.35,
+        "y": 297.09
+      },
+      {
+        "text": "D.Creatingvisualizations",
+        "score": 0.990105,
+        "x": 83.23,
+        "y": 365.65
+      }
+    ]
+  },
+  {
+    "question": 31,
+    "image": "/exams/SP26-FE/images/Q31.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "f22b5379c50afb1676a70c4444ceebdd7011b73fa62f23cdd4a65e8d9a5940d1",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995254,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "SupposewehaveaDataFramedfwith anindex'Month'andcolumns'Sales'and'Expenses'Howwouldyou",
+        "score": 0.964012,
+        "x": 41.0,
+        "y": 51.0
+      },
+      {
+        "text": "select the salesfor themonth of'January'using loc?",
+        "score": 0.942375,
+        "x": 40.0,
+        "y": 67.0
+      },
+      {
+        "text": "A.sales_january=df.loc[January','Sales’]",
+        "score": 0.928868,
+        "x": 40.0,
+        "y": 100.0
+      },
+      {
+        "text": "B.sales_january=df[Sales’.loc[January]",
+        "score": 0.945922,
+        "x": 39.0,
+        "y": 132.0
+      },
+      {
+        "text": "C.sales_january=df.loc[Sales'January]",
+        "score": 0.965208,
+        "x": 40.0,
+        "y": 165.0
+      },
+      {
+        "text": "D.sales_january=df.loc[January’IrSales]",
+        "score": 0.926279,
+        "x": 41.0,
+        "y": 199.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.969046,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "Suppose wehavea DataFrame df with an index\"Month'and columns'Sales'and'Expenses'.Howwould you",
+        "score": 0.931559,
+        "x": 83.23,
+        "y": 99.03
+      },
+      {
+        "text": "select the sales for the month of 'January' using loc?",
+        "score": 0.94558,
+        "x": 83.23,
+        "y": 137.12
+      },
+      {
+        "text": "A. sales_january = df.loc[January','Sales]",
+        "score": 0.952405,
+        "x": 79.35,
+        "y": 196.15
+      },
+      {
+        "text": "B. sales_january = df['Sales'j.loc[January]",
+        "score": 0.938166,
+        "x": 79.35,
+        "y": 264.71
+      },
+      {
+        "text": "C. sales_january = df.loc[Sales', January]",
+        "score": 0.964874,
+        "x": 81.29,
+        "y": 331.37
+      },
+      {
+        "text": "D. sales_january = df.loc[January]['Sales]",
+        "score": 0.956553,
+        "x": 79.35,
+        "y": 396.12
+      }
+    ]
+  },
+  {
+    "question": 32,
+    "image": "/exams/SP26-FE/images/Q32.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "81b34018affae3588d74bfc26052463cb34944abb4f12e4da59cf47c8f60d157",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995834,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Inaheatmap,what does a highpositive valuerepresent in terms of correlation?",
+        "score": 0.944095,
+        "x": 40.0,
+        "y": 49.0
+      },
+      {
+        "text": "A.Strongnegativecorrelation",
+        "score": 0.977182,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Weakpositivecorrelation",
+        "score": 0.991144,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Strongpositivecorrelation",
+        "score": 0.98004,
+        "x": 39.0,
+        "y": 147.0
+      },
+      {
+        "text": "D.Nocorrelation",
+        "score": 0.983572,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.994064,
+        "x": 58.06,
+        "y": 17.14
+      },
+      {
+        "text": "In a heatmap, what does a high positive value represent in terms of correlation?",
+        "score": 0.95424,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "A.Strongnegativecorrelation",
+        "score": 0.981712,
+        "x": 81.29,
+        "y": 169.49
+      },
+      {
+        "text": "B.Weakpositivecorrelation",
+        "score": 0.974918,
+        "x": 81.29,
+        "y": 234.24
+      },
+      {
+        "text": "C.Strong positivecorrelation",
+        "score": 0.976846,
+        "x": 81.29,
+        "y": 297.09
+      },
+      {
+        "text": "D.Nocorrelation",
+        "score": 0.984666,
+        "x": 81.29,
+        "y": 363.74
+      }
+    ]
+  },
+  {
+    "question": 33,
+    "image": "/exams/SP26-FE/images/Q33.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "f37c27cec19b98a1f3e8f78a1ed4be209cc41494149138eda371c1dc9a11a89d",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995893,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Youare analyzing theeffectivenessof twodifferent teachingmethodsonstudentperformanceusing a t-test.",
+        "score": 0.977018,
+        "x": 40.0,
+        "y": 49.0
+      },
+      {
+        "text": "What wouldbe theconsequenceof notconducting aLevene'stestbefore thet-test?",
+        "score": 0.963423,
+        "x": 40.0,
+        "y": 65.0
+      },
+      {
+        "text": "A.Thet-testresultswould likelybeinaccurate",
+        "score": 0.971692,
+        "x": 40.0,
+        "y": 99.0
+      },
+      {
+        "text": "B.Thet-testresultswouldbemorereliable.",
+        "score": 0.985069,
+        "x": 40.0,
+        "y": 133.0
+      },
+      {
+        "text": "C.Thet-testwouldbecomecomputationally inefficient.",
+        "score": 0.983937,
+        "x": 40.0,
+        "y": 165.0
+      },
+      {
+        "text": "D.Nothinghappens.",
+        "score": 0.992127,
+        "x": 40.0,
+        "y": 198.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.992952,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "Youare analyzing theeffectivenessof twodifferent teachingmethodson student performance usinga t-test.",
+        "score": 0.953613,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "What would be the consequence of not conducting a Levene's test before theI-test?",
+        "score": 0.951216,
+        "x": 83.23,
+        "y": 137.12
+      },
+      {
+        "text": "A.Thet-testresultswould likelybe inaccurate",
+        "score": 0.981179,
+        "x": 79.35,
+        "y": 199.96
+      },
+      {
+        "text": "B.Thet-testresultswouldbemorereliable.",
+        "score": 0.972845,
+        "x": 79.35,
+        "y": 266.62
+      },
+      {
+        "text": "C.Thet-testwouldbecomecomputationally inefficient.",
+        "score": 0.975177,
+        "x": 79.35,
+        "y": 331.37
+      },
+      {
+        "text": "D.Nothinghappens.",
+        "score": 0.998351,
+        "x": 79.35,
+        "y": 396.12
+      }
+    ]
+  },
+  {
+    "question": 34,
+    "image": "/exams/SP26-FE/images/Q34.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "e916baf23c64a7f608f377835cb253eb715f0a39d0a8b0e565f73c5e026d1c67",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995396,
+        "x": 30.0,
+        "y": 8.0
+      },
+      {
+        "text": "Inastudy，thesystolicbloodpressureofadultsisfoundtobenormallydistributedwithameanof120mmHg",
+        "score": 0.980269,
+        "x": 41.0,
+        "y": 51.0
+      },
+      {
+        "text": "andastandarddeviationof15mmHg.If1%ofthepopulationhasasystolicbloodpressureaboveacertain",
+        "score": 0.984378,
+        "x": 41.0,
+        "y": 68.0
+      },
+      {
+        "text": "value,whatisthatvalue?",
+        "score": 0.951931,
+        "x": 41.0,
+        "y": 84.0
+      },
+      {
+        "text": "GivenaportionoftheZ-scoretablebelow:",
+        "score": 0.987552,
+        "x": 41.0,
+        "y": 116.0
+      },
+      {
+        "text": "Z|0.00",
+        "score": 0.850225,
+        "x": 39.0,
+        "y": 132.0
+      },
+      {
+        "text": "10.04",
+        "score": 0.94261,
+        "x": 313.0,
+        "y": 132.0
+      },
+      {
+        "text": "|0.01",
+        "score": 0.864617,
+        "x": 131.0,
+        "y": 134.0
+      },
+      {
+        "text": "10.02",
+        "score": 0.964573,
+        "x": 192.0,
+        "y": 134.0
+      },
+      {
+        "text": "0.03",
+        "score": 0.976006,
+        "x": 272.0,
+        "y": 134.0
+      },
+      {
+        "text": "-2.30.01070.01040.0102",
+        "score": 0.99028,
+        "x": 42.0,
+        "y": 167.0
+      },
+      {
+        "text": "0.01000.0099",
+        "score": 0.996782,
+        "x": 241.0,
+        "y": 167.0
+      },
+      {
+        "text": "-2.2|0.0139|0.0136",
+        "score": 0.918787,
+        "x": 41.0,
+        "y": 181.0
+      },
+      {
+        "text": "010.0127",
+        "score": 0.871786,
+        "x": 299.0,
+        "y": 181.0
+      },
+      {
+        "text": "0.0132",
+        "score": 0.992674,
+        "x": 182.0,
+        "y": 184.0
+      },
+      {
+        "text": "0.0130",
+        "score": 0.995968,
+        "x": 244.0,
+        "y": 184.0
+      },
+      {
+        "text": "-2.10.01790.01740.01700.01670.0164",
+        "score": 0.990358,
+        "x": 41.0,
+        "y": 199.0
+      },
+      {
+        "text": "A.154.95mmHg",
+        "score": 0.993928,
+        "x": 39.0,
+        "y": 230.0
+      },
+      {
+        "text": "B.155.1mmHg",
+        "score": 0.990708,
+        "x": 40.0,
+        "y": 263.0
+      },
+      {
+        "text": "C.151.65mmHg",
+        "score": 0.992568,
+        "x": 39.0,
+        "y": 297.0
+      },
+      {
+        "text": "D.140mmHg",
+        "score": 0.994435,
+        "x": 40.0,
+        "y": 330.0
+      },
+      {
+        "text": "E.None of the others",
+        "score": 0.945987,
+        "x": 39.0,
+        "y": 364.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.970296,
+        "x": 61.94,
+        "y": 17.14
+      },
+      {
+        "text": "In a study, the systolic blood pressure of adults is found to be normally distributed with a mean of 120 mmHg",
+        "score": 0.949167,
+        "x": 81.29,
+        "y": 100.93
+      },
+      {
+        "text": "andastandarddeviationof15mmHg.If1%ofthepopulationhasasystolicbloodpressureaboveacertain",
+        "score": 0.980917,
+        "x": 79.35,
+        "y": 131.4
+      },
+      {
+        "text": "value,what is thatvalue?",
+        "score": 0.963142,
+        "x": 83.23,
+        "y": 169.49
+      },
+      {
+        "text": "GivenaportionoftheZ-scoretablebelow:",
+        "score": 0.988226,
+        "x": 81.29,
+        "y": 230.43
+      },
+      {
+        "text": "Z10.00",
+        "score": 0.883883,
+        "x": 79.35,
+        "y": 264.71
+      },
+      {
+        "text": "10.01",
+        "score": 0.986283,
+        "x": 259.35,
+        "y": 266.62
+      },
+      {
+        "text": "10.02",
+        "score": 0.897804,
+        "x": 344.52,
+        "y": 266.62
+      },
+      {
+        "text": "10.03",
+        "score": 0.945639,
+        "x": 522.58,
+        "y": 266.62
+      },
+      {
+        "text": "|0.04",
+        "score": 0.895784,
+        "x": 601.94,
+        "y": 266.62
+      },
+      {
+        "text": "-2.3|0.0107|0.0104|0.0102|0.0100|0.0099",
+        "score": 0.9233,
+        "x": 79.35,
+        "y": 331.37
+      },
+      {
+        "text": "2.2|0.0139|0.0136|0.0132|0.0130|0.0127",
+        "score": 0.939872,
+        "x": 85.16,
+        "y": 367.55
+      },
+      {
+        "text": "-2.1|0.0179|0.0174|0.0170|0.0167|0.0164",
+        "score": 0.937626,
+        "x": 83.23,
+        "y": 401.83
+      },
+      {
+        "text": "A.154.95mmHg",
+        "score": 0.998615,
+        "x": 77.42,
+        "y": 457.06
+      },
+      {
+        "text": "B.155.1mmHg",
+        "score": 0.999248,
+        "x": 79.35,
+        "y": 527.52
+      },
+      {
+        "text": "C.151.65mmHg",
+        "score": 0.996574,
+        "x": 79.35,
+        "y": 596.08
+      },
+      {
+        "text": "D.140mmHg",
+        "score": 0.99857,
+        "x": 79.35,
+        "y": 658.93
+      },
+      {
+        "text": "E.Noneof the others",
+        "score": 0.927032,
+        "x": 79.35,
+        "y": 727.49
+      }
+    ]
+  },
+  {
+    "question": 35,
+    "image": "/exams/SP26-FE/images/Q35.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "6f856fc7a4bb2adc6e6ad7e831269bbc73857750671a5e0cdd54de7c0c624d90",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995603,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Inmultipleregressionanalysis,what does a coefficientrepresent?",
+        "score": 0.960959,
+        "x": 40.0,
+        "y": 49.0
+      },
+      {
+        "text": "A.Theinterceptof theregressionline",
+        "score": 0.985248,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Thechange inthedependentvariableforaone-unit change intheindependentvariable,holdingother",
+        "score": 0.957927,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "variablesconstant",
+        "score": 0.992957,
+        "x": 40.0,
+        "y": 134.0
+      },
+      {
+        "text": "C.TheprobabilityofaTypeIerror",
+        "score": 0.958832,
+        "x": 40.0,
+        "y": 165.0
+      },
+      {
+        "text": "D.Themeansquarederrorof themodel",
+        "score": 0.982643,
+        "x": 41.0,
+        "y": 199.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.96486,
+        "x": 60.0,
+        "y": 17.14
+      },
+      {
+        "text": "In multiple regression analysis, what does a coefficient represent?",
+        "score": 0.974142,
+        "x": 81.29,
+        "y": 100.93
+      },
+      {
+        "text": "A.The intercept of theregression line",
+        "score": 0.974073,
+        "x": 79.35,
+        "y": 167.59
+      },
+      {
+        "text": "B.The change in the dependent variable fora one-unit change in the independent variable,holding other",
+        "score": 0.962546,
+        "x": 79.35,
+        "y": 232.34
+      },
+      {
+        "text": "variablesconstant",
+        "score": 0.991146,
+        "x": 83.23,
+        "y": 272.33
+      },
+      {
+        "text": "C.Theprobabilityof aTypeIerror",
+        "score": 0.953062,
+        "x": 85.16,
+        "y": 335.18
+      },
+      {
+        "text": "D. The mean squared error of the model",
+        "score": 0.951381,
+        "x": 81.29,
+        "y": 398.02
+      }
+    ]
+  },
+  {
+    "question": 36,
+    "image": "/exams/SP26-FE/images/Q36.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "83a412d93e320dfc39abf459ff9b5f8ce97432e1bf99448fee984ef7c08243e8",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995371,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Whatstatistical methodmeasuresthestrengthanddirectionof thelinearrelationshipbetweentwocontinuous",
+        "score": 0.986824,
+        "x": 41.0,
+        "y": 51.0
+      },
+      {
+        "text": "variables?",
+        "score": 0.991643,
+        "x": 40.0,
+        "y": 65.0
+      },
+      {
+        "text": "A.Pearson Correlation",
+        "score": 0.96961,
+        "x": 39.0,
+        "y": 98.0
+      },
+      {
+        "text": "B.ANOVATest",
+        "score": 0.985578,
+        "x": 41.0,
+        "y": 134.0
+      },
+      {
+        "text": "C.Z-Test",
+        "score": 0.985916,
+        "x": 40.0,
+        "y": 165.0
+      },
+      {
+        "text": "D.Chi-SquareTest",
+        "score": 0.984052,
+        "x": 40.0,
+        "y": 198.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.981053,
+        "x": 58.06,
+        "y": 17.14
+      },
+      {
+        "text": "Whatstatisticalmethodmeasuresthestrengthanddirectionof thelinearrelationshipbetweentwocontinuous",
+        "score": 0.992456,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "variables?",
+        "score": 0.993371,
+        "x": 79.35,
+        "y": 131.4
+      },
+      {
+        "text": "A.Pearson Correlation",
+        "score": 0.983734,
+        "x": 81.29,
+        "y": 198.06
+      },
+      {
+        "text": "B.ANOVA Test",
+        "score": 0.987385,
+        "x": 79.35,
+        "y": 266.62
+      },
+      {
+        "text": "C. Z-Test",
+        "score": 0.961568,
+        "x": 79.35,
+        "y": 331.37
+      },
+      {
+        "text": "D. Chi-Square Test",
+        "score": 0.979781,
+        "x": 79.35,
+        "y": 396.12
+      }
+    ]
+  },
+  {
+    "question": 37,
+    "image": "/exams/SP26-FE/images/Q37.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "3aa23b332f939d3a4df422ea7e9ec10375f299e77a37f9ef6b8de3df224542a8",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995193,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Whatdoesaheatmapvisualize?",
+        "score": 0.981531,
+        "x": 40.0,
+        "y": 49.0
+      },
+      {
+        "text": "A.Correlationbetweentwovariables",
+        "score": 0.990554,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Relationshipbetweencategorical data",
+        "score": 0.987865,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Frequency ofoccurrence of data",
+        "score": 0.957912,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Distribution of a singlevariable",
+        "score": 0.943182,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.982878,
+        "x": 60.0,
+        "y": 17.14
+      },
+      {
+        "text": "What does a heatmap visualize?",
+        "score": 0.961964,
+        "x": 83.23,
+        "y": 102.84
+      },
+      {
+        "text": "A.Correlation between two variables",
+        "score": 0.965053,
+        "x": 81.29,
+        "y": 169.49
+      },
+      {
+        "text": "B. Relationship between categorical data",
+        "score": 0.977379,
+        "x": 81.29,
+        "y": 234.24
+      },
+      {
+        "text": "C.Frequency of occurrence of data",
+        "score": 0.967047,
+        "x": 83.23,
+        "y": 300.9
+      },
+      {
+        "text": "D.Distribution of a singlevariable",
+        "score": 0.980872,
+        "x": 83.23,
+        "y": 367.55
+      }
+    ]
+  },
+  {
+    "question": 38,
+    "image": "/exams/SP26-FE/images/Q38.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "9485991abfc1d389ff6fedd35ffd50e110315951ca6209ef6caffff84e19010f",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995371,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Whichstatisticalconceptisusedtomeasurethestrengthanddirectionofthelinearrelationshipbetweentwo",
+        "score": 0.991506,
+        "x": 41.0,
+        "y": 51.0
+      },
+      {
+        "text": "variables?",
+        "score": 0.988194,
+        "x": 39.0,
+        "y": 66.0
+      },
+      {
+        "text": "A.Variance",
+        "score": 0.991051,
+        "x": 39.0,
+        "y": 98.0
+      },
+      {
+        "text": "B.Covariance",
+        "score": 0.99325,
+        "x": 39.0,
+        "y": 132.0
+      },
+      {
+        "text": "C.Correlation",
+        "score": 0.993889,
+        "x": 40.0,
+        "y": 165.0
+      },
+      {
+        "text": "D.Regression",
+        "score": 0.993842,
+        "x": 39.0,
+        "y": 198.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.981053,
+        "x": 58.06,
+        "y": 17.14
+      },
+      {
+        "text": "Whichstatistical conceptisused tomeasure thestrengthanddirectionof thelinearrelationshipbetweentwo",
+        "score": 0.980893,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "variables?",
+        "score": 0.991025,
+        "x": 77.42,
+        "y": 131.4
+      },
+      {
+        "text": "A.Variance",
+        "score": 0.968967,
+        "x": 75.48,
+        "y": 196.15
+      },
+      {
+        "text": "B.Covariance",
+        "score": 0.996633,
+        "x": 77.42,
+        "y": 262.81
+      },
+      {
+        "text": "C. Correlation",
+        "score": 0.99144,
+        "x": 81.29,
+        "y": 329.46
+      },
+      {
+        "text": "D. Regression",
+        "score": 0.987386,
+        "x": 79.35,
+        "y": 396.12
+      }
+    ]
+  },
+  {
+    "question": 39,
+    "image": "/exams/SP26-FE/images/Q39.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "9d01ec4e79cde4e97f15ee0bf74ce0a3138148bbad5b9ff871dc4ac2191be962",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995457,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Inelastic net regression,what does the penalty term control?",
+        "score": 0.948373,
+        "x": 40.0,
+        "y": 49.0
+      },
+      {
+        "text": "A.Thebias-variancetradeoff",
+        "score": 0.993167,
+        "x": 40.0,
+        "y": 83.0
+      },
+      {
+        "text": "B.The sizeof thecoefficients",
+        "score": 0.958097,
+        "x": 39.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Thedegreeofmulticollinearity",
+        "score": 0.99061,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Thenumberofpredictorsretained in themodel",
+        "score": 0.977226,
+        "x": 40.0,
+        "y": 181.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.969873,
+        "x": 60.0,
+        "y": 17.14
+      },
+      {
+        "text": "In elastic net regression, what does the penalty term control?",
+        "score": 0.996998,
+        "x": 79.35,
+        "y": 100.93
+      },
+      {
+        "text": "A.The bias-variance tradeoff",
+        "score": 0.980877,
+        "x": 81.29,
+        "y": 169.49
+      },
+      {
+        "text": "B.The size of the coefficients",
+        "score": 0.954826,
+        "x": 81.29,
+        "y": 234.24
+      },
+      {
+        "text": "C.The degree of multicollinearity",
+        "score": 0.938957,
+        "x": 79.35,
+        "y": 295.18
+      },
+      {
+        "text": "D. The number of predictors retained in the model",
+        "score": 0.97531,
+        "x": 81.29,
+        "y": 363.74
+      }
+    ]
+  },
+  {
+    "question": 40,
+    "image": "/exams/SP26-FE/images/Q40.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "034bf5d5b1c2d8b665b8e6a934e464c80d57d09939a8deefe0cb8cbbfd949c3e",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.996167,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Whenmightquantileregressionbepreferredoverordinaryleastsquares(OLS)regression?",
+        "score": 0.98417,
+        "x": 41.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Whentheresidualsarenormallydistributed",
+        "score": 0.990558,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Whentherelationshipbetweenvariablesislinear",
+        "score": 0.972381,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.When thereisheteroscedasticityintheresiduals",
+        "score": 0.984672,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Whenanalyzing theconditional medianof thedependentvariable",
+        "score": 0.967548,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.992926,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "When might quanile regression be preferred over ordinary least squares (OLS) regression?",
+        "score": 0.985754,
+        "x": 83.23,
+        "y": 100.93
+      },
+      {
+        "text": "A.When theresidualsarenormally distributed",
+        "score": 0.968198,
+        "x": 79.35,
+        "y": 167.59
+      },
+      {
+        "text": "B.When the relationship between variables is linear",
+        "score": 0.959967,
+        "x": 81.29,
+        "y": 234.24
+      },
+      {
+        "text": "C.When there is heteroscedasticity in the residuals",
+        "score": 0.944457,
+        "x": 83.23,
+        "y": 300.9
+      },
+      {
+        "text": "D.When analyzing the conditional median of the dependent variable",
+        "score": 0.976747,
+        "x": 83.23,
+        "y": 365.65
+      }
+    ]
+  },
+  {
+    "question": 41,
+    "image": "/exams/SP26-FE/images/Q41.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "45b8ee8a2bdace49a046f30fff70125c3d521f33122995e0b932669e3eb007c2",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.996622,
+        "x": 30.0,
+        "y": 8.0
+      },
+      {
+        "text": "Inanormal distribution,whatpercentageofdatafallswithinonestandarddeviationof themean?",
+        "score": 0.973119,
+        "x": 41.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.25%",
+        "score": 0.978405,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.50%",
+        "score": 0.987436,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.68%",
+        "score": 0.977809,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.95%",
+        "score": 0.995111,
+        "x": 39.0,
+        "y": 180.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995237,
+        "x": 58.06,
+        "y": 15.24
+      },
+      {
+        "text": "In a normal distribution,what percentage of data falls within one standard deviationof the mean?",
+        "score": 0.959507,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "A.25%",
+        "score": 0.9902,
+        "x": 79.35,
+        "y": 167.59
+      },
+      {
+        "text": "B.50%",
+        "score": 0.9968,
+        "x": 77.42,
+        "y": 230.43
+      },
+      {
+        "text": "C.68%",
+        "score": 0.984539,
+        "x": 79.35,
+        "y": 297.09
+      },
+      {
+        "text": "D.95%",
+        "score": 0.997275,
+        "x": 79.35,
+        "y": 363.74
+      }
+    ]
+  },
+  {
+    "question": 42,
+    "image": "/exams/SP26-FE/images/Q42.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "ed003cc201d9b7eed49db3fd41b882e6260dd5d52d861fac886a6f0b67f45ef4",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.996403,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Inwhichscenarioisthemedianamoreappropriatemeasureofcentral tendency than themean?",
+        "score": 0.977532,
+        "x": 41.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Whenthedataissymmetricallydistributed",
+        "score": 0.970865,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Whenthereareextremeoutliersinthedataset",
+        "score": 0.980399,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Whenthedataisnormallydistributed",
+        "score": 0.994246,
+        "x": 41.0,
+        "y": 149.0
+      },
+      {
+        "text": "D.Whenthedatahasabell-shapedcurve",
+        "score": 0.989988,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.994476,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "A.When the data is symmetrically distributed",
+        "score": 0.953952,
+        "x": 81.29,
+        "y": 169.49
+      },
+      {
+        "text": "B.When there are extreme outliers in the dataset",
+        "score": 0.947983,
+        "x": 81.29,
+        "y": 234.24
+      },
+      {
+        "text": "C.When the data is normally distributed",
+        "score": 0.959491,
+        "x": 81.29,
+        "y": 298.99
+      },
+      {
+        "text": "D.When the datahas a bell-shaped curve",
+        "score": 0.962939,
+        "x": 81.29,
+        "y": 365.65
+      }
+    ]
+  },
+  {
+    "question": 43,
+    "image": "/exams/SP26-FE/images/Q43.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "51af06af130d094519e422318bc1f6ae7e12b669c59c945531c64a49a2a2f54e",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.996417,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Whichstatisticalchart isusefulforshowingrelationshipsbetweentwocontinuousvariables?",
+        "score": 0.987099,
+        "x": 41.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Scatterplot",
+        "score": 0.980797,
+        "x": 40.0,
+        "y": 83.0
+      },
+      {
+        "text": "B.Boxplot",
+        "score": 0.981347,
+        "x": 39.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Histogram",
+        "score": 0.994831,
+        "x": 39.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Violinplot",
+        "score": 0.988051,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995088,
+        "x": 58.06,
+        "y": 17.14
+      },
+      {
+        "text": "Whichstatistical chart isusefulforshowingrelationshipsbetween twocontinuousvariables?",
+        "score": 0.975307,
+        "x": 81.29,
+        "y": 100.93
+      },
+      {
+        "text": "A.Scatterplot",
+        "score": 0.990823,
+        "x": 77.42,
+        "y": 165.68
+      },
+      {
+        "text": "B.Boxplot",
+        "score": 0.99302,
+        "x": 79.35,
+        "y": 230.43
+      },
+      {
+        "text": "C.Histogram",
+        "score": 0.980885,
+        "x": 77.42,
+        "y": 297.09
+      },
+      {
+        "text": "D.Violinplot",
+        "score": 0.937613,
+        "x": 77.42,
+        "y": 361.84
+      }
+    ]
+  },
+  {
+    "question": 44,
+    "image": "/exams/SP26-FE/images/Q44.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "4b04692ab55369af3b8a7f442466ed4b273e05ea9e1b08ed38a9bd3cca4d9106",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995462,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What does the term\"overfitting\"refer to in machinelearning?",
+        "score": 0.932517,
+        "x": 40.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Whenamodelperformswellonnewdata",
+        "score": 0.979945,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Whenamodel learnsnoisefrom thetraining data",
+        "score": 0.963124,
+        "x": 40.0,
+        "y": 116.0
+      },
+      {
+        "text": "C.Whenamodel'scomplexity matchesthedatacomplexity",
+        "score": 0.960374,
+        "x": 39.0,
+        "y": 147.0
+      },
+      {
+        "text": "D.Whenamodel hashighbiasandlowvariance",
+        "score": 0.980679,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.994493,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "What does the term\"overitting\" refer to in machine leaming?",
+        "score": 0.948803,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "A. When a model performs well on new data",
+        "score": 0.974575,
+        "x": 81.29,
+        "y": 169.49
+      },
+      {
+        "text": "B.When a model learns noise from the training data",
+        "score": 0.963324,
+        "x": 79.35,
+        "y": 232.34
+      },
+      {
+        "text": "C.When a model's complexity matches the data complexity",
+        "score": 0.971705,
+        "x": 79.35,
+        "y": 297.09
+      },
+      {
+        "text": "D. When a model has high bias and low variance",
+        "score": 0.967026,
+        "x": 81.29,
+        "y": 363.74
+      }
+    ]
+  },
+  {
+    "question": 45,
+    "image": "/exams/SP26-FE/images/Q45.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "39d873affbbb43054569f3f3cd455f3367fc4afece0a00919992aeec88c6dc32",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995169,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Whenchoosingaregressionmodelforprediction,whatmetriciscommonlyused toevaluatethemodel's",
+        "score": 0.978404,
+        "x": 41.0,
+        "y": 51.0
+      },
+      {
+        "text": "performance incapturing thevariance inthedata?",
+        "score": 0.961294,
+        "x": 41.0,
+        "y": 66.0
+      },
+      {
+        "text": "A.MeanSquaredError(MSE)",
+        "score": 0.975742,
+        "x": 40.0,
+        "y": 99.0
+      },
+      {
+        "text": "B.R-squared(R~2)",
+        "score": 0.91312,
+        "x": 39.0,
+        "y": 132.0
+      },
+      {
+        "text": "C.Accuracy",
+        "score": 0.989134,
+        "x": 39.0,
+        "y": 165.0
+      },
+      {
+        "text": "D.Precision-Recallcurve",
+        "score": 0.990906,
+        "x": 41.0,
+        "y": 199.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.980437,
+        "x": 58.06,
+        "y": 17.14
+      },
+      {
+        "text": "When choosing a regression model for prediction, what metric is commonlyused to evaluate the model's",
+        "score": 0.957185,
+        "x": 83.23,
+        "y": 102.84
+      },
+      {
+        "text": "performance in capturing thevariance in the data?",
+        "score": 0.949292,
+        "x": 83.23,
+        "y": 133.31
+      },
+      {
+        "text": "A. MeanSquared Error (MSE)",
+        "score": 0.963538,
+        "x": 79.35,
+        "y": 196.15
+      },
+      {
+        "text": "B.R-squared (R*2)",
+        "score": 0.962247,
+        "x": 79.35,
+        "y": 264.71
+      },
+      {
+        "text": "C.Accuracy",
+        "score": 0.995463,
+        "x": 77.42,
+        "y": 329.46
+      },
+      {
+        "text": "D.Precision-Recallcurve",
+        "score": 0.996202,
+        "x": 81.29,
+        "y": 396.12
+      }
+    ]
+  },
+  {
+    "question": 46,
+    "image": "/exams/SP26-FE/images/Q46.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "2061ae6b33eb3038d7d67028693e39b3dd0e12ba1c91efdc55c84fcc615deb5d",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995918,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What isoverfittinginmachinelearning?",
+        "score": 0.960822,
+        "x": 40.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Themodel istoosimple andfailstocaptureunderlyingpatterns",
+        "score": 0.97421,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.Themodel learns the training data toowell,capturing noise andperforming poorly onnewdata",
+        "score": 0.938946,
+        "x": 39.0,
+        "y": 114.0
+      },
+      {
+        "text": "C.Themodel achieveshigh accuracyonboth training andvalidationdata",
+        "score": 0.964288,
+        "x": 40.0,
+        "y": 147.0
+      },
+      {
+        "text": "D.Themodelisperfectlybalancedintermsofcomplexity",
+        "score": 0.974769,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.992871,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "What isoverfiting inmachinelearning?",
+        "score": 0.929385,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "A.The model is too simple and fails to capture undertying patterns",
+        "score": 0.959475,
+        "x": 79.35,
+        "y": 167.59
+      },
+      {
+        "text": "B. The model learns the training data too well, capturing noise and performing poorty on new data",
+        "score": 0.976235,
+        "x": 79.35,
+        "y": 230.43
+      },
+      {
+        "text": "C.Themodel achieveshighaccuracyon both training andvalidationdata",
+        "score": 0.967996,
+        "x": 81.29,
+        "y": 298.99
+      },
+      {
+        "text": "D.Themodel isperfectlybalanced intermsofcomplexity",
+        "score": 0.970471,
+        "x": 81.29,
+        "y": 363.74
+      }
+    ]
+  },
+  {
+    "question": 47,
+    "image": "/exams/SP26-FE/images/Q47.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "ed758c9822a79255c4854e40d50f6e6a0f2c7980c2274bb089906cb0128cfdcb",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995896,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "What is thepurposeof regularization techniques inmachine learningmodels?",
+        "score": 0.955107,
+        "x": 40.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Toreducebias",
+        "score": 0.989075,
+        "x": 41.0,
+        "y": 83.0
+      },
+      {
+        "text": "B.Toreducevariance",
+        "score": 0.989021,
+        "x": 39.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Topreventoverfitting",
+        "score": 0.985684,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Allof theabove",
+        "score": 0.955448,
+        "x": 40.0,
+        "y": 181.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.994421,
+        "x": 58.06,
+        "y": 17.14
+      },
+      {
+        "text": "What is the purpose of regularization techniques in machine learning models?",
+        "score": 0.975855,
+        "x": 81.29,
+        "y": 102.84
+      },
+      {
+        "text": "A.Toreducebias",
+        "score": 0.997151,
+        "x": 81.29,
+        "y": 167.59
+      },
+      {
+        "text": "B.Toreducevariance",
+        "score": 0.99496,
+        "x": 79.35,
+        "y": 230.43
+      },
+      {
+        "text": "C.Topreventoverfitting",
+        "score": 0.971715,
+        "x": 79.35,
+        "y": 295.18
+      },
+      {
+        "text": "D.Allof theabove",
+        "score": 0.94593,
+        "x": 81.29,
+        "y": 363.74
+      }
+    ]
+  },
+  {
+    "question": 48,
+    "image": "/exams/SP26-FE/images/Q48.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "3c16a9ff28e8ad61a2c69d990ef011a4c29306ac7a83c8a785fce9baefe69b68",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.996303,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "Whatroledoesaconfusionmatrixserveinevaluating theperformanceofa classificationmodel?",
+        "score": 0.982485,
+        "x": 40.0,
+        "y": 49.0
+      },
+      {
+        "text": "A.Itdisplaysamodel'sprecisionandrecall",
+        "score": 0.971685,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.ltshowstheactualversuspredictedvalues",
+        "score": 0.978136,
+        "x": 40.0,
+        "y": 116.0
+      },
+      {
+        "text": "C.ItevaluatestheAUC-RoCscore",
+        "score": 0.951586,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Itmeasuresthemodel'sbiasandvariance",
+        "score": 0.976318,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.994599,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "Whatroledoesaconfusionmatrixserveinevaluatingtheperformanceofaclassificationmodel?",
+        "score": 0.991427,
+        "x": 85.16,
+        "y": 104.74
+      },
+      {
+        "text": "A.It displaysamode'sprecision and recall",
+        "score": 0.962546,
+        "x": 81.29,
+        "y": 169.49
+      },
+      {
+        "text": "B.It shows the actualversuspredictedvalues",
+        "score": 0.961721,
+        "x": 81.29,
+        "y": 234.24
+      },
+      {
+        "text": "C.ItevaluatestheAUC-ROCscore",
+        "score": 0.945422,
+        "x": 83.23,
+        "y": 300.9
+      },
+      {
+        "text": "D.Itmeasuresthemodel'sbiasandvariance",
+        "score": 0.967473,
+        "x": 81.29,
+        "y": 363.74
+      }
+    ]
+  },
+  {
+    "question": 49,
+    "image": "/exams/SP26-FE/images/Q49.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "c164742982acf9b7a57f692188f5ac495e19818b9f8ddcbafcde99e8cce55efc",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.995371,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "After trainingaregressionmodel inScikit-learn,what method isused tomakepredictionsonnewdatausing",
+        "score": 0.948314,
+        "x": 40.0,
+        "y": 49.0
+      },
+      {
+        "text": "the trained model?",
+        "score": 0.962639,
+        "x": 40.0,
+        "y": 66.0
+      },
+      {
+        "text": "A.predict)",
+        "score": 0.917366,
+        "x": 39.0,
+        "y": 97.0
+      },
+      {
+        "text": "B.forecast)",
+        "score": 0.938867,
+        "x": 39.0,
+        "y": 132.0
+      },
+      {
+        "text": "C.estimate0",
+        "score": 0.938734,
+        "x": 39.0,
+        "y": 165.0
+      },
+      {
+        "text": "D.compute)",
+        "score": 0.928901,
+        "x": 39.0,
+        "y": 198.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLE CHOICE",
+        "score": 0.981053,
+        "x": 58.06,
+        "y": 17.14
+      },
+      {
+        "text": "Aftertraining aregressionmodelinScikit-lean,whatmethod isused tomakepredictionsonnewdata using",
+        "score": 0.965247,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "the trained modelr?",
+        "score": 0.921318,
+        "x": 81.29,
+        "y": 131.4
+      },
+      {
+        "text": "A. predict0",
+        "score": 0.927872,
+        "x": 77.42,
+        "y": 196.15
+      },
+      {
+        "text": "B. forecasto",
+        "score": 0.907095,
+        "x": 77.42,
+        "y": 264.71
+      },
+      {
+        "text": "C. estimate0",
+        "score": 0.987689,
+        "x": 77.42,
+        "y": 327.56
+      },
+      {
+        "text": "D.compute()",
+        "score": 0.895086,
+        "x": 77.42,
+        "y": 396.12
+      }
+    ]
+  },
+  {
+    "question": 50,
+    "image": "/exams/SP26-FE/images/Q50.jpg",
+    "width": 1920,
+    "height": 720,
+    "format": "JPEG",
+    "sha256": "61caa4a7c564caad8fa08232f8774b1e3731f0b3cf556a505e491037f4bd03a8",
+    "pass_original": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.99576,
+        "x": 29.0,
+        "y": 8.0
+      },
+      {
+        "text": "In the contextof data serialization,what does the termpickling”refer to?",
+        "score": 0.916206,
+        "x": 40.0,
+        "y": 50.0
+      },
+      {
+        "text": "A.Sortingelementsinalist",
+        "score": 0.9467,
+        "x": 40.0,
+        "y": 82.0
+      },
+      {
+        "text": "B.ConvertingPythonobjectsintoabytestream",
+        "score": 0.993839,
+        "x": 40.0,
+        "y": 115.0
+      },
+      {
+        "text": "C.Creating3Dvisualizationsofdata",
+        "score": 0.978649,
+        "x": 40.0,
+        "y": 148.0
+      },
+      {
+        "text": "D.Performingmathematicaloperationsondata",
+        "score": 0.993414,
+        "x": 40.0,
+        "y": 182.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "MULTIPLECHOICE",
+        "score": 0.994288,
+        "x": 60.0,
+        "y": 19.04
+      },
+      {
+        "text": "In the context of data serialization, what does the termpickling”refer to?",
+        "score": 0.934983,
+        "x": 79.35,
+        "y": 99.03
+      },
+      {
+        "text": "A.Sorting elements in alist",
+        "score": 0.919746,
+        "x": 81.29,
+        "y": 169.49
+      },
+      {
+        "text": "B.Converting Python objects into abyte stream",
+        "score": 0.948426,
+        "x": 79.35,
+        "y": 230.43
+      },
+      {
+        "text": "C.Creating 3Dvisualizations of data",
+        "score": 0.946169,
+        "x": 83.23,
+        "y": 300.9
+      },
+      {
+        "text": "D.Performing mathematical operations on data",
+        "score": 0.991496,
+        "x": 83.23,
+        "y": 365.65
+      }
+    ]
+  }
+]

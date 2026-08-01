@@ -1,0 +1,5282 @@
+[
+  {
+    "question": 1,
+    "image": "/exams/SU25-FE/images/Q1.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "c68938216cfe5332a4efb4a12c83e03b6b061190513c8c793044779aaf752b0d",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:1",
+        "score": 0.956996,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "WhatisDataScience?",
+        "score": 0.985388,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.The study of computer science",
+        "score": 0.944832,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.969211,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.The extraction of insights from data",
+        "score": 0.95885,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.The art of designing databases",
+        "score": 0.951884,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.The creation of graphical user interfaces",
+        "score": 0.966497,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "KizspyIQuestion:1",
+        "score": 0.961261,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "What isDataScience?",
+        "score": 0.965396,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "A. The study of computer science",
+        "score": 0.976143,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.968161,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.The extraction of insights from data",
+        "score": 0.971354,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C. The art of designing databases",
+        "score": 0.980954,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.The creation of graphical user interfaces",
+        "score": 0.97792,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 2,
+    "image": "/exams/SU25-FE/images/Q2.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "0379509bbb21b117404a68d94640045f56a4491615faa395e9f2993907af44ca",
+    "pass_original": [
+      {
+        "text": "What does the term\"BigData”refer to inDataScience?",
+        "score": 0.936499,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "Kizspy|Question:2",
+        "score": 0.959115,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Small datasets that fit inmemory",
+        "score": 0.973914,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.962825,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Extremely large and complex datasets",
+        "score": 0.957447,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Data collected from social media only",
+        "score": 0.959206,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Datawithlowvariability",
+        "score": 0.976141,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What does thetermBigData”refer toinDataScience?",
+        "score": 0.9516,
+        "x": 1248.39,
+        "y": 29.25
+      },
+      {
+        "text": "Kizspy|Question:2",
+        "score": 0.968004,
+        "x": 29.03,
+        "y": 32.17
+      },
+      {
+        "text": "A.Small datasets that fit in memory",
+        "score": 0.978498,
+        "x": 1244.03,
+        "y": 77.51
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.96148,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Extremely large and complex datasets",
+        "score": 0.982836,
+        "x": 1244.03,
+        "y": 127.24
+      },
+      {
+        "text": "C.Data collected from social media only",
+        "score": 0.976727,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.Datawith lowvariability",
+        "score": 0.944282,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 3,
+    "image": "/exams/SU25-FE/images/Q3.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "7399915690182d4c71950b85e9a83fd941c0825e04ce6016191024e0ccc820ee",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:3",
+        "score": 0.954782,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Removingallrowswithmissing values",
+        "score": 0.983749,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.961532,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Replacing missing values with the mean or median",
+        "score": 0.978033,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Ignoring missing values during analysis",
+        "score": 0.962849,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Adding a constant value tofill missing entries",
+        "score": 0.962586,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:3",
+        "score": 0.968576,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "A. Removing allrows with missing values",
+        "score": 0.981329,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.958561,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B. Replacing missing values with the mean or median",
+        "score": 0.971476,
+        "x": 1245.48,
+        "y": 128.7
+      },
+      {
+        "text": "C.Ignoring missing values during analysis",
+        "score": 0.966294,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.Adding a constant value to fillmissing entries",
+        "score": 0.963192,
+        "x": 1246.94,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 4,
+    "image": "/exams/SU25-FE/images/Q4.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "75148a850d7ad0e661d22e6ee9d27f19067cf83773c091f74a414c9f69959a31",
+    "pass_original": [
+      {
+        "text": "What is the primary goal of theDiagnosticMeasuresphase inDataScience evaluation?",
+        "score": 0.967689,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "KizspyIQuestion:4",
+        "score": 0.961187,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Toidentify and understand why the model failsor succeeds",
+        "score": 0.955193,
+        "x": 831.0,
+        "y": 54.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.957047,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Topredictfutureoutcomes",
+        "score": 0.994189,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.Tofine-tunehyperparametersformodel improvement",
+        "score": 0.984318,
+        "x": 831.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.To createvisualizations of data distributions",
+        "score": 0.950791,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What is the primary goal of the Diagnostic Measures phase in Data Science evaluation?",
+        "score": 0.964826,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "KizspyIQuestion:4",
+        "score": 0.943965,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "A.To identify and understand why the model fails or succeeds",
+        "score": 0.976273,
+        "x": 1245.48,
+        "y": 78.97
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.961236,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Topredictfutureoutcomes",
+        "score": 0.996212,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "C. To fine-tune hyperparameters for model improvement",
+        "score": 0.974731,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D.To createvisualizationsofdata distributions",
+        "score": 0.970261,
+        "x": 1248.39,
+        "y": 229.61
+      }
+    ]
+  },
+  {
+    "question": 5,
+    "image": "/exams/SU25-FE/images/Q5.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "16ae153aa6579be668f6ba3867097ebc67821bbed89829f6ced3654b90925876",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:5",
+        "score": 0.957023,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What role doesstakeholderengagement play in theBusiness Understanding stage of a DataScience project?",
+        "score": 0.95736,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A.To identify businessrequirements and constraints",
+        "score": 0.971696,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.96104,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.To solelygather datafor analysis",
+        "score": 0.970324,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.To clean and preprocess data",
+        "score": 0.960341,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.To execute machinelearning algorithms",
+        "score": 0.960797,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What roledoes stakeholder engagement play in theBusinessUnderstanding stage of aData Scienceproject?",
+        "score": 0.967107,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "Kizspy|Question:5",
+        "score": 0.969591,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "A.To identify business requirements and constraints",
+        "score": 0.991709,
+        "x": 1246.94,
+        "y": 81.9
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.960831,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Tosolelygather datafor analysis",
+        "score": 0.966956,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "C.Toclean andpreprocess data",
+        "score": 0.968958,
+        "x": 1246.94,
+        "y": 179.89
+      },
+      {
+        "text": "D.Toexecutemachineleaming algorithms",
+        "score": 0.967596,
+        "x": 1246.94,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 6,
+    "image": "/exams/SU25-FE/images/Q6.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "3823f45a7b763388917e248c0107f450814d7f2fcb469c186b1df1f542cbb78e",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:6",
+        "score": 0.957959,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What does the term'missing value imputation'refer to inEDA?",
+        "score": 0.94559,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Filling in missing values using statistical measures",
+        "score": 0.966775,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.961231,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Removing missing values from the dataset",
+        "score": 0.968676,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Replacing missing values with arbitrary numbers",
+        "score": 0.959123,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Ignoring missing values during analysis",
+        "score": 0.963735,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:6",
+        "score": 0.961362,
+        "x": 29.03,
+        "y": 32.17
+      },
+      {
+        "text": "What does the term'missing value imputation' refer to in EDA?",
+        "score": 0.954499,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "A.Filing in missing values using statistical measures",
+        "score": 0.97806,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.95238,
+        "x": 30.48,
+        "y": 95.06
+      },
+      {
+        "text": "B.Removing missing valuesfrom the dataset",
+        "score": 0.962397,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "C. Replacing missing values with arbitrary numbers",
+        "score": 0.962435,
+        "x": 1246.94,
+        "y": 179.89
+      },
+      {
+        "text": "D.Ignoring missing values during analysis",
+        "score": 0.956859,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 7,
+    "image": "/exams/SU25-FE/images/Q7.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "b7cc171de8210391a761e01592a7842bcb1e07cdbc67e7d4b3394373e10e029c",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:7",
+        "score": 0.958164,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What is the primary role of the data understanding phase in the data science methodology?",
+        "score": 0.95775,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Creating data visualizations",
+        "score": 0.969911,
+        "x": 831.0,
+        "y": 54.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.962319,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Assessing data quality and representativeness",
+        "score": 0.974801,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Running complexalgorithms",
+        "score": 0.98744,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Building machine learning models",
+        "score": 0.948695,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:7",
+        "score": 0.934149,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "What istheprimaryroleof thedata understandingphaseinthedatasciencemethodology?",
+        "score": 0.978243,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "A.Creating data visualizalions",
+        "score": 0.956996,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.950788,
+        "x": 30.48,
+        "y": 95.06
+      },
+      {
+        "text": "B.Assessing data quality and representativeness",
+        "score": 0.979032,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C.Running complexalgorithms",
+        "score": 0.982974,
+        "x": 1246.94,
+        "y": 179.89
+      },
+      {
+        "text": "D.Building machinelearning models",
+        "score": 0.96453,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 8,
+    "image": "/exams/SU25-FE/images/Q8.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "9b87c9fbdb34caabca1d1df85fe3ab1bd854846eaaf03ec06b45b916b10da57b",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:8",
+        "score": 0.964901,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What Python library is commonly used toperform data manipulation and analysisbefore sending SQL",
+        "score": 0.950415,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.957959,
+        "x": 20.0,
+        "y": 62.0
+      },
+      {
+        "text": "A. NumPys",
+        "score": 0.952034,
+        "x": 829.0,
+        "y": 67.0
+      },
+      {
+        "text": "B.Matplotlib",
+        "score": 0.983178,
+        "x": 829.0,
+        "y": 102.0
+      },
+      {
+        "text": "C.Pandas",
+        "score": 0.998017,
+        "x": 830.0,
+        "y": 135.0
+      },
+      {
+        "text": "D.SciPy",
+        "score": 0.995858,
+        "x": 829.0,
+        "y": 166.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What Python library is commonlyused toperform data manipulationand analysisbeforesending SQL",
+        "score": 0.960604,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "KizspyIQuestion:8",
+        "score": 0.962454,
+        "x": 29.03,
+        "y": 32.17
+      },
+      {
+        "text": "queries?",
+        "score": 0.992758,
+        "x": 1244.03,
+        "y": 54.11
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.967362,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "A. NumPys",
+        "score": 0.972909,
+        "x": 1241.13,
+        "y": 100.91
+      },
+      {
+        "text": "B. Matplotib",
+        "score": 0.949313,
+        "x": 1242.58,
+        "y": 153.56
+      },
+      {
+        "text": "C.Pandas",
+        "score": 0.999457,
+        "x": 1244.03,
+        "y": 203.29
+      },
+      {
+        "text": "D. SciPy",
+        "score": 0.997675,
+        "x": 1244.03,
+        "y": 250.09
+      }
+    ]
+  },
+  {
+    "question": 9,
+    "image": "/exams/SU25-FE/images/Q9.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "10ae2bfdf446cb9310301d23d11230a9e72491c6c63d01d8e61c7d27cb5db883",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:9",
+        "score": 0.954831,
+        "x": 20.0,
+        "y": 20.0
+      },
+      {
+        "text": "YouhaveaDataFrame df containingproductinformation,including columns product_id,category,andprice",
+        "score": 0.953174,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "You want tofiltertheDataFrame toselectproductsin theElectronics'categorywithpricesbetweenS100 and",
+        "score": 0.964945,
+        "x": 829.0,
+        "y": 36.0
+      },
+      {
+        "text": "$200.(See the data below)",
+        "score": 0.96952,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.985878,
+        "x": 20.0,
+        "y": 64.0
+      },
+      {
+        "text": "import pandas as pd",
+        "score": 0.946714,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "#CreateaDataFrameforproductinformation",
+        "score": 0.995514,
+        "x": 830.0,
+        "y": 103.0
+      },
+      {
+        "text": "product_data={",
+        "score": 0.982337,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "product_id:[1,2,3,4,5]",
+        "score": 0.874327,
+        "x": 848.0,
+        "y": 137.0
+      },
+      {
+        "text": "'category'：[Electronics',Electronics','Clothing','Electronics'，'Clothing”],",
+        "score": 0.861879,
+        "x": 847.0,
+        "y": 151.0
+      },
+      {
+        "text": "price':[150,180,50,120,210]}",
+        "score": 0.940619,
+        "x": 847.0,
+        "y": 170.0
+      },
+      {
+        "text": "df_product=pd.DataFrame(product_data)",
+        "score": 0.981136,
+        "x": 832.0,
+        "y": 188.0
+      },
+      {
+        "text": "Providepandas command and SQL query toget data based on therequirement?",
+        "score": 0.951916,
+        "x": 831.0,
+        "y": 219.0
+      },
+      {
+        "text": "A.df_filtered=df[（df[category]==‘Electronics）&（dfprice’]>=100)&（dfprice’]<=200)]",
+        "score": 0.912401,
+        "x": 831.0,
+        "y": 253.0
+      },
+      {
+        "text": "SELECT*FROMdfWHEREcategory='Electronics'ANDpriceBETWEEN100AND200",
+        "score": 0.977115,
+        "x": 830.0,
+        "y": 269.0
+      },
+      {
+        "text": "B.df _filtered=df[（df[category”]==‘Electronics）)&（df[price]>=100)&（df[price]<=200)）]",
+        "score": 0.891803,
+        "x": 830.0,
+        "y": 301.0
+      },
+      {
+        "text": "SELECT *FROM df WHERE category=Electronics'ORpriceBETWEEN 100 AND 200",
+        "score": 0.949178,
+        "x": 831.0,
+        "y": 319.0
+      },
+      {
+        "text": "C.df_filtered=df[（df[category]==‘Electronics）|（df[price]>=100)&（df[price’]<=200)]",
+        "score": 0.900739,
+        "x": 830.0,
+        "y": 352.0
+      },
+      {
+        "text": "SELECT*FROMdfWHEREcategory='Electronics'ANDpriceBETWEEN100AND200",
+        "score": 0.971653,
+        "x": 830.0,
+        "y": 368.0
+      },
+      {
+        "text": "SELECT *FROM df WHERE category ='Electronics'AND price BETWEEN 100 AND 200",
+        "score": 0.934295,
+        "x": 831.0,
+        "y": 418.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "YouhaveaDataFramedfcontainingproductinformation,includingcolumnsproduct_id，category,andprice.",
+        "score": 0.961502,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "Kizspy|Question:9",
+        "score": 0.974685,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "YouwanttofiltertheDataFrametoselectproductsinthe'Electronics'categorywithpricesbetween$100and",
+        "score": 0.977034,
+        "x": 1246.94,
+        "y": 55.58
+      },
+      {
+        "text": "$200.( See the data below)",
+        "score": 0.977264,
+        "x": 1246.94,
+        "y": 81.9
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.946659,
+        "x": 30.48,
+        "y": 95.06
+      },
+      {
+        "text": "import pandas as pd",
+        "score": 0.976588,
+        "x": 1246.94,
+        "y": 130.16
+      },
+      {
+        "text": "#CreateaDataFrameforproductinformation",
+        "score": 0.991114,
+        "x": 1245.48,
+        "y": 156.49
+      },
+      {
+        "text": "product_data={",
+        "score": 0.995059,
+        "x": 1248.39,
+        "y": 182.81
+      },
+      {
+        "text": "‘product_id:[1,2,3,4,5]",
+        "score": 0.879608,
+        "x": 1268.71,
+        "y": 206.21
+      },
+      {
+        "text": "'category\":[Electronics','Electronics','Clothing”,'Electronics','Clothing”],",
+        "score": 0.852618,
+        "x": 1270.16,
+        "y": 229.61
+      },
+      {
+        "text": "'price:[150,180,50,120,210]}",
+        "score": 0.934302,
+        "x": 1268.71,
+        "y": 254.47
+      },
+      {
+        "text": "df_product=pd.DataFrame(product_data)",
+        "score": 0.986438,
+        "x": 1248.39,
+        "y": 282.26
+      },
+      {
+        "text": "Providepandas command andSQL query toget databased on the requirement?",
+        "score": 0.957191,
+        "x": 1248.39,
+        "y": 330.52
+      },
+      {
+        "text": "A.dif_filtered=df[（df[category]=='Electronics)&(df[price]>=100)&（dfprice]<=200)]",
+        "score": 0.888924,
+        "x": 1246.94,
+        "y": 380.25
+      },
+      {
+        "text": "SELECT *FROM df WHERE category ='Electronics'AND price BETWEEN 100 AND 200",
+        "score": 0.949618,
+        "x": 1248.39,
+        "y": 405.11
+      },
+      {
+        "text": "B.dif_filtered=df[（df[category]=='Electronics)&(df[price]>=100)&（dfprice]<=200)]",
+        "score": 0.899804,
+        "x": 1246.94,
+        "y": 454.84
+      },
+      {
+        "text": "SELECT*FROMdfWHEREcategory=Electronics'ORpriceBETWEEN100AND200",
+        "score": 0.968884,
+        "x": 1246.94,
+        "y": 478.24
+      },
+      {
+        "text": "C.dffiltered=df[（dfcategory]==‘Electronics）)|(df[price]>=100）&（df[price]<=200)]",
+        "score": 0.881248,
+        "x": 1245.48,
+        "y": 527.96
+      },
+      {
+        "text": "SELECT*FROMdfWHEREcategory='Electronics'ANDpriceBETWEEN100AND200",
+        "score": 0.970416,
+        "x": 1246.94,
+        "y": 552.83
+      },
+      {
+        "text": "D.dffiltered=df[（df[category]==‘Electronics)&&（dfprice]>=100)&&（df[price]<=200)]",
+        "score": 0.906476,
+        "x": 1245.48,
+        "y": 601.09
+      },
+      {
+        "text": "SELECT*FROMdfWHEREcategory='Electronics'ANDpriceBETWEEN100AND200",
+        "score": 0.969023,
+        "x": 1245.48,
+        "y": 625.95
+      }
+    ]
+  },
+  {
+    "question": 10,
+    "image": "/exams/SU25-FE/images/Q10.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "f01b14b634970fdec2507f91f66e3d29bfc3a4fb91f8ee0bcb7173c361224e70",
+    "pass_original": [
+      {
+        "text": "What is the purpose of the WHERE clause in a SQL query?",
+        "score": 0.935148,
+        "x": 830.0,
+        "y": 18.0
+      },
+      {
+        "text": "KizspyIQuestion:10",
+        "score": 0.961114,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "A.To specify the columns to be selected",
+        "score": 0.955213,
+        "x": 830.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.961231,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Tofilterrowsbased on a specified condition",
+        "score": 0.934489,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.To ordertheresults inascending ordescending order",
+        "score": 0.966712,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.To join two tables together",
+        "score": 0.973015,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "KizspyIQuestion:10",
+        "score": 0.93641,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "What is thepurposeof theWHEREclause inaSQLquery?",
+        "score": 0.968383,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "A.Tospecifythe columns tobe selected",
+        "score": 0.962157,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.9652,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Tofilterrowsbased ona specified condition",
+        "score": 0.964431,
+        "x": 1245.48,
+        "y": 128.7
+      },
+      {
+        "text": "C. To order the results in ascending or descending order",
+        "score": 0.974448,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.To join two tables together",
+        "score": 0.965069,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 11,
+    "image": "/exams/SU25-FE/images/Q11.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "4011278c61a043b2fbd7f980677f912026ac24ed89cce23a1a575e233f8fdff2",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:11",
+        "score": 0.977325,
+        "x": 19.0,
+        "y": 19.0
+      },
+      {
+        "text": "WhichSQLkeyword is used inDB2 to add newrows to a table?",
+        "score": 0.932076,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.INSERT",
+        "score": 0.996522,
+        "x": 830.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.959252,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.APPEND",
+        "score": 0.996303,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C. ADD",
+        "score": 0.922924,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D. UPDATE",
+        "score": 0.954825,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:11",
+        "score": 0.98513,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "WhichSQLkeyword is used in DB2 to add new rows to a table?",
+        "score": 0.939561,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "A. INSERT",
+        "score": 0.992375,
+        "x": 1244.03,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.959611,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B. APPEND",
+        "score": 0.985611,
+        "x": 1242.58,
+        "y": 130.16
+      },
+      {
+        "text": "C.ADD",
+        "score": 0.998955,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D. UPDATE",
+        "score": 0.979054,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 12,
+    "image": "/exams/SU25-FE/images/Q12.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "72eb39358e8e21241efcaf213414453aab6f12a3c297e75de34252ce4e69656e",
+    "pass_original": [
+      {
+        "text": "Tocreatea tablefromPython,youwould use",
+        "score": 0.976633,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "KizspyIQuestion:12",
+        "score": 0.956358,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Anibm_db.exec_immediatefunction that includes connection information and aSQL statement to create",
+        "score": 0.962369,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.960198,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "thetable",
+        "score": 0.997433,
+        "x": 831.0,
+        "y": 71.0
+      },
+      {
+        "text": "B.Anibm_db.exec_immediatefunction thatincludesconnectioninformation",
+        "score": 0.97603,
+        "x": 831.0,
+        "y": 104.0
+      },
+      {
+        "text": "C.You cannotcreatea tablefromPython",
+        "score": 0.968203,
+        "x": 831.0,
+        "y": 136.0
+      },
+      {
+        "text": "D.Anibm_db.exec_immediate function that includes a SQL statement to create the table",
+        "score": 0.959633,
+        "x": 830.0,
+        "y": 168.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Tocreatea tablefromPython,youwould use",
+        "score": 0.945622,
+        "x": 1246.94,
+        "y": 30.71
+      },
+      {
+        "text": "Kizspy|Question:12",
+        "score": 0.967092,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "A.An ibm_db.exec_immediatefunction that includes connectioninformation and a SQL statement to create",
+        "score": 0.964105,
+        "x": 1244.03,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.95011,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "thetable",
+        "score": 0.937686,
+        "x": 1244.03,
+        "y": 105.3
+      },
+      {
+        "text": "B. An ibm_db.exec_immediate function that includes connection information",
+        "score": 0.974633,
+        "x": 1248.39,
+        "y": 157.95
+      },
+      {
+        "text": "C.Youcannotcreatea tablefromPython",
+        "score": 0.9805,
+        "x": 1245.48,
+        "y": 204.75
+      },
+      {
+        "text": "D.An ibm_db.exec_immediate function that includes a SQL statement to create the table",
+        "score": 0.981329,
+        "x": 1248.39,
+        "y": 255.94
+      }
+    ]
+  },
+  {
+    "question": 13,
+    "image": "/exams/SU25-FE/images/Q13.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "6d94cd4a08df4cc0b12baeafdc5468ae732e547b33e8730fa3a58024763e37ba",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:13",
+        "score": 0.965964,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What command inDB2isused toremove a table from the database?",
+        "score": 0.959919,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A.DROP TABLE",
+        "score": 0.965963,
+        "x": 831.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.974733,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.ERASE TABLE",
+        "score": 0.961749,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "DELETE TABLE",
+        "score": 0.972888,
+        "x": 849.0,
+        "y": 120.0
+      },
+      {
+        "text": "D.REMOVE TABLE",
+        "score": 0.971844,
+        "x": 831.0,
+        "y": 153.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:13",
+        "score": 0.980082,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "Whatcommand inDB2isused toremovea tablefromthedatabase?",
+        "score": 0.975938,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "A.DROP TABLE",
+        "score": 0.961656,
+        "x": 1244.03,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1 answer)",
+        "score": 0.96925,
+        "x": 27.58,
+        "y": 92.14
+      },
+      {
+        "text": "B. ERASE TABLE",
+        "score": 0.974622,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "C. DELETE TABLE",
+        "score": 0.988433,
+        "x": 1246.94,
+        "y": 179.89
+      },
+      {
+        "text": "D. REMOVE TABLE",
+        "score": 0.956717,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 14,
+    "image": "/exams/SU25-FE/images/Q14.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "718299ed77acc48edb25dbb4b7d732c53028ecf8464f77887637c9ec618f91cf",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:14",
+        "score": 0.974289,
+        "x": 19.0,
+        "y": 20.0
+      },
+      {
+        "text": "WhichSQLstatement isused toretrievedatafromaDB2database?",
+        "score": 0.979558,
+        "x": 832.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.SELECT",
+        "score": 0.99084,
+        "x": 830.0,
+        "y": 51.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.958841,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.GET",
+        "score": 0.997481,
+        "x": 829.0,
+        "y": 84.0
+      },
+      {
+        "text": "C.FETCH",
+        "score": 0.99586,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.QUERY",
+        "score": 0.995558,
+        "x": 831.0,
+        "y": 153.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:14",
+        "score": 0.98016,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "WhichSQLstatement isused toretrievedatafromaDB2database?",
+        "score": 0.977028,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "A. SELECT",
+        "score": 0.983737,
+        "x": 1244.03,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose I answer)",
+        "score": 0.959951,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B. GET",
+        "score": 0.972955,
+        "x": 1242.58,
+        "y": 127.24
+      },
+      {
+        "text": "C. FETCH",
+        "score": 0.9617,
+        "x": 1244.03,
+        "y": 176.96
+      },
+      {
+        "text": "D. QUERY",
+        "score": 0.938174,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 15,
+    "image": "/exams/SU25-FE/images/Q15.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "47017971c7170596e258287f8011b8a01eaf6f46d96491444ea5259c763394b6",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:15",
+        "score": 0.956061,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "In the context of GitHub,what is a'pull request'used for?",
+        "score": 0.945569,
+        "x": 831.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Merging code changes from one branch to another",
+        "score": 0.956648,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.969394,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.Requesting data access",
+        "score": 0.972898,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Opening an issue for discussion",
+        "score": 0.954155,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Creating anewrepository",
+        "score": 0.978443,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "In the context of GitHub, what is a'pullrequest' used for?",
+        "score": 0.970729,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "KizspyIQuestion:15",
+        "score": 0.960896,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "A. Merging code changes from one branch to another",
+        "score": 0.991188,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.96363,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Requesting data access",
+        "score": 0.967478,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "C. Opening an issue for discussion",
+        "score": 0.970434,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.Creating anewrepository",
+        "score": 0.972883,
+        "x": 1246.94,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 16,
+    "image": "/exams/SU25-FE/images/Q16.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "4c9b7d438982d0a4043b4995ff63b3b3b3fa2d59668505e029a31a5da02fc97e",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:16",
+        "score": 0.972196,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "Whichcommand inGit is used tostage files fora commit?",
+        "score": 0.950654,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. git add",
+        "score": 0.98766,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.957064,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B. git push",
+        "score": 0.968452,
+        "x": 828.0,
+        "y": 84.0
+      },
+      {
+        "text": "C.git commit",
+        "score": 0.969389,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. git stage",
+        "score": 0.948242,
+        "x": 829.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Which command inGit isused tostage filesforacommit?",
+        "score": 0.962762,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "Kizspy|Question:16",
+        "score": 0.9747,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "ppe u6 v",
+        "score": 0.718249,
+        "x": 1241.13,
+        "y": 77.51
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.980785,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B. git push",
+        "score": 0.993977,
+        "x": 1241.13,
+        "y": 125.78
+      },
+      {
+        "text": "C.git commit",
+        "score": 0.996866,
+        "x": 1241.13,
+        "y": 175.5
+      },
+      {
+        "text": "D. git stage",
+        "score": 0.954084,
+        "x": 1241.13,
+        "y": 225.22
+      }
+    ]
+  },
+  {
+    "question": 17,
+    "image": "/exams/SU25-FE/images/Q17.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "5ade66f583e40b144d92ea58def128b4d4e4e5c8986456b01a736f2121580ee1",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:17",
+        "score": 0.974926,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "Whichlanguage iscommonly usedforitsseamless integrationwith databasesystems and extensive usage in",
+        "score": 0.965141,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "backendserverapplications?",
+        "score": 0.994593,
+        "x": 830.0,
+        "y": 36.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.963938,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "A. SQL",
+        "score": 0.967698,
+        "x": 828.0,
+        "y": 67.0
+      },
+      {
+        "text": "B. JavaScript",
+        "score": 0.961208,
+        "x": 830.0,
+        "y": 102.0
+      },
+      {
+        "text": "C.Python",
+        "score": 0.999313,
+        "x": 829.0,
+        "y": 134.0
+      },
+      {
+        "text": "D.C++",
+        "score": 0.992677,
+        "x": 830.0,
+        "y": 169.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:17",
+        "score": 0.974767,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "Which language is commonly used forits seamless integration withdatabase systems and extensive usage in",
+        "score": 0.955923,
+        "x": 1246.94,
+        "y": 32.17
+      },
+      {
+        "text": "backendserverapplications?",
+        "score": 0.990582,
+        "x": 1246.94,
+        "y": 55.58
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.953145,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "A. SQL",
+        "score": 0.982048,
+        "x": 1244.03,
+        "y": 102.38
+      },
+      {
+        "text": "B. JavaScript",
+        "score": 0.970849,
+        "x": 1242.58,
+        "y": 152.1
+      },
+      {
+        "text": "C. Python",
+        "score": 0.963588,
+        "x": 1244.03,
+        "y": 203.29
+      },
+      {
+        "text": "D.C++",
+        "score": 0.997043,
+        "x": 1244.03,
+        "y": 251.55
+      }
+    ]
+  },
+  {
+    "question": 18,
+    "image": "/exams/SU25-FE/images/Q18.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "01634098becd11f03601ad217f9fbe7adbf0903361ffa63dab8f7f4c67d9b23c",
+    "pass_original": [
+      {
+        "text": "How does Conda contribute to managing dependencies in datascienceprojects compared to pip?",
+        "score": 0.957009,
+        "x": 830.0,
+        "y": 18.0
+      },
+      {
+        "text": "KizspyIQuestion:18",
+        "score": 0.964803,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Conda isspecificallydesigned formanagingPython dependencies",
+        "score": 0.973457,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.949505,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Conda only managesdependenciesforJupyterNotebooks",
+        "score": 0.979375,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Condaresolves dependencies in amore comprehensive way,including non-Python libraries",
+        "score": 0.957218,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Condaisused forversion controlof datasets",
+        "score": 0.962127,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "KizspyIQuestion:18",
+        "score": 0.973088,
+        "x": 29.03,
+        "y": 32.17
+      },
+      {
+        "text": "A.Condaisspecificallydesigned for managingPythondependencies",
+        "score": 0.976195,
+        "x": 1246.94,
+        "y": 83.36
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.973426,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.CondaonlymanagesdependenciesforJupyterNotebooks",
+        "score": 0.992763,
+        "x": 1245.48,
+        "y": 128.7
+      },
+      {
+        "text": "C.Conda resolves dependencies in a more comprehensive way, inckding non-Python libraries",
+        "score": 0.962687,
+        "x": 1246.94,
+        "y": 179.89
+      },
+      {
+        "text": "D.Condaisusedforversioncontrolofdatasets",
+        "score": 0.994784,
+        "x": 1246.94,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 19,
+    "image": "/exams/SU25-FE/images/Q19.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "53e1291e4ce7faf49eeab2f504fbb8126b2b55a4c5ebadcffe8e6483869bf9eb",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:19",
+        "score": 0.954701,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "Whichcategoryof DataScience tools involvesplatforms likeAlteryx,Talend,and Informatica？",
+        "score": 0.95378,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Data Integration tools",
+        "score": 0.963975,
+        "x": 831.0,
+        "y": 54.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.977946,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Data Cleaning tools",
+        "score": 0.984577,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Data Analysis tools",
+        "score": 0.979594,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.Machine Learning tools",
+        "score": 0.977491,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Whichcategoryof DataScience tools involvesplatforms likeAlteryx,Talend,and Informatica?",
+        "score": 0.950426,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "Kizspy|Question:19",
+        "score": 0.973938,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "A. Data Integration tools",
+        "score": 0.969139,
+        "x": 1244.03,
+        "y": 77.51
+      },
+      {
+        "text": "(ChooseI answer)",
+        "score": 0.944059,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Data Cleaning tools",
+        "score": 0.991379,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "C. Data Analysis tools",
+        "score": 0.966946,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.Machine Leaming tools",
+        "score": 0.982057,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 20,
+    "image": "/exams/SU25-FE/images/Q20.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "10dac2d1678252f4d359f4618645f221e0e92f74dc7530d367e976110cb7767d",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:20",
+        "score": 0.956892,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What does a“fork”represent in the context of GitHub?",
+        "score": 0.941292,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.A copy of a repository in a user's GitHub account",
+        "score": 0.937852,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.96144,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.A clone of a repository to the local machine",
+        "score": 0.92426,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.Arequestforcodereview",
+        "score": 0.992457,
+        "x": 831.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.Abranch inarepository",
+        "score": 0.978196,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:20",
+        "score": 0.935052,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "What doesa“fork”represent in thecontext of GitHub?",
+        "score": 0.933571,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "A.A copy of a reposilory in a user's GitHub account",
+        "score": 0.954032,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.963862,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.A clone of a repository to the local machine",
+        "score": 0.950985,
+        "x": 1245.48,
+        "y": 130.16
+      },
+      {
+        "text": "C.Arequest forcodereview",
+        "score": 0.974141,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.Abranchinarepository",
+        "score": 0.996592,
+        "x": 1244.03,
+        "y": 225.22
+      }
+    ]
+  },
+  {
+    "question": 21,
+    "image": "/exams/SU25-FE/images/Q21.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "225a7cf2909942db9783ff7709e36b2d857cfb8ee12737d19818cfda10fdbce2",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:21",
+        "score": 0.942076,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What does the function np.eye(3) return in NumPy?",
+        "score": 0.975295,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Anidentity matrix of shape (3,3)",
+        "score": 0.928284,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.962896,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.An array of zeros with three rows and three columns",
+        "score": 0.94615,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.An array of ones with threerows and three columns",
+        "score": 0.949357,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Arandom matrix of shape(3,3)",
+        "score": 0.905034,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What does the function np.eye(3) return in NumPy?",
+        "score": 0.942267,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "Kizspy|Question:21",
+        "score": 0.961419,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "A.Anidentity matrixof shape(3,3)",
+        "score": 0.942164,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.988973,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.An array of zeros with three rows and three columns",
+        "score": 0.986078,
+        "x": 1245.48,
+        "y": 128.7
+      },
+      {
+        "text": "C.An array of ones with three rows and three columns",
+        "score": 0.965137,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.Arandommatrixof shape(3,3)",
+        "score": 0.960922,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 22,
+    "image": "/exams/SU25-FE/images/Q22.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "004923844dc77e8393e0b823e81162001e2ad50ada2342c93102608d37ef01c9",
+    "pass_original": [
+      {
+        "text": "Which function in NumPy is used tocalculate theexponential values of elements in an array?",
+        "score": 0.948622,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "Kizspy|Question:22",
+        "score": 0.979237,
+        "x": 19.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.exp0",
+        "score": 0.945275,
+        "x": 828.0,
+        "y": 51.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.958841,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.exp_values()",
+        "score": 0.968401,
+        "x": 830.0,
+        "y": 84.0
+      },
+      {
+        "text": "C.exponential0",
+        "score": 0.919199,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D. power0",
+        "score": 0.924495,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Whichfunction in NumPyis used tocalculate the exponential valuesofelementsin an array?",
+        "score": 0.951284,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "Kizspy|Question:22",
+        "score": 0.988137,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "A. exp0",
+        "score": 0.935681,
+        "x": 1242.58,
+        "y": 77.51
+      },
+      {
+        "text": "(Choose I answer)",
+        "score": 0.947348,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B. exp_values0",
+        "score": 0.969883,
+        "x": 1242.58,
+        "y": 125.78
+      },
+      {
+        "text": "C. exponential0",
+        "score": 0.929418,
+        "x": 1241.13,
+        "y": 175.5
+      },
+      {
+        "text": "D. power0",
+        "score": 0.941309,
+        "x": 1242.58,
+        "y": 223.76
+      }
+    ]
+  },
+  {
+    "question": 23,
+    "image": "/exams/SU25-FE/images/Q23.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "2ce31a1d1d24828976f37da88e394b49ca86c6fa4511d01c23a45d999a3325a2",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:23",
+        "score": 0.957384,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What is a potential disadvantage of using pandas for large datasets in data analysis?",
+        "score": 0.963424,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A.It is not suitable for handling missing data",
+        "score": 0.928847,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.960352,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.It requires extensiveknowledge of machine learning",
+        "score": 0.958621,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.It may consume significant memory forlarge datasets",
+        "score": 0.961591,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.It lacks support for reading CSVfiles",
+        "score": 0.958425,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What is a potential disadvantage of using pandas for large datasets in data analysis?",
+        "score": 0.957626,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "Kizspy|Question:23",
+        "score": 0.972379,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "A. It is not suitable for handling missing data",
+        "score": 0.987917,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.963496,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B. It requires extensive knowledge of machine learning",
+        "score": 0.94972,
+        "x": 1245.48,
+        "y": 128.7
+      },
+      {
+        "text": "C.it may consume significant memory for large datasets",
+        "score": 0.959771,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.It lackssupport forreading CSVfiles",
+        "score": 0.920892,
+        "x": 1246.94,
+        "y": 229.61
+      }
+    ]
+  },
+  {
+    "question": 24,
+    "image": "/exams/SU25-FE/images/Q24.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "086141235b80481dd315b2dddec9e1d480fc48660424dbcbf348b3519733fa74",
+    "pass_original": [
+      {
+        "text": "How does using a generator differ from creating a list in terms of memory usage?",
+        "score": 0.951798,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "Kizspy|Question:24",
+        "score": 0.958583,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Generators usemore memory thanlists",
+        "score": 0.962442,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.965708,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Generators and lists have similarmemoryusage",
+        "score": 0.967163,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Generators useless memory compared tolists",
+        "score": 0.959097,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.Generators are not suitablefor data manipulation",
+        "score": 0.966508,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Howdoes using ageneratordifferfrom creating a list in terms of memoryusage?",
+        "score": 0.947383,
+        "x": 1246.94,
+        "y": 30.71
+      },
+      {
+        "text": "Kizspy|Question:24",
+        "score": 0.972749,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "A.Generators use more memory than lists",
+        "score": 0.984892,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.960299,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Generators and listshave similarmemory usage",
+        "score": 0.963901,
+        "x": 1244.03,
+        "y": 127.24
+      },
+      {
+        "text": "C.Generators use less memory compared to lists",
+        "score": 0.972827,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D.Generators arenot suitable for data manipulation",
+        "score": 0.953406,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 25,
+    "image": "/exams/SU25-FE/images/Q25.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "76c18ecc377f13122035efa500786e0236b4531043686c98d41320e53920e21b",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:25",
+        "score": 0.954055,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What is the primary purpose of the requests library inPython?",
+        "score": 0.970661,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Generatingrandomnumbers",
+        "score": 0.993111,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.959601,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Interacting with web services and making HTTPrequests",
+        "score": 0.966776,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Reading andwriting CSVfiles",
+        "score": 0.95468,
+        "x": 831.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.Creatingvisualizations",
+        "score": 0.992041,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "KizspyIQuestion:25",
+        "score": 0.958833,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "What is the primary purpose of the requests library in Python?",
+        "score": 0.982448,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "A.Generatingrandom numbers",
+        "score": 0.977616,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.966352,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Interacting with web services and making HTTP requests",
+        "score": 0.971492,
+        "x": 1245.48,
+        "y": 128.7
+      },
+      {
+        "text": "C.Reading and writingCSVfiles",
+        "score": 0.961648,
+        "x": 1245.48,
+        "y": 176.96
+      },
+      {
+        "text": "D.Creatingvisualizations",
+        "score": 0.977936,
+        "x": 1246.94,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 26,
+    "image": "/exams/SU25-FE/images/Q26.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "bec2411e4f90c2f0f982b7b254cfbc81a3eb1b6fce86cee385546621d036e96d",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:26",
+        "score": 0.954883,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What is theprimarycharacteristicof aPythonset?",
+        "score": 0.978095,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Stores only unique elements",
+        "score": 0.947565,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.96401,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Allowsduplicate elements",
+        "score": 0.964468,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.Maintains insertion order",
+        "score": 0.975422,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.Stores elements inkey-value pairs",
+        "score": 0.960041,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:26",
+        "score": 0.969444,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "What is theprimarycharacteristicofaPythonset?",
+        "score": 0.980038,
+        "x": 1248.39,
+        "y": 30.71
+      },
+      {
+        "text": "A.Stores only unique elements",
+        "score": 0.964693,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.961414,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Allows duplicate elements",
+        "score": 0.963255,
+        "x": 1244.03,
+        "y": 130.16
+      },
+      {
+        "text": "C.Maintains insertion order",
+        "score": 0.975605,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D. Stores elements in key-value pairs",
+        "score": 0.957317,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 27,
+    "image": "/exams/SU25-FE/images/Q27.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "99481d5c62efec354c1f8525fb5795872324e1ead6d036a257a09404b76026c4",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:27",
+        "score": 0.954323,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What does the function np.arange(10) return in NumPy?",
+        "score": 0.96441,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A.An array containing numbers from 0 to9",
+        "score": 0.930815,
+        "x": 830.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.960758,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.An array containing numbers from 1 to 10",
+        "score": 0.961975,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.An array containing 10 random numbers",
+        "score": 0.962539,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.An array containing 10 elements,allinitialized to zero",
+        "score": 0.953994,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:27",
+        "score": 0.975097,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "A. An array containing numbers from 0 to 9",
+        "score": 0.960041,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.963828,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B. An array containing numbers from 1 to 10",
+        "score": 0.992969,
+        "x": 1242.58,
+        "y": 127.24
+      },
+      {
+        "text": "C.An array containing 10 random numbers",
+        "score": 0.924759,
+        "x": 1244.03,
+        "y": 176.96
+      },
+      {
+        "text": "D.An array containing 10 elements, all initialized to zero",
+        "score": 0.940808,
+        "x": 1245.48,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 28,
+    "image": "/exams/SU25-FE/images/Q28.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "5b571e58a989bf2edf073eed2fa2fe269f8ad44c633ba10751475c59531f94f1",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:28",
+        "score": 0.970458,
+        "x": 19.0,
+        "y": 20.0
+      },
+      {
+        "text": "Whatis theoutput of following:",
+        "score": 0.942878,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "fori,xin enumerate([A'，'B'，'C']):",
+        "score": 0.790816,
+        "x": 830.0,
+        "y": 38.0
+      },
+      {
+        "text": "print(i,x)",
+        "score": 0.94053,
+        "x": 849.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.979921,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A.0A",
+        "score": 0.87492,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "1B",
+        "score": 0.996197,
+        "x": 831.0,
+        "y": 103.0
+      },
+      {
+        "text": "2C",
+        "score": 0.982832,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "B.1A",
+        "score": 0.996243,
+        "x": 829.0,
+        "y": 151.0
+      },
+      {
+        "text": "2B",
+        "score": 0.999214,
+        "x": 830.0,
+        "y": 169.0
+      },
+      {
+        "text": "3C",
+        "score": 0.975693,
+        "x": 830.0,
+        "y": 186.0
+      },
+      {
+        "text": "C.AA",
+        "score": 0.993055,
+        "x": 830.0,
+        "y": 218.0
+      },
+      {
+        "text": "BB",
+        "score": 0.999511,
+        "x": 830.0,
+        "y": 235.0
+      },
+      {
+        "text": "CC",
+        "score": 0.939932,
+        "x": 830.0,
+        "y": 252.0
+      },
+      {
+        "text": "D. A1",
+        "score": 0.936847,
+        "x": 830.0,
+        "y": 285.0
+      },
+      {
+        "text": "B2",
+        "score": 0.999283,
+        "x": 830.0,
+        "y": 302.0
+      },
+      {
+        "text": "C3",
+        "score": 0.987988,
+        "x": 830.0,
+        "y": 317.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What istheoutput of following:",
+        "score": 0.949492,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "Kizspy|Question:28",
+        "score": 0.975811,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "forixinenumerate([A','B'，'C):",
+        "score": 0.813412,
+        "x": 1245.48,
+        "y": 54.11
+      },
+      {
+        "text": "print(ix)",
+        "score": 0.976249,
+        "x": 1273.06,
+        "y": 78.97
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.981442,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "A.OA",
+        "score": 0.913099,
+        "x": 1245.48,
+        "y": 128.7
+      },
+      {
+        "text": "1B",
+        "score": 0.981385,
+        "x": 1244.03,
+        "y": 153.56
+      },
+      {
+        "text": "2C",
+        "score": 0.964494,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "B.1A",
+        "score": 0.99777,
+        "x": 1245.48,
+        "y": 226.69
+      },
+      {
+        "text": "2B",
+        "score": 0.998552,
+        "x": 1245.48,
+        "y": 253.01
+      },
+      {
+        "text": "3C",
+        "score": 0.965874,
+        "x": 1244.03,
+        "y": 279.34
+      },
+      {
+        "text": "C.AA",
+        "score": 0.987618,
+        "x": 1245.48,
+        "y": 327.6
+      },
+      {
+        "text": "BB",
+        "score": 0.999541,
+        "x": 1245.48,
+        "y": 352.46
+      },
+      {
+        "text": "CC",
+        "score": 0.771453,
+        "x": 1245.48,
+        "y": 377.32
+      },
+      {
+        "text": "D. A1",
+        "score": 0.906885,
+        "x": 1245.48,
+        "y": 427.05
+      },
+      {
+        "text": "B2",
+        "score": 0.999011,
+        "x": 1245.48,
+        "y": 453.38
+      },
+      {
+        "text": "C3",
+        "score": 0.98395,
+        "x": 1245.48,
+        "y": 478.24
+      }
+    ]
+  },
+  {
+    "question": 29,
+    "image": "/exams/SU25-FE/images/Q29.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "88b301510991e0a994a2324c930d5537f6dc2158bf528903cd8b5d6b4069ece3",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:29",
+        "score": 0.957894,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "Given:",
+        "score": 0.97729,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "importnumpyasnp",
+        "score": 0.993174,
+        "x": 830.0,
+        "y": 37.0
+      },
+      {
+        "text": "matrix = np.array(I[1,2],[3,4]],[5,6],[7,8])",
+        "score": 0.888899,
+        "x": 830.0,
+        "y": 54.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.946167,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "print(matrix[:,:,0]+matrix[.,1])",
+        "score": 0.897367,
+        "x": 831.0,
+        "y": 71.0
+      },
+      {
+        "text": "What is the output?",
+        "score": 0.924678,
+        "x": 831.0,
+        "y": 87.0
+      },
+      {
+        "text": "A.[【[3, 7], [11, 15]]",
+        "score": 0.858944,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "B.【[2,6],[10, 14]",
+        "score": 0.839229,
+        "x": 830.0,
+        "y": 151.0
+      },
+      {
+        "text": "C.[4, 8], [12, 16]]",
+        "score": 0.876374,
+        "x": 830.0,
+        "y": 186.0
+      },
+      {
+        "text": "D.Error",
+        "score": 0.995459,
+        "x": 830.0,
+        "y": 218.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Given:",
+        "score": 0.989448,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "Kizspy|Question:29",
+        "score": 0.969968,
+        "x": 29.03,
+        "y": 32.17
+      },
+      {
+        "text": "importnumpyasnp",
+        "score": 0.993081,
+        "x": 1246.94,
+        "y": 55.58
+      },
+      {
+        "text": "matrix=np.array(1,2],[3,4],(5,6],[7,8m",
+        "score": 0.802306,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.958202,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "print(matrix[,0]+matrix[.,1])",
+        "score": 0.876323,
+        "x": 1245.48,
+        "y": 102.38
+      },
+      {
+        "text": "What is the output?",
+        "score": 0.967556,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "A.[3,7],[11,15]",
+        "score": 0.901632,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "B.【2,6],[10, 14]",
+        "score": 0.910217,
+        "x": 1242.58,
+        "y": 225.22
+      },
+      {
+        "text": "C.[【[4,8],[12,16]",
+        "score": 0.881281,
+        "x": 1244.03,
+        "y": 277.88
+      },
+      {
+        "text": "D.Error",
+        "score": 0.994237,
+        "x": 1242.58,
+        "y": 326.14
+      }
+    ]
+  },
+  {
+    "question": 30,
+    "image": "/exams/SU25-FE/images/Q30.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "4446994febc6e3140e3bd3af8e153e531656aa19908ed2af46d2fc4635509984",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:30",
+        "score": 0.971562,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What is the interquartile range (IQR) of the following dataset:18,5, 8,22,12,15, 27,31?",
+        "score": 0.929275,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.16.5",
+        "score": 0.994523,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.96018,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.15.5",
+        "score": 0.994901,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.14.5",
+        "score": 0.988526,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.12",
+        "score": 0.998156,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:30",
+        "score": 0.974855,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "A.16.5",
+        "score": 0.997915,
+        "x": 1242.58,
+        "y": 78.97
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.975315,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.15.5",
+        "score": 0.998984,
+        "x": 1242.58,
+        "y": 128.7
+      },
+      {
+        "text": "C. 14.5",
+        "score": 0.99209,
+        "x": 1244.03,
+        "y": 176.96
+      },
+      {
+        "text": "D.12",
+        "score": 0.996541,
+        "x": 1241.13,
+        "y": 225.22
+      }
+    ]
+  },
+  {
+    "question": 31,
+    "image": "/exams/SU25-FE/images/Q31.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "77856939c2e89bf27be0228b9bf33e43eac177cb4d2a30894a9a3f4fbbd3ac60",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:31",
+        "score": 0.962819,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "In a situation where data ismissing at random,which method is suitable for imputing missing values？",
+        "score": 0.945154,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Mean imputation",
+        "score": 0.967761,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.967512,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Median imputation",
+        "score": 0.970715,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.K-Nearest Neighbors imputation",
+        "score": 0.978678,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.Mode imputation",
+        "score": 0.980902,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Ina situation where datais missingat random,whichmethod is suitablefor imputingmissingvalues?",
+        "score": 0.957584,
+        "x": 1245.48,
+        "y": 30.71
+      },
+      {
+        "text": "Kizspy|Question:31",
+        "score": 0.975666,
+        "x": 29.03,
+        "y": 32.17
+      },
+      {
+        "text": "A. Mean irmputation",
+        "score": 0.95978,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.988025,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B. Median imputation",
+        "score": 0.96689,
+        "x": 1242.58,
+        "y": 127.24
+      },
+      {
+        "text": "C. K-Nearest Neighbors irnputation",
+        "score": 0.941636,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D. Mode imputation",
+        "score": 0.97016,
+        "x": 1246.94,
+        "y": 229.61
+      }
+    ]
+  },
+  {
+    "question": 32,
+    "image": "/exams/SU25-FE/images/Q32.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "3fb9c8cc0fec6a47a9811e33d9567d6cc034a2cb0d3713642777ac23ad0fe3e1",
+    "pass_original": [
+      {
+        "text": "How does using a generator differ from creating a list in terms of memory usage?",
+        "score": 0.951798,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "Kizspy|Question:32",
+        "score": 0.964594,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Generators usemore memory thanlists",
+        "score": 0.962442,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.965708,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Generators and lists have similarmemoryusage",
+        "score": 0.967119,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Generators useless memory compared tolists",
+        "score": 0.959423,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.Generators are not suitablefor data manipulation",
+        "score": 0.966384,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Howdoes using ageneratordifferfrom creating a list in terms of memoryusage?",
+        "score": 0.947383,
+        "x": 1246.94,
+        "y": 30.71
+      },
+      {
+        "text": "Kizspy|Question:32",
+        "score": 0.972892,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "A.Generators use more memory than lists",
+        "score": 0.984892,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.960299,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Generators and listshave similarmemory usage",
+        "score": 0.962999,
+        "x": 1244.03,
+        "y": 127.24
+      },
+      {
+        "text": "C.Generators use less memory compared to lists",
+        "score": 0.974546,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "D.Generators arenot suitablefor data manipulation",
+        "score": 0.960958,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 33,
+    "image": "/exams/SU25-FE/images/Q33.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "c4b7c553f2aaac985a2aafadeb9dc89005fc6a8ceb048da752aad250f1353eb1",
+    "pass_original": [
+      {
+        "text": "A companywants todetermine if their newmarketing campaign is effective.They collect data on salesbefore",
+        "score": 0.957771,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "Kizspy|Question:33",
+        "score": 0.964727,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "and after thecampaign.TheZ-Scorefor theincrease in sales is 2.5.",
+        "score": 0.948052,
+        "x": 830.0,
+        "y": 37.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.97011,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "What does thisZ-Score indicate?",
+        "score": 0.954771,
+        "x": 830.0,
+        "y": 69.0
+      },
+      {
+        "text": "A.The campaign issignificantlymoreeffective than expected.",
+        "score": 0.964081,
+        "x": 830.0,
+        "y": 104.0
+      },
+      {
+        "text": "B.The campaign is significantly less effective than expected.",
+        "score": 0.947954,
+        "x": 830.0,
+        "y": 136.0
+      },
+      {
+        "text": "C.The campaign has no effect on sales.",
+        "score": 0.940469,
+        "x": 830.0,
+        "y": 168.0
+      },
+      {
+        "text": "D.The Z-Score cannot beused in this context.",
+        "score": 0.952716,
+        "x": 830.0,
+        "y": 202.0
+      },
+      {
+        "text": "E.None of the others.",
+        "score": 0.936537,
+        "x": 831.0,
+        "y": 236.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:33",
+        "score": 0.976224,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "and afterthecampaign.TheZ-Scorefor the increaseinsalesis2.5.",
+        "score": 0.973263,
+        "x": 1246.94,
+        "y": 55.58
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.9614,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "WhatdoesthisZ-Scoreindicate?",
+        "score": 0.991924,
+        "x": 1248.39,
+        "y": 106.76
+      },
+      {
+        "text": "A.Thecampaignissignificanttymoreeffectivethanexpected",
+        "score": 0.967758,
+        "x": 1245.48,
+        "y": 155.02
+      },
+      {
+        "text": "B.Thecampaignissignificantlylesseffective thanexpected.",
+        "score": 0.96422,
+        "x": 1245.48,
+        "y": 204.75
+      },
+      {
+        "text": "C.The campaign has no effect on sales.",
+        "score": 0.951985,
+        "x": 1246.94,
+        "y": 254.47
+      },
+      {
+        "text": "D. The Z-Score cannot be used in this context.",
+        "score": 0.962239,
+        "x": 1246.94,
+        "y": 304.2
+      },
+      {
+        "text": "E.None of the others.",
+        "score": 0.951554,
+        "x": 1245.48,
+        "y": 352.46
+      }
+    ]
+  },
+  {
+    "question": 34,
+    "image": "/exams/SU25-FE/images/Q34.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "a41f0153cfc35e27438bca80114af17148de29fd2d4a73346544133bf906fb90",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:34",
+        "score": 0.976592,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "A.savefig0",
+        "score": 0.923032,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.955548,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.save_figure0",
+        "score": 0.948039,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C. save_plot0",
+        "score": 0.913669,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.save_image0",
+        "score": 0.957127,
+        "x": 829.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:34",
+        "score": 0.97866,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "A. savefig0",
+        "score": 0.952651,
+        "x": 1242.58,
+        "y": 77.51
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.968318,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B. save_figure0",
+        "score": 0.973536,
+        "x": 1242.58,
+        "y": 124.31
+      },
+      {
+        "text": "C. save_plot0",
+        "score": 0.944823,
+        "x": 1244.03,
+        "y": 175.5
+      },
+      {
+        "text": "D. save_image0",
+        "score": 0.922434,
+        "x": 1244.03,
+        "y": 225.22
+      }
+    ]
+  },
+  {
+    "question": 35,
+    "image": "/exams/SU25-FE/images/Q35.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "1bb751687eff9e119d69c02c0feebe69b757ee13d585f65757b1d1d1e1584979",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:35",
+        "score": 0.954391,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "In multiple regression analysis,what doesa coefficient represent?",
+        "score": 0.949587,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Theintercept of theregressionline",
+        "score": 0.974897,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.970243,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.The change in the dependent variable for a one-unit changein theindependent variable,holding other",
+        "score": 0.950468,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "variablesconstant",
+        "score": 0.996073,
+        "x": 830.0,
+        "y": 105.0
+      },
+      {
+        "text": "C.Theprobability of aType|error",
+        "score": 0.949659,
+        "x": 831.0,
+        "y": 137.0
+      },
+      {
+        "text": "D.The mean squared error of the model",
+        "score": 0.941363,
+        "x": 830.0,
+        "y": 169.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:35",
+        "score": 0.962531,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "A.The intercept of the regression line",
+        "score": 0.989299,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.986941,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.The change in the dependent variable for a one-unit change in the independent variable,holding other",
+        "score": 0.951704,
+        "x": 1244.03,
+        "y": 128.7
+      },
+      {
+        "text": "variablesconstant",
+        "score": 0.991006,
+        "x": 1245.48,
+        "y": 157.95
+      },
+      {
+        "text": "C.The probability of aTypeIerror",
+        "score": 0.90548,
+        "x": 1245.48,
+        "y": 204.75
+      },
+      {
+        "text": "D. The mean squared error of the model",
+        "score": 0.973372,
+        "x": 1245.48,
+        "y": 253.01
+      }
+    ]
+  },
+  {
+    "question": 36,
+    "image": "/exams/SU25-FE/images/Q36.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "1e3507018b727281f917e452c5a075990282db9dc5d0ca12fdc1307d6b9d3229",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:36",
+        "score": 0.964069,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "If the meanof a datasetis20 and the sumof allvaluesin the dataset is100,how manyvalues are in the",
+        "score": 0.929665,
+        "x": 830.0,
+        "y": 21.0
+      },
+      {
+        "text": "dataset?",
+        "score": 0.995439,
+        "x": 830.0,
+        "y": 37.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.976054,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "A.5",
+        "score": 0.978812,
+        "x": 830.0,
+        "y": 69.0
+      },
+      {
+        "text": "B.4",
+        "score": 0.991046,
+        "x": 830.0,
+        "y": 102.0
+      },
+      {
+        "text": "C.3",
+        "score": 0.986212,
+        "x": 830.0,
+        "y": 135.0
+      },
+      {
+        "text": "D.20",
+        "score": 0.996742,
+        "x": 830.0,
+        "y": 167.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "If themeanofadatasetis20 and thesumof allvalues inthedatasetis100,howmanyvaluesarein the",
+        "score": 0.961081,
+        "x": 1244.03,
+        "y": 29.25
+      },
+      {
+        "text": "KizspyIQuestion:36",
+        "score": 0.942716,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "dataset?",
+        "score": 0.993347,
+        "x": 1245.48,
+        "y": 55.58
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.958303,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "A. 5",
+        "score": 0.769627,
+        "x": 1242.58,
+        "y": 102.38
+      },
+      {
+        "text": "B. 4",
+        "score": 0.954982,
+        "x": 1242.58,
+        "y": 153.56
+      },
+      {
+        "text": "C.3",
+        "score": 0.992106,
+        "x": 1242.58,
+        "y": 203.29
+      },
+      {
+        "text": "D. 20",
+        "score": 0.998555,
+        "x": 1244.03,
+        "y": 251.55
+      }
+    ]
+  },
+  {
+    "question": 37,
+    "image": "/exams/SU25-FE/images/Q37.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "7396ade3b1cec1daa1c6fa4d23cef2274e6468aeb7240c6d9ee36fc7fa04d464",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:37",
+        "score": 0.961351,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What type of relationship is depictedby a scatterplot wherepoints are tightly clustered along a line with a",
+        "score": 0.951687,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "positive slope?",
+        "score": 0.965226,
+        "x": 830.0,
+        "y": 36.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.983445,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A.Negativecorrelation",
+        "score": 0.994442,
+        "x": 830.0,
+        "y": 70.0
+      },
+      {
+        "text": "B.No correlation",
+        "score": 0.964574,
+        "x": 830.0,
+        "y": 104.0
+      },
+      {
+        "text": "C.Positive correlation",
+        "score": 0.982101,
+        "x": 831.0,
+        "y": 137.0
+      },
+      {
+        "text": "D.Perfect correlation",
+        "score": 0.986435,
+        "x": 830.0,
+        "y": 168.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:37",
+        "score": 0.981663,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "positive slope?",
+        "score": 0.98913,
+        "x": 1245.48,
+        "y": 55.58
+      },
+      {
+        "text": "(Choose1 answer)",
+        "score": 0.953204,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "A. Negative correlation",
+        "score": 0.997285,
+        "x": 1245.48,
+        "y": 103.84
+      },
+      {
+        "text": "B. No correlation",
+        "score": 0.95049,
+        "x": 1245.48,
+        "y": 155.02
+      },
+      {
+        "text": "C.Positivecorrelation",
+        "score": 0.962038,
+        "x": 1246.94,
+        "y": 206.21
+      },
+      {
+        "text": "D. Perfect correlation",
+        "score": 0.980661,
+        "x": 1244.03,
+        "y": 253.01
+      }
+    ]
+  },
+  {
+    "question": 38,
+    "image": "/exams/SU25-FE/images/Q38.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "dea9b42ab3276b16b1a8509e97138ca0bf199d4c92eca866eaaba8ae0411854d",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:38",
+        "score": 0.968753,
+        "x": 19.0,
+        "y": 20.0
+      },
+      {
+        "text": "WhichMatplotlibfunction isused toset the tileof aplot?",
+        "score": 0.952471,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A. set_title0",
+        "score": 0.925329,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.958841,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.set_plot_title()",
+        "score": 0.943188,
+        "x": 829.0,
+        "y": 84.0
+      },
+      {
+        "text": "C.lable0",
+        "score": 0.971156,
+        "x": 829.0,
+        "y": 117.0
+      },
+      {
+        "text": "D.plot_title0",
+        "score": 0.940775,
+        "x": 829.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "WhichMatplotib function is used toset the titleof aplot?",
+        "score": 0.952199,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "Kizspy|Question:38",
+        "score": 0.982416,
+        "x": 29.03,
+        "y": 32.17
+      },
+      {
+        "text": "A. set_title0",
+        "score": 0.898314,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose I answer)",
+        "score": 0.943171,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B. set_plot_title0",
+        "score": 0.914452,
+        "x": 1242.58,
+        "y": 127.24
+      },
+      {
+        "text": "C.lable0",
+        "score": 0.968328,
+        "x": 1242.58,
+        "y": 175.5
+      },
+      {
+        "text": "D. plot_tite0",
+        "score": 0.881805,
+        "x": 1244.03,
+        "y": 225.22
+      }
+    ]
+  },
+  {
+    "question": 39,
+    "image": "/exams/SU25-FE/images/Q39.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "e9c50e98cdc19f924b10f60b671ac6f0d59be048c5a31d8e94fdeb97ac80e003",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:39",
+        "score": 0.953186,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "Which assumption is crucial for ANOVA testing?",
+        "score": 0.954694,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Homogeneityofvariance",
+        "score": 0.993384,
+        "x": 832.0,
+        "y": 54.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.964536,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Skewness of the data",
+        "score": 0.939547,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.Independence ofobservations",
+        "score": 0.972554,
+        "x": 831.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.Multicollinearitybetweenvariables",
+        "score": 0.995706,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:39",
+        "score": 0.967942,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "Which assumption is crucial forANOVA testing?",
+        "score": 0.962021,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "A.Homogeneity of variance",
+        "score": 0.95767,
+        "x": 1244.03,
+        "y": 78.97
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.961146,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Skewnessofthe data",
+        "score": 0.97511,
+        "x": 1245.48,
+        "y": 128.7
+      },
+      {
+        "text": "C.Independence of observations",
+        "score": 0.976367,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.Multicollinearitybetweenvariables",
+        "score": 0.989033,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 40,
+    "image": "/exams/SU25-FE/images/Q40.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "60cca453e766c63eb1ec6dfa8363cc17e994027f67c8e2d4cca600c1123f8369",
+    "pass_original": [
+      {
+        "text": "Whatis the median of the following dataset:12,10,7,16,14,19?",
+        "score": 0.909264,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "Kizspy|Question:40",
+        "score": 0.958704,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.13",
+        "score": 0.987983,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.950003,
+        "x": 19.0,
+        "y": 62.0
+      },
+      {
+        "text": "B.15",
+        "score": 0.996356,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.17",
+        "score": 0.989614,
+        "x": 830.0,
+        "y": 117.0
+      },
+      {
+        "text": "D.12",
+        "score": 0.996783,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "What is the median of the following dataset:12, 10,7, 16,14,19?",
+        "score": 0.947102,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "Kizspy|Question:40",
+        "score": 0.974752,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "A.13",
+        "score": 0.996344,
+        "x": 1242.58,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.977516,
+        "x": 29.03,
+        "y": 93.6
+      },
+      {
+        "text": "B.15",
+        "score": 0.997645,
+        "x": 1242.58,
+        "y": 128.7
+      },
+      {
+        "text": "C. 17",
+        "score": 0.944329,
+        "x": 1241.13,
+        "y": 174.04
+      },
+      {
+        "text": "D.12",
+        "score": 0.998636,
+        "x": 1241.13,
+        "y": 225.22
+      }
+    ]
+  },
+  {
+    "question": 41,
+    "image": "/exams/SU25-FE/images/Q41.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "bc57a3e2819205e003578c288a2a2890ca98db9fbf33b215f7fdd699686972f3",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:41",
+        "score": 0.968207,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What distribution is commonly used for hypothesis testing when the sample size is small and the population",
+        "score": 0.953934,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "standarddeviationisunknown?",
+        "score": 0.994482,
+        "x": 831.0,
+        "y": 38.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.971695,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A.Normal Distribution",
+        "score": 0.976195,
+        "x": 830.0,
+        "y": 69.0
+      },
+      {
+        "text": "B.T-Distribution",
+        "score": 0.992665,
+        "x": 830.0,
+        "y": 104.0
+      },
+      {
+        "text": "C.Chi-Square Distribution",
+        "score": 0.983525,
+        "x": 830.0,
+        "y": 136.0
+      },
+      {
+        "text": "D.Poisson Distribution",
+        "score": 0.980842,
+        "x": 830.0,
+        "y": 168.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:41",
+        "score": 0.976356,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "standarddeviationisunknown?",
+        "score": 0.992262,
+        "x": 1245.48,
+        "y": 55.58
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.989408,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "A. Normal Distribution",
+        "score": 0.95035,
+        "x": 1246.94,
+        "y": 105.3
+      },
+      {
+        "text": "B. T-Distribution",
+        "score": 0.948177,
+        "x": 1245.48,
+        "y": 155.02
+      },
+      {
+        "text": "C. Chi-Square Distribution",
+        "score": 0.974401,
+        "x": 1245.48,
+        "y": 204.75
+      },
+      {
+        "text": "D. Poisson Distribution",
+        "score": 0.970122,
+        "x": 1245.48,
+        "y": 253.01
+      }
+    ]
+  },
+  {
+    "question": 42,
+    "image": "/exams/SU25-FE/images/Q42.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "d711d94c8299634c4c65f9a442136e6484f9dd1c490cfa5b9fd075aae1cee195",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:42",
+        "score": 0.959544,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "Apharmaceutical companyis testing a newdrug'seffectivenessinreducingbloodpressure.Thenull",
+        "score": 0.975716,
+        "x": 832.0,
+        "y": 21.0
+      },
+      {
+        "text": "hypothesis(Ho) states that the drug has noeffect onblood pressure.Thecompany conducts a studywith a",
+        "score": 0.94556,
+        "x": 830.0,
+        "y": 36.0
+      },
+      {
+        "text": "sampleof50participantsand findsa meanreduction inbloodpressureof5mmHgwithastandarddeviation",
+        "score": 0.979293,
+        "x": 830.0,
+        "y": 55.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.973886,
+        "x": 20.0,
+        "y": 64.0
+      },
+      {
+        "text": "of 2mmHg.Thep-valueobtained from thehypothesistest is 0.02.What decision should the companymake",
+        "score": 0.954694,
+        "x": 830.0,
+        "y": 71.0
+      },
+      {
+        "text": "regarding thenull hypothesis at a significancelevel of 0.05?",
+        "score": 0.943724,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "A.Thedrughaseffectonbloodpressure",
+        "score": 0.991373,
+        "x": 831.0,
+        "y": 120.0
+      },
+      {
+        "text": "B.Fail toreject thenull hypothesis",
+        "score": 0.963763,
+        "x": 830.0,
+        "y": 151.0
+      },
+      {
+        "text": "C.Cannotmakeadecisionbasedonthegiveninformation",
+        "score": 0.996611,
+        "x": 830.0,
+        "y": 186.0
+      },
+      {
+        "text": "D.Retest thehypothesiswitha largersample size",
+        "score": 0.951189,
+        "x": 830.0,
+        "y": 218.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:42",
+        "score": 0.963719,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "Apharmaceuticalcompanyistestinganewdrug'seffectivenessinreducingbloodpressure.Thenull",
+        "score": 0.981505,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "hypothesis(Ho)statesthat the drug hasnoeffectonbloodpressure.Thecompanyconductsastudywitha",
+        "score": 0.979087,
+        "x": 1246.94,
+        "y": 55.58
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.955299,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "of 2 mmHg.Thep-value obtainedfrom the hypothesis test is 0.02.Whatdecisionshould the company make",
+        "score": 0.953519,
+        "x": 1248.39,
+        "y": 106.76
+      },
+      {
+        "text": "regardingthenull hypothesisatasignificancelevelofO.05?",
+        "score": 0.958457,
+        "x": 1248.39,
+        "y": 131.62
+      },
+      {
+        "text": "A.The drughas effect on blood pressure",
+        "score": 0.964566,
+        "x": 1245.48,
+        "y": 179.89
+      },
+      {
+        "text": "B.Failtoreject thenullhypothesis",
+        "score": 0.973939,
+        "x": 1245.48,
+        "y": 229.61
+      },
+      {
+        "text": "C.Cannotmakeadecisionbased on the given information",
+        "score": 0.965429,
+        "x": 1245.48,
+        "y": 279.34
+      },
+      {
+        "text": "D.Retest thehypothesiswith a largersample size",
+        "score": 0.9683,
+        "x": 1246.94,
+        "y": 329.06
+      }
+    ]
+  },
+  {
+    "question": 43,
+    "image": "/exams/SU25-FE/images/Q43.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "dc09e7d5d54bf353914c818cd1ac8030fbbcac10f7f281fa6c43e61b30a78bac",
+    "pass_original": [
+      {
+        "text": "A manufacturing company wants to compare the mean tensile strength of two different materials used in their",
+        "score": 0.947637,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "KizspyIQuestion:43",
+        "score": 0.959522,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "products.They collect data from twoindependent samples:Material A(n=20) and Material B(n=25).After",
+        "score": 0.96107,
+        "x": 830.0,
+        "y": 36.0
+      },
+      {
+        "text": "conducting a two-sample t-test,thecalculatedp-value is0.10.What decision should the companymake",
+        "score": 0.960281,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.969188,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "regarding thenullhypothesisatasignificancelevelofO.05?",
+        "score": 0.96571,
+        "x": 830.0,
+        "y": 69.0
+      },
+      {
+        "text": "A.Material typewill affect to the strength of tensile",
+        "score": 0.949013,
+        "x": 831.0,
+        "y": 104.0
+      },
+      {
+        "text": "B.Material Awill havehigherstrength thanMaterial B",
+        "score": 0.962566,
+        "x": 830.0,
+        "y": 136.0
+      },
+      {
+        "text": "C.Material Bwill havehigherstrength thanMaterialA",
+        "score": 0.965868,
+        "x": 830.0,
+        "y": 169.0
+      },
+      {
+        "text": "D.Inconclusive test since the p-value is too small",
+        "score": 0.935269,
+        "x": 830.0,
+        "y": 202.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Amanufacturingcompanywantstocomparethemeantensilestrength of twodifferentmaterialsusedintheir",
+        "score": 0.972997,
+        "x": 1245.48,
+        "y": 30.71
+      },
+      {
+        "text": "Kizspy|Question:43",
+        "score": 0.942185,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "products.They collect data from twoindependent samples:Material A(n=20) and Material B(n=25).After",
+        "score": 0.954882,
+        "x": 1245.48,
+        "y": 55.58
+      },
+      {
+        "text": "conducling atwo-sample t-test,thecalculatedp-value is 0.10.Whatdecision should the companymake",
+        "score": 0.958459,
+        "x": 1246.94,
+        "y": 81.9
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.945817,
+        "x": 30.48,
+        "y": 95.06
+      },
+      {
+        "text": "regardingthenullhypothesisatasignificancelevelofO.05?",
+        "score": 0.96938,
+        "x": 1246.94,
+        "y": 105.3
+      },
+      {
+        "text": "A.Material type willaffect to the strength of tensile",
+        "score": 0.976655,
+        "x": 1246.94,
+        "y": 157.95
+      },
+      {
+        "text": "B.Material A will have higher strength than Material B",
+        "score": 0.972548,
+        "x": 1245.48,
+        "y": 204.75
+      },
+      {
+        "text": "C.Material B will have higher strength than Material A",
+        "score": 0.955379,
+        "x": 1245.48,
+        "y": 253.01
+      },
+      {
+        "text": "D. Inconclusive test since the p-value is too small",
+        "score": 0.970199,
+        "x": 1246.94,
+        "y": 302.74
+      }
+    ]
+  },
+  {
+    "question": 44,
+    "image": "/exams/SU25-FE/images/Q44.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "2901b3feb1d772c46aaa07d635ee7afe00f615c3011e189ebd365965c0347d62",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:44",
+        "score": 0.964646,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "averages 19°℃.",
+        "score": 0.873969,
+        "x": 830.0,
+        "y": 35.0
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.949498,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "What is theZ-Scoreforthisyear'saveragetemperature?",
+        "score": 0.97244,
+        "x": 830.0,
+        "y": 69.0
+      },
+      {
+        "text": "A.-2",
+        "score": 0.966377,
+        "x": 830.0,
+        "y": 102.0
+      },
+      {
+        "text": "B.-1.67",
+        "score": 0.985758,
+        "x": 830.0,
+        "y": 136.0
+      },
+      {
+        "text": "C.-1.5",
+        "score": 0.99133,
+        "x": 831.0,
+        "y": 169.0
+      },
+      {
+        "text": "D. -1",
+        "score": 0.9201,
+        "x": 830.0,
+        "y": 202.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Acity's average temperature inJulyis25°Cwitha standard deviation of 3°C.Oneyear,thetemperature in July",
+        "score": 0.937147,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "KizspyIQuestion:44",
+        "score": 0.947557,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "averages 19°℃.",
+        "score": 0.912458,
+        "x": 1245.48,
+        "y": 55.58
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.966081,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "What istheZ-Scoreforthisyear'saveragetemperature?",
+        "score": 0.981245,
+        "x": 1245.48,
+        "y": 103.84
+      },
+      {
+        "text": "A.-2",
+        "score": 0.902631,
+        "x": 1242.58,
+        "y": 153.56
+      },
+      {
+        "text": "B.-1.67",
+        "score": 0.999194,
+        "x": 1244.03,
+        "y": 204.75
+      },
+      {
+        "text": "C. -1.5",
+        "score": 0.968459,
+        "x": 1244.03,
+        "y": 250.09
+      },
+      {
+        "text": "D. -1",
+        "score": 0.95967,
+        "x": 1244.03,
+        "y": 302.74
+      }
+    ]
+  },
+  {
+    "question": 45,
+    "image": "/exams/SU25-FE/images/Q45.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "ae8f7c7aae50fbebe3ae45ba385833286c75006d897109a3f7f10373b3b1fc8a",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:45",
+        "score": 0.95544,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "Which method is used to address class imbalance in a classificationproblem?",
+        "score": 0.964167,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Over-sampling theminority class",
+        "score": 0.959979,
+        "x": 830.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.96724,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Under-sampling the majority class",
+        "score": 0.981718,
+        "x": 830.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.Synthetic data generation",
+        "score": 0.963617,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.Allof the above",
+        "score": 0.940089,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Which method isused to address classimbalanceinaclassificationproblem?",
+        "score": 0.967854,
+        "x": 1248.39,
+        "y": 29.25
+      },
+      {
+        "text": "Kizspy|Question:45",
+        "score": 0.953482,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "A. Over-sampling the minority class",
+        "score": 0.976957,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.965521,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Under-sampling the majority class",
+        "score": 0.965428,
+        "x": 1244.03,
+        "y": 127.24
+      },
+      {
+        "text": "C.Synthetic data generation",
+        "score": 0.989387,
+        "x": 1246.94,
+        "y": 179.89
+      },
+      {
+        "text": "D.Allof theabove",
+        "score": 0.946707,
+        "x": 1245.48,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 46,
+    "image": "/exams/SU25-FE/images/Q46.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "66dad7a3c74a38f238491060d76d6643e16f158b4d044eff96945a0cddea95d4",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:46",
+        "score": 0.974149,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "After training aregression model inScikit-learn,what method isused to makepredictions on new data using",
+        "score": 0.952026,
+        "x": 830.0,
+        "y": 20.0
+      },
+      {
+        "text": "thetrainedmodel?",
+        "score": 0.993183,
+        "x": 830.0,
+        "y": 37.0
+      },
+      {
+        "text": "(Choose 1answer)",
+        "score": 0.96088,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "A.predict0",
+        "score": 0.961622,
+        "x": 829.0,
+        "y": 68.0
+      },
+      {
+        "text": "B.forecast()",
+        "score": 0.965403,
+        "x": 830.0,
+        "y": 101.0
+      },
+      {
+        "text": "C.estimate()",
+        "score": 0.964713,
+        "x": 830.0,
+        "y": 135.0
+      },
+      {
+        "text": "D.compute0",
+        "score": 0.919571,
+        "x": 830.0,
+        "y": 168.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:46",
+        "score": 0.973641,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "thetrainedmodel?",
+        "score": 0.953667,
+        "x": 1246.94,
+        "y": 57.04
+      },
+      {
+        "text": "(Choose 1 answer)",
+        "score": 0.950739,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "A.predict0",
+        "score": 0.954787,
+        "x": 1242.58,
+        "y": 102.38
+      },
+      {
+        "text": "B. forecastO",
+        "score": 0.90131,
+        "x": 1242.58,
+        "y": 150.64
+      },
+      {
+        "text": "C.estimate0",
+        "score": 0.980078,
+        "x": 1244.03,
+        "y": 203.29
+      },
+      {
+        "text": "D.compute",
+        "score": 0.988934,
+        "x": 1244.03,
+        "y": 251.55
+      }
+    ]
+  },
+  {
+    "question": 47,
+    "image": "/exams/SU25-FE/images/Q47.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "8c9972266e48d38a0e7a0185a8468721a0ad35e4c63faff1b25eb9390b2293a3",
+    "pass_original": [
+      {
+        "text": "KizspyIQuestion:47",
+        "score": 0.958534,
+        "x": 20.0,
+        "y": 20.0
+      },
+      {
+        "text": "What isoverfittinginmachinelearning?",
+        "score": 0.970684,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Themodel is too simple and fails to capture underlying patterns",
+        "score": 0.950414,
+        "x": 830.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.960768,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.The model learns the training data too well, capturing noise and performing poorly on new data",
+        "score": 0.956928,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.The model achieves high accuracy onboth training and validation data",
+        "score": 0.957489,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.The model isperfectlybalanced in terms of complexity",
+        "score": 0.965228,
+        "x": 830.0,
+        "y": 151.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Whatisoverfitinginmachineleaming?",
+        "score": 0.975103,
+        "x": 1246.94,
+        "y": 30.71
+      },
+      {
+        "text": "Kizspy|Question:47",
+        "score": 0.962335,
+        "x": 30.48,
+        "y": 32.17
+      },
+      {
+        "text": "A. The model is too simple and fails to capture underlying patterns",
+        "score": 0.977918,
+        "x": 1245.48,
+        "y": 80.44
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.968521,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B. The model leams the training data too well, capturing noise and performing poorly on new data",
+        "score": 0.965765,
+        "x": 1244.03,
+        "y": 127.24
+      },
+      {
+        "text": "C. The model achieves high accuracy on both training and validation data",
+        "score": 0.985511,
+        "x": 1245.48,
+        "y": 176.96
+      },
+      {
+        "text": "D.Themodel isperfectlybalanced intermsof complexity",
+        "score": 0.970571,
+        "x": 1246.94,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 48,
+    "image": "/exams/SU25-FE/images/Q48.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "91d50e9f680f54e3774ca5f555a2abd0ac9b1df1953b37260d24ccd9a3e612ed",
+    "pass_original": [
+      {
+        "text": "Ink-fold cross-validation,how many times is the dataset split into training and test sets?",
+        "score": 0.951485,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "Kizspy|Question:48",
+        "score": 0.965525,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Once",
+        "score": 0.98542,
+        "x": 829.0,
+        "y": 52.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.963224,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Twice",
+        "score": 0.990328,
+        "x": 829.0,
+        "y": 85.0
+      },
+      {
+        "text": "C.ktimes",
+        "score": 0.989625,
+        "x": 830.0,
+        "y": 118.0
+      },
+      {
+        "text": "D.It depends on the size of the dataset",
+        "score": 0.946999,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Ink-fold cross-validation,howmany timesis thedatasetsplitinto training and testsets?",
+        "score": 0.960245,
+        "x": 1245.48,
+        "y": 29.25
+      },
+      {
+        "text": "Kizspy|Question:48",
+        "score": 0.953233,
+        "x": 29.03,
+        "y": 32.17
+      },
+      {
+        "text": "A.Once",
+        "score": 0.992246,
+        "x": 1242.58,
+        "y": 80.44
+      },
+      {
+        "text": "(ChooseIanswer)",
+        "score": 0.962026,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Twice",
+        "score": 0.998432,
+        "x": 1242.58,
+        "y": 127.24
+      },
+      {
+        "text": "C.ktimes",
+        "score": 0.989075,
+        "x": 1244.03,
+        "y": 178.43
+      },
+      {
+        "text": "D.It depends on the sizeof the dataset",
+        "score": 0.927514,
+        "x": 1248.39,
+        "y": 228.15
+      }
+    ]
+  },
+  {
+    "question": 49,
+    "image": "/exams/SU25-FE/images/Q49.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "4825cfe10c3f8179a1f44cd529bf242474558942b168cfa7ba436e82d1e55a97",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:49",
+        "score": 0.954907,
+        "x": 18.0,
+        "y": 19.0
+      },
+      {
+        "text": "What is thepurpose of regularization techniques inmachine learming models?",
+        "score": 0.95468,
+        "x": 830.0,
+        "y": 19.0
+      },
+      {
+        "text": "A.Toreduce bias",
+        "score": 0.964712,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.969767,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.Toreduce variance",
+        "score": 0.969624,
+        "x": 830.0,
+        "y": 86.0
+      },
+      {
+        "text": "C.To prevent overfitting",
+        "score": 0.943774,
+        "x": 830.0,
+        "y": 119.0
+      },
+      {
+        "text": "D.Allof the above",
+        "score": 0.924661,
+        "x": 830.0,
+        "y": 152.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "Kizspy|Question:49",
+        "score": 0.971178,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "What is the purpose of regularization techniques in machine leaming models?",
+        "score": 0.952918,
+        "x": 1248.39,
+        "y": 32.17
+      },
+      {
+        "text": "A. To reduce bias",
+        "score": 0.945689,
+        "x": 1245.48,
+        "y": 81.9
+      },
+      {
+        "text": "(ChooseI answer)",
+        "score": 0.950161,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.Toreduce variance",
+        "score": 0.971495,
+        "x": 1244.03,
+        "y": 127.24
+      },
+      {
+        "text": "C.To prevent overfitting",
+        "score": 0.98086,
+        "x": 1245.48,
+        "y": 178.43
+      },
+      {
+        "text": "D.All of the above",
+        "score": 0.955535,
+        "x": 1244.03,
+        "y": 226.69
+      }
+    ]
+  },
+  {
+    "question": 50,
+    "image": "/exams/SU25-FE/images/Q50.webp",
+    "width": 1920,
+    "height": 780,
+    "format": "WEBP",
+    "sha256": "3c5b81c387ff86bb03555744c27778cd9791895fbb38bfa584dcb14877bf1075",
+    "pass_original": [
+      {
+        "text": "Kizspy|Question:50",
+        "score": 0.975757,
+        "x": 19.0,
+        "y": 19.0
+      },
+      {
+        "text": "WhichPandas method is used to check for and handle missing values in a DataFrame?",
+        "score": 0.952221,
+        "x": 831.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.clean(",
+        "score": 0.955805,
+        "x": 830.0,
+        "y": 53.0
+      },
+      {
+        "text": "(Choose1answer)",
+        "score": 0.987075,
+        "x": 20.0,
+        "y": 63.0
+      },
+      {
+        "text": "B.check_missing0",
+        "score": 0.980014,
+        "x": 830.0,
+        "y": 84.0
+      },
+      {
+        "text": "C.fill_missing0s",
+        "score": 0.956724,
+        "x": 830.0,
+        "y": 117.0
+      },
+      {
+        "text": "D.isnull0",
+        "score": 0.907467,
+        "x": 829.0,
+        "y": 150.0
+      }
+    ],
+    "pass_thresholded": [
+      {
+        "text": "WhichPandasmethodisused tocheckfor and handlemissingvaluesinaDataFrame?",
+        "score": 0.976993,
+        "x": 1246.94,
+        "y": 29.25
+      },
+      {
+        "text": "Kizspy|Question:50",
+        "score": 0.974418,
+        "x": 29.03,
+        "y": 30.71
+      },
+      {
+        "text": "A. clean0",
+        "score": 0.940442,
+        "x": 1244.03,
+        "y": 80.44
+      },
+      {
+        "text": "(Choose I answer)",
+        "score": 0.945371,
+        "x": 29.03,
+        "y": 95.06
+      },
+      {
+        "text": "B.check_missing0",
+        "score": 0.99702,
+        "x": 1242.58,
+        "y": 127.24
+      },
+      {
+        "text": "C. fil_missing0s",
+        "score": 0.909937,
+        "x": 1244.03,
+        "y": 176.96
+      },
+      {
+        "text": "D. isnullo",
+        "score": 0.925558,
+        "x": 1242.58,
+        "y": 222.3
+      }
+    ]
+  }
+]

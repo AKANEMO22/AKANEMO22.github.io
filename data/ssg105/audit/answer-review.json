@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "subject": "SSG105",
+  "reviewType": "independent-answer-review",
+  "reviewedRange": { "firstSourceSlide": 378, "lastSourceSlide": 507, "count": 130 },
+  "method": [
+    "Đọc 130 ảnh render sạch 960 × 540 và 130 bản ghi speaker notes.",
+    "Chạy RapidOCR toàn bộ ảnh, tự đánh giá ý nghĩa câu hỏi trước khi so lại mã notes.",
+    "Kiểm tra thủ công chín slide thiếu trường: 409, 413, 477, 479, 480, 483, 499, 500 và 503.",
+    "Tái kiểm tra trực tiếp slide 380 sau khi thay render: nội dung là câu Plagiarism, đáp án B, ảnh 960 × 540 và không còn trùng hash với slide 381.",
+    "Không sửa canonical; bất định được giữ trong conflicts hoặc reviewNote."
+  ],
+  "summary": {
+    "reviewedCount": 130,
+    "agreementsWithSpeakerNotes": 130,
+    "answerLetterConflicts": 0,
+    "assetConflicts": 0,
+    "prioritySlidesRecovered": [409, 413, 477, 479, 480, 483, 499, 500, 503],
+    "lowerConfidenceOrAmbiguousSlides": [479, 499, 502],
+    "blockingBeforeCanonicalPublish": [],
+    "conclusion": "Không phát hiện xung đột chữ cái đáp án hoặc tài sản ảnh. Slide 380 đã được thay bằng render đúng và kiểm tra lại thành công; slide 479, 499 và 502 giữ đáp án notes nhưng được hạ confidence hoặc ghi chú độ mơ hồ."
+  },
+  "confidencePolicy": {
+    "default": 0.96,
+    "overrides": { "380": 0.99, "409": 0.99, "413": 0.99, "477": 0.99, "479": 0.9, "480": 0.96, "483": 0.98, "499": 0.82, "500": 0.93, "502": 0.88, "503": 0.99 }
+  },
+  "proposedAnswerBySourceSlide": {
+    "378": "B", "379": "B", "380": "B", "381": "B", "382": "C", "383": "B", "384": "B", "385": "B", "386": "C", "387": "C",
+    "388": "B", "389": "D", "390": "C", "391": "B", "392": "C", "393": "A", "394": "B", "395": "D", "396": "B", "397": "B",
+    "398": "B", "399": "C", "400": "D", "401": "A", "402": "B", "403": "D", "404": "A", "405": "B", "406": "C", "407": "C",
+    "408": "C", "409": "B", "410": "C", "411": "C", "412": "A", "413": "A", "414": "B", "415": "D", "416": "C", "417": "D",
+    "418": "B", "419": "A", "420": "C", "421": "D", "422": "C", "423": "A", "424": "C", "425": "D", "426": "B", "427": "C",
+    "428": "C", "429": "B", "430": "D", "431": "B", "432": "C", "433": "E", "434": "C", "435": "B", "436": "D", "437": "A",
+    "438": "A", "439": "A", "440": "C", "441": "B", "442": "B", "443": "E", "444": "B", "445": "B", "446": "D", "447": "A",
+    "448": "C", "449": "B", "450": "B", "451": "B", "452": "C", "453": "E", "454": "B", "455": "B", "456": "C", "457": "A",
+    "458": "B", "459": "B", "460": "C", "461": "B", "462": "C", "463": "D", "464": "B", "465": "B", "466": "A", "467": "A",
+    "468": "B", "469": "C", "470": "C", "471": "B", "472": "C", "473": "B", "474": "C", "475": "C", "476": "B", "477": "B",
+    "478": "E", "479": "E", "480": "A", "481": "E", "482": "E", "483": "A", "484": "E", "485": "E", "486": "D", "487": "C",
+    "488": "E", "489": "E", "490": "E", "491": "E", "492": "E", "493": "E", "494": "A", "495": "E", "496": "B", "497": "E",
+    "498": "A", "499": "A", "500": "E", "501": "E", "502": "A", "503": "B", "504": "E", "505": "A", "506": "E", "507": "E"
+  },
+  "priorityReviews": [
+    {
+      "sourceSlide": 409,
+      "question": "Which scenario at FPT University best illustrates the Context element?",
+      "options": { "A": "Studying in a noisy library.", "B": "Lecturer expects daily FAP checks while a freshman expects a verbal announcement.", "C": "Sharing an event plan through Google Drive.", "D": "Receiving a grade and peer feedback." },
+      "notesAnswerLetter": "B", "proposedAnswerLetter": "B",
+      "explanationVi": "B thể hiện context vì giảng viên và sinh viên diễn giải thông điệp theo kỳ vọng và thói quen kênh khác nhau. A là nhiễu vật lý, C là kênh và D là phản hồi.",
+      "confidence": 0.99,
+      "evidence": ["/ssg105/source/slide-0409.png", "speaker notes", "independent concept review"], "conflicts": []
+    },
+    {
+      "sourceSlide": 413,
+      "question": "Câu nào trong email gửi IT Helpdesk cụ thể và ít mơ hồ nhất?",
+      "options": { "A": "EduNext displays Error 404 whenever I click Submit for my Capstone Phase 1 repository.", "B": "The system is doing something weird.", "C": "There is a really bad error.", "D": "I am experiencing a suboptimal technological phenomenon." },
+      "notesAnswerLetter": "A", "proposedAnswerLetter": "A",
+      "explanationVi": "A nêu cụ thể hệ thống, mã lỗi, thao tác và repository nên IT có thể tái hiện sự cố; các phương án khác mơ hồ hoặc dài dòng.",
+      "confidence": 0.99,
+      "evidence": ["/ssg105/source/slide-0413.png", "speaker notes", "independent concept review"], "conflicts": []
+    },
+    {
+      "sourceSlide": 477,
+      "question": "A leader changes communication style depending on task difficulty and team experience. Which principle is this?",
+      "options": { "A": "Leadership consistency", "B": "Situational leadership flexibility", "C": "Centralized authority", "D": "Individual competition" },
+      "notesAnswerLetter": "B", "proposedAnswerLetter": "B",
+      "explanationVi": "Điều chỉnh phong cách theo nhiệm vụ và kinh nghiệm nhóm chính là lãnh đạo theo tình huống.",
+      "confidence": 0.99,
+      "evidence": ["/ssg105/source/slide-0477.png", "speaker notes", "independent concept review"], "conflicts": []
+    },
+    {
+      "sourceSlide": 479,
+      "question": "What makes business texting effective?",
+      "options": { "A": "Define exactly your recipient.", "B": "Texting uses symbols and codes properly.", "C": "Texting is a tool for writing messages.", "D": "Know its limitations and prevent misinterpretation.", "E": "All of them are correct." },
+      "notesAnswerLetter": "E", "proposedAnswerLetter": "E",
+      "explanationVi": "Trong phạm vi bài học A-D đều là mô tả hoặc lưu ý đúng về nhắn tin kinh doanh, nên E được giữ.",
+      "confidence": 0.9,
+      "evidence": ["/ssg105/source/slide-0479.png", "speaker notes", "independent concept review"],
+      "reviewNote": "Một số phương án mang tính mô tả hơn là tiêu chí hiệu quả nên câu có độ mơ hồ nhẹ.", "conflicts": []
+    },
+    {
+      "sourceSlide": 480,
+      "question": "What is best defined about E-mail?",
+      "options": { "A": "Electronic mail may be used like text and delivered to a cell phone.", "B": "A written message to acknowledge communications.", "C": "Maintaining effective communication.", "D": "Convey nonverbal communication.", "E": "All of them." },
+      "notesAnswerLetter": "A", "proposedAnswerLetter": "A",
+      "explanationVi": "A là phương án duy nhất định nghĩa trực tiếp email; B-D chỉ là nhận định chung.",
+      "confidence": 0.96,
+      "evidence": ["/ssg105/source/slide-0480.png", "speaker notes", "independent concept review"], "conflicts": []
+    },
+    {
+      "sourceSlide": 483,
+      "question": "Which option best describes a business letter?",
+      "options": { "A": "Brief messages sent to recipients often outside the organization.", "B": "Writing skills for communication tasks.", "C": "Create a new idea in communication.", "D": "It can introduce you to an employer.", "E": "All of them." },
+      "notesAnswerLetter": "A", "proposedAnswerLetter": "A",
+      "explanationVi": "A là định nghĩa tổng quát đúng; D chỉ là công dụng riêng của cover letter, còn B-C không phải định nghĩa.",
+      "confidence": 0.98,
+      "evidence": ["/ssg105/source/slide-0483.png", "speaker notes", "independent concept review"], "conflicts": []
+    },
+    {
+      "sourceSlide": 499,
+      "question": "What are the key characteristics of Teams?",
+      "options": { "A": "Share accountability for a specific common goal.", "B": "Sharing information.", "C": "Require stability.", "D": "Members can make decisions.", "E": "All of them." },
+      "notesAnswerLetter": "A", "proposedAnswerLetter": "A",
+      "explanationVi": "A là đặc điểm phân biệt cốt lõi của team với work group: cùng chịu trách nhiệm giải trình để đạt mục tiêu chung.",
+      "confidence": 0.82,
+      "evidence": ["/ssg105/source/slide-0499.png", "speaker notes", "independent concept review"],
+      "conflicts": [{ "kind": "wording-ambiguity", "severity": "medium", "detail": "B-D có thể là thuộc tính chung của nhóm khiến E trông hợp lý; A được giữ vì câu nhắm tới điểm phân biệt team với work group." }]
+    },
+    {
+      "sourceSlide": 500,
+      "question": "Why do major organizations rely much on teams to improve operations?",
+      "options": { "A": "More productive and fewer service errors.", "B": "Address varied corporate challenges.", "C": "Engage in effective communication.", "D": "Make decisions and solve problems properly.", "E": "All of them." },
+      "notesAnswerLetter": "E", "proposedAnswerLetter": "E",
+      "explanationVi": "A-D đều là lợi ích thực tế của đội nhóm nên E là đáp án bao quát.",
+      "confidence": 0.93,
+      "evidence": ["/ssg105/source/slide-0500.png", "speaker notes", "independent concept review"], "conflicts": []
+    },
+    {
+      "sourceSlide": 503,
+      "question": "What does group motivation mean?",
+      "options": { "A": "Give a person a reason to act.", "B": "Inspiration and incentive moving members to work together toward a common goal.", "C": "Shared power and ability to decide.", "D": "Shared feeling of pursuing a meaningful goal.", "E": "All of them." },
+      "notesAnswerLetter": "B", "proposedAnswerLetter": "B",
+      "explanationVi": "B là định nghĩa đầy đủ về động lực nhóm. A nói về cá nhân; C-D mô tả trao quyền hoặc mục tiêu có ý nghĩa.",
+      "confidence": 0.99,
+      "evidence": ["/ssg105/source/slide-0503.png", "speaker notes", "independent concept review"], "conflicts": []
+    }
+  ],
+  "specialReviews": [
+    {
+      "sourceSlide": 380,
+      "question": "Which statement best describes plagiarism?",
+      "options": { "A": "Using visuals in a report", "B": "Presenting another person's words or ideas as your own", "C": "Writing a summary in shorter form", "D": "Using headings in a report" },
+      "notesAnswerLetter": "B", "proposedAnswerLetter": "B", "confidence": 0.99,
+      "explanationVi": "Đạo văn là trình bày lời nói hoặc ý tưởng của người khác như của mình. A, C và D đều là các kỹ thuật trình bày hoặc viết hợp lệ nếu được dùng đúng cách.",
+      "evidence": { "sourceImage": "/ssg105/source/slide-0380.png", "width": 960, "height": 540, "imageSha256": "0B157801288FDAD334861CC35080E3A655C03C2FB7006859867E1A0F044B1BE5", "differentFromSlide381": true, "visualReview": "pass" },
+      "resolution": "Ảnh sai trước đây đã được thay; câu hỏi, lựa chọn và đáp án B đều khớp speaker notes và kiểm tra khái niệm độc lập.",
+      "conflicts": []
+    },
+    {
+      "sourceSlide": 502,
+      "notesAnswerLetter": "A", "proposedAnswerLetter": "A", "confidence": 0.88,
+      "explanationVi": "A là danh sách yếu tố kinh điển tạo team cohesiveness; C về technical skills không phải yếu tố cohesiveness nên E không đúng.",
+      "conflicts": []
+    }
+  ]
+}

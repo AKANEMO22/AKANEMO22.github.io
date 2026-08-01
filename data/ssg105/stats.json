@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "uniqueQuestionCount": 130,
+  "sourceOccurrenceCount": 1,
+  "practiceAssignmentCount": 150,
+  "topics": [
+    {
+      "topic": "Giải quyết vấn đề & xung đột",
+      "count": 20,
+      "advice": "Ôn quy trình Dewey, phản hồi hướng mục tiêu, face-saving và phản ứng xây dựng."
+    },
+    {
+      "topic": "Làm việc nhóm",
+      "count": 19,
+      "advice": "Ưu tiên trust equation, psychological safety, mục tiêu chung, tính gắn kết và trách nhiệm chung."
+    },
+    {
+      "topic": "Viết & nghiên cứu",
+      "count": 17,
+      "advice": "Ôn cấu trúc báo cáo, planning checklist, nguồn nội bộ/bên ngoài và quy tắc tránh đạo văn."
+    },
+    {
+      "topic": "Thuyết trình thuyết phục",
+      "count": 15,
+      "advice": "Học Ethos–Pathos–Logos, phân tích khán giả, Monroe và nhu cầu Maslow."
+    },
+    {
+      "topic": "Giao tiếp kinh doanh",
+      "count": 14,
+      "advice": "Phân biệt email, memo, thư thương mại và proposal; ưu tiên mục đích, đối tượng và văn phong phù hợp."
+    },
+    {
+      "topic": "Lãnh đạo & quản lý",
+      "count": 14,
+      "advice": "Tập trung vào ảnh hưởng, chính trực, coaching, tự chủ đi kèm trách nhiệm giải trình."
+    },
+    {
+      "topic": "Tổ chức cuộc họp",
+      "count": 10,
+      "advice": "Nắm agenda, ground rules, vai trò điều phối, biên bản và action items có người phụ trách/thời hạn."
+    },
+    {
+      "topic": "Kiến thức tổng hợp",
+      "count": 8,
+      "advice": "Ôn theo ảnh gốc và dùng lời giải để nối khái niệm với tình huống."
+    },
+    {
+      "topic": "Nghề nghiệp & tuyển dụng",
+      "count": 8,
+      "advice": "Ôn résumé, STAR, kỹ năng chuyển giao, chuẩn bị phỏng vấn và phát triển nghề nghiệp liên tục."
+    },
+    {
+      "topic": "Giao tiếp phi ngôn ngữ",
+      "count": 5,
+      "advice": "Nhớ vai trò của ánh mắt, cử chỉ, tư thế, cao độ và tốc độ nói."
+    }
+  ],
+  "repeatedForPractice": [
+    {
+      "id": "SSG105-S381",
+      "sourceSlide": 381,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S399",
+      "sourceSlide": 399,
+      "topic": "Làm việc nhóm",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S409",
+      "sourceSlide": 409,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S448",
+      "sourceSlide": 448,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S449",
+      "sourceSlide": 449,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S450",
+      "sourceSlide": 450,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S451",
+      "sourceSlide": 451,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S452",
+      "sourceSlide": 452,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S453",
+      "sourceSlide": 453,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S454",
+      "sourceSlide": 454,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S456",
+      "sourceSlide": 456,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S457",
+      "sourceSlide": 457,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S458",
+      "sourceSlide": 458,
+      "topic": "Làm việc nhóm",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S461",
+      "sourceSlide": 461,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S462",
+      "sourceSlide": 462,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S463",
+      "sourceSlide": 463,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S464",
+      "sourceSlide": 464,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S465",
+      "sourceSlide": 465,
+      "topic": "Làm việc nhóm",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S466",
+      "sourceSlide": 466,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    },
+    {
+      "id": "SSG105-S474",
+      "sourceSlide": 474,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2
+    }
+  ]
+}

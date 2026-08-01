@@ -1,0 +1,389 @@
+{
+  "generatedAt": "2026-08-01T05:41:27.751Z",
+  "method": {
+    "exact": "So sánh câu hỏi sau khi chuẩn hóa chữ thường, dấu câu và khoảng trắng.",
+    "similar": "Tính thêm các câu đổi cách diễn đạt sau khi AI agent đối chiếu thủ công nội dung và loại các cặp chỉ giống mẫu câu nhưng khác kiến thức."
+  },
+  "pairs": [
+    {
+      "left": "SP26-FE",
+      "right": "FA25-FE",
+      "exactCount": 1,
+      "exactPercent": 2,
+      "similarCount": 1,
+      "similarPercent": 2,
+      "matches": [
+        {
+          "leftQuestion": 50,
+          "rightQuestion": 26,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "In the context of data serialization, what does the term \"pickling\" refer to?"
+        }
+      ]
+    },
+    {
+      "left": "SP26-FE",
+      "right": "SU25-FE",
+      "exactCount": 5,
+      "exactPercent": 10,
+      "similarCount": 5,
+      "similarPercent": 10,
+      "matches": [
+        {
+          "leftQuestion": 29,
+          "rightQuestion": 25,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What is the primary purpose of the requests library in Python?"
+        },
+        {
+          "leftQuestion": 35,
+          "rightQuestion": 35,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "In multiple regression analysis, what does a coefficient represent?"
+        },
+        {
+          "leftQuestion": 46,
+          "rightQuestion": 47,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What is overfitting in machine learning?"
+        },
+        {
+          "leftQuestion": 47,
+          "rightQuestion": 49,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What is the purpose of regularization techniques in machine learning models?"
+        },
+        {
+          "leftQuestion": 49,
+          "rightQuestion": 46,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "After training a regression model in Scikit-learn, what method is used to make predictions on new data using the trained model?"
+        }
+      ]
+    },
+    {
+      "left": "SP26-FE",
+      "right": "FA24-RE",
+      "exactCount": 7,
+      "exactPercent": 14,
+      "similarCount": 7,
+      "similarPercent": 14,
+      "matches": [
+        {
+          "leftQuestion": 10,
+          "rightQuestion": 6,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What is the role of the GROUP BY clause in SQL queries?"
+        },
+        {
+          "leftQuestion": 14,
+          "rightQuestion": 18,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "Which statement best describes a \"commit\" in Git?"
+        },
+        {
+          "leftQuestion": 22,
+          "rightQuestion": 48,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "If arr is a 2D NumPy array of shape (5, 5), what will be the shape of arr[:2, :2]?"
+        },
+        {
+          "leftQuestion": 26,
+          "rightQuestion": 27,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What is the primary use of the BeautifulSoup library in Python for web scraping?"
+        },
+        {
+          "leftQuestion": 29,
+          "rightQuestion": 26,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What is the primary purpose of the requests library in Python?"
+        },
+        {
+          "leftQuestion": 41,
+          "rightQuestion": 35,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "In a normal distribution, what percentage of data falls within one standard deviation of the mean?"
+        },
+        {
+          "leftQuestion": 42,
+          "rightQuestion": 34,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "In which scenario is the median a more appropriate measure of central tendency than the mean?"
+        }
+      ]
+    },
+    {
+      "left": "FA25-FE",
+      "right": "SU25-FE",
+      "exactCount": 12,
+      "exactPercent": 24,
+      "similarCount": 13,
+      "similarPercent": 26,
+      "matches": [
+        {
+          "leftQuestion": 4,
+          "rightQuestion": 6,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What does the term \"missing value imputation\" refer to in EDA?"
+        },
+        {
+          "leftQuestion": 6,
+          "rightQuestion": 4,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What is the primary goal of the Diagnostic Measures phase in Data Science evaluation?"
+        },
+        {
+          "leftQuestion": 10,
+          "rightQuestion": 13,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What command in DB2 is used to remove a table from the database?"
+        },
+        {
+          "leftQuestion": 12,
+          "rightQuestion": 10,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What is the purpose of the WHERE clause in a SQL query?"
+        },
+        {
+          "leftQuestion": 16,
+          "rightQuestion": 15,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "In the context of GitHub, what is a \"pull request\" used for?"
+        },
+        {
+          "leftQuestion": 28,
+          "rightQuestion": 22,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "Which function in NumPy is used to calculate the exponential values of elements in an array?"
+        },
+        {
+          "leftQuestion": 32,
+          "rightQuestion": 34,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "Which method in Matplotlib is used to save a plot as an image file?"
+        },
+        {
+          "leftQuestion": 37,
+          "rightQuestion": 39,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "Which assumption is crucial for ANOVA testing?"
+        },
+        {
+          "leftQuestion": 40,
+          "rightQuestion": 43,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "A manufacturing company wants to compare the mean tensile strength of two different materials used in their products. They collect data from two independent samples: Material A (n=20) and Material B (n=25). After conducting a two-sample t-test, the calculated p-value is 0.10. What decision should the company make regarding the null hypothesis at a significance level of 0.05?"
+        },
+        {
+          "leftQuestion": 44,
+          "rightQuestion": 50,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "Which Pandas method is used to check for and handle missing values in a DataFrame?"
+        },
+        {
+          "leftQuestion": 45,
+          "rightQuestion": 48,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "In k-fold cross-validation, how many times is the dataset split into training and test sets?"
+        },
+        {
+          "leftQuestion": 47,
+          "rightQuestion": 45,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "Which method is used to address class imbalance in a classification problem?"
+        },
+        {
+          "leftQuestion": 20,
+          "rightQuestion": 26,
+          "exact": false,
+          "approvedParaphrase": true,
+          "similarity": 0.88,
+          "question": "What is the key characteristic of a Python set?"
+        }
+      ]
+    },
+    {
+      "left": "FA25-FE",
+      "right": "FA24-RE",
+      "exactCount": 7,
+      "exactPercent": 14,
+      "similarCount": 7,
+      "similarPercent": 14,
+      "matches": [
+        {
+          "leftQuestion": 11,
+          "rightQuestion": 11,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "How is data typically organized in a relational database?"
+        },
+        {
+          "leftQuestion": 15,
+          "rightQuestion": 15,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "Which category of Data Science tools is associated with software like Jupyter Notebook, RStudio, and Spyder?"
+        },
+        {
+          "leftQuestion": 22,
+          "rightQuestion": 49,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What does the following NumPy array slicing expression do?\narr = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])\nsliced_arr = arr[1:, :-1]"
+        },
+        {
+          "leftQuestion": 23,
+          "rightQuestion": 29,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What does the following NumPy array slicing expression do?\narr = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])\nsliced_arr = arr[:, 1:]"
+        },
+        {
+          "leftQuestion": 32,
+          "rightQuestion": 36,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "Which method in Matplotlib is used to save a plot as an image file?"
+        },
+        {
+          "leftQuestion": 35,
+          "rightQuestion": 31,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "If you got a 75 on a test in a class with a mean score of 85 and a standard deviation of 5, the z-score of your test score would be:"
+        },
+        {
+          "leftQuestion": 40,
+          "rightQuestion": 39,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "A manufacturing company wants to compare the mean tensile strength of two different materials used in their products. They collect data from two independent samples: Material A (n=20) and Material B (n=25). After conducting a two-sample t-test, the calculated p-value is 0.10. What decision should the company make regarding the null hypothesis at a significance level of 0.05?"
+        }
+      ]
+    },
+    {
+      "left": "SU25-FE",
+      "right": "FA24-RE",
+      "exactCount": 7,
+      "exactPercent": 14,
+      "similarCount": 7,
+      "similarPercent": 14,
+      "matches": [
+        {
+          "leftQuestion": 2,
+          "rightQuestion": 1,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What does the term \"Big Data\" refer to in Data Science?"
+        },
+        {
+          "leftQuestion": 8,
+          "rightQuestion": 7,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What Python library is commonly used to perform data manipulation and analysis before sending SQL queries?"
+        },
+        {
+          "leftQuestion": 19,
+          "rightQuestion": 45,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "Which category of Data Science tools involves platforms like Alteryx, Talend, and Informatica?"
+        },
+        {
+          "leftQuestion": 25,
+          "rightQuestion": 26,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What is the primary purpose of the requests library in Python?"
+        },
+        {
+          "leftQuestion": 27,
+          "rightQuestion": 21,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "What does the function np.arange(10) return in NumPy?"
+        },
+        {
+          "leftQuestion": 34,
+          "rightQuestion": 36,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "Which method in Matplotlib is used to save a plot as an image file?"
+        },
+        {
+          "leftQuestion": 43,
+          "rightQuestion": 39,
+          "exact": true,
+          "approvedParaphrase": false,
+          "similarity": 1,
+          "question": "A manufacturing company wants to compare the mean tensile strength of two different materials used in their products. They collect data from two independent samples: Material A (n=20) and Material B (n=25). After conducting a two-sample t-test, the calculated p-value is 0.10. What decision should the company make regarding the null hypothesis at a significance level of 0.05?"
+        }
+      ]
+    }
+  ]
+}
