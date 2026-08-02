@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "method": "Manual correction of multi-answer slides after cross-checking the source image, Windows OCR, RapidOCR legacy, and PP-OCRv5 English output.",
+  "corrections": [
+    {
+      "sourceSlide": 80,
+      "isQuestion": true,
+      "questionText": "Why are creative thinking skills a type of problem-solving? (choose 2 options)",
+      "options": [
+        { "letter": "A", "text": "Alternative ideas need to be generated." },
+        { "letter": "B", "text": "Different assumptions are under scrutiny." },
+        { "letter": "C", "text": "One needs to use sound reasoning to solve the problem." },
+        { "letter": "D", "text": "It involves using strategies to clear the mind so that our thoughts and ideas can transcend the current limitations of a problem." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 340,
+      "isQuestion": true,
+      "questionText": "What are conflict preventing strategies? (Select 4 options)",
+      "options": [
+        { "letter": "A", "text": "Use of rules and regulations." },
+        { "letter": "B", "text": "Avoiding win lose situations." },
+        { "letter": "C", "text": "Facilitating dialogue." },
+        { "letter": "D", "text": "Providing stable, well structured tasks." },
+        { "letter": "E", "text": "Emphasizing group goals and effectiveness." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 373,
+      "isQuestion": true,
+      "questionText": "Researchers have identified two key ingredients to effective teamwork as the following (check 2 options)",
+      "options": [
+        { "letter": "A", "text": "competition amang group members." },
+        { "letter": "B", "text": "the ability of group members." },
+        { "letter": "C", "text": "group unity." },
+        { "letter": "D", "text": "a shared mental representation of the task." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    }
+  ]
+}

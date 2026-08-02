@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "method": "Manual transcription from the clean source image, cross-checked against both Windows OCR and RapidOCR. This file supplements OCR output and does not modify the locked SSG105 extraction audits.",
+  "corrections": [
+    {
+      "sourceSlide": 393,
+      "isQuestion": true,
+      "questionText": "A meeting leader regularly asks quieter members for opinions and summarizes key points. Which meeting skill is being demonstrated?",
+      "options": [
+        { "letter": "A", "text": "Facilitation and participation management" },
+        { "letter": "B", "text": "Dominating discussion" },
+        { "letter": "C", "text": "Conflict avoidance" },
+        { "letter": "D", "text": "Informal leadership only" }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 398,
+      "isQuestion": true,
+      "questionText": "An FPT student sits down to write an email requesting an internship at a software company. According to the \"Think, Then Write\" principle, what is the very first thing they should do before putting words on the page?",
+      "options": [
+        { "letter": "A", "text": "Write a quick first draft and plan to fix the confusion later." },
+        { "letter": "B", "text": "Clarify their purpose, their audience, and the desired outcome of the email." },
+        { "letter": "C", "text": "Immediately search for external sources on Google to copy a template." },
+        { "letter": "D", "text": "Create a working outline without knowing who the primary audience is." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 402,
+      "isQuestion": true,
+      "questionText": "An FPT Business student is writing a report on campus cafeteria operations. They interview the cafeteria manager and review past FPT student feedback reports. What kind of research strategy is the student using?",
+      "options": [
+        { "letter": "A", "text": "Avoiding external sources to prevent bias." },
+        { "letter": "B", "text": "Using internal sources (such as organizational reports and interviews with people involved in the operation)." },
+        { "letter": "C", "text": "Relying purely on what they already know without learning anything new." },
+        { "letter": "D", "text": "Committing plagiarism by using company documents." }
+      ],
+      "evidence": ["source-image", "windows-ocr", "rapidocr"]
+    },
+    {
+      "sourceSlide": 405,
+      "isQuestion": true,
+      "questionText": "After analyzing all their research on AI trends, an FPT student groups related ideas together and creates a working outline. What is the primary function of this outline?",
+      "options": [
+        { "letter": "A", "text": "It serves as the final draft to be submitted for grading." },
+        { "letter": "B", "text": "It acts as a bridge from research to drafting." },
+        { "letter": "C", "text": "It replaces the need for an introduction and conclusion." },
+        { "letter": "D", "text": "It proves to the reader that no plagiarism occurred." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 407,
+      "isQuestion": true,
+      "questionText": "An FPT Event Club leader is writing an email to recruit event volunteers. According to the planning checklist, what MUST they include to ensure students can actually sign up?",
+      "options": [
+        { "letter": "A", "text": "A long, detailed history of every past club event." },
+        { "letter": "B", "text": "Every single detail about the club so the scope isn't limited." },
+        { "letter": "C", "text": "The specific information the reader must have to respond (like a deadline and sign-up link)." },
+        { "letter": "D", "text": "Highly academic language to impress the university." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 409,
+      "isQuestion": true,
+      "questionText": "Which of the following scenarios at FPT University best illustrates the “Context” element?",
+      "options": [
+        { "letter": "A", "text": "A Software Engineering student is trying to study for their Java exam in the library, but a group nearby is practicing Vovinam loudly, making it hard to concentrate." },
+        { "letter": "B", "text": "A lecturer posts a deadline update on FAP (FPT Academic Portal) expecting students to check the portal daily, but a freshman expects the lecturer to announce it verbally during the next class." },
+        { "letter": "C", "text": "The president of an FPT student club uses a shared Google Drive link to send the semester’s event plan to all club members." },
+        { "letter": "D", "text": "After a group presentation in an EduNext slot, a student receives a grade and constructive comments from their peers evaluating their teamwork." }
+      ],
+      "evidence": ["source-image", "windows-ocr", "rapidocr"]
+    },
+    {
+      "sourceSlide": 411,
+      "isQuestion": true,
+      "questionText": "According to the principle that \"the best style is the one that fits the situation,\" which of the following scenarios at FPT University strictly requires a \"Formal\" style of written communication?",
+      "options": [
+        { "letter": "A", "text": "Sending a message on a Zalo group chat to remind your Capstone teammates to meet at the 7-Eleven on campus." },
+        { "letter": "B", "text": "Writing a quick email to a friendly lecturer you've studied with for 4 semesters to ask if they are in their office." },
+        { "letter": "C", "text": "Drafting an official petition to the Head of the Academic Department to request a waiver for a Capstone prerequisite." },
+        { "letter": "D", "text": "Texting your roommate to ask what time the Dom A cafeteria closes tonight." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 412,
+      "isQuestion": true,
+      "questionText": "An FPT student sends the following message via Zalo to a classmate they are paired with for an assignment: \"Hi Minh, could you please send me the latest PowerPoint slides before our presentation at 3 PM? Thanks!\" Based on the levels of style, which category does this message best fit?",
+      "options": [
+        { "letter": "A", "text": "Informal, because it is relaxed and friendly, yet still structured and suitable for academic/business communication." },
+        { "letter": "B", "text": "Colloquial, because it uses everyday slang and highly regional expressions." },
+        { "letter": "C", "text": "Casual, because it is written exactly how family members speak to each other at home." },
+        { "letter": "D", "text": "Formal, because it uses highly professional language, complex sentence structures, and an official tone." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 413,
+      "isQuestion": true,
+      "questionText": "An FPT University student is emailing the IT Helpdesk because they are unable to submit their assignment online. According to the principle \"writers should choose concrete terms when possible and avoid ambiguity,\" which of the following sentences is the BEST choice to include in the email?",
+      "options": [
+        { "letter": "A", "text": "EduNext displays an \"Error 404\" message every time I click the \"Submit\" button for my Capstone Phase 1 repository." },
+        { "letter": "B", "text": "The system is doing something weird with my stuff again." },
+        { "letter": "C", "text": "There is a really bad error happening when I try to upload my work to the class." },
+        { "letter": "D", "text": "I am experiencing a suboptimal technological phenomenon when interfacing with the university's submission portal." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 416,
+      "isQuestion": true,
+      "questionText": "An FPT student emails their mentor using texting abbreviations \"plz let me know\", all lowercase letters, and forgets to include their name. Which communication barrier does this represent?",
+      "options": [
+        { "letter": "A", "text": "Spending too much time on the \"Review, Reflect, and Revise\" step." },
+        { "letter": "B", "text": "Too much information and poor organization." },
+        { "letter": "C", "text": "Failing to \"sweat the small stuff\" by ignoring basic grammar and formatting." },
+        { "letter": "D", "text": "Using the wrong communication channel." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 417,
+      "isQuestion": true,
+      "questionText": "The FPT Event Club needs to announce a sudden venue change. To avoid confusing the students, what is the BEST strategy?",
+      "options": [
+        { "letter": "A", "text": "Post a quick, unedited draft immediately to save time." },
+        { "letter": "B", "text": "Use complex academic jargon to show the seriousness of the change." },
+        { "letter": "C", "text": "Include the entire history of the event to ensure there isn't too little information." },
+        { "letter": "D", "text": "Plan the message, adapt the language to the students, and revise it for clarity before posting." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 418,
+      "isQuestion": true,
+      "questionText": "What is one important benefit of choosing a college major based on your interests?",
+      "options": [
+        { "letter": "A", "text": "It guarantees a high salary immediately after graduation." },
+        { "letter": "B", "text": "It helps connect your strengths and enjoyment to possible careers." },
+        { "letter": "C", "text": "It removes the need to build professional skills." },
+        { "letter": "D", "text": "It allows you to avoid all difficult courses." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 444,
+      "isQuestion": true,
+      "questionText": "Which strategy helps a speaker 'build credibility and connection' nonverbally?",
+      "options": [
+        { "letter": "A", "text": "Avoiding eye contact" },
+        { "letter": "B", "text": "Apply nonverbal strategies to build credibility and connection" },
+        { "letter": "C", "text": "Speaking in a monotone voice" },
+        { "letter": "D", "text": "Standing behind a large podium" },
+        { "letter": "E", "text": "Using many technical terms" }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 478,
+      "isQuestion": true,
+      "questionText": "What is a text message?",
+      "options": [
+        { "letter": "A", "text": "A text message is a brief written message sent and received using a digital device." },
+        { "letter": "B", "text": "It is useful for informal, brief, time-sensitive communication." },
+        { "letter": "C", "text": "A text message is a part of the communication landscape." },
+        { "letter": "D", "text": "A text message is a form of written communication consisting of brief messages." },
+        { "letter": "E", "text": "All of them are correct." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 500,
+      "isQuestion": true,
+      "questionText": "Why do major organizations rely much on teams to improve operations?",
+      "options": [
+        { "letter": "A", "text": "Executives have reported that team-based operations were more productive and reduced service errors." },
+        { "letter": "B", "text": "The team can address a variety of challenges in the world of corporate activity." },
+        { "letter": "C", "text": "The team has the ability to engage in effective communication." },
+        { "letter": "D", "text": "The team makes decisions and solves problems properly." },
+        { "letter": "E", "text": "All of them." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 501,
+      "isQuestion": true,
+      "questionText": "What are the key factors that contribute to effective teamwork?",
+      "options": [
+        { "letter": "A", "text": "Members communicate effectively and rely on each other to get the job done better together than individually." },
+        { "letter": "B", "text": "Members can contribute valuable resources in group work." },
+        { "letter": "C", "text": "Members have the ability to share information in the group." },
+        { "letter": "D", "text": "Members have the task role properly in the project." },
+        { "letter": "E", "text": "All of them." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    },
+    {
+      "sourceSlide": 503,
+      "isQuestion": true,
+      "questionText": "What does group motivation mean?",
+      "options": [
+        { "letter": "A", "text": "Give that person a cause or reason to act." },
+        { "letter": "B", "text": "Group motivation provides the inspiration and incentive that moves group members to work together to achieve a common goal." },
+        { "letter": "C", "text": "The shared feeling that the group has the power and ability to make decisions." },
+        { "letter": "D", "text": "The shared feeling that the group is pursuing a meaningful goal." },
+        { "letter": "E", "text": "All of them." }
+      ],
+      "evidence": ["source-image", "rapidocr-en-v5", "windows-ocr"]
+    }
+  ]
+}

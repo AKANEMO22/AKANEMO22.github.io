@@ -29,6 +29,7 @@ yarn-error.log*
 .pnpm-debug.log*
 .devserver.*.log
 
+
 # env files (can opt-in for committing if needed)
 .env*
 
@@ -42,3 +43,10 @@ next-env.d.ts
 /outputs/
 /work/
 /.ocr-runtime/
+/.openai/
+/.tmp*/
+/logs/
+*.log
+tsconfig.tsbuildinfo
+*.zip
+__pycache__/

@@ -1,0 +1,209 @@
+{
+  "reviewType": "independent-multiselect-semantic-audit",
+  "candidateCount": 19,
+  "trueMultiCandidateCount": 18,
+  "notes": [
+    "SSG104-S215 is included only because its stem literally contains Choose1; it is a valid single-select control, not a multi-select item.",
+    "proposedAnswers lists every semantically defensible visible option when an item has too many valid options; such records are marked defective rather than treated as a usable answer key."
+  ],
+  "modeMismatches": {
+    "multiPromptCurrentSingle": [
+      "SSG104-S284",
+      "SSG104-S357"
+    ],
+    "currentMultiplePromptSingle": [],
+    "currentMultipleButSingleAnswer": []
+  },
+  "reviews": [
+    {
+      "id": "SSG104-S073",
+      "slide": 73,
+      "currentAnswers": ["A", "C"],
+      "proposedAnswers": ["A", "C"],
+      "expectedCount": 2,
+      "reason": "Coercive power is difficult to control and commonly produces resistance/little willingness to cooperate. B reverses the usual performance effect; D describes legitimate/position power.",
+      "confidence": 0.98,
+      "verdict": "keep"
+    },
+    {
+      "id": "SSG104-S074",
+      "slide": 74,
+      "currentAnswers": ["B", "D"],
+      "proposedAnswers": ["B", "D"],
+      "expectedCount": 2,
+      "reason": "An informal leader is acknowledged by the group (B). The underlying management text also explicitly says high-involvement organizations encourage both formal and informal leaders to exercise the full set of management roles (D).",
+      "confidence": 0.92,
+      "verdict": "keep"
+    },
+    {
+      "id": "SSG104-S075",
+      "slide": 75,
+      "currentAnswers": ["A", "D"],
+      "proposedAnswers": ["A", "C", "D"],
+      "expectedCount": 2,
+      "reason": "The source Bloom material makes both A and C examples of Applying, while D is the definition of Analyzing. Thus three visible choices describe college-level thinking even though the prompt demands two; AD is likely intended but is not uniquely defensible.",
+      "confidence": 0.91,
+      "verdict": "defective-too-many-valid-options"
+    },
+    {
+      "id": "SSG104-S076",
+      "slide": 76,
+      "currentAnswers": ["A", "B"],
+      "proposedAnswers": ["A", "B", "D"],
+      "expectedCount": 2,
+      "reason": "A and B match the course key, but examining underlying reasons (D) is also an ordinary use of logical analysis. The wording gives no distinction that excludes D, so there is no uniquely defensible pair.",
+      "confidence": 0.68,
+      "verdict": "semantic-ambiguous-too-many-plausible"
+    },
+    {
+      "id": "SSG104-S077",
+      "slide": 77,
+      "currentAnswers": ["C", "E"],
+      "proposedAnswers": ["C", "E"],
+      "expectedCount": 2,
+      "reason": "Nonverbal behavior cannot be separated from its verbal/nonverbal context, and nonverbal cues are not always clear. C and E are exactly the two false statements requested by NOT correct.",
+      "confidence": 0.99,
+      "verdict": "keep"
+    },
+    {
+      "id": "SSG104-S078",
+      "slide": 78,
+      "currentAnswers": ["A", "C"],
+      "proposedAnswers": ["A", "C"],
+      "expectedCount": 2,
+      "reason": "The named-tool-to-Bloom-level mapping is curriculum-specific, but the exact course-bank mapping identifies Lectora and YouTube for Understanding. No visible semantic contradiction was found.",
+      "confidence": 0.86,
+      "verdict": "keep-course-specific"
+    },
+    {
+      "id": "SSG104-S079",
+      "slide": 79,
+      "currentAnswers": ["B", "C"],
+      "proposedAnswers": ["B", "C"],
+      "expectedCount": 2,
+      "reason": "Teams are appropriate when diverse competencies are required and when strong collective commitment is needed. Simple tasks and conflicting member interests do not support team formation here.",
+      "confidence": 0.98,
+      "verdict": "keep"
+    },
+    {
+      "id": "SSG104-S080",
+      "slide": 80,
+      "currentAnswers": ["A", "D"],
+      "proposedAnswers": ["A", "D"],
+      "expectedCount": 2,
+      "reason": "Generating alternatives and transcending current problem limits characterize creative problem-solving. Scrutinizing assumptions and using sound reasoning are framed as critical/analytical thinking distractors.",
+      "confidence": 0.95,
+      "verdict": "keep"
+    },
+    {
+      "id": "SSG104-S081",
+      "slide": 81,
+      "currentAnswers": ["A", "B"],
+      "proposedAnswers": ["A", "B"],
+      "expectedCount": 2,
+      "reason": "Time/resource constraints and the rarity of one individual possessing every required competency directly explain why team tasks cannot be completed individually. C and D state the opposite conditions.",
+      "confidence": 0.98,
+      "verdict": "keep"
+    },
+    {
+      "id": "SSG104-S082",
+      "slide": 82,
+      "currentAnswers": ["A", "B"],
+      "proposedAnswers": ["A", "B", "C", "D"],
+      "expectedCount": 2,
+      "reason": "A and B are broad psychological/social-need reasons. C and D are also standard, explicitly documented benefits under the Security reason for joining groups. All four visible statements are true, so the requested pair is not unique.",
+      "confidence": 0.94,
+      "verdict": "defective-too-many-valid-options"
+    },
+    {
+      "id": "SSG104-S084",
+      "slide": 84,
+      "currentAnswers": ["A", "B", "C"],
+      "proposedAnswers": ["A", "B", "C"],
+      "expectedCount": 3,
+      "reason": "Combining perspectives, asking what else exists, and asking why not are explicitly listed creative-thinking prompts in the underlying learning material. D is not part of that list.",
+      "confidence": 0.97,
+      "verdict": "keep"
+    },
+    {
+      "id": "SSG104-S085",
+      "slide": 85,
+      "currentAnswers": ["A", "B", "D"],
+      "proposedAnswers": ["A", "B", "D"],
+      "expectedCount": 3,
+      "reason": "A, B, and D appear verbatim in the report-quality checklist. C encourages overstating progress and is not a checklist criterion.",
+      "confidence": 0.99,
+      "verdict": "keep"
+    },
+    {
+      "id": "SSG104-S215",
+      "slide": 215,
+      "currentAnswers": ["B"],
+      "proposedAnswers": ["B"],
+      "expectedCount": 1,
+      "reason": "The stem explicitly says Choose1 and the pictured OK gesture is keyed as an insult in Brazil. Current single mode and one-letter answer are consistent.",
+      "confidence": 0.98,
+      "verdict": "keep-single-control"
+    },
+    {
+      "id": "SSG104-S284",
+      "slide": 284,
+      "currentAnswers": ["A"],
+      "proposedAnswers": ["A", "B"],
+      "expectedCount": 2,
+      "reason": "The prompt explicitly says more than one answer. Stepping back restores distance (A), while crossed arms can serve as a nonverbal blocking/boundary cue (B). Ignoring the invasion and merely keeping silent do not restore or signal the boundary. Current key and mode are incomplete.",
+      "confidence": 0.84,
+      "verdict": "change-answer-and-mode-to-multiple"
+    },
+    {
+      "id": "SSG104-S333",
+      "slide": 333,
+      "currentAnswers": ["A", "B"],
+      "proposedAnswers": ["A", "B"],
+      "expectedCount": 2,
+      "reason": "Cultural dimensions are continua and mismatched expectations can create tension. C misdefines masculinity/femininity; D reverses the behavior of cultures tolerant of uncertainty.",
+      "confidence": 0.97,
+      "verdict": "keep"
+    },
+    {
+      "id": "SSG104-S337",
+      "slide": 337,
+      "currentAnswers": ["A", "B", "C", "D"],
+      "proposedAnswers": ["A", "B", "C"],
+      "expectedCount": 4,
+      "reason": "Sleep, weight, and digestive problems are chronic-stress symptoms. D says chronic stress enhances memory and concentration, the opposite of its usual effect. Only three correct options are visible, so both the four-selection instruction and ABCD key are defective.",
+      "confidence": 0.99,
+      "verdict": "defective-prompt-and-key-remove-D"
+    },
+    {
+      "id": "SSG104-S340",
+      "slide": 340,
+      "currentAnswers": ["B", "C", "D", "E"],
+      "proposedAnswers": ["B", "C", "D", "E"],
+      "expectedCount": 4,
+      "reason": "Avoiding win-lose situations, facilitating dialogue, structuring tasks, and emphasizing organization/group goals are the four listed conflict-prevention strategies in the underlying organizational-behavior source. A is not in that prevention list.",
+      "confidence": 0.99,
+      "verdict": "keep"
+    },
+    {
+      "id": "SSG104-S357",
+      "slide": 357,
+      "currentAnswers": ["A"],
+      "proposedAnswers": ["A", "B", "D"],
+      "expectedCount": 3,
+      "reason": "Imaginative, curious, and optimistic are directly identified attributes of a creative thinker. Sluggish and imitative are contrary distractors. The current single-mode A key is incomplete despite Select 3.",
+      "confidence": 0.99,
+      "verdict": "change-answer-and-mode-to-multiple"
+    },
+    {
+      "id": "SSG104-S373",
+      "slide": 373,
+      "currentAnswers": ["C", "D"],
+      "proposedAnswers": ["C", "D"],
+      "expectedCount": 2,
+      "reason": "The underlying group-psychology text explicitly identifies group unity and a shared mental representation of the task as the two key ingredients of effective teamwork.",
+      "confidence": 0.99,
+      "verdict": "keep"
+    }
+  ]
+}

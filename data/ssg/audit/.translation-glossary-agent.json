@@ -1,0 +1,935 @@
+{
+  "schemaVersion": 1,
+  "generatedDate": "2026-08-01",
+  "title": "Vietnamese academic glossary and high-risk machine-translation audit",
+  "scope": {
+    "sourceFiles": [
+      "data/ssg/translations-vi.json",
+      "data/ssg/questions.json"
+    ],
+    "questionCount": 483,
+    "optionCount": 2013,
+    "subjects": {
+      "SSG104": 353,
+      "SSG105": 130
+    },
+    "sourceMutation": false
+  },
+  "coverage": {
+    "fullBankPatternScan": {
+      "questionsScanned": 483,
+      "optionsScanned": 2013,
+      "fields": [
+        "question",
+        "questionVi",
+        "options",
+        "optionsVi"
+      ],
+      "patterns": [
+        "academic-term homonyms",
+        "literal gerund translation",
+        "English/OCR residue in Vietnamese",
+        "role and document terminology",
+        "power/conflict terminology",
+        "Tuckman and Bloom stage drift"
+      ]
+    },
+    "prioritySemanticReview": {
+      "recordsReviewed": 86,
+      "topics": [
+        "Tuckman group development",
+        "Bloom taxonomy",
+        "conflict process and conflict management",
+        "critical and creative thinking",
+        "communication and nonverbal communication",
+        "academic and business writing skills",
+        "sourceSlide 18"
+      ]
+    },
+    "fallbackTranslationSpotCheck": {
+      "population": 102,
+      "sampled": 13,
+      "method": "Deterministic every-eighth-record sample of machine-translation-reviewed-fallback questions."
+    },
+    "repeatedOptionReview": {
+      "groupsReviewed": 160,
+      "method": "Most frequent repeated English option strings were grouped with all Vietnamese realizations to expose inconsistent or literal glossary choices."
+    },
+    "limitations": [
+      "This is a high-risk translation audit, not a claim that every naturalness issue in all 483 records has been copy-edited.",
+      "Several English source strings contain OCR corruption. Corrections marked source-en-ocr-corruption infer the intended reading from context and should be checked against the source slide before production replacement.",
+      "Suggested corrections preserve option order and do not change answer keys."
+    ]
+  },
+  "summary": {
+    "systemicFindings": [
+      "Tuckman stage labels are translated literally and inconsistently; Performing as 'Biểu diễn' and Storming as 'Bão tố' can mislead learners.",
+      "Bloom Applying is repeatedly mistranslated as 'Đăng ký'; gerund labels also drift between progressive verbs and taxonomy-level names.",
+      "Power-with and Power-over are catastrophically mistranslated as electrical terms ('Cấp nguồn', 'Nguồn điện', 'Mất điện').",
+      "Meeting minutes, Recorder, Paralanguage, active voice and Referent Power contain answer-distorting homonym errors.",
+      "OCR debris survives inside several Vietnamese questions/options, including slide 18-related Tuckman variants and fallback translations."
+    ],
+    "severityDefinition": {
+      "critical": "Can reverse or hide the intended academic concept or make an option nonsensical.",
+      "high": "Materially damages academic accuracy or cross-question consistency.",
+      "medium": "Understandable but unnatural, ambiguous, or below the expected academic register."
+    }
+  },
+  "glossary": [
+    {
+      "en": "Forming",
+      "preferredVi": "Hình thành",
+      "avoidVi": ["Đang hình thành"],
+      "domain": "Tuckman"
+    },
+    {
+      "en": "Storming",
+      "preferredVi": "Xung đột",
+      "acceptableVi": ["Sóng gió"],
+      "avoidVi": ["Bão tố"],
+      "domain": "Tuckman"
+    },
+    {
+      "en": "Norming",
+      "preferredVi": "Ổn định – chuẩn hóa",
+      "avoidVi": ["Định mức", "Định chuẩn"],
+      "domain": "Tuckman"
+    },
+    {
+      "en": "Performing",
+      "preferredVi": "Thực hiện hiệu quả",
+      "avoidVi": ["Biểu diễn"],
+      "domain": "Tuckman"
+    },
+    {
+      "en": "Adjourning",
+      "preferredVi": "Kết thúc",
+      "avoidVi": ["Tạm hoãn", "Tạm dừng", "Đang bổ sung"],
+      "domain": "Tuckman"
+    },
+    {
+      "en": "Remembering",
+      "preferredVi": "Ghi nhớ",
+      "domain": "Bloom taxonomy"
+    },
+    {
+      "en": "Understanding",
+      "preferredVi": "Hiểu",
+      "domain": "Bloom taxonomy"
+    },
+    {
+      "en": "Applying",
+      "preferredVi": "Vận dụng",
+      "avoidVi": ["Đăng ký", "Đang đăng ký"],
+      "domain": "Bloom taxonomy"
+    },
+    {
+      "en": "Analyzing",
+      "preferredVi": "Phân tích",
+      "domain": "Bloom taxonomy"
+    },
+    {
+      "en": "Evaluating",
+      "preferredVi": "Đánh giá",
+      "domain": "Bloom taxonomy"
+    },
+    {
+      "en": "Creating",
+      "preferredVi": "Sáng tạo",
+      "domain": "Bloom taxonomy"
+    },
+    {
+      "en": "Competing / Collaborating / Compromising / Avoiding / Accommodating",
+      "preferredVi": "Cạnh tranh / Hợp tác / Thỏa hiệp / Né tránh / Nhường nhịn",
+      "avoidVi": ["Thích nghi cho Accommodating"],
+      "domain": "Thomas-Kilmann conflict modes"
+    },
+    {
+      "en": "Groupthink",
+      "preferredVi": "Tư duy bầy đàn (groupthink)",
+      "acceptableVi": ["Hiện tượng đồng thuận nhóm"],
+      "avoidVi": ["Tư duy nhóm khi không có giải thích"],
+      "domain": "critical thinking"
+    },
+    {
+      "en": "devil's advocate",
+      "preferredVi": "người đóng vai phản biện",
+      "avoidVi": ["người ủng hộ quỷ"],
+      "domain": "critical thinking"
+    },
+    {
+      "en": "challenging reasoning / examining assumptions / uncovering biases",
+      "preferredVi": "chất vấn lập luận / xem xét các giả định / phát hiện thiên kiến",
+      "domain": "critical thinking"
+    },
+    {
+      "en": "Power-with / Power-over / Power-from-within",
+      "preferredVi": "quyền lực hợp tác / quyền lực chi phối / quyền lực nội tại",
+      "avoidVi": ["cấp nguồn", "nguồn điện", "mất điện", "sức mạnh từ bên trong"],
+      "domain": "group power"
+    },
+    {
+      "en": "Legitimate / Reward / Expert / Coercive / Referent Power",
+      "preferredVi": "quyền lực chính danh / quyền lực khen thưởng / quyền lực chuyên môn / quyền lực cưỡng chế / quyền lực quy chiếu",
+      "avoidVi": ["sức mạnh phần thưởng", "sức mạnh chuyên môn", "sức mạnh giới thiệu", "sức mạnh của người giới thiệu"],
+      "domain": "bases of power"
+    },
+    {
+      "en": "Paralanguage",
+      "preferredVi": "Cận ngôn ngữ",
+      "avoidVi": ["Ngôn ngữ song ngữ", "Ngôn ngữ"],
+      "domain": "nonverbal communication"
+    },
+    {
+      "en": "Artifacts",
+      "preferredVi": "Vật phẩm/đồ dùng cá nhân",
+      "avoidVi": ["Hiện vật"],
+      "domain": "nonverbal communication"
+    },
+    {
+      "en": "Kinesics / Chronemics / Proxemics / Haptics",
+      "preferredVi": "nghiên cứu cử động cơ thể / thời gian giao tiếp / không gian giao tiếp / xúc giác-chạm",
+      "domain": "nonverbal communication",
+      "note": "Keep the English technical labels where they are answer options; add Vietnamese glosses rather than replacing them with unrelated dictionary senses."
+    },
+    {
+      "en": "meeting minutes / Recorder / Facilitator / Chairperson",
+      "preferredVi": "biên bản cuộc họp / thư ký-người ghi biên bản / điều phối viên / chủ tọa",
+      "avoidVi": ["phút", "máy ghi âm", "người ghi âm", "người hướng dẫn", "chủ tịch"],
+      "domain": "meeting skills"
+    },
+    {
+      "en": "active voice",
+      "preferredVi": "thể chủ động/câu chủ động",
+      "avoidVi": ["giọng nói tích cực"],
+      "domain": "academic and business writing"
+    },
+    {
+      "en": "abstract / body / cover / references in a resume",
+      "preferredVi": "tóm tắt / nội dung chính / trang bìa / người tham chiếu-người giới thiệu",
+      "avoidVi": ["trừu tượng", "thân", "bìa", "tài liệu tham khảo khi chỉ người xác nhận hồ sơ"],
+      "domain": "academic and career writing"
+    },
+    {
+      "en": "status",
+      "preferredVi": "địa vị",
+      "avoidVi": ["trạng thái"],
+      "domain": "group dynamics"
+    },
+    {
+      "en": "Ethos / Pathos / Logos",
+      "preferredVi": "uy tín và phẩm chất của người nói / sức hấp dẫn cảm xúc / lập luận logic và bằng chứng",
+      "avoidVi": ["đặc tính", "mầm bệnh", "Logo"],
+      "domain": "persuasive communication",
+      "note": "Keep the Greek labels Ethos, Pathos and Logos in answer options and add Vietnamese glosses; do not machine-translate the labels themselves."
+    },
+    {
+      "en": "working outline",
+      "preferredVi": "dàn ý sơ bộ",
+      "avoidVi": ["dàn ý hoạt động"],
+      "domain": "academic and business writing"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "SSG104-S011",
+      "optionsVi": ["Né tránh", "Cạnh tranh", "Thỏa hiệp", "Nhường nhịn"],
+      "flags": ["terminology-drift", "conflict-mode"],
+      "severity": "high",
+      "reason": "Accommodating in the Thomas-Kilmann framework is nhường nhịn/đáp ứng, not the general adaptive sense 'thích nghi'."
+    },
+    {
+      "id": "SSG104-S012",
+      "optionsVi": ["Né tránh", "Cạnh tranh", "Thỏa hiệp", "Nhường nhịn"],
+      "flags": ["terminology-drift", "conflict-mode"],
+      "severity": "high",
+      "reason": "Normalize the four conflict-mode labels."
+    },
+    {
+      "id": "SSG104-S013",
+      "optionsVi": ["Né tránh", "Cạnh tranh", "Thỏa hiệp", "Nhường nhịn"],
+      "flags": ["terminology-drift", "conflict-mode"],
+      "severity": "high",
+      "reason": "Normalize the four conflict-mode labels."
+    },
+    {
+      "id": "SSG104-S014",
+      "optionsVi": ["Can thiệp thích ứng", "Can thiệp cơ cấu", "Can thiệp quản lý", "Loại bỏ tự nguyện hoặc bắt buộc"],
+      "flags": ["literal-translation", "conflict-management"],
+      "severity": "high",
+      "reason": "These are intervention categories; 'Chuyển thể/Kết cấu/Quản lý' are bare dictionary senses and not parallel academic labels."
+    },
+    {
+      "id": "SSG104-S015",
+      "optionsVi": ["Can thiệp thích ứng", "Can thiệp cơ cấu", "Can thiệp quản lý", "Loại bỏ tự nguyện hoặc bắt buộc"],
+      "flags": ["literal-translation", "conflict-management"],
+      "severity": "high",
+      "reason": "Normalize conflict-intervention categories and clarify voluntary/involuntary removal."
+    },
+    {
+      "id": "SSG104-S016",
+      "optionsVi": ["Hợp tác", "Thỏa hiệp", "Né tránh", "Nhường nhịn"],
+      "flags": ["terminology-drift", "conflict-mode"],
+      "severity": "high",
+      "reason": "Use the standard conflict-mode set."
+    },
+    {
+      "id": "SSG104-S017",
+      "optionsVi": ["Hợp tác", "Ép buộc", "Nhường nhịn", "Né tránh"],
+      "flags": ["terminology-drift", "conflict-mode"],
+      "severity": "high",
+      "reason": "Forcing is ép buộc and Accommodating is nhường nhịn in conflict management."
+    },
+    {
+      "id": "SSG104-S018",
+      "optionsVi": ["Thực hiện hiệu quả", "Xung đột", "Kết thúc", "Ổn định – chuẩn hóa", "Hình thành"],
+      "flags": ["answer-distorting-homonym", "tuckman", "source-en-ocr-corruption", "slide18"],
+      "severity": "critical",
+      "reason": "The sourceSlide 18 options contain OCR variants, and the current literal translations 'Biểu diễn/Bão tố/Đang bổ sung' hide the Tuckman stages."
+    },
+    {
+      "id": "SSG104-S019",
+      "optionsVi": ["Hình thành", "Xung đột", "Kết thúc", "Ổn định – chuẩn hóa", "Thực hiện hiệu quả"],
+      "flags": ["answer-distorting-homonym", "tuckman", "source-en-ocr-corruption"],
+      "severity": "critical",
+      "reason": "Normng and the other labels are recognizable Tuckman stages; translate the concepts, not surface OCR/dictionary senses."
+    },
+    {
+      "id": "SSG104-S021",
+      "questionVi": "Điều nào KHÔNG ĐÚNG về quyền lực hợp tác (power-with)?",
+      "flags": ["answer-distorting-homonym", "power-terminology"],
+      "severity": "critical",
+      "reason": "Power-with is a social-power concept; 'nguồn điện' is an electrical power supply."
+    },
+    {
+      "id": "SSG104-S027",
+      "optionsVi": [
+        "Đó là cách mỗi bên hình dung đối phương mong muốn giải quyết xung đột.",
+        "Đây là giai đoạn giải quyết vấn đề và xây dựng chiến lược.",
+        "Các bên cố gắng triển khai các phương thức giải quyết xung đột.",
+        "Các bên cố gắng hiểu bản chất của vấn đề."
+      ],
+      "flags": ["source-en-ocr-corruption", "ocr-leak", "conflict-process"],
+      "severity": "critical",
+      "reason": "The Vietnamese inherited OCR debris ('0blem') and mistranslated the likely source word opponents as supporters. Verify the inferred English against the slide."
+    },
+    {
+      "id": "SSG104-S028",
+      "questionVi": "Điều nào sau đây KHÔNG phải là chiến lược phòng tránh tư duy bầy đàn (groupthink)?",
+      "optionsVi": [
+        "Chỉ định một người đóng vai phản biện trong thảo luận",
+        "Mời chuyên gia bên ngoài",
+        "Có một trưởng nhóm có sức lôi cuốn",
+        "Phân công các nhóm khác nhau phụ trách các nhiệm vụ khác nhau"
+      ],
+      "flags": ["answer-distorting-homonym", "critical-thinking"],
+      "severity": "high",
+      "reason": "Devil's advocate is a deliberate critical role, not 'người ủng hộ quỷ'; Groupthink also needs a distinct term."
+    },
+    {
+      "id": "SSG104-S034",
+      "optionsVi": ["Kết luận", "Nội dung chính", "Biên bản cuộc họp", "Trang bìa"],
+      "flags": ["answer-distorting-homonym", "academic-writing"],
+      "severity": "critical",
+      "reason": "Body and minutes are report/meeting terms, not body part 'thân' and time unit 'phút'."
+    },
+    {
+      "id": "SSG104-S036",
+      "optionsVi": ["Đánh giá", "Hướng dẫn", "Ghi nhớ", "Vận dụng"],
+      "flags": ["answer-distorting-homonym", "bloom"],
+      "severity": "critical",
+      "reason": "Bloom labels are taxonomy-level names; Applying is 'Vận dụng', never 'Đăng ký'."
+    },
+    {
+      "id": "SSG104-S039",
+      "optionsVi": ["Tinh thần hoài nghi", "Tư duy bầy đàn", "Xem xét các giả định", "Phát hiện thiên kiến"],
+      "flags": ["terminology-drift", "critical-thinking"],
+      "severity": "high",
+      "reason": "Use stable critical-thinking terminology and distinguish groupthink-like conformity from ordinary group thinking."
+    },
+    {
+      "id": "SSG104-S054",
+      "questionVi": "Hành vi nào sau đây thường KHÔNG xuất hiện khi một người đang nói dối?",
+      "flags": ["ocr-leak", "source-en-ocr-corruption"],
+      "severity": "high",
+      "reason": "The Vietnamese starts with residual OCR text 'VVV'."
+    },
+    {
+      "id": "SSG104-S059",
+      "optionsVi": [
+        "Hoa Kỳ có cách tiếp cận dài hạn hơn đối với cuộc sống và kết quả.",
+        "Nếu làm việc trong một nền văn hóa định hướng dài hạn, bạn có thể cần nhấn mạnh hơn việc đáp lại lời chào, quà tặng và phần thưởng.",
+        "Định hướng dài hạn thường được đặc trưng bởi tính kiên trì, tiết kiệm và tằn tiện.",
+        "Tất cả các đáp án trên"
+      ],
+      "flags": ["ocr-leak", "source-en-ocr-corruption", "academic-register"],
+      "severity": "high",
+      "reason": "Remove 'I-Jnited States' OCR residue and replace duplicated/literal wording."
+    },
+    {
+      "id": "SSG104-S060",
+      "optionsVi": [
+        "Biên bản là tài liệu ghi lại diễn biến và tóm tắt các điểm chính, quyết định và nhiệm vụ được phân công trong cuộc họp.",
+        "Mục đích chính của biên bản là tạo được sự ủng hộ của những người ra quyết định.",
+        "Biên bản thường được dùng để truyền đạt chính sách, quy trình hoặc công việc chính thức có liên quan trong một tổ chức.",
+        "Biên bản là những thông điệp ngắn gửi cho người nhận thường ở bên ngoài tổ chức."
+      ],
+      "flags": ["answer-distorting-homonym", "meeting-skills"],
+      "severity": "critical",
+      "reason": "Every occurrence of minutes in this item denotes meeting minutes, not the time unit 'phút'."
+    },
+    {
+      "id": "SSG104-S064",
+      "optionsVi": [
+        "Sẵn sàng thay đổi quan điểm khi có lý do hoặc bằng chứng thuyết phục",
+        "Có tinh thần ham tìm hiểu",
+        "Chấp nhận điều gì đó mà không yêu cầu bằng chứng",
+        "Tự chất vấn các kết luận của mình"
+      ],
+      "flags": ["literal-translation", "critical-thinking"],
+      "severity": "medium",
+      "reason": "The current first option is syntactically broken and obscures openness to revising one's opinions."
+    },
+    {
+      "id": "SSG104-S087",
+      "optionsVi": [
+        "Nêu bật chủ đề, phương pháp, dữ liệu và kết quả",
+        "Danh sách các phần chính của báo cáo",
+        "Nhãn 'Báo cáo', tiêu đề báo cáo và tên tác giả",
+        "Phương pháp luận"
+      ],
+      "flags": ["literal-translation", "academic-writing"],
+      "severity": "medium",
+      "reason": "The current 'tiêu đề tính năng' is a machine-literal phrase, not a report element."
+    },
+    {
+      "id": "SSG104-S088",
+      "optionsVi": [
+        "Thân mật, tiếp xúc, cử chỉ và không gian công cộng",
+        "Không gian thân mật, cá nhân, xã hội và công cộng",
+        "Không gian cá nhân, vật phẩm cá nhân, cận ngôn ngữ và không gian công cộng",
+        "Không gian cá nhân, nét mặt, đặc điểm ngoại hình và không gian công cộng"
+      ],
+      "flags": ["terminology-drift", "nonverbal-communication"],
+      "severity": "high",
+      "reason": "Paralanguage and Artifacts require the same academic glosses as their standalone occurrences."
+    },
+    {
+      "id": "SSG104-S095",
+      "optionsVi": ["Vận dụng", "Đánh giá", "Phân tích", "Sáng tạo"],
+      "flags": ["answer-distorting-homonym", "bloom"],
+      "severity": "critical",
+      "reason": "Normalize Bloom taxonomy labels; Applying is not 'Đang đăng ký'."
+    },
+    {
+      "id": "SSG104-S096",
+      "optionsVi": ["Ghi nhớ", "Hiểu", "Phân tích", "Vận dụng"],
+      "flags": ["answer-distorting-homonym", "bloom"],
+      "severity": "critical",
+      "reason": "Normalize Bloom taxonomy labels as level names rather than progressive verbs."
+    },
+    {
+      "id": "SSG104-S097",
+      "optionsVi": ["Quyền lực nội tại", "Quyền lực hợp tác", "Quyền lực chi phối", "Quyền lực từ bên ngoài"],
+      "flags": ["answer-distorting-homonym", "power-terminology"],
+      "severity": "critical",
+      "reason": "Cấp nguồn and mất điện are electrical meanings and make the social-power options nonsensical."
+    },
+    {
+      "id": "SSG104-S100",
+      "optionsVi": ["Kháng cự", "Tuân thủ", "Cam kết", "Né tránh"],
+      "flags": ["literal-translation", "power-terminology"],
+      "severity": "high",
+      "reason": "Resistance as a behavioral response is kháng cự, not wartime 'kháng chiến'."
+    },
+    {
+      "id": "SSG104-S110",
+      "optionsVi": ["Xem xét các giả định", "Chất vấn lập luận", "Phát hiện thiên kiến", "Tất cả các đáp án trên"],
+      "flags": ["answer-distorting-homonym", "critical-thinking"],
+      "severity": "high",
+      "reason": "Challenging reasoning means critically questioning reasoning, not 'lý luận đầy thử thách'."
+    },
+    {
+      "id": "SSG104-S109",
+      "optionsVi": ["Uy tín và đạo đức", "Đam mê và nhiệt huyết", "Logic hoặc lý trí", "Cảm xúc và lòng hào phóng"],
+      "flags": ["ocr-leak", "persuasive-communication"],
+      "severity": "high",
+      "reason": "Remove the residual OCR token 'ORI' and keep the Ethos distractors semantically readable."
+    },
+    {
+      "id": "SSG104-S115",
+      "optionsVi": ["Tiếp xúc", "Không gian", "Vật phẩm/đồ dùng cá nhân", "Cận ngôn ngữ"],
+      "flags": ["answer-distorting-homonym", "nonverbal-communication"],
+      "severity": "critical",
+      "reason": "Paralanguage is the nonverbal vocal layer, not bilingual language."
+    },
+    {
+      "id": "SSG104-S123",
+      "optionsVi": ["Ghi nhớ", "Hiểu", "Phân tích", "Vận dụng"],
+      "flags": ["answer-distorting-homonym", "bloom"],
+      "severity": "critical",
+      "reason": "Apply is 'Vận dụng' in Bloom taxonomy; 'Hiểu rồi' is conversational and inconsistent."
+    },
+    {
+      "id": "SSG104-S124",
+      "optionsVi": ["Phân tích", "Vận dụng", "Đánh giá", "Sáng tạo"],
+      "flags": ["answer-distorting-homonym", "bloom"],
+      "severity": "critical",
+      "reason": "Normalize the upper Bloom levels."
+    },
+    {
+      "id": "SSG104-S125",
+      "optionsVi": ["Khoan dung", "Nhiệt tình", "Chấp nhận", "Kháng cự"],
+      "flags": ["literal-translation", "behavioral-response"],
+      "severity": "high",
+      "reason": "Tolerance and Resistance are human responses, not engineering tolerance and wartime resistance."
+    },
+    {
+      "id": "SSG104-S131",
+      "optionsVi": [
+        "Giúp cá nhân và thành viên nhóm trưởng thành, đồng thời phát triển bản sắc riêng",
+        "Ảnh hưởng đến bầu không khí xã hội của nhóm và cản trở sự gắn kết",
+        "Khiến mọi người chuyển năng lượng khỏi việc thực hiện nhiệm vụ",
+        "Ảnh hưởng đến mức độ căng thẳng và các hệ quả tâm sinh lý của căng thẳng"
+      ],
+      "flags": ["answer-distorting-homonym", "conflict-management"],
+      "severity": "high",
+      "reason": "Performance here is task performance, not a stage show ('buổi biểu diễn')."
+    },
+    {
+      "id": "SSG104-S134",
+      "optionsVi": ["Quyền kiểm soát đồng đội", "Địa vị cao hơn", "Trí tuệ văn hóa", "Giao tiếp rõ ràng"],
+      "flags": ["literal-translation", "group-dynamics"],
+      "severity": "high",
+      "reason": "Superior status is higher social standing, not a premium/advanced state."
+    },
+    {
+      "id": "SSG104-S139",
+      "optionsVi": ["Hợp tác", "Thỏa hiệp", "Né tránh", "Nhường nhịn"],
+      "flags": ["terminology-drift", "conflict-mode"],
+      "severity": "high",
+      "reason": "Use the standard conflict-mode set."
+    },
+    {
+      "id": "SSG104-S147",
+      "optionsVi": ["Quyền lực chi phối", "Quyền lực hợp tác", "Quyền lực nội tại", "Quyền lực chính danh"],
+      "flags": ["answer-distorting-homonym", "power-terminology"],
+      "severity": "critical",
+      "reason": "The current electrical meanings erase the distinction among social-power types."
+    },
+    {
+      "id": "SSG104-S151",
+      "optionsVi": ["Kêu gọi trợ giúp", "Xác định vấn đề", "Đi ăn nhẹ", "Xác định các giải pháp khả thi"],
+      "flags": ["literal-translation", "critical-thinking"],
+      "severity": "high",
+      "reason": "Get a bite to eat is a humorous distractor meaning eat a snack, not the imperative fragment 'Ăn một miếng đi'."
+    },
+    {
+      "id": "SSG104-S155",
+      "questionVi": "Nhà tuyển dụng tiềm năng đánh giá cao nhất người tham chiếu thuộc nhóm nào?",
+      "flags": ["answer-distorting-homonym", "career-skills"],
+      "severity": "high",
+      "reason": "References here are people who can vouch for the applicant, not reference documents."
+    },
+    {
+      "id": "SSG104-S158",
+      "optionsVi": ["Quyền lực nội tại", "Quyền lực hợp tác", "Quyền lực chi phối", "Không có đáp án nào trên đây"],
+      "flags": ["answer-distorting-homonym", "power-terminology"],
+      "severity": "critical",
+      "reason": "Replace electrical homonyms with the course's social-power concepts."
+    },
+    {
+      "id": "SSG104-S159",
+      "optionsVi": ["Quyền lực chuyên môn", "Quyền lực chính danh", "Quyền lực khen thưởng", "Quyền lực cưỡng chế"],
+      "flags": ["terminology-drift", "power-terminology"],
+      "severity": "high",
+      "reason": "Normalize the standard bases-of-power labels."
+    },
+    {
+      "id": "SSG104-S160",
+      "optionsVi": ["Bản tóm tắt", "Biên bản cuộc họp", "Chương trình nghị sự", "Bản ghi"],
+      "flags": ["answer-distorting-homonym", "meeting-skills"],
+      "severity": "critical",
+      "reason": "Minutes is meeting minutes, not the time unit 'phút'."
+    },
+    {
+      "id": "SSG104-S163",
+      "optionsVi": ["Vận dụng", "Hiểu", "Phân tích", "Đánh giá"],
+      "flags": ["answer-distorting-homonym", "bloom", "source-en-ocr-corruption"],
+      "severity": "critical",
+      "reason": "I-Jnderstanding is OCR-corrupted Understanding; Applying is not registration."
+    },
+    {
+      "id": "SSG104-S173",
+      "questionVi": "Trong nhóm, bạn có thể tự do bày tỏ suy nghĩ và nhu cầu, đồng thời được giao nhiệm vụ phù hợp với năng lực cá nhân. Bạn đang trải nghiệm loại quyền lực nào?",
+      "optionsVi": ["Quyền lực nội tại", "Quyền lực độc lập", "Quyền lực hợp tác", "Quyền lực chuyên môn"],
+      "flags": ["ocr-leak", "answer-distorting-homonym", "power-terminology"],
+      "severity": "critical",
+      "reason": "Remove VTIich OCR debris and replace the electrical translation of Power-with."
+    },
+    {
+      "id": "SSG104-S174",
+      "optionsVi": ["Hình thành", "Xung đột", "Ổn định – chuẩn hóa", "Thực hiện hiệu quả", "Kết thúc"],
+      "flags": ["answer-distorting-homonym", "tuckman", "source-en-ocr-corruption"],
+      "severity": "critical",
+      "reason": "Norrning and vhich are OCR errors; all five options are Tuckman stage labels."
+    },
+    {
+      "id": "SSG104-S178",
+      "optionsVi": ["Vận dụng", "Phân tích", "Đánh giá", "Sáng tạo"],
+      "flags": ["answer-distorting-homonym", "bloom"],
+      "severity": "critical",
+      "reason": "Normalize Bloom taxonomy labels."
+    },
+    {
+      "id": "SSG104-S182",
+      "optionsVi": ["Cận ngôn ngữ", "Cử động cơ thể", "Đặc điểm ngoại hình", "Vật phẩm/đồ dùng cá nhân"],
+      "flags": ["answer-distorting-homonym", "nonverbal-communication"],
+      "severity": "critical",
+      "reason": "Paralanguage is not bilingual language; the other terms also need communication-specific glosses."
+    },
+    {
+      "id": "SSG104-S183",
+      "optionsVi": ["Quyền lực khen thưởng", "Quyền lực cưỡng chế", "Quyền lực quy chiếu", "Quyền lực chính danh"],
+      "flags": ["answer-distorting-homonym", "power-terminology"],
+      "severity": "critical",
+      "reason": "Referent Power is quyền lực quy chiếu, not power of a person who supplies references."
+    },
+    {
+      "id": "SSG104-S185",
+      "optionsVi": ["Không có năng lực", "Hợp tác", "Ám ảnh", "Hào phóng"],
+      "flags": ["answer-distorting-homonym", "social-value-orientation"],
+      "severity": "critical",
+      "reason": "Cooperative is an orientation/adjective here, not a cooperative organization ('hợp tác xã')."
+    },
+    {
+      "id": "SSG104-S189",
+      "optionsVi": ["Quyền lực khen thưởng", "Quyền lực chính danh", "Quyền lực chuyên môn", "Quyền lực cưỡng chế"],
+      "flags": ["terminology-drift", "power-terminology"],
+      "severity": "high",
+      "reason": "Normalize the standard bases-of-power labels."
+    },
+    {
+      "id": "SSG104-S196",
+      "optionsVi": ["Quyền lực khen thưởng", "Quyền lực chính danh", "Tiêu chí đánh giá", "Quyền lực cưỡng chế"],
+      "flags": ["terminology-drift", "power-terminology"],
+      "severity": "high",
+      "reason": "Normalize the standard bases-of-power labels."
+    },
+    {
+      "id": "SSG104-S199",
+      "optionsVi": [
+        "Kinesics (nghiên cứu cử động cơ thể)",
+        "Chronemics (nghiên cứu thời gian trong giao tiếp)",
+        "Proxemics (nghiên cứu không gian giao tiếp)",
+        "Haptics (nghiên cứu xúc giác và sự chạm)"
+      ],
+      "flags": ["answer-distorting-homonym", "nonverbal-communication"],
+      "severity": "critical",
+      "reason": "The current dictionary renderings describe physics/history rather than the four communication-study terms."
+    },
+    {
+      "id": "SSG104-S200",
+      "optionsVi": ["Trưởng nhóm", "Người lấn át", "Chủ tọa", "Thư ký/người ghi biên bản"],
+      "flags": ["answer-distorting-homonym", "meeting-skills"],
+      "severity": "critical",
+      "reason": "Recorder is a meeting role, not a recording device; Chairperson is chủ tọa in this context."
+    },
+    {
+      "id": "SSG104-S202",
+      "optionsVi": ["Biên bản cuộc họp", "Báo cáo", "Chương trình nghị sự", "Ghi chú"],
+      "flags": ["answer-distorting-homonym", "meeting-skills"],
+      "severity": "critical",
+      "reason": "Meeting minute is a written record, not 'một phút họp'."
+    },
+    {
+      "id": "SSG104-S207",
+      "optionsVi": ["Quyền lực nội tại", "Quyền lực hợp tác", "Quyền lực chi phối", "Không có đáp án nào trên đây"],
+      "flags": ["answer-distorting-homonym", "power-terminology"],
+      "severity": "critical",
+      "reason": "Replace electrical homonyms with social-power concepts."
+    },
+    {
+      "id": "SSG104-S219",
+      "questionVi": "Phần tóm tắt (abstract) của báo cáo là gì?",
+      "flags": ["answer-distorting-homonym", "academic-writing", "source-en-ocr-corruption"],
+      "severity": "high",
+      "reason": "Abstract in a report is a summary section, not something abstract in the philosophical sense."
+    },
+    {
+      "id": "SSG104-S229",
+      "optionsVi": [
+        "Nhãn 'Báo cáo', tiêu đề báo cáo và tên tác giả",
+        "Bối cảnh, phương pháp luận, kết quả, phân tích và khuyến nghị",
+        "Danh mục trích dẫn, danh sách các phần chính và hình ảnh",
+        "Nêu bật chủ đề, phương pháp, dữ liệu và kết quả"
+      ],
+      "flags": ["literal-translation", "academic-writing"],
+      "severity": "medium",
+      "reason": "Replace 'tiêu đề tính năng' and normalize report-section terminology."
+    },
+    {
+      "id": "SSG104-S234",
+      "optionsVi": [
+        "Cung cấp thông tin liên hệ của các nhà tuyển dụng trước đây",
+        "Thể hiện mạng lưới quan hệ nghề nghiệp",
+        "Cho thấy uy tín và phẩm chất của ứng viên",
+        "Liệt kê người tham chiếu cá nhân để đánh giá phẩm chất"
+      ],
+      "flags": ["answer-distorting-homonym", "career-skills"],
+      "severity": "high",
+      "reason": "References in a résumé are people who attest to the applicant, not reference documents."
+    },
+    {
+      "id": "SSG104-S238",
+      "optionsVi": ["Làm rõ cách thông tin được kiến tạo", "Chất vấn lập luận", "Phát hiện thiên kiến", "Xác định lập trường của người nói"],
+      "flags": ["answer-distorting-homonym", "critical-thinking"],
+      "severity": "high",
+      "reason": "Replace literal word-by-word renderings with standard critical-reading actions."
+    },
+    {
+      "id": "SSG104-S263",
+      "optionsVi": [
+        "(1) cạnh tranh, (2) hợp tác, (3) thỏa hiệp, (4) né tránh và (5) nhường nhịn",
+        "(1) cạnh tranh, (2) kết hợp, (3) làm trầm trọng, (4) kháng cự và (5) phớt lờ",
+        "(1) cạnh tranh, (2) kết hợp, (3) thỏa hiệp, (4) né tránh và (5) nhường nhịn",
+        "(1) cạnh tranh, (2) hợp tác, (3) làm trầm trọng, (4) kháng cự và (5) phớt lờ"
+      ],
+      "flags": ["terminology-drift", "conflict-mode"],
+      "severity": "high",
+      "reason": "Accommodating must remain nhường nhịn in every option so translation differences do not cue or obscure the answer."
+    },
+    {
+      "id": "SSG104-S318",
+      "questionVi": "Quyền lực chi phối (power-over) thể hiện trong tình huống nào sau đây?",
+      "flags": ["answer-distorting-homonym", "power-terminology"],
+      "severity": "critical",
+      "reason": "Power-over is a dominance relation, not an electrical outage."
+    },
+    {
+      "id": "SSG104-S327",
+      "questionVi": "Địa vị có thể được định nghĩa là:",
+      "flags": ["answer-distorting-homonym", "group-dynamics"],
+      "severity": "high",
+      "reason": "Status in group dynamics is social standing (địa vị), not a system state."
+    },
+    {
+      "id": "SSG104-S336",
+      "questionVi": "Mô hình duy trì tự đánh giá (Self-Evaluation Maintenance Model) cho thấy điều gì?",
+      "optionsVi": [
+        "Nhà quản lý có thể ưu tiên những ứng viên dưới mức tối ưu vì họ ít có khả năng thách thức vị thế của nhà quản lý trong tổ chức.",
+        "Nhà quản lý sẽ không chấp nhận hồ sơ ứng tuyển kém.",
+        "Nhà quản lý chấp nhận mọi hồ sơ ứng tuyển.",
+        "Mô hình này không liên quan đến lý thuyết so sánh xã hội."
+      ],
+      "flags": ["ocr-leak", "source-en-ocr-corruption"],
+      "severity": "critical",
+      "reason": "The Vietnamese contains multiple unprocessed OCR fragments (VVlodel, Ivlanagers, vill). Verify against the slide."
+    },
+    {
+      "id": "SSG104-S341",
+      "questionVi": "Phương thức nào KHÔNG thuộc năm phương thức giải quyết xung đột của Thomas?",
+      "optionsVi": ["Nhường nhịn", "Hợp tác", "Né tránh", "Chịu đựng", "Cạnh tranh"],
+      "flags": ["terminology-drift", "conflict-mode", "ocr-leak"],
+      "severity": "high",
+      "reason": "Normalize the Thomas conflict modes and remove the OCR-contaminated parenthetical name from the Vietnamese prompt."
+    },
+    {
+      "id": "SSG104-S355",
+      "questionVi": "Phát biểu nào sau đây KHÔNG ĐÚNG về so sánh xã hội?",
+      "optionsVi": [
+        "So sánh xã hội có thể tạo động lực để bạn nỗ lực và tiến gần hơn tới mục tiêu.",
+        "So sánh xã hội có nhiều khía cạnh tiêu cực.",
+        "So sánh xã hội là một xu hướng tâm lý tự nhiên.",
+        "Đó là một hiện tượng xấu cần tránh."
+      ],
+      "flags": ["ocr-leak", "source-en-ocr-corruption", "answer-distorting-homonym"],
+      "severity": "critical",
+      "reason": "TRIJE and the mistranslation 'Bạn đồng hành xã hội' obscure both prompt polarity and a key option."
+    },
+    {
+      "id": "SSG104-S359",
+      "optionsVi": ["Quyền lực quy chiếu", "Quyền lực chính danh", "Quyền lực chuyên môn", "Quyền lực cưỡng chế"],
+      "flags": ["answer-distorting-homonym", "power-terminology"],
+      "severity": "critical",
+      "reason": "Referent Power is quyền lực quy chiếu, not 'sức mạnh giới thiệu'."
+    },
+    {
+      "id": "SSG104-S360",
+      "optionsVi": ["Quyền lực nội tại", "Quyền lực hợp tác", "Quyền lực chi phối", "Không có đáp án nào trên đây"],
+      "flags": ["answer-distorting-homonym", "power-terminology"],
+      "severity": "critical",
+      "reason": "Replace the electrical senses of Power-with and Power-over."
+    },
+    {
+      "id": "SSG104-S362",
+      "questionVi": "Theo thang phân loại Bloom, cấp độ nào là khả năng kết hợp các phần để tạo thành một tổng thể mới mạch lạc hoặc độc đáo?",
+      "optionsVi": ["Vận dụng", "Phân tích", "Đánh giá", "Sáng tạo"],
+      "flags": ["answer-distorting-homonym", "bloom"],
+      "severity": "critical",
+      "reason": "Normalize Bloom labels and restore the missing interrogative structure."
+    },
+    {
+      "id": "SSG104-S363",
+      "optionsVi": [
+        "Ngay sau khi chủ tọa tuyên bố khai mạc",
+        "Ngay sau khi trình bày các báo cáo định kỳ",
+        "Trước khi thảo luận công việc mới",
+        "Ngay trước phần thông báo cuối cùng của các thành viên"
+      ],
+      "flags": ["answer-distorting-homonym", "meeting-skills"],
+      "severity": "critical",
+      "reason": "Call to order means formally opening the meeting, not placing a phone order."
+    },
+    {
+      "id": "SSG104-S370",
+      "optionsVi": ["Hình thành", "Xung đột", "Ổn định – chuẩn hóa", "Thực hiện hiệu quả", "Kết thúc"],
+      "flags": ["answer-distorting-homonym", "tuckman"],
+      "severity": "critical",
+      "reason": "Normalize all five Tuckman stage labels."
+    },
+    {
+      "id": "SSG104-S371",
+      "questionVi": "Người A có quyền lực quy chiếu khi:",
+      "optionsVi": [
+        "A có quyền thực thi quyền lực trong một lĩnh vực nhất định.",
+        "A có uy tín trong một lĩnh vực hẹp nhờ kinh nghiệm và chuyên môn.",
+        "Người khác kính trọng hoặc ngưỡng mộ A vì phẩm chất, đặc điểm cá nhân hoặc danh tiếng của A.",
+        "A có quyền lực đối với B vì A kiểm soát phần thưởng mà B mong muốn."
+      ],
+      "flags": ["answer-distorting-homonym", "power-terminology"],
+      "severity": "critical",
+      "reason": "Referent Power is power based on identification/admiration, not introduction or referral."
+    },
+    {
+      "id": "SSG104-S376",
+      "optionsVi": ["Hình thành", "Xung đột", "Ổn định – chuẩn hóa", "Thực hiện hiệu quả"],
+      "flags": ["answer-distorting-homonym", "tuckman"],
+      "severity": "critical",
+      "reason": "Normalize the four Tuckman stage options."
+    },
+    {
+      "id": "SSG105-S379",
+      "optionsVi": [
+        "Gây ấn tượng với người đọc bằng từ vựng phức tạp",
+        "Giúp người đọc dễ hiểu thông điệp hơn",
+        "Tăng độ dài của tài liệu",
+        "Tránh sử dụng thể chủ động"
+      ],
+      "flags": ["answer-distorting-homonym", "business-writing"],
+      "severity": "critical",
+      "reason": "Active voice is a grammatical voice, not a positive speaking voice."
+    },
+    {
+      "id": "SSG105-S398",
+      "optionsVi": [
+        "Viết nhanh bản nháp đầu tiên và dự định sửa chỗ chưa rõ sau.",
+        "Làm rõ mục đích, đối tượng người đọc và kết quả mong muốn của email.",
+        "Lập tức tìm nguồn bên ngoài trên Google để sao chép một mẫu.",
+        "Tạo dàn ý sơ bộ khi chưa biết đối tượng người đọc chính là ai."
+      ],
+      "flags": ["answer-distorting-homonym", "academic-writing"],
+      "severity": "high",
+      "reason": "Working outline is a preliminary outline ('dàn ý sơ bộ'), not an operational/activity outline."
+    },
+    {
+      "id": "SSG105-S405",
+      "questionVi": "Sau khi phân tích toàn bộ tài liệu nghiên cứu về xu hướng AI, một sinh viên FPT nhóm các ý liên quan và lập dàn ý sơ bộ. Chức năng chính của dàn ý này là gì?",
+      "flags": ["terminology-drift", "academic-writing"],
+      "severity": "medium",
+      "reason": "Name the working outline explicitly and consistently as dàn ý sơ bộ."
+    },
+    {
+      "id": "SSG105-S409",
+      "questionVi": "Tình huống nào tại Đại học FPT minh họa rõ nhất yếu tố ngữ cảnh (Context)?",
+      "optionsVi": [
+        "Một sinh viên Kỹ thuật phần mềm đang ôn thi Java trong thư viện, nhưng một nhóm gần đó tập Vovinam quá ồn khiến sinh viên này khó tập trung.",
+        "Một giảng viên đăng thông báo đổi hạn trên FAP (FPT Academic Portal) và mong sinh viên kiểm tra cổng hằng ngày, nhưng một sinh viên năm nhất lại chờ giảng viên thông báo trực tiếp trong buổi học tiếp theo.",
+        "Chủ tịch câu lạc bộ sinh viên FPT dùng liên kết Google Drive chung để gửi kế hoạch sự kiện học kỳ cho tất cả thành viên.",
+        "Sau một bài thuyết trình nhóm trong buổi học trên EduNext, một sinh viên nhận điểm và nhận xét mang tính xây dựng từ các bạn về kỹ năng làm việc nhóm."
+      ],
+      "flags": ["literal-translation", "communication"],
+      "severity": "medium",
+      "reason": "Replace 'khe EduNext', fix learner role consistency, and render Context as ngữ cảnh."
+    },
+    {
+      "id": "SSG105-S416",
+      "optionsVi": [
+        "Dành quá nhiều thời gian cho bước 'Xem lại, Suy ngẫm và Chỉnh sửa'.",
+        "Quá nhiều thông tin và tổ chức kém.",
+        "Xem nhẹ các chi tiết cơ bản như ngữ pháp và định dạng.",
+        "Sử dụng sai kênh giao tiếp."
+      ],
+      "flags": ["literal-idiom", "business-writing"],
+      "severity": "high",
+      "reason": "Sweat the small stuff is an idiom about attending to details, not literal perspiration."
+    },
+    {
+      "id": "SSG105-S447",
+      "optionsVi": ["Cận ngôn ngữ", "Cử động cơ thể", "Vật phẩm/đồ dùng cá nhân", "Không gian", "Đặc điểm ngoại hình"],
+      "flags": ["answer-distorting-homonym", "nonverbal-communication"],
+      "severity": "critical",
+      "reason": "A high-pitched, fast voice is paralanguage; 'Ngôn ngữ song ngữ' hides the correct concept."
+    },
+    {
+      "id": "SSG105-S450",
+      "questionVi": "Trong quy trình bảy bước, điều gì diễn ra ở giai đoạn Phân tích vấn đề?",
+      "optionsVi": [
+        "Nhóm chọn giải pháp tốt nhất",
+        "Nhóm thu thập thông tin và xem xét nhiều góc nhìn",
+        "Nhóm bỏ qua phản hồi của khách hàng",
+        "Giai đoạn này buộc mọi người giao tiếp theo cùng một cách để tránh xung đột",
+        "Nhóm phân công các vai trò như điều phối viên và thư ký/người ghi biên bản"
+      ],
+      "flags": ["answer-distorting-homonym", "teamwork-skills"],
+      "severity": "critical",
+      "reason": "Facilitator and Recorder are meeting roles, not a guide and an audio recorder."
+    },
+    {
+      "id": "SSG105-S458",
+      "optionsVi": [
+        "Các nhóm không bao giờ cần điều chỉnh quy trình",
+        "Công việc hợp tác thường đòi hỏi sự điều chỉnh và hoàn thiện",
+        "Căng thẳng tự động cải thiện giao tiếp",
+        "Thay đổi làm mất đi nhu cầu đặt mục tiêu"
+      ],
+      "flags": ["answer-distorting-homonym", "teamwork-skills"],
+      "severity": "high",
+      "reason": "Refinement means improving/finishing a process, not candidate screening ('sàng lọc')."
+    },
+    {
+      "id": "SSG105-S485",
+      "optionsVi": [
+        "Đề xuất kinh doanh hiệu quả được xây dựng xoay quanh những ý tưởng hoặc giải pháp tốt.",
+        "Các nhóm nội dung truyền thống.",
+        "Ethos, Pathos và Logos.",
+        "Viết với phong cách chuyên nghiệp.",
+        "Tất cả các đáp án trên."
+      ],
+      "flags": ["answer-distorting-homonym", "persuasive-communication"],
+      "severity": "critical",
+      "reason": "Ethos, Pathos and Logos are Greek rhetorical appeals; 'Đặc tính, mầm bệnh và Logo' is a catastrophic machine translation."
+    }
+  ],
+  "systemicFlags": [
+    {
+      "flag": "apply-glossary-before-render",
+      "reason": "A later translation/build step should enforce exact glossary matching before generating correctAnswerVi and explanations, otherwise corrected labels may remain inconsistent across fields."
+    },
+    {
+      "flag": "verify-ocr-derived-corrections",
+      "ids": ["SSG104-S018", "SSG104-S019", "SSG104-S027", "SSG104-S054", "SSG104-S059", "SSG104-S163", "SSG104-S173", "SSG104-S174", "SSG104-S219", "SSG104-S336", "SSG104-S355"],
+      "reason": "The English source text itself is visibly corrupted; the Vietnamese correction is high-confidence but should be checked against the slide image."
+    },
+    {
+      "flag": "translation-can-cue-answer",
+      "reason": "In several multiple-choice records, one mistranslated option becomes nonsensical while peers remain plausible. This can reveal or conceal the intended answer independently of learner knowledge."
+    },
+    {
+      "flag": "option-capitalization-normalization",
+      "affectedOptionCount": 159,
+      "affectedQuestionCount": 47,
+      "reason": "A full-bank structural scan found 159 options beginning with a lowercase Unicode letter. Normalize the first character after applying semantic corrections, except where a deliberately case-sensitive token or quotation requires lowercase."
+    }
+  ]
+}

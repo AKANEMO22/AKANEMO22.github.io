@@ -1,0 +1,3132 @@
+[
+  {
+    "schemaVersion": 2,
+    "id": "SSG-LIB-01",
+    "label": "Bộ 01 · 50 câu",
+    "note": "50 câu nguồn liên tiếp, lượt 1–50",
+    "accent": "#ff8b5f",
+    "sourceQuestionCount": 50,
+    "repeatedQuestionCount": 0,
+    "questionIds": [
+      "SSG104-S009",
+      "SSG104-S010",
+      "SSG104-S011",
+      "SSG104-S012",
+      "SSG104-S013",
+      "SSG104-S014",
+      "SSG104-S015",
+      "SSG104-S016",
+      "SSG104-S017",
+      "SSG104-S018",
+      "SSG104-S019",
+      "SSG104-S021",
+      "SSG104-S022",
+      "SSG104-S023",
+      "SSG104-S024",
+      "SSG104-S025",
+      "SSG104-S026",
+      "SSG104-S027",
+      "SSG104-S028",
+      "SSG104-S029",
+      "SSG104-S030",
+      "SSG104-S031",
+      "SSG104-S032",
+      "SSG104-S033",
+      "SSG104-S034",
+      "SSG104-S035",
+      "SSG104-S036",
+      "SSG104-S037",
+      "SSG104-S038",
+      "SSG104-S039",
+      "SSG104-S040",
+      "SSG104-S041",
+      "SSG104-S042",
+      "SSG104-S043",
+      "SSG104-S044",
+      "SSG104-S045",
+      "SSG104-S046",
+      "SSG104-S047",
+      "SSG104-S048",
+      "SSG104-S049",
+      "SSG104-S050",
+      "SSG104-S051",
+      "SSG104-S052",
+      "SSG104-S053",
+      "SSG104-S054",
+      "SSG104-S056",
+      "SSG104-S057",
+      "SSG104-S058",
+      "SSG104-S059",
+      "SSG104-S060"
+    ],
+    "assignments": [
+      {
+        "questionId": "SSG104-S009",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S010",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S011",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S012",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S013",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S014",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S015",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S016",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S017",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S018",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S019",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S021",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S022",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S023",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S024",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S025",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S026",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S027",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S028",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S029",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S030",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S031",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S032",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S033",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S034",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S035",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S036",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S037",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S038",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S039",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S040",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S041",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S042",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S043",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S044",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S045",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S046",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S047",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S048",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S049",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S050",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S051",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S052",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S053",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S054",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S056",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S057",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S058",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S059",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S060",
+        "kind": "source",
+        "repeatedFromExamId": null
+      }
+    ]
+  },
+  {
+    "schemaVersion": 2,
+    "id": "SSG-LIB-02",
+    "label": "Bộ 02 · 50 câu",
+    "note": "50 câu nguồn liên tiếp, lượt 51–100",
+    "accent": "#63d6c5",
+    "sourceQuestionCount": 50,
+    "repeatedQuestionCount": 0,
+    "questionIds": [
+      "SSG104-S061",
+      "SSG104-S062",
+      "SSG104-S064",
+      "SSG104-S065",
+      "SSG104-S066",
+      "SSG104-S067",
+      "SSG104-S068",
+      "SSG104-S069",
+      "SSG104-S070",
+      "SSG104-S071",
+      "SSG104-S073",
+      "SSG104-S074",
+      "SSG104-S075",
+      "SSG104-S076",
+      "SSG104-S077",
+      "SSG104-S078",
+      "SSG104-S079",
+      "SSG104-S080",
+      "SSG104-S081",
+      "SSG104-S082",
+      "SSG104-S084",
+      "SSG104-S085",
+      "SSG104-S087",
+      "SSG104-S088",
+      "SSG104-S089",
+      "SSG104-S091",
+      "SSG104-S092",
+      "SSG104-S093",
+      "SSG104-S094",
+      "SSG104-S095",
+      "SSG104-S096",
+      "SSG104-S097",
+      "SSG104-S098",
+      "SSG104-S099",
+      "SSG104-S100",
+      "SSG104-S101",
+      "SSG104-S102",
+      "SSG104-S103",
+      "SSG104-S104",
+      "SSG104-S105",
+      "SSG104-S106",
+      "SSG104-S107",
+      "SSG104-S108",
+      "SSG104-S109",
+      "SSG104-S110",
+      "SSG104-S111",
+      "SSG104-S112",
+      "SSG104-S113",
+      "SSG104-S114",
+      "SSG104-S115"
+    ],
+    "assignments": [
+      {
+        "questionId": "SSG104-S061",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S062",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S064",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S065",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S066",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S067",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S068",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S069",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S070",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S071",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S073",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S074",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S075",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S076",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S077",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S078",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S079",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S080",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S081",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S082",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S084",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S085",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S087",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S088",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S089",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S091",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S092",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S093",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S094",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S095",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S096",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S097",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S098",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S099",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S100",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S101",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S102",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S103",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S104",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S105",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S106",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S107",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S108",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S109",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S110",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S111",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S112",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S113",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S114",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S115",
+        "kind": "source",
+        "repeatedFromExamId": null
+      }
+    ]
+  },
+  {
+    "schemaVersion": 2,
+    "id": "SSG-LIB-03",
+    "label": "Bộ 03 · 50 câu",
+    "note": "50 câu nguồn liên tiếp, lượt 101–150",
+    "accent": "#cab6ff",
+    "sourceQuestionCount": 50,
+    "repeatedQuestionCount": 0,
+    "questionIds": [
+      "SSG104-S116",
+      "SSG104-S117",
+      "SSG104-S118",
+      "SSG104-S119",
+      "SSG104-S120",
+      "SSG104-S121",
+      "SSG104-S123",
+      "SSG104-S124",
+      "SSG104-S125",
+      "SSG104-S126",
+      "SSG104-S127",
+      "SSG104-S128",
+      "SSG104-S129",
+      "SSG104-S130",
+      "SSG104-S131",
+      "SSG104-S132",
+      "SSG104-S133",
+      "SSG104-S134",
+      "SSG104-S135",
+      "SSG104-S136",
+      "SSG104-S137",
+      "SSG104-S138",
+      "SSG104-S139",
+      "SSG104-S140",
+      "SSG104-S141",
+      "SSG104-S142",
+      "SSG104-S143",
+      "SSG104-S144",
+      "SSG104-S145",
+      "SSG104-S146",
+      "SSG104-S147",
+      "SSG104-S149",
+      "SSG104-S150",
+      "SSG104-S151",
+      "SSG104-S152",
+      "SSG104-S153",
+      "SSG104-S154",
+      "SSG104-S155",
+      "SSG104-S157",
+      "SSG104-S158",
+      "SSG104-S159",
+      "SSG104-S160",
+      "SSG104-S161",
+      "SSG104-S162",
+      "SSG104-S163",
+      "SSG104-S164",
+      "SSG104-S165",
+      "SSG104-S166",
+      "SSG104-S167",
+      "SSG104-S168"
+    ],
+    "assignments": [
+      {
+        "questionId": "SSG104-S116",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S117",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S118",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S119",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S120",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S121",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S123",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S124",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S125",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S126",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S127",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S128",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S129",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S130",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S131",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S132",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S133",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S134",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S135",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S136",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S137",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S138",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S139",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S140",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S141",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S142",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S143",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S144",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S145",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S146",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S147",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S149",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S150",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S151",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S152",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S153",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S154",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S155",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S157",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S158",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S159",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S160",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S161",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S162",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S163",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S164",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S165",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S166",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S167",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S168",
+        "kind": "source",
+        "repeatedFromExamId": null
+      }
+    ]
+  },
+  {
+    "schemaVersion": 2,
+    "id": "SSG-LIB-04",
+    "label": "Bộ 04 · 50 câu",
+    "note": "50 câu nguồn liên tiếp, lượt 151–200",
+    "accent": "#f6c85f",
+    "sourceQuestionCount": 50,
+    "repeatedQuestionCount": 0,
+    "questionIds": [
+      "SSG104-S169",
+      "SSG104-S170",
+      "SSG104-S171",
+      "SSG104-S172",
+      "SSG104-S173",
+      "SSG104-S174",
+      "SSG104-S175",
+      "SSG104-S176",
+      "SSG104-S177",
+      "SSG104-S178",
+      "SSG104-S179",
+      "SSG104-S180",
+      "SSG104-S181",
+      "SSG104-S182",
+      "SSG104-S183",
+      "SSG104-S184",
+      "SSG104-S185",
+      "SSG104-S186",
+      "SSG104-S187",
+      "SSG104-S188",
+      "SSG104-S189",
+      "SSG104-S190",
+      "SSG104-S191",
+      "SSG104-S192",
+      "SSG104-S193",
+      "SSG104-S194",
+      "SSG104-S195",
+      "SSG104-S196",
+      "SSG104-S197",
+      "SSG104-S198",
+      "SSG104-S199",
+      "SSG104-S200",
+      "SSG104-S201",
+      "SSG104-S202",
+      "SSG104-S203",
+      "SSG104-S204",
+      "SSG104-S205",
+      "SSG104-S206",
+      "SSG104-S207",
+      "SSG104-S208",
+      "SSG104-S209",
+      "SSG104-S210",
+      "SSG104-S211",
+      "SSG104-S212",
+      "SSG104-S213",
+      "SSG104-S214",
+      "SSG104-S215",
+      "SSG104-S217",
+      "SSG104-S218",
+      "SSG104-S219"
+    ],
+    "assignments": [
+      {
+        "questionId": "SSG104-S169",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S170",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S171",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S172",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S173",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S174",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S175",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S176",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S177",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S178",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S179",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S180",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S181",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S182",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S183",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S184",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S185",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S186",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S187",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S188",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S189",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S190",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S191",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S192",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S193",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S194",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S195",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S196",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S197",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S198",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S199",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S200",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S201",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S202",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S203",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S204",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S205",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S206",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S207",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S208",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S209",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S210",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S211",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S212",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S213",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S214",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S215",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S217",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S218",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S219",
+        "kind": "source",
+        "repeatedFromExamId": null
+      }
+    ]
+  },
+  {
+    "schemaVersion": 2,
+    "id": "SSG-LIB-05",
+    "label": "Bộ 05 · 50 câu",
+    "note": "50 câu nguồn liên tiếp, lượt 201–250",
+    "accent": "#82b1ff",
+    "sourceQuestionCount": 50,
+    "repeatedQuestionCount": 0,
+    "questionIds": [
+      "SSG104-S220",
+      "SSG104-S221",
+      "SSG104-S222",
+      "SSG104-S223",
+      "SSG104-S224",
+      "SSG104-S225",
+      "SSG104-S226",
+      "SSG104-S227",
+      "SSG104-S228",
+      "SSG104-S229",
+      "SSG104-S230",
+      "SSG104-S231",
+      "SSG104-S232",
+      "SSG104-S233",
+      "SSG104-S234",
+      "SSG104-S235",
+      "SSG104-S236",
+      "SSG104-S237",
+      "SSG104-S238",
+      "SSG104-S239",
+      "SSG104-S240",
+      "SSG104-S241",
+      "SSG104-S242",
+      "SSG104-S243",
+      "SSG104-S244",
+      "SSG104-S245",
+      "SSG104-S246",
+      "SSG104-S247",
+      "SSG104-S248",
+      "SSG104-S250",
+      "SSG104-S251",
+      "SSG104-S252",
+      "SSG104-S253",
+      "SSG104-S254",
+      "SSG104-S255",
+      "SSG104-S256",
+      "SSG104-S257",
+      "SSG104-S258",
+      "SSG104-S259",
+      "SSG104-S260",
+      "SSG104-S261",
+      "SSG104-S262",
+      "SSG104-S263",
+      "SSG104-S264",
+      "SSG104-S265",
+      "SSG104-S266",
+      "SSG104-S267",
+      "SSG104-S268",
+      "SSG104-S269",
+      "SSG104-S270"
+    ],
+    "assignments": [
+      {
+        "questionId": "SSG104-S220",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S221",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S222",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S223",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S224",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S225",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S226",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S227",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S228",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S229",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S230",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S231",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S232",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S233",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S234",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S235",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S236",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S237",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S238",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S239",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S240",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S241",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S242",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S243",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S244",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S245",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S246",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S247",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S248",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S250",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S251",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S252",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S253",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S254",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S255",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S256",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S257",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S258",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S259",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S260",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S261",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S262",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S263",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S264",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S265",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S266",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S267",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S268",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S269",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S270",
+        "kind": "source",
+        "repeatedFromExamId": null
+      }
+    ]
+  },
+  {
+    "schemaVersion": 2,
+    "id": "SSG-LIB-06",
+    "label": "Bộ 06 · 50 câu",
+    "note": "50 câu nguồn liên tiếp, lượt 251–300",
+    "accent": "#ff8b5f",
+    "sourceQuestionCount": 50,
+    "repeatedQuestionCount": 0,
+    "questionIds": [
+      "SSG104-S271",
+      "SSG104-S272",
+      "SSG104-S273",
+      "SSG104-S274",
+      "SSG104-S275",
+      "SSG104-S276",
+      "SSG104-S277",
+      "SSG104-S278",
+      "SSG104-S279",
+      "SSG104-S280",
+      "SSG104-S281",
+      "SSG104-S282",
+      "SSG104-S283",
+      "SSG104-S284",
+      "SSG104-S285",
+      "SSG104-S286",
+      "SSG104-S287",
+      "SSG104-S289",
+      "SSG104-S290",
+      "SSG104-S291",
+      "SSG104-S292",
+      "SSG104-S293",
+      "SSG104-S294",
+      "SSG104-S295",
+      "SSG104-S296",
+      "SSG104-S297",
+      "SSG104-S298",
+      "SSG104-S299",
+      "SSG104-S300",
+      "SSG104-S301",
+      "SSG104-S302",
+      "SSG104-S303",
+      "SSG104-S304",
+      "SSG104-S305",
+      "SSG104-S306",
+      "SSG104-S307",
+      "SSG104-S308",
+      "SSG104-S309",
+      "SSG104-S310",
+      "SSG104-S311",
+      "SSG104-S312",
+      "SSG104-S313",
+      "SSG104-S314",
+      "SSG104-S315",
+      "SSG104-S316",
+      "SSG104-S317",
+      "SSG104-S318",
+      "SSG104-S320",
+      "SSG104-S321",
+      "SSG104-S322"
+    ],
+    "assignments": [
+      {
+        "questionId": "SSG104-S271",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S272",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S273",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S274",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S275",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S276",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S277",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S278",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S279",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S280",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S281",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S282",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S283",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S284",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S285",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S286",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S287",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S289",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S290",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S291",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S292",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S293",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S294",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S295",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S296",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S297",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S298",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S299",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S300",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S301",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S302",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S303",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S304",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S305",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S306",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S307",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S308",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S309",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S310",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S311",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S312",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S313",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S314",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S315",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S316",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S317",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S318",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S320",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S321",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S322",
+        "kind": "source",
+        "repeatedFromExamId": null
+      }
+    ]
+  },
+  {
+    "schemaVersion": 2,
+    "id": "SSG-LIB-07",
+    "label": "Bộ 07 · 50 câu",
+    "note": "50 câu nguồn liên tiếp, lượt 301–350",
+    "accent": "#63d6c5",
+    "sourceQuestionCount": 50,
+    "repeatedQuestionCount": 0,
+    "questionIds": [
+      "SSG104-S323",
+      "SSG104-S324",
+      "SSG104-S325",
+      "SSG104-S326",
+      "SSG104-S327",
+      "SSG104-S328",
+      "SSG104-S329",
+      "SSG104-S330",
+      "SSG104-S331",
+      "SSG104-S333",
+      "SSG104-S334",
+      "SSG104-S335",
+      "SSG104-S336",
+      "SSG104-S337",
+      "SSG104-S338",
+      "SSG104-S339",
+      "SSG104-S340",
+      "SSG104-S341",
+      "SSG104-S342",
+      "SSG104-S343",
+      "SSG104-S344",
+      "SSG104-S345",
+      "SSG104-S346",
+      "SSG104-S347",
+      "SSG104-S348",
+      "SSG104-S349",
+      "SSG104-S350",
+      "SSG104-S351",
+      "SSG104-S352",
+      "SSG104-S353",
+      "SSG104-S354",
+      "SSG104-S355",
+      "SSG104-S356",
+      "SSG104-S357",
+      "SSG104-S358",
+      "SSG104-S359",
+      "SSG104-S360",
+      "SSG104-S361",
+      "SSG104-S362",
+      "SSG104-S363",
+      "SSG104-S364",
+      "SSG104-S365",
+      "SSG104-S366",
+      "SSG104-S367",
+      "SSG104-S368",
+      "SSG104-S369",
+      "SSG104-S370",
+      "SSG104-S371",
+      "SSG104-S372",
+      "SSG104-S373"
+    ],
+    "assignments": [
+      {
+        "questionId": "SSG104-S323",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S324",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S325",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S326",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S327",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S328",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S329",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S330",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S331",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S333",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S334",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S335",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S336",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S337",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S338",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S339",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S340",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S341",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S342",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S343",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S344",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S345",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S346",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S347",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S348",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S349",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S350",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S351",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S352",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S353",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S354",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S355",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S356",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S357",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S358",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S359",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S360",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S361",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S362",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S363",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S364",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S365",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S366",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S367",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S368",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S369",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S370",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S371",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S372",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S373",
+        "kind": "source",
+        "repeatedFromExamId": null
+      }
+    ]
+  },
+  {
+    "schemaVersion": 2,
+    "id": "SSG-LIB-08",
+    "label": "Bộ 08 · 50 câu",
+    "note": "50 câu nguồn liên tiếp, lượt 351–400",
+    "accent": "#cab6ff",
+    "sourceQuestionCount": 50,
+    "repeatedQuestionCount": 0,
+    "questionIds": [
+      "SSG104-S374",
+      "SSG104-S375",
+      "SSG104-S376",
+      "SSG105-S378",
+      "SSG105-S379",
+      "SSG105-S380",
+      "SSG105-S381",
+      "SSG105-S382",
+      "SSG105-S383",
+      "SSG105-S384",
+      "SSG105-S385",
+      "SSG105-S386",
+      "SSG105-S387",
+      "SSG105-S388",
+      "SSG105-S389",
+      "SSG105-S390",
+      "SSG105-S391",
+      "SSG105-S392",
+      "SSG105-S393",
+      "SSG105-S394",
+      "SSG105-S395",
+      "SSG105-S396",
+      "SSG105-S397",
+      "SSG105-S398",
+      "SSG105-S399",
+      "SSG105-S400",
+      "SSG105-S401",
+      "SSG105-S402",
+      "SSG105-S403",
+      "SSG105-S404",
+      "SSG105-S405",
+      "SSG105-S406",
+      "SSG105-S407",
+      "SSG105-S408",
+      "SSG105-S409",
+      "SSG105-S410",
+      "SSG105-S411",
+      "SSG105-S412",
+      "SSG105-S413",
+      "SSG105-S414",
+      "SSG105-S415",
+      "SSG105-S416",
+      "SSG105-S417",
+      "SSG105-S418",
+      "SSG105-S419",
+      "SSG105-S420",
+      "SSG105-S421",
+      "SSG105-S422",
+      "SSG105-S423",
+      "SSG105-S424"
+    ],
+    "assignments": [
+      {
+        "questionId": "SSG104-S374",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S375",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S376",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S378",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S379",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S380",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S381",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S382",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S383",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S384",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S385",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S386",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S387",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S388",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S389",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S390",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S391",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S392",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S393",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S394",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S395",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S396",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S397",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S398",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S399",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S400",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S401",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S402",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S403",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S404",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S405",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S406",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S407",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S408",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S409",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S410",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S411",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S412",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S413",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S414",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S415",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S416",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S417",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S418",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S419",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S420",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S421",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S422",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S423",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S424",
+        "kind": "source",
+        "repeatedFromExamId": null
+      }
+    ]
+  },
+  {
+    "schemaVersion": 2,
+    "id": "SSG-LIB-09",
+    "label": "Bộ 09 · 50 câu",
+    "note": "50 câu nguồn liên tiếp, lượt 401–450",
+    "accent": "#f6c85f",
+    "sourceQuestionCount": 50,
+    "repeatedQuestionCount": 0,
+    "questionIds": [
+      "SSG105-S425",
+      "SSG105-S426",
+      "SSG105-S427",
+      "SSG105-S428",
+      "SSG105-S429",
+      "SSG105-S430",
+      "SSG105-S431",
+      "SSG105-S432",
+      "SSG105-S433",
+      "SSG105-S434",
+      "SSG105-S435",
+      "SSG105-S436",
+      "SSG105-S437",
+      "SSG105-S438",
+      "SSG105-S439",
+      "SSG105-S440",
+      "SSG105-S441",
+      "SSG105-S442",
+      "SSG105-S443",
+      "SSG105-S444",
+      "SSG105-S445",
+      "SSG105-S446",
+      "SSG105-S447",
+      "SSG105-S448",
+      "SSG105-S449",
+      "SSG105-S450",
+      "SSG105-S451",
+      "SSG105-S452",
+      "SSG105-S453",
+      "SSG105-S454",
+      "SSG105-S455",
+      "SSG105-S456",
+      "SSG105-S457",
+      "SSG105-S458",
+      "SSG105-S459",
+      "SSG105-S460",
+      "SSG105-S461",
+      "SSG105-S462",
+      "SSG105-S463",
+      "SSG105-S464",
+      "SSG105-S465",
+      "SSG105-S466",
+      "SSG105-S467",
+      "SSG105-S468",
+      "SSG105-S469",
+      "SSG105-S470",
+      "SSG105-S471",
+      "SSG105-S472",
+      "SSG105-S473",
+      "SSG105-S474"
+    ],
+    "assignments": [
+      {
+        "questionId": "SSG105-S425",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S426",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S427",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S428",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S429",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S430",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S431",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S432",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S433",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S434",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S435",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S436",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S437",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S438",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S439",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S440",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S441",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S442",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S443",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S444",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S445",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S446",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S447",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S448",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S449",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S450",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S451",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S452",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S453",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S454",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S455",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S456",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S457",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S458",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S459",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S460",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S461",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S462",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S463",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S464",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S465",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S466",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S467",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S468",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S469",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S470",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S471",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S472",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S473",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S474",
+        "kind": "source",
+        "repeatedFromExamId": null
+      }
+    ]
+  },
+  {
+    "schemaVersion": 2,
+    "id": "SSG-LIB-10",
+    "label": "Bộ 10 · 50 câu",
+    "note": "33 câu nguồn cuối + 17 câu ôn lặp được đánh dấu rõ để đủ 50",
+    "accent": "#82b1ff",
+    "sourceQuestionCount": 33,
+    "repeatedQuestionCount": 17,
+    "questionIds": [
+      "SSG105-S475",
+      "SSG105-S476",
+      "SSG105-S477",
+      "SSG105-S478",
+      "SSG105-S479",
+      "SSG105-S480",
+      "SSG105-S481",
+      "SSG105-S482",
+      "SSG105-S483",
+      "SSG105-S484",
+      "SSG105-S485",
+      "SSG105-S486",
+      "SSG105-S487",
+      "SSG105-S488",
+      "SSG105-S489",
+      "SSG105-S490",
+      "SSG105-S491",
+      "SSG105-S492",
+      "SSG105-S493",
+      "SSG105-S494",
+      "SSG105-S495",
+      "SSG105-S496",
+      "SSG105-S497",
+      "SSG105-S498",
+      "SSG105-S499",
+      "SSG105-S500",
+      "SSG105-S501",
+      "SSG105-S502",
+      "SSG105-S503",
+      "SSG105-S504",
+      "SSG105-S505",
+      "SSG105-S506",
+      "SSG105-S507",
+      "SSG104-S009",
+      "SSG104-S010",
+      "SSG104-S011",
+      "SSG104-S012",
+      "SSG104-S013",
+      "SSG104-S014",
+      "SSG104-S015",
+      "SSG104-S016",
+      "SSG104-S017",
+      "SSG104-S018",
+      "SSG104-S019",
+      "SSG104-S023",
+      "SSG104-S024",
+      "SSG104-S025",
+      "SSG104-S030",
+      "SSG104-S031",
+      "SSG104-S032"
+    ],
+    "assignments": [
+      {
+        "questionId": "SSG105-S475",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S476",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S477",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S478",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S479",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S480",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S481",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S482",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S483",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S484",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S485",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S486",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S487",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S488",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S489",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S490",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S491",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S492",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S493",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S494",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S495",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S496",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S497",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S498",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S499",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S500",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S501",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S502",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S503",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S504",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S505",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S506",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG105-S507",
+        "kind": "source",
+        "repeatedFromExamId": null
+      },
+      {
+        "questionId": "SSG104-S009",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S010",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S011",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S012",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S013",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S014",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S015",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S016",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S017",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S018",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S019",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S023",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S024",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S025",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S030",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S031",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      },
+      {
+        "questionId": "SSG104-S032",
+        "kind": "practice-repeat",
+        "repeatedFromExamId": "SSG-LIB-01"
+      }
+    ]
+  }
+]

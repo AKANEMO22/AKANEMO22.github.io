@@ -1,0 +1,6773 @@
+{
+  "schemaVersion": 2,
+  "documentId": "1jSA13wRNJPU1fIQMf-gFIM-C9l4ZmWnPC6gdE9-3E8Y",
+  "sourceQuestionCount": 483,
+  "expectedAssetCount": 483,
+  "presentAssetCount": 483,
+  "missingAssetCount": 0,
+  "allPresentAssetsArePng": true,
+  "assets": [
+    {
+      "questionId": "SSG104-S009",
+      "subject": "SSG104",
+      "sourceSlide": 9,
+      "pageId": "g3f95209e0e4_0_2681",
+      "path": "/ssg104/source/slide-0009.png",
+      "present": true,
+      "bytes": 79363,
+      "sha256": "67cbd06aa7b779ff04e1d9381f619116496a4af5ad3837cffdfa4b37b564641e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S010",
+      "subject": "SSG104",
+      "sourceSlide": 10,
+      "pageId": "g3f95209e0e4_0_2688",
+      "path": "/ssg104/source/slide-0010.png",
+      "present": true,
+      "bytes": 47846,
+      "sha256": "0d288c810dd7823ffdc5cdf91a304e42b44a62409944892ad1d6d3045f524aca",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S011",
+      "subject": "SSG104",
+      "sourceSlide": 11,
+      "pageId": "g3f95209e0e4_0_2695",
+      "path": "/ssg104/source/slide-0011.png",
+      "present": true,
+      "bytes": 43604,
+      "sha256": "f681e9a19b1d30db83060f8d25b9d60133a4dc6e9dc9803ac9290409e2bd26d8",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S012",
+      "subject": "SSG104",
+      "sourceSlide": 12,
+      "pageId": "g3f95209e0e4_0_2702",
+      "path": "/ssg104/source/slide-0012.png",
+      "present": true,
+      "bytes": 44309,
+      "sha256": "d0a4cf895e9029f40eec964e1591ebc93cca6a639d6a7d2b6ef0997b98acbf33",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S013",
+      "subject": "SSG104",
+      "sourceSlide": 13,
+      "pageId": "g3f95209e0e4_0_2709",
+      "path": "/ssg104/source/slide-0013.png",
+      "present": true,
+      "bytes": 44670,
+      "sha256": "fde6aed0b6f7ec091d175e7634341f86181dac64f3f825db57f61fef13bcf68f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S014",
+      "subject": "SSG104",
+      "sourceSlide": 14,
+      "pageId": "g3f95209e0e4_0_2716",
+      "path": "/ssg104/source/slide-0014.png",
+      "present": true,
+      "bytes": 34658,
+      "sha256": "88a09687c9abc21cf8cb62b293eae1bfef7712c8da242e968170bc8fc00f0a06",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S015",
+      "subject": "SSG104",
+      "sourceSlide": 15,
+      "pageId": "g3f95209e0e4_0_2723",
+      "path": "/ssg104/source/slide-0015.png",
+      "present": true,
+      "bytes": 49561,
+      "sha256": "f96258d48319aa86dae4f2627c22e2592103206153642d91c09d8f4af2ef76f3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S016",
+      "subject": "SSG104",
+      "sourceSlide": 16,
+      "pageId": "g3f95209e0e4_0_2730",
+      "path": "/ssg104/source/slide-0016.png",
+      "present": true,
+      "bytes": 40092,
+      "sha256": "e7ec59f94b23d03452ab5ed55e9f18ff1461933ae05abdc604fcb70bb12082ce",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S017",
+      "subject": "SSG104",
+      "sourceSlide": 17,
+      "pageId": "g3f95209e0e4_0_2737",
+      "path": "/ssg104/source/slide-0017.png",
+      "present": true,
+      "bytes": 45824,
+      "sha256": "1f7b741f2758774361ed1a37a8c431e67edd31231930030a5083ec9a13cf9ffe",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S018",
+      "subject": "SSG104",
+      "sourceSlide": 18,
+      "pageId": "g3f95209e0e4_0_2744",
+      "path": "/ssg104/source/slide-0018.png",
+      "present": true,
+      "bytes": 36521,
+      "sha256": "9fa44d6b99a0e515dcc8441ff85e35c957160a82607d24196b7bb1fdfc8e38df",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S019",
+      "subject": "SSG104",
+      "sourceSlide": 19,
+      "pageId": "g3f95209e0e4_0_2751",
+      "path": "/ssg104/source/slide-0019.png",
+      "present": true,
+      "bytes": 33538,
+      "sha256": "6a2dcdc89ad5834e93e0bd7ffd479ef71f87d2f4eadcb2724ecc4264293e4cae",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S021",
+      "subject": "SSG104",
+      "sourceSlide": 21,
+      "pageId": "g3f95209e0e4_0_2764",
+      "path": "/ssg104/source/slide-0021.png",
+      "present": true,
+      "bytes": 73700,
+      "sha256": "1f6776425f8e56e166c104b71be75da2cdbca253cb53abe51edc1165c5a76af9",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S022",
+      "subject": "SSG104",
+      "sourceSlide": 22,
+      "pageId": "g3f95209e0e4_0_2771",
+      "path": "/ssg104/source/slide-0022.png",
+      "present": true,
+      "bytes": 42509,
+      "sha256": "4a5af592e8e1fdf8a4dd6dab12d0e816792d022342209718fc8dd158f0945b71",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S023",
+      "subject": "SSG104",
+      "sourceSlide": 23,
+      "pageId": "g3f95209e0e4_0_2778",
+      "path": "/ssg104/source/slide-0023.png",
+      "present": true,
+      "bytes": 47022,
+      "sha256": "bbaf28a87e8741d7b58a7f97f675d7ebf6729ce5fc66921451c590f066d1bb03",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S024",
+      "subject": "SSG104",
+      "sourceSlide": 24,
+      "pageId": "g3f95209e0e4_0_2785",
+      "path": "/ssg104/source/slide-0024.png",
+      "present": true,
+      "bytes": 99977,
+      "sha256": "3272ccfe28b6539a365b914d2adf471b5956923f28632b75259e67b1580411c4",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S025",
+      "subject": "SSG104",
+      "sourceSlide": 25,
+      "pageId": "g3f95209e0e4_0_2792",
+      "path": "/ssg104/source/slide-0025.png",
+      "present": true,
+      "bytes": 67057,
+      "sha256": "8abe00d5e96e9a5a39b953410c7325aa4368763512189e5d6bbd9aaf14bf4855",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S026",
+      "subject": "SSG104",
+      "sourceSlide": 26,
+      "pageId": "g3f95209e0e4_0_2799",
+      "path": "/ssg104/source/slide-0026.png",
+      "present": true,
+      "bytes": 44845,
+      "sha256": "64484fb61286e6d6994aeaca5868862703b28e3b528684673bd8b22601c9ebf6",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S027",
+      "subject": "SSG104",
+      "sourceSlide": 27,
+      "pageId": "g3f95209e0e4_0_2806",
+      "path": "/ssg104/source/slide-0027.png",
+      "present": true,
+      "bytes": 53422,
+      "sha256": "e2033ef5a8bfabb004b1af1ef7a41802e4aa114bd0deb8427c8c476c888742e7",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S028",
+      "subject": "SSG104",
+      "sourceSlide": 28,
+      "pageId": "g3f95209e0e4_0_2813",
+      "path": "/ssg104/source/slide-0028.png",
+      "present": true,
+      "bytes": 46449,
+      "sha256": "e7cf200df70580c6161fc49b176af864715796556ed17826039d0cd9348995a3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S029",
+      "subject": "SSG104",
+      "sourceSlide": 29,
+      "pageId": "g3f95209e0e4_0_2820",
+      "path": "/ssg104/source/slide-0029.png",
+      "present": true,
+      "bytes": 36557,
+      "sha256": "009009139f2d201e5af12aec4319bc69f619231aeb7e24e4919b5cd2577e6dd7",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S030",
+      "subject": "SSG104",
+      "sourceSlide": 30,
+      "pageId": "g3f95209e0e4_0_2827",
+      "path": "/ssg104/source/slide-0030.png",
+      "present": true,
+      "bytes": 81373,
+      "sha256": "31cf86da5136578d14fd90ac34668cf332cd8e7c5c92419f9f4bf7ed9af58864",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S031",
+      "subject": "SSG104",
+      "sourceSlide": 31,
+      "pageId": "g3f95209e0e4_0_2834",
+      "path": "/ssg104/source/slide-0031.png",
+      "present": true,
+      "bytes": 77816,
+      "sha256": "e3d39361f3ed788076bf81c77e602071d23c86c393657af8313779191ec6fa6c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S032",
+      "subject": "SSG104",
+      "sourceSlide": 32,
+      "pageId": "g3f95209e0e4_0_2841",
+      "path": "/ssg104/source/slide-0032.png",
+      "present": true,
+      "bytes": 86714,
+      "sha256": "9e8f09ff2b3ccf839397acbace903d2410dc667debc725d743fda5e46b2cd4d4",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S033",
+      "subject": "SSG104",
+      "sourceSlide": 33,
+      "pageId": "g3f95209e0e4_0_2848",
+      "path": "/ssg104/source/slide-0033.png",
+      "present": true,
+      "bytes": 104822,
+      "sha256": "0ae7a7d18601c20d666c93fdad83d3fdf4360f1bc3cfa73d408037255dcd501b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S034",
+      "subject": "SSG104",
+      "sourceSlide": 34,
+      "pageId": "g3f95209e0e4_0_2855",
+      "path": "/ssg104/source/slide-0034.png",
+      "present": true,
+      "bytes": 44526,
+      "sha256": "2ea8c1c0f30042e2ac48751f8b7f2084a7463ed7f01a5bddab46c2c8b2235969",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S035",
+      "subject": "SSG104",
+      "sourceSlide": 35,
+      "pageId": "g3f95209e0e4_0_2862",
+      "path": "/ssg104/source/slide-0035.png",
+      "present": true,
+      "bytes": 44871,
+      "sha256": "bd354ccc8602e2ddd58a1e2b597dc4cf8ccd0761a92f77b7cc364c35f289d516",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S036",
+      "subject": "SSG104",
+      "sourceSlide": 36,
+      "pageId": "g3f95209e0e4_0_2869",
+      "path": "/ssg104/source/slide-0036.png",
+      "present": true,
+      "bytes": 45524,
+      "sha256": "c3f42c9e090a901629390a7c9e5abadda8bee447bcdd79134726605b21af9278",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S037",
+      "subject": "SSG104",
+      "sourceSlide": 37,
+      "pageId": "g3f95209e0e4_0_2876",
+      "path": "/ssg104/source/slide-0037.png",
+      "present": true,
+      "bytes": 43631,
+      "sha256": "251b99f5b58651d219d57a881ce2eeef50253b4ac55612db80119d5f85a62d9a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S038",
+      "subject": "SSG104",
+      "sourceSlide": 38,
+      "pageId": "g3f95209e0e4_0_2883",
+      "path": "/ssg104/source/slide-0038.png",
+      "present": true,
+      "bytes": 47204,
+      "sha256": "d178a228dc781541aef86151b138bfe46b0bdafe6b82b3cf29e90ccef95e147a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S039",
+      "subject": "SSG104",
+      "sourceSlide": 39,
+      "pageId": "g3f95209e0e4_0_2890",
+      "path": "/ssg104/source/slide-0039.png",
+      "present": true,
+      "bytes": 42665,
+      "sha256": "374f15c255ad81bc891bf7a731546c829799e1aa5eb8ab574e8290aefe617fa2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S040",
+      "subject": "SSG104",
+      "sourceSlide": 40,
+      "pageId": "g3f95209e0e4_0_2897",
+      "path": "/ssg104/source/slide-0040.png",
+      "present": true,
+      "bytes": 56330,
+      "sha256": "20f375df363408e809029d2506b341fe7d40779fb7649578c8dab6080e934caa",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S041",
+      "subject": "SSG104",
+      "sourceSlide": 41,
+      "pageId": "g3f95209e0e4_0_2904",
+      "path": "/ssg104/source/slide-0041.png",
+      "present": true,
+      "bytes": 51916,
+      "sha256": "86fd29add55d0df29d9fc6ff7dc132a2aa5ce76beade85c27d4f3cb3915b3f6b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S042",
+      "subject": "SSG104",
+      "sourceSlide": 42,
+      "pageId": "g3f95209e0e4_0_2911",
+      "path": "/ssg104/source/slide-0042.png",
+      "present": true,
+      "bytes": 58548,
+      "sha256": "3c17a33be09f2e32bfa1a2280d2a1feef0683b110b4d3c4ed0789d3b734e4dbc",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S043",
+      "subject": "SSG104",
+      "sourceSlide": 43,
+      "pageId": "g3f95209e0e4_0_2918",
+      "path": "/ssg104/source/slide-0043.png",
+      "present": true,
+      "bytes": 67601,
+      "sha256": "916641a0e4038b2e478f8932a92fa0ad2bb2cb9a10255d2699434e9162bd8ca4",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S044",
+      "subject": "SSG104",
+      "sourceSlide": 44,
+      "pageId": "g3f95209e0e4_0_2925",
+      "path": "/ssg104/source/slide-0044.png",
+      "present": true,
+      "bytes": 73260,
+      "sha256": "1417bbb8acd2d51573ef21ea84f2e04c43d9634f34ff20889648ff127bb4cbac",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S045",
+      "subject": "SSG104",
+      "sourceSlide": 45,
+      "pageId": "g3f95209e0e4_0_2932",
+      "path": "/ssg104/source/slide-0045.png",
+      "present": true,
+      "bytes": 68437,
+      "sha256": "458eb2864860ff3e9f4c3e3c4907cc6ea675fa182f2f5f19cddc08c24ae2da40",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S046",
+      "subject": "SSG104",
+      "sourceSlide": 46,
+      "pageId": "g3f95209e0e4_0_2939",
+      "path": "/ssg104/source/slide-0046.png",
+      "present": true,
+      "bytes": 76057,
+      "sha256": "5d6eb1b51e66cfe426726d6ad0925a005cf3cf25b3fef3e3a471ca84533e9dc6",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S047",
+      "subject": "SSG104",
+      "sourceSlide": 47,
+      "pageId": "g3f95209e0e4_0_2946",
+      "path": "/ssg104/source/slide-0047.png",
+      "present": true,
+      "bytes": 64067,
+      "sha256": "5b62d65d793b85616d51334dab2e0172851dbd44f48c2e91fb42bafc75b18a98",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S048",
+      "subject": "SSG104",
+      "sourceSlide": 48,
+      "pageId": "g3f95209e0e4_0_2953",
+      "path": "/ssg104/source/slide-0048.png",
+      "present": true,
+      "bytes": 97060,
+      "sha256": "969a559920a52544722a4c2876875e496fbd7a0c495c56033ae034afcb437c5f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S049",
+      "subject": "SSG104",
+      "sourceSlide": 49,
+      "pageId": "g3f95209e0e4_0_2960",
+      "path": "/ssg104/source/slide-0049.png",
+      "present": true,
+      "bytes": 74716,
+      "sha256": "34b7a37bd45164b6e58b55499c736643e4fb31ef0340387d5875d66b7c20eb0c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S050",
+      "subject": "SSG104",
+      "sourceSlide": 50,
+      "pageId": "g3f95209e0e4_0_2967",
+      "path": "/ssg104/source/slide-0050.png",
+      "present": true,
+      "bytes": 72864,
+      "sha256": "fa2f21d581062da883308b599a92db3c0801c31edab0205aff93630b55e2c6c3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S051",
+      "subject": "SSG104",
+      "sourceSlide": 51,
+      "pageId": "g3f95209e0e4_0_2974",
+      "path": "/ssg104/source/slide-0051.png",
+      "present": true,
+      "bytes": 75948,
+      "sha256": "2bf7c6c384d8589a9fc2df37b96772d0d8dd224ed181aa4dd08044fd0ed03223",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S052",
+      "subject": "SSG104",
+      "sourceSlide": 52,
+      "pageId": "g3f95209e0e4_0_2981",
+      "path": "/ssg104/source/slide-0052.png",
+      "present": true,
+      "bytes": 62291,
+      "sha256": "c5e7c43d6ec2f718393cad1fe3aa74c7619250513a755cb0d7d09af909d15124",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S053",
+      "subject": "SSG104",
+      "sourceSlide": 53,
+      "pageId": "g3f95209e0e4_0_2988",
+      "path": "/ssg104/source/slide-0053.png",
+      "present": true,
+      "bytes": 87639,
+      "sha256": "a4a2ff03bf17a97c9bad993fdf74fb38e3a039061996c874b8bb2f96affb7173",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S054",
+      "subject": "SSG104",
+      "sourceSlide": 54,
+      "pageId": "g3f95209e0e4_0_2995",
+      "path": "/ssg104/source/slide-0054.png",
+      "present": true,
+      "bytes": 45432,
+      "sha256": "82eb0942c648698c71951b69b595686a4a28cf1cce7aee4bf92d42f8bb021d2b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S056",
+      "subject": "SSG104",
+      "sourceSlide": 56,
+      "pageId": "g3f95209e0e4_0_3008",
+      "path": "/ssg104/source/slide-0056.png",
+      "present": true,
+      "bytes": 61573,
+      "sha256": "2ddaf38d7beb52d8149c3d1ccc928173354047141ddecb630ec6c51dd7f4b1c8",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S057",
+      "subject": "SSG104",
+      "sourceSlide": 57,
+      "pageId": "g3f95209e0e4_0_3015",
+      "path": "/ssg104/source/slide-0057.png",
+      "present": true,
+      "bytes": 71113,
+      "sha256": "5bccaa3c0e05f9dd734c5b0347b91d6d1f13c1eb390a30e641a2febb6cbc822d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S058",
+      "subject": "SSG104",
+      "sourceSlide": 58,
+      "pageId": "g3f95209e0e4_0_3022",
+      "path": "/ssg104/source/slide-0058.png",
+      "present": true,
+      "bytes": 63872,
+      "sha256": "6a62490c8fa8fb5063fbe8c515b57721e8484276151eb2d1d9baa721f5682411",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S059",
+      "subject": "SSG104",
+      "sourceSlide": 59,
+      "pageId": "g3f95209e0e4_0_3029",
+      "path": "/ssg104/source/slide-0059.png",
+      "present": true,
+      "bytes": 77625,
+      "sha256": "8b6bb9b79b53c474f697768562754ca04e4662d5957dd2df0c832aa991eca367",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S060",
+      "subject": "SSG104",
+      "sourceSlide": 60,
+      "pageId": "g3f95209e0e4_0_3036",
+      "path": "/ssg104/source/slide-0060.png",
+      "present": true,
+      "bytes": 97536,
+      "sha256": "7fd50c4e751e7d2850ff647b36062df4b477e934c5aac585d480b60fd69cf5d3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S061",
+      "subject": "SSG104",
+      "sourceSlide": 61,
+      "pageId": "g3f95209e0e4_0_3043",
+      "path": "/ssg104/source/slide-0061.png",
+      "present": true,
+      "bytes": 54185,
+      "sha256": "f8c7ff2d27acb9232f55694f957314c41e281fd9e088c4a139f537d2cc9fc7a3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S062",
+      "subject": "SSG104",
+      "sourceSlide": 62,
+      "pageId": "g3f95209e0e4_0_3050",
+      "path": "/ssg104/source/slide-0062.png",
+      "present": true,
+      "bytes": 65128,
+      "sha256": "cd92a870239bd2f8a7ac71e16e3537231e5e945cbd7d836652ea2b89446ba486",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S064",
+      "subject": "SSG104",
+      "sourceSlide": 64,
+      "pageId": "g3f95209e0e4_0_3063",
+      "path": "/ssg104/source/slide-0064.png",
+      "present": true,
+      "bytes": 61969,
+      "sha256": "ec84590f93ebd690a4f185eea79d33d8aef8b5fc7df5a4096c668821f541c629",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S065",
+      "subject": "SSG104",
+      "sourceSlide": 65,
+      "pageId": "g3f95209e0e4_0_3070",
+      "path": "/ssg104/source/slide-0065.png",
+      "present": true,
+      "bytes": 75806,
+      "sha256": "a7ee1bafeeb17fc6f535308f18aeacefbadb76ad66a0a1e7d808ad9beb1fa631",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S066",
+      "subject": "SSG104",
+      "sourceSlide": 66,
+      "pageId": "g3f95209e0e4_0_3077",
+      "path": "/ssg104/source/slide-0066.png",
+      "present": true,
+      "bytes": 61050,
+      "sha256": "a9bdacfc9ffa830f55c8900be40ff7738a2679c8ccd40d79eeb2f9e0ce0539d7",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S067",
+      "subject": "SSG104",
+      "sourceSlide": 67,
+      "pageId": "g3f95209e0e4_0_3084",
+      "path": "/ssg104/source/slide-0067.png",
+      "present": true,
+      "bytes": 61265,
+      "sha256": "7f33182162bd3e0a917aef5d32362aacc55a76372def3634b7320b258e08a576",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S068",
+      "subject": "SSG104",
+      "sourceSlide": 68,
+      "pageId": "g3f95209e0e4_0_3091",
+      "path": "/ssg104/source/slide-0068.png",
+      "present": true,
+      "bytes": 51092,
+      "sha256": "0c5bb0337fc92aba58c8fdd8ffc4a5cb9f89b8740bd0be51c7aea662b6829802",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S069",
+      "subject": "SSG104",
+      "sourceSlide": 69,
+      "pageId": "g3f95209e0e4_0_3098",
+      "path": "/ssg104/source/slide-0069.png",
+      "present": true,
+      "bytes": 73945,
+      "sha256": "f85cc5494e90ff3b1bc09ca5b3e81aae35a677b58eca6275b3cf45a8d604b4b2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S070",
+      "subject": "SSG104",
+      "sourceSlide": 70,
+      "pageId": "g3f95209e0e4_0_3105",
+      "path": "/ssg104/source/slide-0070.png",
+      "present": true,
+      "bytes": 87813,
+      "sha256": "f725be03c5d8b7e875e99a869c7e52b2ea670fb9eb9736328ebbab65105de5b4",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S071",
+      "subject": "SSG104",
+      "sourceSlide": 71,
+      "pageId": "g3f95209e0e4_0_3112",
+      "path": "/ssg104/source/slide-0071.png",
+      "present": true,
+      "bytes": 58696,
+      "sha256": "16c08d301b53ab48b7340aa53b9fe203a3b64893600985d91706c8287e64fc6c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S073",
+      "subject": "SSG104",
+      "sourceSlide": 73,
+      "pageId": "g3f95209e0e4_0_3125",
+      "path": "/ssg104/source/slide-0073.png",
+      "present": true,
+      "bytes": 67669,
+      "sha256": "bb8091eedcc862a94b1f1234192e021b239da9a2c35383fabe0d1bdbf30ab846",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S074",
+      "subject": "SSG104",
+      "sourceSlide": 74,
+      "pageId": "g3f95209e0e4_0_3132",
+      "path": "/ssg104/source/slide-0074.png",
+      "present": true,
+      "bytes": 70224,
+      "sha256": "af940b1588d93f2212ecf18f640c9a5362de362f5eb75cfe450e27e6ea5fd52a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S075",
+      "subject": "SSG104",
+      "sourceSlide": 75,
+      "pageId": "g3f95209e0e4_0_3139",
+      "path": "/ssg104/source/slide-0075.png",
+      "present": true,
+      "bytes": 88260,
+      "sha256": "5edb0b22d6f264a1bc9ca07979ac941e6e58c4c735ad974ff8f84555cdb5a198",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S076",
+      "subject": "SSG104",
+      "sourceSlide": 76,
+      "pageId": "g3f95209e0e4_0_3146",
+      "path": "/ssg104/source/slide-0076.png",
+      "present": true,
+      "bytes": 75599,
+      "sha256": "1379f08a1d5f4c15cf752409d047688d69f0becdcf97fd8267eb9317673d7c91",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S077",
+      "subject": "SSG104",
+      "sourceSlide": 77,
+      "pageId": "g3f95209e0e4_0_3153",
+      "path": "/ssg104/source/slide-0077.png",
+      "present": true,
+      "bytes": 108104,
+      "sha256": "a5d0443779b7074e40c84d835226148e455abe841b8fe82ac1a8b5b439973460",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S078",
+      "subject": "SSG104",
+      "sourceSlide": 78,
+      "pageId": "g3f95209e0e4_0_3160",
+      "path": "/ssg104/source/slide-0078.png",
+      "present": true,
+      "bytes": 47440,
+      "sha256": "cad3f26e1a44dfc3deb9ea0ee9e1894b1655622e67c759eb65221e47f4c0efa7",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S079",
+      "subject": "SSG104",
+      "sourceSlide": 79,
+      "pageId": "g3f95209e0e4_0_3167",
+      "path": "/ssg104/source/slide-0079.png",
+      "present": true,
+      "bytes": 68757,
+      "sha256": "60e9a5a3c517e16037578f2876e4dcadd592052a11b8a135374bbf3d05b39b33",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S080",
+      "subject": "SSG104",
+      "sourceSlide": 80,
+      "pageId": "g3f95209e0e4_0_3174",
+      "path": "/ssg104/source/slide-0080.png",
+      "present": true,
+      "bytes": 71260,
+      "sha256": "c2fa056b13c138cfa801a12c06c6665b60b68642758a17bcaf4ab5fd8ff36eee",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S081",
+      "subject": "SSG104",
+      "sourceSlide": 81,
+      "pageId": "g3f95209e0e4_0_3181",
+      "path": "/ssg104/source/slide-0081.png",
+      "present": true,
+      "bytes": 57588,
+      "sha256": "9bd32e3d52e81465bdc94dab4e7acd08d4b74f7ba8a15835dce59ee204ce7696",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S082",
+      "subject": "SSG104",
+      "sourceSlide": 82,
+      "pageId": "g3f95209e0e4_0_3188",
+      "path": "/ssg104/source/slide-0082.png",
+      "present": true,
+      "bytes": 71017,
+      "sha256": "956a798ffc96dd3a5d9dc2a20ac4a4455f5788f2b5e9a7f4531ca1d78a066ed3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S084",
+      "subject": "SSG104",
+      "sourceSlide": 84,
+      "pageId": "g3f95209e0e4_0_3201",
+      "path": "/ssg104/source/slide-0084.png",
+      "present": true,
+      "bytes": 51208,
+      "sha256": "1414ea957df329132b24544d17aea96c5d9c171eca55c32ec795d60195340649",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S085",
+      "subject": "SSG104",
+      "sourceSlide": 85,
+      "pageId": "g3f95209e0e4_0_3208",
+      "path": "/ssg104/source/slide-0085.png",
+      "present": true,
+      "bytes": 71462,
+      "sha256": "68fce1644101adc8ccb8b2770e91b6b88f4b400830642bc14deb8a5ac40c2ed0",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S087",
+      "subject": "SSG104",
+      "sourceSlide": 87,
+      "pageId": "g3f95209e0e4_0_3221",
+      "path": "/ssg104/source/slide-0087.png",
+      "present": true,
+      "bytes": 40772,
+      "sha256": "9e2b7b67aa577cf76be3df4722a7fdb5313190f4ea777cd91a7fb4150def5049",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S088",
+      "subject": "SSG104",
+      "sourceSlide": 88,
+      "pageId": "g3f95209e0e4_0_3228",
+      "path": "/ssg104/source/slide-0088.png",
+      "present": true,
+      "bytes": 57005,
+      "sha256": "c52171032c29363bffd6da8e974112e8feb1f04c227c2c2741b465961192cb91",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S089",
+      "subject": "SSG104",
+      "sourceSlide": 89,
+      "pageId": "g3f95209e0e4_0_3235",
+      "path": "/ssg104/source/slide-0089.png",
+      "present": true,
+      "bytes": 35431,
+      "sha256": "8c167ec2a9a7eb582b776a934486c93a935b65c1adddad49c1c7ec260abe8fa3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S091",
+      "subject": "SSG104",
+      "sourceSlide": 91,
+      "pageId": "g3f95209e0e4_0_3248",
+      "path": "/ssg104/source/slide-0091.png",
+      "present": true,
+      "bytes": 33887,
+      "sha256": "195ea295e0f482acd376f70778de871e84c825c5112156464eb610cb9c763886",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S092",
+      "subject": "SSG104",
+      "sourceSlide": 92,
+      "pageId": "g3f95209e0e4_0_3255",
+      "path": "/ssg104/source/slide-0092.png",
+      "present": true,
+      "bytes": 36351,
+      "sha256": "992a2681bc5dad94082759f0db7464c022e12ecc0b3d07068010baadea1bf43a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S093",
+      "subject": "SSG104",
+      "sourceSlide": 93,
+      "pageId": "g3f95209e0e4_0_3262",
+      "path": "/ssg104/source/slide-0093.png",
+      "present": true,
+      "bytes": 51620,
+      "sha256": "16ac421ed30e4076dba438233ec59a76f52fe2169a655bc5784249886d31d258",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S094",
+      "subject": "SSG104",
+      "sourceSlide": 94,
+      "pageId": "g3f95209e0e4_0_3269",
+      "path": "/ssg104/source/slide-0094.png",
+      "present": true,
+      "bytes": 48423,
+      "sha256": "a1243389623cf7603a4d1a11023e59523d9d9d2b8dc3d1693f7438362d600d8e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S095",
+      "subject": "SSG104",
+      "sourceSlide": 95,
+      "pageId": "g3f95209e0e4_0_3276",
+      "path": "/ssg104/source/slide-0095.png",
+      "present": true,
+      "bytes": 39609,
+      "sha256": "8e8778eca97ea7f4a2ef7a3b56aef8f6f9226de81eb3eb0b6acd2962f1fb5114",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S096",
+      "subject": "SSG104",
+      "sourceSlide": 96,
+      "pageId": "g3f95209e0e4_0_3283",
+      "path": "/ssg104/source/slide-0096.png",
+      "present": true,
+      "bytes": 41059,
+      "sha256": "069120649ae976796eb3827b57e846c467e97cf937d048d3278b9ec00ad3ab4f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S097",
+      "subject": "SSG104",
+      "sourceSlide": 97,
+      "pageId": "g3f95209e0e4_0_3290",
+      "path": "/ssg104/source/slide-0097.png",
+      "present": true,
+      "bytes": 43087,
+      "sha256": "a8150bd7af38eafb55264fc085c688d13c9b8f88013a331506aa78c1b468d57e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S098",
+      "subject": "SSG104",
+      "sourceSlide": 98,
+      "pageId": "g3f95209e0e4_0_3297",
+      "path": "/ssg104/source/slide-0098.png",
+      "present": true,
+      "bytes": 47386,
+      "sha256": "9350d34ccb2aa26a6bdfee866801ff1d9c4aa1a29612dc04928ae3121e6adf5f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S099",
+      "subject": "SSG104",
+      "sourceSlide": 99,
+      "pageId": "g3f95209e0e4_0_3304",
+      "path": "/ssg104/source/slide-0099.png",
+      "present": true,
+      "bytes": 41086,
+      "sha256": "9b89aea6649c1b37b80d5651649645e50cd6a8b9c754e31e50938d58d00bc51f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S100",
+      "subject": "SSG104",
+      "sourceSlide": 100,
+      "pageId": "g3f95209e0e4_0_3311",
+      "path": "/ssg104/source/slide-0100.png",
+      "present": true,
+      "bytes": 29775,
+      "sha256": "e314f339077bab9a7c15e18c52280da76992d1a232b6e5923c05d8c72530a233",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S101",
+      "subject": "SSG104",
+      "sourceSlide": 101,
+      "pageId": "g3f95209e0e4_0_3318",
+      "path": "/ssg104/source/slide-0101.png",
+      "present": true,
+      "bytes": 44267,
+      "sha256": "3b3efddfc5f79f56168210fb64354ecf6bdf3c9bef9c5d6225ceba9f7c39aba9",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S102",
+      "subject": "SSG104",
+      "sourceSlide": 102,
+      "pageId": "g3f95209e0e4_0_3325",
+      "path": "/ssg104/source/slide-0102.png",
+      "present": true,
+      "bytes": 50385,
+      "sha256": "89f24db2fab0fc61f36da4b481470542ea3d5d870a52e1678d0f7d01e50ffedd",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S103",
+      "subject": "SSG104",
+      "sourceSlide": 103,
+      "pageId": "g3f95209e0e4_0_3332",
+      "path": "/ssg104/source/slide-0103.png",
+      "present": true,
+      "bytes": 57794,
+      "sha256": "8d257de4c9174c201bca07f5f0ea508b491447ea38991ec68876aed2fbee4e08",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S104",
+      "subject": "SSG104",
+      "sourceSlide": 104,
+      "pageId": "g3f95209e0e4_0_3339",
+      "path": "/ssg104/source/slide-0104.png",
+      "present": true,
+      "bytes": 54300,
+      "sha256": "284dd987a3b80a0d9fd3038485f4c082f5f1c6025758083fbcf02310d4feabbf",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S105",
+      "subject": "SSG104",
+      "sourceSlide": 105,
+      "pageId": "g3f95209e0e4_0_3346",
+      "path": "/ssg104/source/slide-0105.png",
+      "present": true,
+      "bytes": 40524,
+      "sha256": "8b35f60ff92ad8c749b8109b1cc8c32499076398ff779d789bcd982965a0a9ad",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S106",
+      "subject": "SSG104",
+      "sourceSlide": 106,
+      "pageId": "g3f95209e0e4_0_3353",
+      "path": "/ssg104/source/slide-0106.png",
+      "present": true,
+      "bytes": 61002,
+      "sha256": "b5100883197552b9507d20169af2213bc31667fa24f235b8a121cecb39321deb",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S107",
+      "subject": "SSG104",
+      "sourceSlide": 107,
+      "pageId": "g3f95209e0e4_0_3360",
+      "path": "/ssg104/source/slide-0107.png",
+      "present": true,
+      "bytes": 55156,
+      "sha256": "cd85ebd53f21ee8eaa790622612603c3d6f0ba44d517a8a9083479b28ccbd136",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S108",
+      "subject": "SSG104",
+      "sourceSlide": 108,
+      "pageId": "g3f95209e0e4_0_3367",
+      "path": "/ssg104/source/slide-0108.png",
+      "present": true,
+      "bytes": 58903,
+      "sha256": "5e27c7eaf1f98be6fa257a3cfa3c4eff6f2ba028068147b42a22d83c03f8c6ff",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S109",
+      "subject": "SSG104",
+      "sourceSlide": 109,
+      "pageId": "g3f95209e0e4_0_3374",
+      "path": "/ssg104/source/slide-0109.png",
+      "present": true,
+      "bytes": 33592,
+      "sha256": "601deedd0c76be1762af8960eabc3a8d9238e1cea0e91650b1ccf4cc2f703715",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S110",
+      "subject": "SSG104",
+      "sourceSlide": 110,
+      "pageId": "g3f95209e0e4_0_3381",
+      "path": "/ssg104/source/slide-0110.png",
+      "present": true,
+      "bytes": 48115,
+      "sha256": "dc36d9005e030806d8521b4dd00aca41e2e68c548ace111e7da98f0c3eabe95f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S111",
+      "subject": "SSG104",
+      "sourceSlide": 111,
+      "pageId": "g3f95209e0e4_0_3388",
+      "path": "/ssg104/source/slide-0111.png",
+      "present": true,
+      "bytes": 53874,
+      "sha256": "b7bc2fab852cc5acda46e2087a16cf93674abf9b8c8cfc79276d5e795520446a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S112",
+      "subject": "SSG104",
+      "sourceSlide": 112,
+      "pageId": "g3f95209e0e4_0_3395",
+      "path": "/ssg104/source/slide-0112.png",
+      "present": true,
+      "bytes": 53262,
+      "sha256": "2cf21ff2628d2ba64c7fb4829115ed76e636edc48b77aaacf36cdeae396a75c2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S113",
+      "subject": "SSG104",
+      "sourceSlide": 113,
+      "pageId": "g3f95209e0e4_0_3402",
+      "path": "/ssg104/source/slide-0113.png",
+      "present": true,
+      "bytes": 37596,
+      "sha256": "ac6cbfc3daf82421976eb978869b947f4620fac62b0f9804fa79854a424ef61f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S114",
+      "subject": "SSG104",
+      "sourceSlide": 114,
+      "pageId": "g3f95209e0e4_0_3409",
+      "path": "/ssg104/source/slide-0114.png",
+      "present": true,
+      "bytes": 63605,
+      "sha256": "c2a0e04e99ab6f3d46387dd97ef376bfe743972b8fc4b4ab87050b258f000ba9",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S115",
+      "subject": "SSG104",
+      "sourceSlide": 115,
+      "pageId": "g3f95209e0e4_0_3416",
+      "path": "/ssg104/source/slide-0115.png",
+      "present": true,
+      "bytes": 41423,
+      "sha256": "4d5e45ff8bd9f54323991dabac17f346ba073313115df3d86bda2f9229d9d725",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S116",
+      "subject": "SSG104",
+      "sourceSlide": 116,
+      "pageId": "g3f95209e0e4_0_3423",
+      "path": "/ssg104/source/slide-0116.png",
+      "present": true,
+      "bytes": 44448,
+      "sha256": "2f5510c7294e88797d6a33f122a5529bf1e867e4a2882109262b2bfee311eadf",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S117",
+      "subject": "SSG104",
+      "sourceSlide": 117,
+      "pageId": "g3f95209e0e4_0_3430",
+      "path": "/ssg104/source/slide-0117.png",
+      "present": true,
+      "bytes": 42647,
+      "sha256": "8408bbfcc57b984e961515795978e0c9eda6a86ee2e700729719a6507e53da84",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S118",
+      "subject": "SSG104",
+      "sourceSlide": 118,
+      "pageId": "g3f95209e0e4_0_3437",
+      "path": "/ssg104/source/slide-0118.png",
+      "present": true,
+      "bytes": 58696,
+      "sha256": "4308e25a90e0927ebbbc7e3f6e1e0422360b401f0f7feed02c1ccfab8bf6a763",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S119",
+      "subject": "SSG104",
+      "sourceSlide": 119,
+      "pageId": "g3f95209e0e4_0_3444",
+      "path": "/ssg104/source/slide-0119.png",
+      "present": true,
+      "bytes": 59710,
+      "sha256": "c3b8cea82fc9e4347c6f1926afb86259209df84e48bb8eea32c63619c167549c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S120",
+      "subject": "SSG104",
+      "sourceSlide": 120,
+      "pageId": "g3f95209e0e4_0_3451",
+      "path": "/ssg104/source/slide-0120.png",
+      "present": true,
+      "bytes": 33411,
+      "sha256": "cf981a871005938252cc0f566139d935a06a11e79500e12082696b17417a8495",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S121",
+      "subject": "SSG104",
+      "sourceSlide": 121,
+      "pageId": "g3f95209e0e4_0_3458",
+      "path": "/ssg104/source/slide-0121.png",
+      "present": true,
+      "bytes": 42547,
+      "sha256": "7fe41d15af5c147ad3a1d7dba18d6e1511b7165960596d2c6dde5becbf74ebd9",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S123",
+      "subject": "SSG104",
+      "sourceSlide": 123,
+      "pageId": "g3f95209e0e4_0_3471",
+      "path": "/ssg104/source/slide-0123.png",
+      "present": true,
+      "bytes": 39579,
+      "sha256": "2c6617fddeef5a87ad29bf4a1df01db246922dd2e74ccd9b98a84772e71f707d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S124",
+      "subject": "SSG104",
+      "sourceSlide": 124,
+      "pageId": "g3f95209e0e4_0_3478",
+      "path": "/ssg104/source/slide-0124.png",
+      "present": true,
+      "bytes": 42804,
+      "sha256": "a5c91932362c8576d592898e6a8b7ee7fda6c5c6cd8abc84b9f11293fb5ade94",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S125",
+      "subject": "SSG104",
+      "sourceSlide": 125,
+      "pageId": "g3f95209e0e4_0_3485",
+      "path": "/ssg104/source/slide-0125.png",
+      "present": true,
+      "bytes": 43005,
+      "sha256": "76b786cb79ffbb695a9904ca53ea56befd2517a0d05f3a748fcd0b6f4086f886",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S126",
+      "subject": "SSG104",
+      "sourceSlide": 126,
+      "pageId": "g3f95209e0e4_0_3492",
+      "path": "/ssg104/source/slide-0126.png",
+      "present": true,
+      "bytes": 40648,
+      "sha256": "2a67538c174e83fd58ef44f3c57a5aca8c52d4013840a4c877c54830f90ecea8",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S127",
+      "subject": "SSG104",
+      "sourceSlide": 127,
+      "pageId": "g3f95209e0e4_0_3499",
+      "path": "/ssg104/source/slide-0127.png",
+      "present": true,
+      "bytes": 43566,
+      "sha256": "b614aabde3def1ec989e9b671bbb43de6c1716756510f29e4e563ef6d3f3ede2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S128",
+      "subject": "SSG104",
+      "sourceSlide": 128,
+      "pageId": "g3f95209e0e4_0_3506",
+      "path": "/ssg104/source/slide-0128.png",
+      "present": true,
+      "bytes": 48016,
+      "sha256": "2770299fd3c8654e92d78f4a6755daaf0b647eef8662371e720f9dd969a9923d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S129",
+      "subject": "SSG104",
+      "sourceSlide": 129,
+      "pageId": "g3f95209e0e4_0_3513",
+      "path": "/ssg104/source/slide-0129.png",
+      "present": true,
+      "bytes": 46872,
+      "sha256": "2f70ccfe000292ecb7953e8b34127206c284c1500a4c15ffde939fc7fa3bc9d5",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S130",
+      "subject": "SSG104",
+      "sourceSlide": 130,
+      "pageId": "g3f95209e0e4_0_3520",
+      "path": "/ssg104/source/slide-0130.png",
+      "present": true,
+      "bytes": 45990,
+      "sha256": "d2ed292ebaba9e5c623985f4b1dd0cdc804ef8794ffb53be3b27a721b67d0d9a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S131",
+      "subject": "SSG104",
+      "sourceSlide": 131,
+      "pageId": "g3f95209e0e4_0_3527",
+      "path": "/ssg104/source/slide-0131.png",
+      "present": true,
+      "bytes": 58380,
+      "sha256": "32543158048418fc22a7987e4f62fe07b7ca12dfb2c8022b891feefb65546694",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S132",
+      "subject": "SSG104",
+      "sourceSlide": 132,
+      "pageId": "g3f95209e0e4_0_3534",
+      "path": "/ssg104/source/slide-0132.png",
+      "present": true,
+      "bytes": 48461,
+      "sha256": "53fa25a4c6c9bd1c17585e7b4c472962db514e4b31c8290178b8001b0e869f27",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S133",
+      "subject": "SSG104",
+      "sourceSlide": 133,
+      "pageId": "g3f95209e0e4_0_3541",
+      "path": "/ssg104/source/slide-0133.png",
+      "present": true,
+      "bytes": 48915,
+      "sha256": "e3d500b41719b46cfce029602e470a41c3ee28c144cea2b9e39145a3c9152aa3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S134",
+      "subject": "SSG104",
+      "sourceSlide": 134,
+      "pageId": "g3f95209e0e4_0_3548",
+      "path": "/ssg104/source/slide-0134.png",
+      "present": true,
+      "bytes": 47939,
+      "sha256": "6a3f429ea9e07e2c7a90798faa80a60465194440ecea84151529b207c35198c3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S135",
+      "subject": "SSG104",
+      "sourceSlide": 135,
+      "pageId": "g3f95209e0e4_0_3555",
+      "path": "/ssg104/source/slide-0135.png",
+      "present": true,
+      "bytes": 46583,
+      "sha256": "0da6533c0f5134b7fdb765f97902abafa085c9dd916e0ca961c63dd0dce141f2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S136",
+      "subject": "SSG104",
+      "sourceSlide": 136,
+      "pageId": "g3f95209e0e4_0_3562",
+      "path": "/ssg104/source/slide-0136.png",
+      "present": true,
+      "bytes": 55480,
+      "sha256": "247e7b8d24109504c5bf4fb0f35a2ce51dc38961fbace6470b37affad21a8c0d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S137",
+      "subject": "SSG104",
+      "sourceSlide": 137,
+      "pageId": "g3f95209e0e4_0_3569",
+      "path": "/ssg104/source/slide-0137.png",
+      "present": true,
+      "bytes": 36775,
+      "sha256": "54580c28b4c19d0a8bf6a09a47a4ca248740c34cf756c811add329c20fa621c7",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S138",
+      "subject": "SSG104",
+      "sourceSlide": 138,
+      "pageId": "g3f95209e0e4_0_3575",
+      "path": "/ssg104/source/slide-0138.png",
+      "present": true,
+      "bytes": 44904,
+      "sha256": "1e3ae6b19d5b1086bb87a880ccec4b758ea8d9b7e85c2219c7f16d53b6adb056",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S139",
+      "subject": "SSG104",
+      "sourceSlide": 139,
+      "pageId": "g3f95209e0e4_0_3582",
+      "path": "/ssg104/source/slide-0139.png",
+      "present": true,
+      "bytes": 47113,
+      "sha256": "439b78bcffd2ed2a9742863509f75696b22f5d68c5071ff83c32220b16f0e70a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S140",
+      "subject": "SSG104",
+      "sourceSlide": 140,
+      "pageId": "g3f95209e0e4_0_3589",
+      "path": "/ssg104/source/slide-0140.png",
+      "present": true,
+      "bytes": 59713,
+      "sha256": "bddd79c0a95f7be8c493e76f50e19b1b2ae1513e3f1170074aae22f9732f4bbb",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S141",
+      "subject": "SSG104",
+      "sourceSlide": 141,
+      "pageId": "g3f95209e0e4_0_3596",
+      "path": "/ssg104/source/slide-0141.png",
+      "present": true,
+      "bytes": 56957,
+      "sha256": "2070ad9c9ec4ff7b1fd88b5711f8d2da92f482ea595cb34292781690c5faaa31",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S142",
+      "subject": "SSG104",
+      "sourceSlide": 142,
+      "pageId": "g3f95209e0e4_0_3603",
+      "path": "/ssg104/source/slide-0142.png",
+      "present": true,
+      "bytes": 51340,
+      "sha256": "0bc7838c0b407aa85bea19cb79db0d41ec583147cf4f20408973903f18b3e748",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S143",
+      "subject": "SSG104",
+      "sourceSlide": 143,
+      "pageId": "g3f95209e0e4_0_3610",
+      "path": "/ssg104/source/slide-0143.png",
+      "present": true,
+      "bytes": 37697,
+      "sha256": "4a9e9a6ee72c50b297cfcf8a72161e87fc5d0a715a23d5ef24c159f62a32e378",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S144",
+      "subject": "SSG104",
+      "sourceSlide": 144,
+      "pageId": "g3f95209e0e4_0_3617",
+      "path": "/ssg104/source/slide-0144.png",
+      "present": true,
+      "bytes": 64128,
+      "sha256": "34d1adb31945b8395c25cefcf984f6adfdd6982eaaa638b0f5ffe83d5640a1bd",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S145",
+      "subject": "SSG104",
+      "sourceSlide": 145,
+      "pageId": "g3f95209e0e4_0_3624",
+      "path": "/ssg104/source/slide-0145.png",
+      "present": true,
+      "bytes": 59423,
+      "sha256": "8bad22ce97cbb8fb2aa9afed9fd6e1cdf3d96773da5f021fc31efce560c05a34",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S146",
+      "subject": "SSG104",
+      "sourceSlide": 146,
+      "pageId": "g3f95209e0e4_0_3631",
+      "path": "/ssg104/source/slide-0146.png",
+      "present": true,
+      "bytes": 54490,
+      "sha256": "d81cd3930311e684531201f778ec7f5c2128b7055aa45c883ff2cb1c6977a3dc",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S147",
+      "subject": "SSG104",
+      "sourceSlide": 147,
+      "pageId": "g3f95209e0e4_0_3638",
+      "path": "/ssg104/source/slide-0147.png",
+      "present": true,
+      "bytes": 40595,
+      "sha256": "05e79666eaa77603ed99772fcea19c548218323286c3fa20117a2ad63c58c010",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S149",
+      "subject": "SSG104",
+      "sourceSlide": 149,
+      "pageId": "g3f95209e0e4_0_3651",
+      "path": "/ssg104/source/slide-0149.png",
+      "present": true,
+      "bytes": 46616,
+      "sha256": "4305b714cda3625f118af034f814bbe3cd1cce82ee7108cfd1eb980592491551",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S150",
+      "subject": "SSG104",
+      "sourceSlide": 150,
+      "pageId": "g3f95209e0e4_0_3658",
+      "path": "/ssg104/source/slide-0150.png",
+      "present": true,
+      "bytes": 45250,
+      "sha256": "8141395cc5f9af8a26d9c5e060380fcff6702d95e7b789956b3b42fbd728ab05",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S151",
+      "subject": "SSG104",
+      "sourceSlide": 151,
+      "pageId": "g3f95209e0e4_0_3665",
+      "path": "/ssg104/source/slide-0151.png",
+      "present": true,
+      "bytes": 49605,
+      "sha256": "0f010c23caf23f6d3a4343047efda92e743c97d221f51c58de2df26d93e67c27",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S152",
+      "subject": "SSG104",
+      "sourceSlide": 152,
+      "pageId": "g3f95209e0e4_0_3672",
+      "path": "/ssg104/source/slide-0152.png",
+      "present": true,
+      "bytes": 46717,
+      "sha256": "43b4b47991b7590de08d97e8e625638b450f4b9e6ed9e677fc5af0438f2f2ef9",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S153",
+      "subject": "SSG104",
+      "sourceSlide": 153,
+      "pageId": "g3f95209e0e4_0_3679",
+      "path": "/ssg104/source/slide-0153.png",
+      "present": true,
+      "bytes": 43160,
+      "sha256": "991ef7390f4a2ade6d17e96e51bf9e707de4d65d5e9c66e3cf99843314aec8c5",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S154",
+      "subject": "SSG104",
+      "sourceSlide": 154,
+      "pageId": "g3f95209e0e4_0_3686",
+      "path": "/ssg104/source/slide-0154.png",
+      "present": true,
+      "bytes": 56686,
+      "sha256": "8e04e70827bae2cfc3c6fe95e8edb53114ed17c9a983ea9eb5b90e842f6265b0",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S155",
+      "subject": "SSG104",
+      "sourceSlide": 155,
+      "pageId": "g3f95209e0e4_0_3693",
+      "path": "/ssg104/source/slide-0155.png",
+      "present": true,
+      "bytes": 39122,
+      "sha256": "5ef63482666dc2b0f9c8070f176a0f3186ea800348c39e65c68e25cef666d2cd",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S157",
+      "subject": "SSG104",
+      "sourceSlide": 157,
+      "pageId": "g3f95209e0e4_0_3706",
+      "path": "/ssg104/source/slide-0157.png",
+      "present": true,
+      "bytes": 29426,
+      "sha256": "8f702974b88447b188a52595245b62eed00b082648baca649903232f5e0ae8b7",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S158",
+      "subject": "SSG104",
+      "sourceSlide": 158,
+      "pageId": "g3f95209e0e4_0_3713",
+      "path": "/ssg104/source/slide-0158.png",
+      "present": true,
+      "bytes": 39199,
+      "sha256": "44978bfff6adfc535148596c9466e35d6fe28f0de636e08a1080ead5819f18bb",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S159",
+      "subject": "SSG104",
+      "sourceSlide": 159,
+      "pageId": "g3f95209e0e4_0_3719",
+      "path": "/ssg104/source/slide-0159.png",
+      "present": true,
+      "bytes": 38990,
+      "sha256": "db2e798ad86f2b7ce272ba9b3c7f23eab19b82c224047cc1b8e40b7a2f9203dc",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S160",
+      "subject": "SSG104",
+      "sourceSlide": 160,
+      "pageId": "g3f95209e0e4_0_3726",
+      "path": "/ssg104/source/slide-0160.png",
+      "present": true,
+      "bytes": 44052,
+      "sha256": "21d85a1541d7fac40a41858c40ef347099e83bec3aa46437dfb9a7aa8611b4db",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S161",
+      "subject": "SSG104",
+      "sourceSlide": 161,
+      "pageId": "g3f95209e0e4_0_3733",
+      "path": "/ssg104/source/slide-0161.png",
+      "present": true,
+      "bytes": 55313,
+      "sha256": "891c0020a57a7c4e4dba298c802aefe2fdba3bb4419656b2f057a2f41e2826bf",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S162",
+      "subject": "SSG104",
+      "sourceSlide": 162,
+      "pageId": "g3f95209e0e4_0_3740",
+      "path": "/ssg104/source/slide-0162.png",
+      "present": true,
+      "bytes": 49061,
+      "sha256": "d4d7d5f8efa8a35d38841d3f092ef55439bfff17eaa190b0cb40288e6efd5ac6",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S163",
+      "subject": "SSG104",
+      "sourceSlide": 163,
+      "pageId": "g3f95209e0e4_0_3747",
+      "path": "/ssg104/source/slide-0163.png",
+      "present": true,
+      "bytes": 61049,
+      "sha256": "d92d06ebcbb4f81a015fa36dbb593464ea95134ac4a1622647df4d1493ac8b42",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S164",
+      "subject": "SSG104",
+      "sourceSlide": 164,
+      "pageId": "g3f95209e0e4_0_3754",
+      "path": "/ssg104/source/slide-0164.png",
+      "present": true,
+      "bytes": 73515,
+      "sha256": "b0516027034ca2e4958c00d5c3b92809541f51f865544ef73e8345c6e629de95",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S165",
+      "subject": "SSG104",
+      "sourceSlide": 165,
+      "pageId": "g3f95209e0e4_0_3761",
+      "path": "/ssg104/source/slide-0165.png",
+      "present": true,
+      "bytes": 55296,
+      "sha256": "6fb83e11442edb00d25eea3f62411e9d059d023fc8c47db37ccc85fcd4d5983f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S166",
+      "subject": "SSG104",
+      "sourceSlide": 166,
+      "pageId": "g3f95209e0e4_0_3768",
+      "path": "/ssg104/source/slide-0166.png",
+      "present": true,
+      "bytes": 52476,
+      "sha256": "0b0b12c131ed8e5c81fad985443bb5cd3e976b93c0aaeceba1078d079455c9b1",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S167",
+      "subject": "SSG104",
+      "sourceSlide": 167,
+      "pageId": "g3f95209e0e4_0_3775",
+      "path": "/ssg104/source/slide-0167.png",
+      "present": true,
+      "bytes": 63169,
+      "sha256": "2cec6d2aad9ae7610f45a443d5386f1903157fc33b1bd23f79e136f3568d6f5c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S168",
+      "subject": "SSG104",
+      "sourceSlide": 168,
+      "pageId": "g3f95209e0e4_0_3782",
+      "path": "/ssg104/source/slide-0168.png",
+      "present": true,
+      "bytes": 31458,
+      "sha256": "dd1f15b6acda0540ac4fc9fd5c9775fcaa0be5bde5eed5b2c2820dce55dfa53e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S169",
+      "subject": "SSG104",
+      "sourceSlide": 169,
+      "pageId": "g3f95209e0e4_0_3789",
+      "path": "/ssg104/source/slide-0169.png",
+      "present": true,
+      "bytes": 48656,
+      "sha256": "dc1d47dbf40bb5c4a124ceaae2e001022f2a1e52ced660c662bbbddfcc8da9e1",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S170",
+      "subject": "SSG104",
+      "sourceSlide": 170,
+      "pageId": "g3f95209e0e4_0_3796",
+      "path": "/ssg104/source/slide-0170.png",
+      "present": true,
+      "bytes": 39632,
+      "sha256": "e480dc55379c2d619d4d2423655b890279f0e43615630b0c61ce2f1686b3fb40",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S171",
+      "subject": "SSG104",
+      "sourceSlide": 171,
+      "pageId": "g3f95209e0e4_0_3803",
+      "path": "/ssg104/source/slide-0171.png",
+      "present": true,
+      "bytes": 39248,
+      "sha256": "19bd5bde91f6a7a37b2bbe77e63d30e203a2e56a5eadcaf9a073c04ece572d63",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S172",
+      "subject": "SSG104",
+      "sourceSlide": 172,
+      "pageId": "g3f95209e0e4_0_3810",
+      "path": "/ssg104/source/slide-0172.png",
+      "present": true,
+      "bytes": 48056,
+      "sha256": "ededca56c4cd615c95b30082e23dec1656ccf683d6b3add2bfc95acf03f162f1",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S173",
+      "subject": "SSG104",
+      "sourceSlide": 173,
+      "pageId": "g3f95209e0e4_0_3817",
+      "path": "/ssg104/source/slide-0173.png",
+      "present": true,
+      "bytes": 49975,
+      "sha256": "6d7caefb3c5591f7c4297b8bee6f14728d96f2bc7c2b42762b58195bc39dad5e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S174",
+      "subject": "SSG104",
+      "sourceSlide": 174,
+      "pageId": "g3f95209e0e4_0_3824",
+      "path": "/ssg104/source/slide-0174.png",
+      "present": true,
+      "bytes": 54470,
+      "sha256": "dbf07ecb4139d7627c8430ed2b1d4e3e96e6da713a85bde09dddf4b0c2588ea3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S175",
+      "subject": "SSG104",
+      "sourceSlide": 175,
+      "pageId": "g3f95209e0e4_0_3831",
+      "path": "/ssg104/source/slide-0175.png",
+      "present": true,
+      "bytes": 50328,
+      "sha256": "62bce50cf28c47fb0ba1afb129e36d1de0bcdb7cb40999ad4fe717fcbc7d170c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S176",
+      "subject": "SSG104",
+      "sourceSlide": 176,
+      "pageId": "g3f95209e0e4_0_3838",
+      "path": "/ssg104/source/slide-0176.png",
+      "present": true,
+      "bytes": 50767,
+      "sha256": "ae82328a1ea2f7cb8f88c67c3386664aa5ee1322bad02186903500b586749a48",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S177",
+      "subject": "SSG104",
+      "sourceSlide": 177,
+      "pageId": "g3f95209e0e4_0_3845",
+      "path": "/ssg104/source/slide-0177.png",
+      "present": true,
+      "bytes": 45474,
+      "sha256": "4079f14551b7cf1bea1ed761227f7917d15790a292af35681ffded383901c4e8",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S178",
+      "subject": "SSG104",
+      "sourceSlide": 178,
+      "pageId": "g3f95209e0e4_0_3852",
+      "path": "/ssg104/source/slide-0178.png",
+      "present": true,
+      "bytes": 41013,
+      "sha256": "eaae4175d20a4878433e16db71ebb03b136cb2a03c22162fcfe5aa1c76ab7b35",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S179",
+      "subject": "SSG104",
+      "sourceSlide": 179,
+      "pageId": "g3f95209e0e4_0_3859",
+      "path": "/ssg104/source/slide-0179.png",
+      "present": true,
+      "bytes": 50094,
+      "sha256": "6f502730b6b6b69e58708d123b481aa7fa7be3d3c1fdb59748fb2d716c48b3d0",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S180",
+      "subject": "SSG104",
+      "sourceSlide": 180,
+      "pageId": "g3f95209e0e4_0_3866",
+      "path": "/ssg104/source/slide-0180.png",
+      "present": true,
+      "bytes": 64519,
+      "sha256": "b3a238cce0f0837fa8a439db329d73506a688e1134045b5bac750b5632b80de4",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S181",
+      "subject": "SSG104",
+      "sourceSlide": 181,
+      "pageId": "g3f95209e0e4_0_3873",
+      "path": "/ssg104/source/slide-0181.png",
+      "present": true,
+      "bytes": 36797,
+      "sha256": "d1f6b9f657c77d5847ebaeabb115e346a4d4d024fcaa42b998b46571eef17d48",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S182",
+      "subject": "SSG104",
+      "sourceSlide": 182,
+      "pageId": "g3f95209e0e4_0_3880",
+      "path": "/ssg104/source/slide-0182.png",
+      "present": true,
+      "bytes": 31156,
+      "sha256": "368624403581aa7a0678f26a4ac5b631607c522de5c4a30c9446bcb7e3c31f2e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S183",
+      "subject": "SSG104",
+      "sourceSlide": 183,
+      "pageId": "g3f95209e0e4_0_3887",
+      "path": "/ssg104/source/slide-0183.png",
+      "present": true,
+      "bytes": 45545,
+      "sha256": "74a805d791e5a6b4f9e8a7013b0c10d94356490cc69acaf4b3acb557cf7d1755",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S184",
+      "subject": "SSG104",
+      "sourceSlide": 184,
+      "pageId": "g3f95209e0e4_0_3894",
+      "path": "/ssg104/source/slide-0184.png",
+      "present": true,
+      "bytes": 50623,
+      "sha256": "3193386d44c1ec788d1d329a6989145f83e8e5a48710d26afbd76be1e175bceb",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S185",
+      "subject": "SSG104",
+      "sourceSlide": 185,
+      "pageId": "g3f95209e0e4_0_3901",
+      "path": "/ssg104/source/slide-0185.png",
+      "present": true,
+      "bytes": 31654,
+      "sha256": "27418df1519e76aee86f0761025d87bde0ed9133b3c2d08ae737e088efbea3e3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S186",
+      "subject": "SSG104",
+      "sourceSlide": 186,
+      "pageId": "g3f95209e0e4_0_3908",
+      "path": "/ssg104/source/slide-0186.png",
+      "present": true,
+      "bytes": 52891,
+      "sha256": "dabfee6359f2aa748066719277e6ad43fc2f635ac4e922652f75004be996e6f9",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S187",
+      "subject": "SSG104",
+      "sourceSlide": 187,
+      "pageId": "g3f95209e0e4_0_3915",
+      "path": "/ssg104/source/slide-0187.png",
+      "present": true,
+      "bytes": 48696,
+      "sha256": "abc38905aa72dff849d030c6867543344b81a22b1a1c73cf182c57670835dbc8",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S188",
+      "subject": "SSG104",
+      "sourceSlide": 188,
+      "pageId": "g3f95209e0e4_0_3922",
+      "path": "/ssg104/source/slide-0188.png",
+      "present": true,
+      "bytes": 47817,
+      "sha256": "27793b8db667e56ff889eb3d959a8bb09417a574a43136b3648a4328a914ca03",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S189",
+      "subject": "SSG104",
+      "sourceSlide": 189,
+      "pageId": "g3f95209e0e4_0_3929",
+      "path": "/ssg104/source/slide-0189.png",
+      "present": true,
+      "bytes": 44456,
+      "sha256": "1babb340be21acca4e8035649ff038d5ff7bb900270d8ec00fd5438962732e27",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S190",
+      "subject": "SSG104",
+      "sourceSlide": 190,
+      "pageId": "g3f95209e0e4_0_3936",
+      "path": "/ssg104/source/slide-0190.png",
+      "present": true,
+      "bytes": 47139,
+      "sha256": "32a6df688a5a5648ba0e09a5c9cfff0b10327a1d7489eeef7bba56d406ac5e1d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S191",
+      "subject": "SSG104",
+      "sourceSlide": 191,
+      "pageId": "g3f95209e0e4_0_3943",
+      "path": "/ssg104/source/slide-0191.png",
+      "present": true,
+      "bytes": 43178,
+      "sha256": "d3b1e60e422435752a82730b45eb47af734ed1604b3cb18a72318f70d6e0fb5d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S192",
+      "subject": "SSG104",
+      "sourceSlide": 192,
+      "pageId": "g3f95209e0e4_0_3950",
+      "path": "/ssg104/source/slide-0192.png",
+      "present": true,
+      "bytes": 52676,
+      "sha256": "2e4564b58e4d2a2f69119ce79a218b7315b888f0cea61b6dec4ef3a56a110730",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S193",
+      "subject": "SSG104",
+      "sourceSlide": 193,
+      "pageId": "g3f95209e0e4_0_3957",
+      "path": "/ssg104/source/slide-0193.png",
+      "present": true,
+      "bytes": 37272,
+      "sha256": "49d361bb6ad74e64dbc91184dbd24afa2cee8336c850f4adbd63bf39fde6a18f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S194",
+      "subject": "SSG104",
+      "sourceSlide": 194,
+      "pageId": "g3f95209e0e4_0_3964",
+      "path": "/ssg104/source/slide-0194.png",
+      "present": true,
+      "bytes": 51154,
+      "sha256": "9fcb882b1f6fbd9c5bb164b512aadc6ed4b1025e64f9ce4d66da14461a821bb0",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S195",
+      "subject": "SSG104",
+      "sourceSlide": 195,
+      "pageId": "g3f95209e0e4_0_3971",
+      "path": "/ssg104/source/slide-0195.png",
+      "present": true,
+      "bytes": 49564,
+      "sha256": "c9131a3a14a84845700d02e77bbec62496ce0b0bcc6765116623f25cbf4329a1",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S196",
+      "subject": "SSG104",
+      "sourceSlide": 196,
+      "pageId": "g3f95209e0e4_0_3978",
+      "path": "/ssg104/source/slide-0196.png",
+      "present": true,
+      "bytes": 46831,
+      "sha256": "773db6c94cf7f5670f47638ca5476ed01498fd6e76ef44e47c74a1f1e60c623f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S197",
+      "subject": "SSG104",
+      "sourceSlide": 197,
+      "pageId": "g3f95209e0e4_0_3985",
+      "path": "/ssg104/source/slide-0197.png",
+      "present": true,
+      "bytes": 46002,
+      "sha256": "703e9b3178e0acc4d9ed91390d6024f50559148d26707f8b098bb80188f3b717",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S198",
+      "subject": "SSG104",
+      "sourceSlide": 198,
+      "pageId": "g3f95209e0e4_0_3992",
+      "path": "/ssg104/source/slide-0198.png",
+      "present": true,
+      "bytes": 49313,
+      "sha256": "a18a533310f733a7d1274bec33a997602cc95d97042a225db402a491ab5c18d6",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S199",
+      "subject": "SSG104",
+      "sourceSlide": 199,
+      "pageId": "g3f95209e0e4_0_3999",
+      "path": "/ssg104/source/slide-0199.png",
+      "present": true,
+      "bytes": 39302,
+      "sha256": "dac3f200ce32fc7d08bceb61c25bfeebb744764330c268303e7884327fe90144",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S200",
+      "subject": "SSG104",
+      "sourceSlide": 200,
+      "pageId": "g3f95209e0e4_0_4006",
+      "path": "/ssg104/source/slide-0200.png",
+      "present": true,
+      "bytes": 39185,
+      "sha256": "aeea9de3f24c02aea18f3286b7a8655cffa688f234214c185a7c83bcf5dad0b6",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S201",
+      "subject": "SSG104",
+      "sourceSlide": 201,
+      "pageId": "g3f95209e0e4_0_4013",
+      "path": "/ssg104/source/slide-0201.png",
+      "present": true,
+      "bytes": 43305,
+      "sha256": "14c73be072f36133cb840d2a77af70473de58243ae68f9dd4fef533aa0a94aa4",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S202",
+      "subject": "SSG104",
+      "sourceSlide": 202,
+      "pageId": "g3f95209e0e4_0_4020",
+      "path": "/ssg104/source/slide-0202.png",
+      "present": true,
+      "bytes": 41064,
+      "sha256": "bf1c8b97b0c23d655263b122185759dfb12ed99a4b47ef0cc3c90a56e9e5b76b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S203",
+      "subject": "SSG104",
+      "sourceSlide": 203,
+      "pageId": "g3f95209e0e4_0_4027",
+      "path": "/ssg104/source/slide-0203.png",
+      "present": true,
+      "bytes": 49601,
+      "sha256": "8549c65db7ae973e741f39d019d28c4b72accf41735918195e4301f6478b0620",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S204",
+      "subject": "SSG104",
+      "sourceSlide": 204,
+      "pageId": "g3f95209e0e4_0_4034",
+      "path": "/ssg104/source/slide-0204.png",
+      "present": true,
+      "bytes": 46940,
+      "sha256": "6ca9518d556bae3ce9d62c075448699c7adffbd87c9f147611c86918597466fe",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S205",
+      "subject": "SSG104",
+      "sourceSlide": 205,
+      "pageId": "g3f95209e0e4_0_4041",
+      "path": "/ssg104/source/slide-0205.png",
+      "present": true,
+      "bytes": 47252,
+      "sha256": "1de8f264eb78952e52460b0dd127369128fc357449b1f828dc014dfe1522e312",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S206",
+      "subject": "SSG104",
+      "sourceSlide": 206,
+      "pageId": "g3f95209e0e4_0_4048",
+      "path": "/ssg104/source/slide-0206.png",
+      "present": true,
+      "bytes": 49238,
+      "sha256": "64a71978fdfe54c6c78d4d17f38a1523d181495b1b836f05d6cc094c7709e8cc",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S207",
+      "subject": "SSG104",
+      "sourceSlide": 207,
+      "pageId": "g3f95209e0e4_0_4055",
+      "path": "/ssg104/source/slide-0207.png",
+      "present": true,
+      "bytes": 50171,
+      "sha256": "ad2dd80ed77ef15528b9f070b78a4904cac5ebf1485cb942a64bf88b96d81c60",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S208",
+      "subject": "SSG104",
+      "sourceSlide": 208,
+      "pageId": "g3f95209e0e4_0_4062",
+      "path": "/ssg104/source/slide-0208.png",
+      "present": true,
+      "bytes": 38227,
+      "sha256": "790d64f967191ae70b2051df2f73fa065259076e4ca12a88b19b2a5e0ebd1e2e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S209",
+      "subject": "SSG104",
+      "sourceSlide": 209,
+      "pageId": "g3f95209e0e4_0_4069",
+      "path": "/ssg104/source/slide-0209.png",
+      "present": true,
+      "bytes": 36850,
+      "sha256": "50eaa99bfec52eefc68424ead0c697d99e252eb4044e1641009d7c26a9a8658a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S210",
+      "subject": "SSG104",
+      "sourceSlide": 210,
+      "pageId": "g3f95209e0e4_0_4076",
+      "path": "/ssg104/source/slide-0210.png",
+      "present": true,
+      "bytes": 30834,
+      "sha256": "b304354663def9cec55cda5d2991d5bc76ed75d67187c4eda485e61b773657ff",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S211",
+      "subject": "SSG104",
+      "sourceSlide": 211,
+      "pageId": "g3f95209e0e4_0_4083",
+      "path": "/ssg104/source/slide-0211.png",
+      "present": true,
+      "bytes": 55572,
+      "sha256": "839379dbfa9787cc102249387d6f2dbf79653e58040808a2af4c736b027c5192",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S212",
+      "subject": "SSG104",
+      "sourceSlide": 212,
+      "pageId": "g3f95209e0e4_0_4090",
+      "path": "/ssg104/source/slide-0212.png",
+      "present": true,
+      "bytes": 52996,
+      "sha256": "891c47028b0bd6015541f0eefe17a09caea9efeb94f379c848598c45b31cdd73",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S213",
+      "subject": "SSG104",
+      "sourceSlide": 213,
+      "pageId": "g3f95209e0e4_0_4097",
+      "path": "/ssg104/source/slide-0213.png",
+      "present": true,
+      "bytes": 34038,
+      "sha256": "4c56edc81a2216f012fc4226f1a2a746abb7cd09b1e6c6c005ee14ef6fc3625a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S214",
+      "subject": "SSG104",
+      "sourceSlide": 214,
+      "pageId": "g3f95209e0e4_0_4104",
+      "path": "/ssg104/source/slide-0214.png",
+      "present": true,
+      "bytes": 47026,
+      "sha256": "229e4f846996181d714e82bf6edb5063c8295185a4f0aac4d68d9a2552339a74",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S215",
+      "subject": "SSG104",
+      "sourceSlide": 215,
+      "pageId": "g3f95209e0e4_0_4111",
+      "path": "/ssg104/source/slide-0215.png",
+      "present": true,
+      "bytes": 634519,
+      "sha256": "04f7dfb32ef2667998e6eb37f73b841e778a1bf3bbe8ed5f59c588f1eed136c3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S217",
+      "subject": "SSG104",
+      "sourceSlide": 217,
+      "pageId": "g3f95209e0e4_0_4124",
+      "path": "/ssg104/source/slide-0217.png",
+      "present": true,
+      "bytes": 59525,
+      "sha256": "71b9a0193134c1cc67fe590e0e5764cd486d02453451dffd0d251a69e4d2bd6f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S218",
+      "subject": "SSG104",
+      "sourceSlide": 218,
+      "pageId": "g3f95209e0e4_0_4131",
+      "path": "/ssg104/source/slide-0218.png",
+      "present": true,
+      "bytes": 97482,
+      "sha256": "78983d50cbff8ebf25bd28ef9c9ae1df1dcab5a8e7ed54f61f362a43c1e5632a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S219",
+      "subject": "SSG104",
+      "sourceSlide": 219,
+      "pageId": "g3f95209e0e4_0_4138",
+      "path": "/ssg104/source/slide-0219.png",
+      "present": true,
+      "bytes": 37435,
+      "sha256": "e90b4b324d15ddf21e1d0110ca0e1f3cfe43a2de4778a8cfb31af481b3e6ff6b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S220",
+      "subject": "SSG104",
+      "sourceSlide": 220,
+      "pageId": "g3f95209e0e4_0_4145",
+      "path": "/ssg104/source/slide-0220.png",
+      "present": true,
+      "bytes": 71037,
+      "sha256": "f09921b0e29ad3f1da0f0022c169c40f30e1171f2e0b7560c217da7ba087e9b1",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S221",
+      "subject": "SSG104",
+      "sourceSlide": 221,
+      "pageId": "g3f95209e0e4_0_4152",
+      "path": "/ssg104/source/slide-0221.png",
+      "present": true,
+      "bytes": 61116,
+      "sha256": "64973bcead4cbf04a223a1c90ea5124bca3995ad0cf8982cd0e0a8cadbc7015f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S222",
+      "subject": "SSG104",
+      "sourceSlide": 222,
+      "pageId": "g3f95209e0e4_0_4159",
+      "path": "/ssg104/source/slide-0222.png",
+      "present": true,
+      "bytes": 67159,
+      "sha256": "be7cf001d8e0f99a51de4547799893b1a90859e2cf0d65dfda7ff66dada3687d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S223",
+      "subject": "SSG104",
+      "sourceSlide": 223,
+      "pageId": "g3f95209e0e4_0_4166",
+      "path": "/ssg104/source/slide-0223.png",
+      "present": true,
+      "bytes": 74226,
+      "sha256": "2d485b9a03880cb9dcd2dc21ba6cbe63c73a12101014f3702aa57eb28b697ddc",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S224",
+      "subject": "SSG104",
+      "sourceSlide": 224,
+      "pageId": "g3f95209e0e4_0_4173",
+      "path": "/ssg104/source/slide-0224.png",
+      "present": true,
+      "bytes": 61579,
+      "sha256": "ef8e57175fc59a8841345a9a87e68ba35e8b63bf21560d0a3c2693bd742e3b8b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S225",
+      "subject": "SSG104",
+      "sourceSlide": 225,
+      "pageId": "g3f95209e0e4_0_4180",
+      "path": "/ssg104/source/slide-0225.png",
+      "present": true,
+      "bytes": 63971,
+      "sha256": "25eeee481c4441ba0b29c918ad9741de7832a2d9b05dbb1f3b9d5c14970d7099",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S226",
+      "subject": "SSG104",
+      "sourceSlide": 226,
+      "pageId": "g3f95209e0e4_0_4187",
+      "path": "/ssg104/source/slide-0226.png",
+      "present": true,
+      "bytes": 71982,
+      "sha256": "aee72d501fb56ae782743caa1533e17fd5f2b64ddbb8eb24eed4d35e003ed1d2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S227",
+      "subject": "SSG104",
+      "sourceSlide": 227,
+      "pageId": "g3f95209e0e4_0_4194",
+      "path": "/ssg104/source/slide-0227.png",
+      "present": true,
+      "bytes": 74313,
+      "sha256": "24273e8bdb1c329494c05214c4b0fef6805780a7c01c7beac0feec00a1699d26",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S228",
+      "subject": "SSG104",
+      "sourceSlide": 228,
+      "pageId": "g3f95209e0e4_0_4201",
+      "path": "/ssg104/source/slide-0228.png",
+      "present": true,
+      "bytes": 54374,
+      "sha256": "060edd2a140a31c26e97312e039e162053c66179d1b3183f5ba955cfbeedafe3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S229",
+      "subject": "SSG104",
+      "sourceSlide": 229,
+      "pageId": "g3f95209e0e4_0_4208",
+      "path": "/ssg104/source/slide-0229.png",
+      "present": true,
+      "bytes": 73147,
+      "sha256": "bcae6b88901a784c0c6d3bcfde98abfcb24e9cdea12625fa564175850eddc77f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S230",
+      "subject": "SSG104",
+      "sourceSlide": 230,
+      "pageId": "g3f95209e0e4_0_4215",
+      "path": "/ssg104/source/slide-0230.png",
+      "present": true,
+      "bytes": 57843,
+      "sha256": "430b7a4ad7376b9fb71c62bc6b7f83f7cfcc223fefeedd804ce361f10f33a925",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S231",
+      "subject": "SSG104",
+      "sourceSlide": 231,
+      "pageId": "g3f95209e0e4_0_4222",
+      "path": "/ssg104/source/slide-0231.png",
+      "present": true,
+      "bytes": 74179,
+      "sha256": "7dc4926424c5e27048df63002fda995cc12d87ef2bb95e6c70406ab3f5965146",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S232",
+      "subject": "SSG104",
+      "sourceSlide": 232,
+      "pageId": "g3f95209e0e4_0_4229",
+      "path": "/ssg104/source/slide-0232.png",
+      "present": true,
+      "bytes": 76333,
+      "sha256": "cf8cff598a57412998e4eed2c4002ff20024a085ad557c80d966b0497ad7e185",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S233",
+      "subject": "SSG104",
+      "sourceSlide": 233,
+      "pageId": "g3f95209e0e4_0_4236",
+      "path": "/ssg104/source/slide-0233.png",
+      "present": true,
+      "bytes": 74456,
+      "sha256": "6e89dab934746b00d7970bdc05e2d41efa4ef6f7093f1ba54166904b906d8a3b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S234",
+      "subject": "SSG104",
+      "sourceSlide": 234,
+      "pageId": "g3f95209e0e4_0_4243",
+      "path": "/ssg104/source/slide-0234.png",
+      "present": true,
+      "bytes": 72820,
+      "sha256": "72f9154aaa1e04d474de87962e02a1f1d98d406530e437418ae281871ac4733b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S235",
+      "subject": "SSG104",
+      "sourceSlide": 235,
+      "pageId": "g3f95209e0e4_0_4250",
+      "path": "/ssg104/source/slide-0235.png",
+      "present": true,
+      "bytes": 84418,
+      "sha256": "6562164fa869f230d788a7d6ef0eb7f72ed021f76d8c14b9e2a17efbf128b905",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S236",
+      "subject": "SSG104",
+      "sourceSlide": 236,
+      "pageId": "g3f95209e0e4_0_4257",
+      "path": "/ssg104/source/slide-0236.png",
+      "present": true,
+      "bytes": 68355,
+      "sha256": "5b8d653972d6097ccb7c5e6aa1168dcbf78ef265e4e0b3753e6304ec555a1e6b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S237",
+      "subject": "SSG104",
+      "sourceSlide": 237,
+      "pageId": "g3f95209e0e4_0_4264",
+      "path": "/ssg104/source/slide-0237.png",
+      "present": true,
+      "bytes": 79357,
+      "sha256": "72e14e360ac8a6d1e0a290f1b76f5f0cce33a7aaa8c938f336f5865cfd78859d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S238",
+      "subject": "SSG104",
+      "sourceSlide": 238,
+      "pageId": "g3f95209e0e4_0_4271",
+      "path": "/ssg104/source/slide-0238.png",
+      "present": true,
+      "bytes": 60790,
+      "sha256": "29fb4ea933c6d32ca454dbbf345c587385b6e3d83972c52f47846707ed272de4",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S239",
+      "subject": "SSG104",
+      "sourceSlide": 239,
+      "pageId": "g3f95209e0e4_0_4278",
+      "path": "/ssg104/source/slide-0239.png",
+      "present": true,
+      "bytes": 68705,
+      "sha256": "11ebbb8fd3492ab56b58d92b6f0454d888e67f807a1e9d3849ac7e6474d5f182",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S240",
+      "subject": "SSG104",
+      "sourceSlide": 240,
+      "pageId": "g3f95209e0e4_0_4285",
+      "path": "/ssg104/source/slide-0240.png",
+      "present": true,
+      "bytes": 60971,
+      "sha256": "b3751c440a328911a2d3dfc3e4fd6f31ffe2abd565b0a7ef9ec97d2d3088c756",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S241",
+      "subject": "SSG104",
+      "sourceSlide": 241,
+      "pageId": "g3f95209e0e4_0_4292",
+      "path": "/ssg104/source/slide-0241.png",
+      "present": true,
+      "bytes": 77959,
+      "sha256": "7854848b9ac5a2d7b016c786ccc0119920ae699d39977a13208a9f243184abfd",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S242",
+      "subject": "SSG104",
+      "sourceSlide": 242,
+      "pageId": "g3f95209e0e4_0_4299",
+      "path": "/ssg104/source/slide-0242.png",
+      "present": true,
+      "bytes": 66816,
+      "sha256": "b18215391e95623eda180d86cfd5d674929a5a2e31b3b60771cb56dd4646231a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S243",
+      "subject": "SSG104",
+      "sourceSlide": 243,
+      "pageId": "g3f95209e0e4_0_4306",
+      "path": "/ssg104/source/slide-0243.png",
+      "present": true,
+      "bytes": 64266,
+      "sha256": "65dfa3f15c48ddd922f55c8f3a142546088462c95fe74008a9a0bcb4a775733f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S244",
+      "subject": "SSG104",
+      "sourceSlide": 244,
+      "pageId": "g3f95209e0e4_0_4313",
+      "path": "/ssg104/source/slide-0244.png",
+      "present": true,
+      "bytes": 64266,
+      "sha256": "65dfa3f15c48ddd922f55c8f3a142546088462c95fe74008a9a0bcb4a775733f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S245",
+      "subject": "SSG104",
+      "sourceSlide": 245,
+      "pageId": "g3f95209e0e4_0_4320",
+      "path": "/ssg104/source/slide-0245.png",
+      "present": true,
+      "bytes": 69104,
+      "sha256": "1741c27d202c4b1fea59c643caa98956f8693e738e4d591ed2f5cdc109654a80",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S246",
+      "subject": "SSG104",
+      "sourceSlide": 246,
+      "pageId": "g3f95209e0e4_0_4327",
+      "path": "/ssg104/source/slide-0246.png",
+      "present": true,
+      "bytes": 78437,
+      "sha256": "77caa4dcde82f48e45a06c63188f5906ed73e5bf141ed14a25f3dbd2e7d4f86f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S247",
+      "subject": "SSG104",
+      "sourceSlide": 247,
+      "pageId": "g3f95209e0e4_0_4334",
+      "path": "/ssg104/source/slide-0247.png",
+      "present": true,
+      "bytes": 56261,
+      "sha256": "5c6b99f2dfe2ada7054c7044522e5968221d02bcebde6ad0b661029aecbc785f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S248",
+      "subject": "SSG104",
+      "sourceSlide": 248,
+      "pageId": "g3f95209e0e4_0_4341",
+      "path": "/ssg104/source/slide-0248.png",
+      "present": true,
+      "bytes": 66474,
+      "sha256": "1c8b305deb9e297aa00b89434e49565975afbb086c2ade9af4dc92347ac8985a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S250",
+      "subject": "SSG104",
+      "sourceSlide": 250,
+      "pageId": "g3f95209e0e4_0_4354",
+      "path": "/ssg104/source/slide-0250.png",
+      "present": true,
+      "bytes": 81079,
+      "sha256": "769806c4227c21e61a8af4615610badf4f9e0abaf83b03408ed5ebee06da02a6",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S251",
+      "subject": "SSG104",
+      "sourceSlide": 251,
+      "pageId": "g3f95209e0e4_0_4361",
+      "path": "/ssg104/source/slide-0251.png",
+      "present": true,
+      "bytes": 81989,
+      "sha256": "e1d48a66b63549ac7cbb4671d0c62b68254f37bac31695bde01aa1e53444b7a0",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S252",
+      "subject": "SSG104",
+      "sourceSlide": 252,
+      "pageId": "g3f95209e0e4_0_4368",
+      "path": "/ssg104/source/slide-0252.png",
+      "present": true,
+      "bytes": 80229,
+      "sha256": "1f8750b4e3cc8e3da1f1bb80f6dc8d7630e6fa8f322a0d1a9c6582856e07786d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S253",
+      "subject": "SSG104",
+      "sourceSlide": 253,
+      "pageId": "g3f95209e0e4_0_4375",
+      "path": "/ssg104/source/slide-0253.png",
+      "present": true,
+      "bytes": 61956,
+      "sha256": "b638986cd06e0c2535172a0294388ea27e057bde066eccb35afd5e5f35c800ac",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S254",
+      "subject": "SSG104",
+      "sourceSlide": 254,
+      "pageId": "g3f95209e0e4_0_4382",
+      "path": "/ssg104/source/slide-0254.png",
+      "present": true,
+      "bytes": 50665,
+      "sha256": "5969c3ccb37ade7f0ffeb06ef2cbfb2b8a86f4710b002b0dd80030bf18f10c2d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S255",
+      "subject": "SSG104",
+      "sourceSlide": 255,
+      "pageId": "g3f95209e0e4_0_4389",
+      "path": "/ssg104/source/slide-0255.png",
+      "present": true,
+      "bytes": 116815,
+      "sha256": "b01763c863adbdf9833cd25914141930a6d26d1f4a0bbb5f988a1156d473e232",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S256",
+      "subject": "SSG104",
+      "sourceSlide": 256,
+      "pageId": "g3f95209e0e4_0_4396",
+      "path": "/ssg104/source/slide-0256.png",
+      "present": true,
+      "bytes": 67071,
+      "sha256": "df9f494570a50259c3fdbb2ab8454b62adc23c8bccad0b77d7bf3ee104daac7a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S257",
+      "subject": "SSG104",
+      "sourceSlide": 257,
+      "pageId": "g3f95209e0e4_0_4403",
+      "path": "/ssg104/source/slide-0257.png",
+      "present": true,
+      "bytes": 78750,
+      "sha256": "3670697e23b833f2b75a826e975acc8e4b9e447a1537d3dc99927f4af4fbd51c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S258",
+      "subject": "SSG104",
+      "sourceSlide": 258,
+      "pageId": "g3f95209e0e4_0_4410",
+      "path": "/ssg104/source/slide-0258.png",
+      "present": true,
+      "bytes": 74148,
+      "sha256": "1d7040ddce50b81677c3a1006d35f4688926588f2a7a8af2039c3deb4304417c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S259",
+      "subject": "SSG104",
+      "sourceSlide": 259,
+      "pageId": "g3f95209e0e4_0_4417",
+      "path": "/ssg104/source/slide-0259.png",
+      "present": true,
+      "bytes": 50623,
+      "sha256": "9791c7e5e34da607fb59e3b2dbb3bea8cec3472d2f31fc34d62e5e67df592423",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S260",
+      "subject": "SSG104",
+      "sourceSlide": 260,
+      "pageId": "g3f95209e0e4_0_4424",
+      "path": "/ssg104/source/slide-0260.png",
+      "present": true,
+      "bytes": 81960,
+      "sha256": "be683f873875a4fff7127a954eaf46f361311af846f464cb3ed50ea223d0603d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S261",
+      "subject": "SSG104",
+      "sourceSlide": 261,
+      "pageId": "g3f95209e0e4_0_4431",
+      "path": "/ssg104/source/slide-0261.png",
+      "present": true,
+      "bytes": 75439,
+      "sha256": "bcd48fbc84b54fac2e66a38cd8cc5f7ccea733d833359e29ef11c6f3044fca8f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S262",
+      "subject": "SSG104",
+      "sourceSlide": 262,
+      "pageId": "g3f95209e0e4_0_4438",
+      "path": "/ssg104/source/slide-0262.png",
+      "present": true,
+      "bytes": 95326,
+      "sha256": "cac6f4fe546890dd4feb87db7f86a07ca9d89d048f326e6466a685d072de3124",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S263",
+      "subject": "SSG104",
+      "sourceSlide": 263,
+      "pageId": "g3f95209e0e4_0_4445",
+      "path": "/ssg104/source/slide-0263.png",
+      "present": true,
+      "bytes": 84259,
+      "sha256": "e750950b1ee804ca8c5f49666dce0c1e0374641616547ed1faa4c8cd7fdf9d79",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S264",
+      "subject": "SSG104",
+      "sourceSlide": 264,
+      "pageId": "g3f95209e0e4_0_4452",
+      "path": "/ssg104/source/slide-0264.png",
+      "present": true,
+      "bytes": 63552,
+      "sha256": "ba1440eab0f64eee7c707d94ce0c7be6f6c08691880c44ba31d71b01d919290c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S265",
+      "subject": "SSG104",
+      "sourceSlide": 265,
+      "pageId": "g3f95209e0e4_0_4459",
+      "path": "/ssg104/source/slide-0265.png",
+      "present": true,
+      "bytes": 77536,
+      "sha256": "ec299cc9b7376f8e0e5d9fa006b1e65f8df53450a7b5893e9c3764df6b24758a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S266",
+      "subject": "SSG104",
+      "sourceSlide": 266,
+      "pageId": "g3f95209e0e4_0_4466",
+      "path": "/ssg104/source/slide-0266.png",
+      "present": true,
+      "bytes": 61493,
+      "sha256": "3dbde3214860df156b563a8e76383a8d4a0b3965ab5dea906498d4cb961d11d9",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S267",
+      "subject": "SSG104",
+      "sourceSlide": 267,
+      "pageId": "g3f95209e0e4_0_4473",
+      "path": "/ssg104/source/slide-0267.png",
+      "present": true,
+      "bytes": 68944,
+      "sha256": "32303b453644c4f7594ec45246bdaa9b0a4c54133de82d215e8de2b798f911c0",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S268",
+      "subject": "SSG104",
+      "sourceSlide": 268,
+      "pageId": "g3f95209e0e4_0_4480",
+      "path": "/ssg104/source/slide-0268.png",
+      "present": true,
+      "bytes": 68890,
+      "sha256": "fc8502d866d40d36fe0d6b6a8a81d37fa00d995e04c5861bb740dc717bf4c5c1",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S269",
+      "subject": "SSG104",
+      "sourceSlide": 269,
+      "pageId": "g3f95209e0e4_0_4487",
+      "path": "/ssg104/source/slide-0269.png",
+      "present": true,
+      "bytes": 72835,
+      "sha256": "b3907690426b0e9e8da7cdce98c49bc41b5765f3620b5d5899a87c2b244a63b2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S270",
+      "subject": "SSG104",
+      "sourceSlide": 270,
+      "pageId": "g3f95209e0e4_0_4494",
+      "path": "/ssg104/source/slide-0270.png",
+      "present": true,
+      "bytes": 86803,
+      "sha256": "7f82db9cf2f4820f168fc169f0bce8d72811fd3d6b408e2474b6797c1ee077a2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S271",
+      "subject": "SSG104",
+      "sourceSlide": 271,
+      "pageId": "g3f95209e0e4_0_4501",
+      "path": "/ssg104/source/slide-0271.png",
+      "present": true,
+      "bytes": 62044,
+      "sha256": "06fbaac4b7d660545219cd8ce829cf76d5d82bf7b968eadd94426921174a68e9",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S272",
+      "subject": "SSG104",
+      "sourceSlide": 272,
+      "pageId": "g3f95209e0e4_0_4508",
+      "path": "/ssg104/source/slide-0272.png",
+      "present": true,
+      "bytes": 55303,
+      "sha256": "a949a7001b56d54f4346a7111992998ead4b814cb953049c376868eba58899b6",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S273",
+      "subject": "SSG104",
+      "sourceSlide": 273,
+      "pageId": "g3f95209e0e4_0_4515",
+      "path": "/ssg104/source/slide-0273.png",
+      "present": true,
+      "bytes": 56632,
+      "sha256": "e7c3cc2a5a4f72fbdedae5c23e8f1abc85d4aec068d543d814c87c53be8c576c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S274",
+      "subject": "SSG104",
+      "sourceSlide": 274,
+      "pageId": "g3f95209e0e4_0_4522",
+      "path": "/ssg104/source/slide-0274.png",
+      "present": true,
+      "bytes": 59480,
+      "sha256": "b8a896244b10725c459c201c72e13497894eb3a42de7300efbc6e6a64dc46cf3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S275",
+      "subject": "SSG104",
+      "sourceSlide": 275,
+      "pageId": "g3f95209e0e4_0_4529",
+      "path": "/ssg104/source/slide-0275.png",
+      "present": true,
+      "bytes": 75565,
+      "sha256": "e816726d3050ecc38c6650b92b598da2fcad674e53c7d26a11faa6acd5178f49",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S276",
+      "subject": "SSG104",
+      "sourceSlide": 276,
+      "pageId": "g3f95209e0e4_0_4536",
+      "path": "/ssg104/source/slide-0276.png",
+      "present": true,
+      "bytes": 73751,
+      "sha256": "b5a60c86c8a25ff9d7c5ee417e983ea219f036c4496d0905c1368ab582865b4b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S277",
+      "subject": "SSG104",
+      "sourceSlide": 277,
+      "pageId": "g3f95209e0e4_0_4543",
+      "path": "/ssg104/source/slide-0277.png",
+      "present": true,
+      "bytes": 67360,
+      "sha256": "65e56f4b824e4b473dbb2cbd4ad1f308f78edccee47cf97b19c35236957b60cf",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S278",
+      "subject": "SSG104",
+      "sourceSlide": 278,
+      "pageId": "g3f95209e0e4_0_4550",
+      "path": "/ssg104/source/slide-0278.png",
+      "present": true,
+      "bytes": 92582,
+      "sha256": "107c5434a4592b50a70e66b6b56011430274d85baa4b7f2a6aec978db5e14853",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S279",
+      "subject": "SSG104",
+      "sourceSlide": 279,
+      "pageId": "g3f95209e0e4_0_4557",
+      "path": "/ssg104/source/slide-0279.png",
+      "present": true,
+      "bytes": 56327,
+      "sha256": "e2a473433bbf3dd06addb12f728c40e7dd13b92841db49763c12b39ce2d9d59b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S280",
+      "subject": "SSG104",
+      "sourceSlide": 280,
+      "pageId": "g3f95209e0e4_0_4564",
+      "path": "/ssg104/source/slide-0280.png",
+      "present": true,
+      "bytes": 48381,
+      "sha256": "b229558dcc33f386740c10cf6d26b98587cf64b121800e755fb2be202d271b27",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S281",
+      "subject": "SSG104",
+      "sourceSlide": 281,
+      "pageId": "g3f95209e0e4_0_4571",
+      "path": "/ssg104/source/slide-0281.png",
+      "present": true,
+      "bytes": 80691,
+      "sha256": "418458adc76d97541baf2ca07773c67dd0cc8b2e0c800e4b1c4225c7f25eb3b5",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S282",
+      "subject": "SSG104",
+      "sourceSlide": 282,
+      "pageId": "g3f95209e0e4_0_4578",
+      "path": "/ssg104/source/slide-0282.png",
+      "present": true,
+      "bytes": 58001,
+      "sha256": "af27a8c11acf3dc38450b0608c5b45075503f64f869d6bdbbbb4978d7b36a611",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S283",
+      "subject": "SSG104",
+      "sourceSlide": 283,
+      "pageId": "g3f95209e0e4_0_4585",
+      "path": "/ssg104/source/slide-0283.png",
+      "present": true,
+      "bytes": 50438,
+      "sha256": "02898f5442a3995c9513a2b54af14a0315c732df7c1ac142014b894cf236ff27",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S284",
+      "subject": "SSG104",
+      "sourceSlide": 284,
+      "pageId": "g3f95209e0e4_0_4592",
+      "path": "/ssg104/source/slide-0284.png",
+      "present": true,
+      "bytes": 49161,
+      "sha256": "0820081f7570efd6a9a75c74439be07d541e57ff84147c25836861ada3ea89ae",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S285",
+      "subject": "SSG104",
+      "sourceSlide": 285,
+      "pageId": "g3f95209e0e4_0_4599",
+      "path": "/ssg104/source/slide-0285.png",
+      "present": true,
+      "bytes": 48694,
+      "sha256": "7ff8d2e6f8011650d79f870a4d34e573aa8ee9bc8c833f71da45410add8a6c5c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S286",
+      "subject": "SSG104",
+      "sourceSlide": 286,
+      "pageId": "g3f95209e0e4_0_4606",
+      "path": "/ssg104/source/slide-0286.png",
+      "present": true,
+      "bytes": 78251,
+      "sha256": "ebd3b2dd815b0e3167a680db21112311eac6f9cca3d2ecd8fd088cd9c74505db",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S287",
+      "subject": "SSG104",
+      "sourceSlide": 287,
+      "pageId": "g3f95209e0e4_0_4613",
+      "path": "/ssg104/source/slide-0287.png",
+      "present": true,
+      "bytes": 63878,
+      "sha256": "c3ae73ecba146294799e31e7ef52ddc28db9899e84d6296a3f0a4440d63dbbfa",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S289",
+      "subject": "SSG104",
+      "sourceSlide": 289,
+      "pageId": "g3f95209e0e4_0_4626",
+      "path": "/ssg104/source/slide-0289.png",
+      "present": true,
+      "bytes": 71546,
+      "sha256": "7cb492e76c365d6fa14fbabb8d88e0fc1982fa3f11d21a079b7e1f9730aa2a54",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S290",
+      "subject": "SSG104",
+      "sourceSlide": 290,
+      "pageId": "g3f95209e0e4_0_4633",
+      "path": "/ssg104/source/slide-0290.png",
+      "present": true,
+      "bytes": 78715,
+      "sha256": "d9e73b583c8083578bd70d232d0e0f992901704a7bbe65bceeb8e87e94193057",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S291",
+      "subject": "SSG104",
+      "sourceSlide": 291,
+      "pageId": "g3f95209e0e4_0_4640",
+      "path": "/ssg104/source/slide-0291.png",
+      "present": true,
+      "bytes": 64937,
+      "sha256": "496f63eda8f1d9b3f9a36b1daa608fbe5838cf39f26059e0097b8fd0c3510b46",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S292",
+      "subject": "SSG104",
+      "sourceSlide": 292,
+      "pageId": "g3f95209e0e4_0_4647",
+      "path": "/ssg104/source/slide-0292.png",
+      "present": true,
+      "bytes": 56535,
+      "sha256": "5e6aa7c42b534129e9f39c54e36fc9b3ff540b98e52181e146fd7c325714c4d5",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S293",
+      "subject": "SSG104",
+      "sourceSlide": 293,
+      "pageId": "g3f95209e0e4_0_4654",
+      "path": "/ssg104/source/slide-0293.png",
+      "present": true,
+      "bytes": 61504,
+      "sha256": "64a7ca0820898fd63ec441f04d0ff4ae7461255e12a9df9b1febdadb8aaccc07",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S294",
+      "subject": "SSG104",
+      "sourceSlide": 294,
+      "pageId": "g3f95209e0e4_0_4661",
+      "path": "/ssg104/source/slide-0294.png",
+      "present": true,
+      "bytes": 59423,
+      "sha256": "9f02f542677dac6528b8d44f89c489a76493787ecebfe8988bf020da25654130",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S295",
+      "subject": "SSG104",
+      "sourceSlide": 295,
+      "pageId": "g3f95209e0e4_0_4668",
+      "path": "/ssg104/source/slide-0295.png",
+      "present": true,
+      "bytes": 79780,
+      "sha256": "f0c67a25f697500b0eabbfc45a1fb896473c81a3ce1d6828c6c53a73231e75fb",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S296",
+      "subject": "SSG104",
+      "sourceSlide": 296,
+      "pageId": "g3f95209e0e4_0_4675",
+      "path": "/ssg104/source/slide-0296.png",
+      "present": true,
+      "bytes": 73146,
+      "sha256": "5ffd60fb5d985e9138ee801f2eb433fbaf329a70223e9e0aea7c80280d357172",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S297",
+      "subject": "SSG104",
+      "sourceSlide": 297,
+      "pageId": "g3f95209e0e4_0_4682",
+      "path": "/ssg104/source/slide-0297.png",
+      "present": true,
+      "bytes": 58456,
+      "sha256": "45939c18e4dcaf64557ca92f79140928faf6b0af43b9e5beaae9e971951ece1a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S298",
+      "subject": "SSG104",
+      "sourceSlide": 298,
+      "pageId": "g3f95209e0e4_0_4689",
+      "path": "/ssg104/source/slide-0298.png",
+      "present": true,
+      "bytes": 58250,
+      "sha256": "81edf155c3bf10b25f18f9e126f35825cf98445391a90a4675c62736805433c7",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S299",
+      "subject": "SSG104",
+      "sourceSlide": 299,
+      "pageId": "g3f95209e0e4_0_4696",
+      "path": "/ssg104/source/slide-0299.png",
+      "present": true,
+      "bytes": 58986,
+      "sha256": "2b1779aa8dbcec530621237fdf0af5cbb9eb3a62fae1dcc63a197ac21d530ed0",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S300",
+      "subject": "SSG104",
+      "sourceSlide": 300,
+      "pageId": "g3f95209e0e4_0_4703",
+      "path": "/ssg104/source/slide-0300.png",
+      "present": true,
+      "bytes": 106874,
+      "sha256": "72e15ca90f30aaf089df4d56d0d14f6de927a21b912231376ce8f957e3c413f9",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S301",
+      "subject": "SSG104",
+      "sourceSlide": 301,
+      "pageId": "g3f95209e0e4_0_4710",
+      "path": "/ssg104/source/slide-0301.png",
+      "present": true,
+      "bytes": 46672,
+      "sha256": "5491d09fd39fee87ee76286cb9e30c65cfe87f1a68a5101c6fe027d4b1d1031d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S302",
+      "subject": "SSG104",
+      "sourceSlide": 302,
+      "pageId": "g3f95209e0e4_0_4717",
+      "path": "/ssg104/source/slide-0302.png",
+      "present": true,
+      "bytes": 81547,
+      "sha256": "4f0934606dd3d589681f4b06ced31e900c1cafa45a5c335374dcbeb71a9e7759",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S303",
+      "subject": "SSG104",
+      "sourceSlide": 303,
+      "pageId": "g3f95209e0e4_0_4724",
+      "path": "/ssg104/source/slide-0303.png",
+      "present": true,
+      "bytes": 68672,
+      "sha256": "2b1bc32bfd5a1dc35543f7073eafa48ac1dd1f956da6a44318b4898ca975d51c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S304",
+      "subject": "SSG104",
+      "sourceSlide": 304,
+      "pageId": "g3f95209e0e4_0_4731",
+      "path": "/ssg104/source/slide-0304.png",
+      "present": true,
+      "bytes": 62046,
+      "sha256": "a971265172008a5120568192cbe14f1bc548390075971528421517f3d8ab9eb1",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S305",
+      "subject": "SSG104",
+      "sourceSlide": 305,
+      "pageId": "g3f95209e0e4_0_4738",
+      "path": "/ssg104/source/slide-0305.png",
+      "present": true,
+      "bytes": 47267,
+      "sha256": "86b84d87c2b3f54139950a6bcbe825d9bb1db1cd3dd20190c16b808daf4181cd",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S306",
+      "subject": "SSG104",
+      "sourceSlide": 306,
+      "pageId": "g3f95209e0e4_0_4745",
+      "path": "/ssg104/source/slide-0306.png",
+      "present": true,
+      "bytes": 57561,
+      "sha256": "02aca54aa003507c5203117ff4908a6d8ce902f95c39d3326584fa99f6748f4d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S307",
+      "subject": "SSG104",
+      "sourceSlide": 307,
+      "pageId": "g3f95209e0e4_0_4752",
+      "path": "/ssg104/source/slide-0307.png",
+      "present": true,
+      "bytes": 51437,
+      "sha256": "40219748be07af86f5aa1a7b58e1e0d52759c202e86bb7ac2ddb606cc3fa0583",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S308",
+      "subject": "SSG104",
+      "sourceSlide": 308,
+      "pageId": "g3f95209e0e4_0_4759",
+      "path": "/ssg104/source/slide-0308.png",
+      "present": true,
+      "bytes": 76169,
+      "sha256": "d437b72447ac4caf278d126903e05e8dd3bac95f618b834b05638632a7920c7d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S309",
+      "subject": "SSG104",
+      "sourceSlide": 309,
+      "pageId": "g3f95209e0e4_0_4766",
+      "path": "/ssg104/source/slide-0309.png",
+      "present": true,
+      "bytes": 79677,
+      "sha256": "bbd3b59f3e354984e011687b1a6a97dbae9e010b3e2eb616b9a8ac65772b1a49",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S310",
+      "subject": "SSG104",
+      "sourceSlide": 310,
+      "pageId": "g3f95209e0e4_0_4773",
+      "path": "/ssg104/source/slide-0310.png",
+      "present": true,
+      "bytes": 68720,
+      "sha256": "719719b751497ac982620b3a688cd7e8ba2eb511e7cf5b06d1ad8173f2842fbf",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S311",
+      "subject": "SSG104",
+      "sourceSlide": 311,
+      "pageId": "g3f95209e0e4_0_4780",
+      "path": "/ssg104/source/slide-0311.png",
+      "present": true,
+      "bytes": 67477,
+      "sha256": "a692cba93a0d9e328fad4e4e53e605e7a759dc47805491e550ed850f48c1020a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S312",
+      "subject": "SSG104",
+      "sourceSlide": 312,
+      "pageId": "g3f95209e0e4_0_4787",
+      "path": "/ssg104/source/slide-0312.png",
+      "present": true,
+      "bytes": 88564,
+      "sha256": "a03ac07765bffdfca800ff2afb37d3747407a6cf5336607c1904a803f71807f7",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S313",
+      "subject": "SSG104",
+      "sourceSlide": 313,
+      "pageId": "g3f95209e0e4_0_4794",
+      "path": "/ssg104/source/slide-0313.png",
+      "present": true,
+      "bytes": 79890,
+      "sha256": "2aa584b56729c2d9cca5be0e7b6779803f37f256126c54c1e0bb89010b53310d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S314",
+      "subject": "SSG104",
+      "sourceSlide": 314,
+      "pageId": "g3f95209e0e4_0_4801",
+      "path": "/ssg104/source/slide-0314.png",
+      "present": true,
+      "bytes": 98240,
+      "sha256": "07a990498f0a405869cfee3739c191fe890a326dcb277652352cf46395e49989",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S315",
+      "subject": "SSG104",
+      "sourceSlide": 315,
+      "pageId": "g3f95209e0e4_0_4808",
+      "path": "/ssg104/source/slide-0315.png",
+      "present": true,
+      "bytes": 65723,
+      "sha256": "0b3466bc73dcc436aa7203c2d4cab09fb990e06fa05875c7d58fa9cfcec18391",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S316",
+      "subject": "SSG104",
+      "sourceSlide": 316,
+      "pageId": "g3f95209e0e4_0_4815",
+      "path": "/ssg104/source/slide-0316.png",
+      "present": true,
+      "bytes": 67553,
+      "sha256": "ae0da1dec201b54956529bae3509a028b5539507b781e33d11066ca4f3d6f4b2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S317",
+      "subject": "SSG104",
+      "sourceSlide": 317,
+      "pageId": "g3f95209e0e4_0_4822",
+      "path": "/ssg104/source/slide-0317.png",
+      "present": true,
+      "bytes": 61843,
+      "sha256": "4c74cd87f1387b5f81a5b3ca4ecf5397758bd3facb109a99cb7396458b50bb27",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S318",
+      "subject": "SSG104",
+      "sourceSlide": 318,
+      "pageId": "g3f95209e0e4_0_4829",
+      "path": "/ssg104/source/slide-0318.png",
+      "present": true,
+      "bytes": 56582,
+      "sha256": "71f1e683229de7fbe80b32b0617a6c937a2999838253b7b6172321be4c2311df",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S320",
+      "subject": "SSG104",
+      "sourceSlide": 320,
+      "pageId": "g3f95209e0e4_0_4842",
+      "path": "/ssg104/source/slide-0320.png",
+      "present": true,
+      "bytes": 61799,
+      "sha256": "1194e7c67aa929087d30c86f2de9c0f52c901fe88f975406977344c1d0eb5cfb",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S321",
+      "subject": "SSG104",
+      "sourceSlide": 321,
+      "pageId": "g3f95209e0e4_0_4849",
+      "path": "/ssg104/source/slide-0321.png",
+      "present": true,
+      "bytes": 66126,
+      "sha256": "1e8a804f2a2514356f5c40acc5962b483ccfadb7a1b77d89abf9efcd6c43ce6e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S322",
+      "subject": "SSG104",
+      "sourceSlide": 322,
+      "pageId": "g3f95209e0e4_0_4856",
+      "path": "/ssg104/source/slide-0322.png",
+      "present": true,
+      "bytes": 66638,
+      "sha256": "97a7a016abd8a9bc90d368b8f7f35980a51c476d107716069f14a11542d876c6",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S323",
+      "subject": "SSG104",
+      "sourceSlide": 323,
+      "pageId": "g3f95209e0e4_0_4863",
+      "path": "/ssg104/source/slide-0323.png",
+      "present": true,
+      "bytes": 32665,
+      "sha256": "dd87868771a6274e9fadf7413434cea7fec801f36e97420b2d1d9775142e3ed5",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S324",
+      "subject": "SSG104",
+      "sourceSlide": 324,
+      "pageId": "g3f95209e0e4_0_4870",
+      "path": "/ssg104/source/slide-0324.png",
+      "present": true,
+      "bytes": 30386,
+      "sha256": "ffbfe55c25056f967a7593689761140758dada58d98bf04d47e29c40a28c0a73",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S325",
+      "subject": "SSG104",
+      "sourceSlide": 325,
+      "pageId": "g3f95209e0e4_0_4877",
+      "path": "/ssg104/source/slide-0325.png",
+      "present": true,
+      "bytes": 63888,
+      "sha256": "2d64eaaf24f33856b5b1493db9287a8e8851ecaff56afb57d7aff8d736a2dc7d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S326",
+      "subject": "SSG104",
+      "sourceSlide": 326,
+      "pageId": "g3f95209e0e4_0_4884",
+      "path": "/ssg104/source/slide-0326.png",
+      "present": true,
+      "bytes": 53485,
+      "sha256": "0b7114ef20e787a8a8afe7add526249428c1222a5e82eb30e87658e7616b7cad",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S327",
+      "subject": "SSG104",
+      "sourceSlide": 327,
+      "pageId": "g3f95209e0e4_0_4891",
+      "path": "/ssg104/source/slide-0327.png",
+      "present": true,
+      "bytes": 58494,
+      "sha256": "b17558cb2f62107ceb3ce9138a32989c9058182ad32aebf5f26df68a33430e2e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S328",
+      "subject": "SSG104",
+      "sourceSlide": 328,
+      "pageId": "g3f95209e0e4_0_4898",
+      "path": "/ssg104/source/slide-0328.png",
+      "present": true,
+      "bytes": 62682,
+      "sha256": "24545640d7911bf493e2b37b9c954e0deb4846759b6e2a51ed211fa7f745869a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S329",
+      "subject": "SSG104",
+      "sourceSlide": 329,
+      "pageId": "g3f95209e0e4_0_4905",
+      "path": "/ssg104/source/slide-0329.png",
+      "present": true,
+      "bytes": 71475,
+      "sha256": "5bf21523cfc09366b0608952b1c9dfd3d11d6709fe9da6273dce4592afc4a19c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S330",
+      "subject": "SSG104",
+      "sourceSlide": 330,
+      "pageId": "g3f95209e0e4_0_4912",
+      "path": "/ssg104/source/slide-0330.png",
+      "present": true,
+      "bytes": 72792,
+      "sha256": "c8b864d2a149fdf12b4ffc79222757812f4132fd3265a8607320720c3a1f620d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S331",
+      "subject": "SSG104",
+      "sourceSlide": 331,
+      "pageId": "g3f95209e0e4_0_4919",
+      "path": "/ssg104/source/slide-0331.png",
+      "present": true,
+      "bytes": 65900,
+      "sha256": "52e334e4e5bbec346f8704c8a4b6ff5af87631f00f449d10046c587de9724010",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S333",
+      "subject": "SSG104",
+      "sourceSlide": 333,
+      "pageId": "g3f95209e0e4_0_4930",
+      "path": "/ssg104/source/slide-0333.png",
+      "present": true,
+      "bytes": 61992,
+      "sha256": "fb931af6aa0b68472a33101c1b4654fad8a20a36e190b6115013607d41cc12fe",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S334",
+      "subject": "SSG104",
+      "sourceSlide": 334,
+      "pageId": "g3f95209e0e4_0_4937",
+      "path": "/ssg104/source/slide-0334.png",
+      "present": true,
+      "bytes": 59493,
+      "sha256": "c883df721c3e6fe7e2b769230d708991390ba1ae97ab04f5eda7dd3876b8867d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S335",
+      "subject": "SSG104",
+      "sourceSlide": 335,
+      "pageId": "g3f95209e0e4_0_4944",
+      "path": "/ssg104/source/slide-0335.png",
+      "present": true,
+      "bytes": 34501,
+      "sha256": "fef360aac111f865be33fa26a0280a4c23a743fc14a71b50b21e7ffefbb33b00",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S336",
+      "subject": "SSG104",
+      "sourceSlide": 336,
+      "pageId": "g3f95209e0e4_0_4951",
+      "path": "/ssg104/source/slide-0336.png",
+      "present": true,
+      "bytes": 57974,
+      "sha256": "1deac44ee505db96e0c5ffa04d6f5527e144869f83c731a3b2f403431962ceed",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S337",
+      "subject": "SSG104",
+      "sourceSlide": 337,
+      "pageId": "g3f95209e0e4_0_4958",
+      "path": "/ssg104/source/slide-0337.png",
+      "present": true,
+      "bytes": 37141,
+      "sha256": "ab20dfeaf7222eff89df20eb5b42abb80f67e8d8a53e87abc176313aa9848c20",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S338",
+      "subject": "SSG104",
+      "sourceSlide": 338,
+      "pageId": "g3f95209e0e4_0_4965",
+      "path": "/ssg104/source/slide-0338.png",
+      "present": true,
+      "bytes": 38835,
+      "sha256": "716173d17f38fe8874a9a66d72d118f3be129ddc408265602dc7e48f62737589",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S339",
+      "subject": "SSG104",
+      "sourceSlide": 339,
+      "pageId": "g3f95209e0e4_0_4972",
+      "path": "/ssg104/source/slide-0339.png",
+      "present": true,
+      "bytes": 39120,
+      "sha256": "36b04b254c21834e3e6bdd78e6fa962090265c40677fb9e4120bd86dbc953697",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S340",
+      "subject": "SSG104",
+      "sourceSlide": 340,
+      "pageId": "g3f95209e0e4_0_4979",
+      "path": "/ssg104/source/slide-0340.png",
+      "present": true,
+      "bytes": 48938,
+      "sha256": "1679d4930fe447484df0d32bcbb0288f710d9a50619b3fd256dcde2f5fd02852",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S341",
+      "subject": "SSG104",
+      "sourceSlide": 341,
+      "pageId": "g3f95209e0e4_0_4986",
+      "path": "/ssg104/source/slide-0341.png",
+      "present": true,
+      "bytes": 38994,
+      "sha256": "5fc449e6685da4cf2190aa987dd66551494f25baece7b8df24565fc4fb774947",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S342",
+      "subject": "SSG104",
+      "sourceSlide": 342,
+      "pageId": "g3f95209e0e4_0_4993",
+      "path": "/ssg104/source/slide-0342.png",
+      "present": true,
+      "bytes": 63478,
+      "sha256": "d3617663c675645f3e4217b8d1978f8f6ffccfcbe89da4ad6bf2d4261f14b9f7",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S343",
+      "subject": "SSG104",
+      "sourceSlide": 343,
+      "pageId": "g3f95209e0e4_0_5000",
+      "path": "/ssg104/source/slide-0343.png",
+      "present": true,
+      "bytes": 71205,
+      "sha256": "11cba7b993a7043df178b12f9ec03563832e25640aeb9ec7f98311fee7fe00a9",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S344",
+      "subject": "SSG104",
+      "sourceSlide": 344,
+      "pageId": "g3f95209e0e4_0_5007",
+      "path": "/ssg104/source/slide-0344.png",
+      "present": true,
+      "bytes": 68781,
+      "sha256": "fc83711bf2f02a2a29e0be1306afdc1a66adfe6289c83867edeb1d3f56a9f1f6",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S345",
+      "subject": "SSG104",
+      "sourceSlide": 345,
+      "pageId": "g3f95209e0e4_0_5014",
+      "path": "/ssg104/source/slide-0345.png",
+      "present": true,
+      "bytes": 35541,
+      "sha256": "d1e73bed15e785fa26b6fe08c4c3d3f3dc7b49ffc9caeafc2a9dee569d56f1ea",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S346",
+      "subject": "SSG104",
+      "sourceSlide": 346,
+      "pageId": "g3f95209e0e4_0_5021",
+      "path": "/ssg104/source/slide-0346.png",
+      "present": true,
+      "bytes": 34167,
+      "sha256": "f996c0abdf06aaa68716076393dafb10a22247978a28d22051bde2dd95bb0074",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S347",
+      "subject": "SSG104",
+      "sourceSlide": 347,
+      "pageId": "g3f95209e0e4_0_5028",
+      "path": "/ssg104/source/slide-0347.png",
+      "present": true,
+      "bytes": 39685,
+      "sha256": "3d0a0f958e3995f4b98703a9e09a4c5e595042c2fcf4a655608fcc3c2cb8aa1a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S348",
+      "subject": "SSG104",
+      "sourceSlide": 348,
+      "pageId": "g3f95209e0e4_0_5035",
+      "path": "/ssg104/source/slide-0348.png",
+      "present": true,
+      "bytes": 60009,
+      "sha256": "e0d4eee03f5c02ef8611bacff364e496410dad97cd1bd4bb87d60c4207d1ff34",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S349",
+      "subject": "SSG104",
+      "sourceSlide": 349,
+      "pageId": "g3f95209e0e4_0_5042",
+      "path": "/ssg104/source/slide-0349.png",
+      "present": true,
+      "bytes": 34377,
+      "sha256": "8a49ce9f01e4fb5625d177f6db391b918d11e5ae51141a6455f4eec6758f7899",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S350",
+      "subject": "SSG104",
+      "sourceSlide": 350,
+      "pageId": "g3f95209e0e4_0_5049",
+      "path": "/ssg104/source/slide-0350.png",
+      "present": true,
+      "bytes": 79723,
+      "sha256": "abca0e88b72bb3b79fa350b2f0ce3a4951562a890a7ec264ddd302ab7b7b7b6b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S351",
+      "subject": "SSG104",
+      "sourceSlide": 351,
+      "pageId": "g3f95209e0e4_0_5056",
+      "path": "/ssg104/source/slide-0351.png",
+      "present": true,
+      "bytes": 31210,
+      "sha256": "f8500a79e3d1dbcdebb3ac04a43bf24879d9e596c44d01a0a44f737765f7a7e3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S352",
+      "subject": "SSG104",
+      "sourceSlide": 352,
+      "pageId": "g3f95209e0e4_0_5063",
+      "path": "/ssg104/source/slide-0352.png",
+      "present": true,
+      "bytes": 98075,
+      "sha256": "006474b05d6c9318d7b4e152069b12b8e1d136b471930a69d1a3b9442d258db0",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S353",
+      "subject": "SSG104",
+      "sourceSlide": 353,
+      "pageId": "g3f95209e0e4_0_5070",
+      "path": "/ssg104/source/slide-0353.png",
+      "present": true,
+      "bytes": 59858,
+      "sha256": "8151bb50c68cdb0c0c4cda23fce4daf26ceb4a4789c2b7341605549814a48a1f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S354",
+      "subject": "SSG104",
+      "sourceSlide": 354,
+      "pageId": "g3f95209e0e4_0_5077",
+      "path": "/ssg104/source/slide-0354.png",
+      "present": true,
+      "bytes": 74993,
+      "sha256": "5c46a603021379aeeca00c755b5822880fcd08ae616d74d76af042a9f1d16036",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S355",
+      "subject": "SSG104",
+      "sourceSlide": 355,
+      "pageId": "g3f95209e0e4_0_5084",
+      "path": "/ssg104/source/slide-0355.png",
+      "present": true,
+      "bytes": 63828,
+      "sha256": "28f07fe2608935093cd6ad4d576b81b289b7026069aa2ca65cc9beadad290928",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S356",
+      "subject": "SSG104",
+      "sourceSlide": 356,
+      "pageId": "g3f95209e0e4_0_5091",
+      "path": "/ssg104/source/slide-0356.png",
+      "present": true,
+      "bytes": 44151,
+      "sha256": "4d1601bd2a912c8f63c2f35831310a49721fd33c0749f0bd7586ecc173b8504f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S357",
+      "subject": "SSG104",
+      "sourceSlide": 357,
+      "pageId": "g3f95209e0e4_0_5098",
+      "path": "/ssg104/source/slide-0357.png",
+      "present": true,
+      "bytes": 36677,
+      "sha256": "8dd0464d9984ef92321f5f1313df0ef10658efef1948b3bb76a480bd2cecf738",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S358",
+      "subject": "SSG104",
+      "sourceSlide": 358,
+      "pageId": "g3f95209e0e4_0_5105",
+      "path": "/ssg104/source/slide-0358.png",
+      "present": true,
+      "bytes": 41483,
+      "sha256": "b60eaf06056319be963635ad56cca8998c1875c09951588be6dd314892fd4c4a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S359",
+      "subject": "SSG104",
+      "sourceSlide": 359,
+      "pageId": "g3f95209e0e4_0_5112",
+      "path": "/ssg104/source/slide-0359.png",
+      "present": true,
+      "bytes": 48977,
+      "sha256": "c8c377b1a5de83b979435dbcb6e6dbf66ff0af9736b7b18003bdffe86d85b6fb",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S360",
+      "subject": "SSG104",
+      "sourceSlide": 360,
+      "pageId": "g3f95209e0e4_0_5119",
+      "path": "/ssg104/source/slide-0360.png",
+      "present": true,
+      "bytes": 45304,
+      "sha256": "d0fc907349a739d4b02736d72463ed67db723a54641fddf1ae267c304ca53025",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S361",
+      "subject": "SSG104",
+      "sourceSlide": 361,
+      "pageId": "g3f95209e0e4_0_5126",
+      "path": "/ssg104/source/slide-0361.png",
+      "present": true,
+      "bytes": 44227,
+      "sha256": "bc3dd385fa33bc580ac7790e8e7b3222412255e75641b592fc2bf8eeb2f3134b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S362",
+      "subject": "SSG104",
+      "sourceSlide": 362,
+      "pageId": "g3f95209e0e4_0_5133",
+      "path": "/ssg104/source/slide-0362.png",
+      "present": true,
+      "bytes": 37819,
+      "sha256": "9668a0dacdadeb8395d656e6b326fcb36d3403ee714760aadcac16ffde6a0284",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S363",
+      "subject": "SSG104",
+      "sourceSlide": 363,
+      "pageId": "g3f95209e0e4_0_5140",
+      "path": "/ssg104/source/slide-0363.png",
+      "present": true,
+      "bytes": 48636,
+      "sha256": "3e874424b3bebb30028b6402145a6c6541652a9fa7c24873bfba5b135d2f7707",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S364",
+      "subject": "SSG104",
+      "sourceSlide": 364,
+      "pageId": "g3f95209e0e4_0_5147",
+      "path": "/ssg104/source/slide-0364.png",
+      "present": true,
+      "bytes": 65751,
+      "sha256": "41fc17205d0d1fbc43c3facd4c3bfd22b9b6d68d2f80f583584cdf6237571ddb",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S365",
+      "subject": "SSG104",
+      "sourceSlide": 365,
+      "pageId": "g3f95209e0e4_0_5154",
+      "path": "/ssg104/source/slide-0365.png",
+      "present": true,
+      "bytes": 29531,
+      "sha256": "efe4db910ceea6b2a8b646f893962c6dd317c3dbff24e0ce13b4a3176c76bf6c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S366",
+      "subject": "SSG104",
+      "sourceSlide": 366,
+      "pageId": "g3f95209e0e4_0_5161",
+      "path": "/ssg104/source/slide-0366.png",
+      "present": true,
+      "bytes": 59374,
+      "sha256": "323ec97215f88e7632d26d03f37c6959f5fad239d400038f193a78ab42a10f98",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S367",
+      "subject": "SSG104",
+      "sourceSlide": 367,
+      "pageId": "g3f95209e0e4_0_5168",
+      "path": "/ssg104/source/slide-0367.png",
+      "present": true,
+      "bytes": 35057,
+      "sha256": "61af24f83b8e911258199f639ffc6c08fba4c35155b8b32ea7e5435a128df7f7",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S368",
+      "subject": "SSG104",
+      "sourceSlide": 368,
+      "pageId": "g3f95209e0e4_0_5175",
+      "path": "/ssg104/source/slide-0368.png",
+      "present": true,
+      "bytes": 92324,
+      "sha256": "1e1bf6a4a91ba77ebebd99b5e68e2f0b85e68f00ad8bdca813386ad9700be821",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S369",
+      "subject": "SSG104",
+      "sourceSlide": 369,
+      "pageId": "g3f95209e0e4_0_5182",
+      "path": "/ssg104/source/slide-0369.png",
+      "present": true,
+      "bytes": 69257,
+      "sha256": "279ca30c0018ce754e691ad5d8a8d8a83bd27a59b94271424b7419e0542089e6",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S370",
+      "subject": "SSG104",
+      "sourceSlide": 370,
+      "pageId": "g3f95209e0e4_0_5189",
+      "path": "/ssg104/source/slide-0370.png",
+      "present": true,
+      "bytes": 53048,
+      "sha256": "443dfc025c29479580c2088d5398ab996f8ebd3bbe248cca6461a7e334e18fc2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S371",
+      "subject": "SSG104",
+      "sourceSlide": 371,
+      "pageId": "g3f95209e0e4_0_5196",
+      "path": "/ssg104/source/slide-0371.png",
+      "present": true,
+      "bytes": 62585,
+      "sha256": "5898af7d317b27b989a62626616c7fcd5aee51f2e485d5ba3e23b64af3ea51b0",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S372",
+      "subject": "SSG104",
+      "sourceSlide": 372,
+      "pageId": "g3f95209e0e4_0_5203",
+      "path": "/ssg104/source/slide-0372.png",
+      "present": true,
+      "bytes": 48518,
+      "sha256": "edd0608cb056314a04c525da67ac2363e326bfc081ea5237d03383a13ad5601b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S373",
+      "subject": "SSG104",
+      "sourceSlide": 373,
+      "pageId": "g3f95209e0e4_0_5210",
+      "path": "/ssg104/source/slide-0373.png",
+      "present": true,
+      "bytes": 48251,
+      "sha256": "8f13bf9f05011408b34547f421883cbfd5670dd6830232593eb3f2319ecb7f03",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S374",
+      "subject": "SSG104",
+      "sourceSlide": 374,
+      "pageId": "g3f95209e0e4_0_5217",
+      "path": "/ssg104/source/slide-0374.png",
+      "present": true,
+      "bytes": 158432,
+      "sha256": "06c9123d59e4e1d956328a51108e1e4a4aeb470bab65a5ad1d4cdf88ffa7b9e7",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S375",
+      "subject": "SSG104",
+      "sourceSlide": 375,
+      "pageId": "g3f95209e0e4_0_5224",
+      "path": "/ssg104/source/slide-0375.png",
+      "present": true,
+      "bytes": 40809,
+      "sha256": "3d68958cbaba59e389e9f9d4de56400f9a22cbf5686fcc95c7f3381e16cd96cd",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG104-S376",
+      "subject": "SSG104",
+      "sourceSlide": 376,
+      "pageId": "g3f95209e0e4_0_5231",
+      "path": "/ssg104/source/slide-0376.png",
+      "present": true,
+      "bytes": 74074,
+      "sha256": "68f2eaa22c44537eb6e08e427683b906e843202d333ab0d06c609497e05fb68f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S378",
+      "subject": "SSG105",
+      "sourceSlide": 378,
+      "pageId": "g3f965153a77_1_5",
+      "path": "/ssg105/source/slide-0378.png",
+      "present": true,
+      "bytes": 31896,
+      "sha256": "6cc0bb1a4d379e5c08e98f60f1e495b6d4bee0cd5ccd8bc1607f37ca7a26a66b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S379",
+      "subject": "SSG105",
+      "sourceSlide": 379,
+      "pageId": "g3f965153a77_1_11",
+      "path": "/ssg105/source/slide-0379.png",
+      "present": true,
+      "bytes": 44967,
+      "sha256": "830daebaed9e4379e4d937fe50739713df68a179287158b9ebd1a58ad8ec7d5f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S380",
+      "subject": "SSG105",
+      "sourceSlide": 380,
+      "pageId": "g3f965153a77_1_17",
+      "path": "/ssg105/source/slide-0380.png",
+      "present": true,
+      "bytes": 30682,
+      "sha256": "0b157801288fdad334861cc35080e3a655c03c2fb7006859867e1a0f044b1be5",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S381",
+      "subject": "SSG105",
+      "sourceSlide": 381,
+      "pageId": "g3f965153a77_1_22",
+      "path": "/ssg105/source/slide-0381.png",
+      "present": true,
+      "bytes": 41670,
+      "sha256": "c99c85927a1c9bfe30b5fa3755dd2b3d76de53703818957b33b3851914ef21c8",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S382",
+      "subject": "SSG105",
+      "sourceSlide": 382,
+      "pageId": "g3f965153a77_1_27",
+      "path": "/ssg105/source/slide-0382.png",
+      "present": true,
+      "bytes": 33434,
+      "sha256": "45967ca17987b726d9d8be0402e714357589f406b5a0e4d368a81a0a4af4d3d6",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S383",
+      "subject": "SSG105",
+      "sourceSlide": 383,
+      "pageId": "g3f965153a77_1_32",
+      "path": "/ssg105/source/slide-0383.png",
+      "present": true,
+      "bytes": 26780,
+      "sha256": "cfb38875174c3c989c43c9616d8c9d6cc6a31eb0e5509a32b8e140fd74f73c60",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S384",
+      "subject": "SSG105",
+      "sourceSlide": 384,
+      "pageId": "g3f965153a77_1_37",
+      "path": "/ssg105/source/slide-0384.png",
+      "present": true,
+      "bytes": 44816,
+      "sha256": "784d6cb48f3bf360e32546cfeac8a518f1d87af09bdfce99c8b6a6adf18115a7",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S385",
+      "subject": "SSG105",
+      "sourceSlide": 385,
+      "pageId": "g3f965153a77_1_42",
+      "path": "/ssg105/source/slide-0385.png",
+      "present": true,
+      "bytes": 32432,
+      "sha256": "47caa1c313b9085dcd43c1e8d064572dbf24bcbc1991d909867d75a2fb5807f1",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S386",
+      "subject": "SSG105",
+      "sourceSlide": 386,
+      "pageId": "g3f965153a77_1_47",
+      "path": "/ssg105/source/slide-0386.png",
+      "present": true,
+      "bytes": 36766,
+      "sha256": "9f3d51defe00b34f7c7250ec3cc80dd8756fc07fa49398164800cf38333ce2cc",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S387",
+      "subject": "SSG105",
+      "sourceSlide": 387,
+      "pageId": "g3f965153a77_1_52",
+      "path": "/ssg105/source/slide-0387.png",
+      "present": true,
+      "bytes": 36522,
+      "sha256": "bde6f482b421133edc768faff7a7e8bc771cbee4f7c71983c788534b99823995",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S388",
+      "subject": "SSG105",
+      "sourceSlide": 388,
+      "pageId": "g3f965153a77_1_57",
+      "path": "/ssg105/source/slide-0388.png",
+      "present": true,
+      "bytes": 41929,
+      "sha256": "7696d4fb2f2871bf2bb712f29c7aba634b5e4c7b7fbd099cd7b6807cf3443251",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S389",
+      "subject": "SSG105",
+      "sourceSlide": 389,
+      "pageId": "g3f965153a77_1_62",
+      "path": "/ssg105/source/slide-0389.png",
+      "present": true,
+      "bytes": 38551,
+      "sha256": "e1c1b9e3fcaa2f605f383c7eb6b98944a3785334e40be7bb72533c044a738597",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S390",
+      "subject": "SSG105",
+      "sourceSlide": 390,
+      "pageId": "g3f965153a77_1_67",
+      "path": "/ssg105/source/slide-0390.png",
+      "present": true,
+      "bytes": 32011,
+      "sha256": "dcce2b6e2abb694d7a70a316d6babebbaf92eb8b1aa8ea21d3d5023cc663cd0f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S391",
+      "subject": "SSG105",
+      "sourceSlide": 391,
+      "pageId": "g3f965153a77_1_72",
+      "path": "/ssg105/source/slide-0391.png",
+      "present": true,
+      "bytes": 36631,
+      "sha256": "a23c1f4eb2ab01a6f46ee51f09426776d8617fae68553668020172a04f8e1c99",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S392",
+      "subject": "SSG105",
+      "sourceSlide": 392,
+      "pageId": "g3f965153a77_1_77",
+      "path": "/ssg105/source/slide-0392.png",
+      "present": true,
+      "bytes": 48413,
+      "sha256": "062f0fda648de34e096d951318f20c9192bd1dccfae6d3336ff003cf406bf44d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S393",
+      "subject": "SSG105",
+      "sourceSlide": 393,
+      "pageId": "g3f965153a77_1_82",
+      "path": "/ssg105/source/slide-0393.png",
+      "present": true,
+      "bytes": 42417,
+      "sha256": "591b6614add5ce9306ef2d27819e01dc10c1f7b0982ffcee28f6d21330671948",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S394",
+      "subject": "SSG105",
+      "sourceSlide": 394,
+      "pageId": "g3f965153a77_1_87",
+      "path": "/ssg105/source/slide-0394.png",
+      "present": true,
+      "bytes": 40350,
+      "sha256": "68b60a895494b0a9e2f63d4c3b193e1f3b82c5c9a2f12ce16f98b5daa3e91008",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S395",
+      "subject": "SSG105",
+      "sourceSlide": 395,
+      "pageId": "g3f965153a77_1_92",
+      "path": "/ssg105/source/slide-0395.png",
+      "present": true,
+      "bytes": 34144,
+      "sha256": "065efae230595640efbfe9647ad1f5fd053423eb067de9c4bbde22ee94c2fd4d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S396",
+      "subject": "SSG105",
+      "sourceSlide": 396,
+      "pageId": "g3f965153a77_1_97",
+      "path": "/ssg105/source/slide-0396.png",
+      "present": true,
+      "bytes": 34531,
+      "sha256": "5efa3cfecbe91df28878e8c0e830c12827c392f73913626d50f3ce6700402281",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S397",
+      "subject": "SSG105",
+      "sourceSlide": 397,
+      "pageId": "g3f965153a77_1_102",
+      "path": "/ssg105/source/slide-0397.png",
+      "present": true,
+      "bytes": 53094,
+      "sha256": "18d6cc08cf2b33d5ffa64c1820148777f128d82ebfb5d8fa2979560e06c173cb",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S398",
+      "subject": "SSG105",
+      "sourceSlide": 398,
+      "pageId": "g3f965153a77_1_107",
+      "path": "/ssg105/source/slide-0398.png",
+      "present": true,
+      "bytes": 118068,
+      "sha256": "ba7867e4d0a5438ebaaa5cc1fbbcfc6dd97cb5366926b2d0d246492eff4ea293",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S399",
+      "subject": "SSG105",
+      "sourceSlide": 399,
+      "pageId": "g3f965153a77_1_112",
+      "path": "/ssg105/source/slide-0399.png",
+      "present": true,
+      "bytes": 102533,
+      "sha256": "e4637b864373c544c3699ced2d415c40b7c526b9eb4bd97847d7c3158270c022",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S400",
+      "subject": "SSG105",
+      "sourceSlide": 400,
+      "pageId": "g3f965153a77_1_117",
+      "path": "/ssg105/source/slide-0400.png",
+      "present": true,
+      "bytes": 101566,
+      "sha256": "89f34d3f041e5ea46e53bbd557d52a5a03260fd4d17f123eb949e197ca2d0a63",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S401",
+      "subject": "SSG105",
+      "sourceSlide": 401,
+      "pageId": "g3f965153a77_1_122",
+      "path": "/ssg105/source/slide-0401.png",
+      "present": true,
+      "bytes": 86336,
+      "sha256": "9f28430097f4e29745f93782429e2f67d4e609369e3db64e33d79b9cfa06c811",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S402",
+      "subject": "SSG105",
+      "sourceSlide": 402,
+      "pageId": "g3f965153a77_1_127",
+      "path": "/ssg105/source/slide-0402.png",
+      "present": true,
+      "bytes": 123967,
+      "sha256": "75da516a56378e761be4ae1128aaaa0d03d6addc5947a32778d62e80ef54e79a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S403",
+      "subject": "SSG105",
+      "sourceSlide": 403,
+      "pageId": "g3f965153a77_1_132",
+      "path": "/ssg105/source/slide-0403.png",
+      "present": true,
+      "bytes": 97406,
+      "sha256": "01e29d095073ee8ce00313707bc91291e727e73747a175df8a390540cd350512",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S404",
+      "subject": "SSG105",
+      "sourceSlide": 404,
+      "pageId": "g3f965153a77_1_137",
+      "path": "/ssg105/source/slide-0404.png",
+      "present": true,
+      "bytes": 112318,
+      "sha256": "5443b69185b2d80d2b8218870983e60d8cbe0fc200b7d8319cdf727d5a11ac4c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S405",
+      "subject": "SSG105",
+      "sourceSlide": 405,
+      "pageId": "g3f965153a77_1_142",
+      "path": "/ssg105/source/slide-0405.png",
+      "present": true,
+      "bytes": 92148,
+      "sha256": "b879664d69298abcdccb026df4189cb83deb79246e2db5ad79c299179d63b15e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S406",
+      "subject": "SSG105",
+      "sourceSlide": 406,
+      "pageId": "g3f965153a77_1_147",
+      "path": "/ssg105/source/slide-0406.png",
+      "present": true,
+      "bytes": 90761,
+      "sha256": "ed6f3fe96f07ac209ade1aa03866b947f12b1ee9aa1ef44012da32010b85745f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S407",
+      "subject": "SSG105",
+      "sourceSlide": 407,
+      "pageId": "g3f965153a77_1_152",
+      "path": "/ssg105/source/slide-0407.png",
+      "present": true,
+      "bytes": 106731,
+      "sha256": "a5de9cb7448f81f068006c98b5be21da043c6a45f93a01151d94f05d1f01ab4f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S408",
+      "subject": "SSG105",
+      "sourceSlide": 408,
+      "pageId": "g3f965153a77_1_157",
+      "path": "/ssg105/source/slide-0408.png",
+      "present": true,
+      "bytes": 99598,
+      "sha256": "50fa22e877838818fc0d7cb47c4445dca079f6c69783224b8c34a4cec9f3452e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S409",
+      "subject": "SSG105",
+      "sourceSlide": 409,
+      "pageId": "g3f965153a77_1_162",
+      "path": "/ssg105/source/slide-0409.png",
+      "present": true,
+      "bytes": 172028,
+      "sha256": "c8a2da20db1ac55878702379e207e83847b8008975732475bdc2204d9694e441",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S410",
+      "subject": "SSG105",
+      "sourceSlide": 410,
+      "pageId": "g3f965153a77_1_167",
+      "path": "/ssg105/source/slide-0410.png",
+      "present": true,
+      "bytes": 66928,
+      "sha256": "be69000ce770ae6b3821514ae7077e69dabec856f7c57563ce3f37edf306edb8",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S411",
+      "subject": "SSG105",
+      "sourceSlide": 411,
+      "pageId": "g3f965153a77_1_172",
+      "path": "/ssg105/source/slide-0411.png",
+      "present": true,
+      "bytes": 138778,
+      "sha256": "4a669d3138970372bc6f57b08758a3261d8dc64f142e15ddf3f81b17988ebc91",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S412",
+      "subject": "SSG105",
+      "sourceSlide": 412,
+      "pageId": "g3f965153a77_1_177",
+      "path": "/ssg105/source/slide-0412.png",
+      "present": true,
+      "bytes": 154296,
+      "sha256": "5569695d41636725722ab7669fce58d7f92c123b86f8ac41f30e7481a7b23f45",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S413",
+      "subject": "SSG105",
+      "sourceSlide": 413,
+      "pageId": "g3f965153a77_1_182",
+      "path": "/ssg105/source/slide-0413.png",
+      "present": true,
+      "bytes": 153901,
+      "sha256": "f6a830f1be6c131e829d8e0738c2dc9630d26a7c9ce9b76c0089e8585bcbbbea",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S414",
+      "subject": "SSG105",
+      "sourceSlide": 414,
+      "pageId": "g3f965153a77_1_187",
+      "path": "/ssg105/source/slide-0414.png",
+      "present": true,
+      "bytes": 102734,
+      "sha256": "9871eab1ec53bb030e5551e91125cb48f5d725354edaba64895f7082194ab720",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S415",
+      "subject": "SSG105",
+      "sourceSlide": 415,
+      "pageId": "g3f965153a77_1_192",
+      "path": "/ssg105/source/slide-0415.png",
+      "present": true,
+      "bytes": 107186,
+      "sha256": "5298fee18eb3f5c6b822605066c343ea0ee8b7e9c070f231b8409674d22d7347",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S416",
+      "subject": "SSG105",
+      "sourceSlide": 416,
+      "pageId": "g3f965153a77_1_197",
+      "path": "/ssg105/source/slide-0416.png",
+      "present": true,
+      "bytes": 101445,
+      "sha256": "b8a1f7a5311b67b921b30880d57756d6ace7e413a9f485d44c21278eab6ec643",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S417",
+      "subject": "SSG105",
+      "sourceSlide": 417,
+      "pageId": "g3f965153a77_1_202",
+      "path": "/ssg105/source/slide-0417.png",
+      "present": true,
+      "bytes": 101184,
+      "sha256": "4715b7d0c40f6b915d837a5c74942cb59b5867e0b93f1c318d8ac69a7e86df31",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S418",
+      "subject": "SSG105",
+      "sourceSlide": 418,
+      "pageId": "g3f965153a77_1_207",
+      "path": "/ssg105/source/slide-0418.png",
+      "present": true,
+      "bytes": 80255,
+      "sha256": "6024f218fc1f62f1849bfb6e20083a02aea4446e0f90c6fbfa67174a38a8b9ea",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S419",
+      "subject": "SSG105",
+      "sourceSlide": 419,
+      "pageId": "g3f965153a77_1_212",
+      "path": "/ssg105/source/slide-0419.png",
+      "present": true,
+      "bytes": 49775,
+      "sha256": "9cf55dd0343bc58f9271d974100b0b21657b2147a64eff3380076a59e3f06208",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S420",
+      "subject": "SSG105",
+      "sourceSlide": 420,
+      "pageId": "g3f965153a77_1_217",
+      "path": "/ssg105/source/slide-0420.png",
+      "present": true,
+      "bytes": 60202,
+      "sha256": "fc57cab731cc73ec2a9eb63fc7277264fe35ea2cb0091428f86cd67359790455",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S421",
+      "subject": "SSG105",
+      "sourceSlide": 421,
+      "pageId": "g3f965153a77_1_265",
+      "path": "/ssg105/source/slide-0421.png",
+      "present": true,
+      "bytes": 44901,
+      "sha256": "886dec354b99445f1809898c2f0f9a1fcb19e2c121a91d2f1b0b0590cb4aaf81",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S422",
+      "subject": "SSG105",
+      "sourceSlide": 422,
+      "pageId": "g3f965153a77_1_270",
+      "path": "/ssg105/source/slide-0422.png",
+      "present": true,
+      "bytes": 48491,
+      "sha256": "0de9b06298c532076d3ef9f865e3349d7585a11401782b3a543c3a5f8cd3c456",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S423",
+      "subject": "SSG105",
+      "sourceSlide": 423,
+      "pageId": "g3f965153a77_1_275",
+      "path": "/ssg105/source/slide-0423.png",
+      "present": true,
+      "bytes": 60344,
+      "sha256": "dae49d11ec9af9e357b739bf67b7355470fecfae589b056904b6cc2fe6592972",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S424",
+      "subject": "SSG105",
+      "sourceSlide": 424,
+      "pageId": "g3f965153a77_1_280",
+      "path": "/ssg105/source/slide-0424.png",
+      "present": true,
+      "bytes": 33350,
+      "sha256": "700d9681e5203ab92fc9b8b1d4313b3d65f674aa8b821eb82a1594f10e3dc628",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S425",
+      "subject": "SSG105",
+      "sourceSlide": 425,
+      "pageId": "g3f965153a77_1_285",
+      "path": "/ssg105/source/slide-0425.png",
+      "present": true,
+      "bytes": 58416,
+      "sha256": "2275f3a46863f84f172e0ae0a6a5e5c191037911a9f20fa10b1471d176a86a45",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S426",
+      "subject": "SSG105",
+      "sourceSlide": 426,
+      "pageId": "g3f965153a77_1_290",
+      "path": "/ssg105/source/slide-0426.png",
+      "present": true,
+      "bytes": 73034,
+      "sha256": "65e1768fc69e75e163d7c370e4ed0ad0e95ddd2d2503c7eb7c211eeecd760bd1",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S427",
+      "subject": "SSG105",
+      "sourceSlide": 427,
+      "pageId": "g3f965153a77_1_295",
+      "path": "/ssg105/source/slide-0427.png",
+      "present": true,
+      "bytes": 61212,
+      "sha256": "3d01ec29b9c2ca9500dd682ed5e81df593938918c004cef833bdf88522fd564b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S428",
+      "subject": "SSG105",
+      "sourceSlide": 428,
+      "pageId": "g3f965153a77_1_300",
+      "path": "/ssg105/source/slide-0428.png",
+      "present": true,
+      "bytes": 98069,
+      "sha256": "1e376b2030400ed55c7f7a1f97063cbc5a5b4787c774ad6d1a4e192e1943c39d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S429",
+      "subject": "SSG105",
+      "sourceSlide": 429,
+      "pageId": "g3f965153a77_1_305",
+      "path": "/ssg105/source/slide-0429.png",
+      "present": true,
+      "bytes": 80419,
+      "sha256": "513cbb3f1162d0278de12a73a36cb372725cf83f6d7cb7a4c0494f5c93726d12",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S430",
+      "subject": "SSG105",
+      "sourceSlide": 430,
+      "pageId": "g3f965153a77_1_310",
+      "path": "/ssg105/source/slide-0430.png",
+      "present": true,
+      "bytes": 63660,
+      "sha256": "2c07822f3f1dfa94feeaf33f06f40c928fa6c2b7cd9950b40e7ef3b993e0bbd6",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S431",
+      "subject": "SSG105",
+      "sourceSlide": 431,
+      "pageId": "g3f965153a77_1_315",
+      "path": "/ssg105/source/slide-0431.png",
+      "present": true,
+      "bytes": 66328,
+      "sha256": "c2b54b476f03fa36f7e246e1b33b189d3f50697cc41d6aec81b04b4ff92fe4eb",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S432",
+      "subject": "SSG105",
+      "sourceSlide": 432,
+      "pageId": "g3f965153a77_1_320",
+      "path": "/ssg105/source/slide-0432.png",
+      "present": true,
+      "bytes": 74391,
+      "sha256": "ff1967db3038b1715596ff8d20f90cf617e1fcbff26bf7686a8d1fb73fa64871",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S433",
+      "subject": "SSG105",
+      "sourceSlide": 433,
+      "pageId": "g3f965153a77_1_325",
+      "path": "/ssg105/source/slide-0433.png",
+      "present": true,
+      "bytes": 42953,
+      "sha256": "e446df7c051e3d67751e17bfb8a3f49252154bf7b7df51999849fc4d9a2b7177",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S434",
+      "subject": "SSG105",
+      "sourceSlide": 434,
+      "pageId": "g3f965153a77_1_330",
+      "path": "/ssg105/source/slide-0434.png",
+      "present": true,
+      "bytes": 43732,
+      "sha256": "f094714c1489bd12c20a67a9da20d0cc9bf2e9b7489671c06a87b4441e123d72",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S435",
+      "subject": "SSG105",
+      "sourceSlide": 435,
+      "pageId": "g3f965153a77_1_335",
+      "path": "/ssg105/source/slide-0435.png",
+      "present": true,
+      "bytes": 52076,
+      "sha256": "e9c8a7dc2962b7b66ea3ad012e429db3c8153649ed67640d4ea319aa9def6ef1",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S436",
+      "subject": "SSG105",
+      "sourceSlide": 436,
+      "pageId": "g3f965153a77_1_340",
+      "path": "/ssg105/source/slide-0436.png",
+      "present": true,
+      "bytes": 61151,
+      "sha256": "84099d624614128b1d7870b492158f6e71456465e4e50473ab39836d2208ad03",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S437",
+      "subject": "SSG105",
+      "sourceSlide": 437,
+      "pageId": "g3f965153a77_1_345",
+      "path": "/ssg105/source/slide-0437.png",
+      "present": true,
+      "bytes": 62754,
+      "sha256": "029194ead72b1458d88e3ab5765592fa2bb862b9040c426ca75aaccb01d61e1f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S438",
+      "subject": "SSG105",
+      "sourceSlide": 438,
+      "pageId": "g3f965153a77_1_350",
+      "path": "/ssg105/source/slide-0438.png",
+      "present": true,
+      "bytes": 115115,
+      "sha256": "3a6faf30cc23a2f7f30a83d2d47e5249599980f8f1baf7a86d599da5d2eb10b2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S439",
+      "subject": "SSG105",
+      "sourceSlide": 439,
+      "pageId": "g3f965153a77_1_355",
+      "path": "/ssg105/source/slide-0439.png",
+      "present": true,
+      "bytes": 90199,
+      "sha256": "a4d1d0e1f5956532e1d1e8b0f6a7058f0f1d4677eda45b71424eabf4af979588",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S440",
+      "subject": "SSG105",
+      "sourceSlide": 440,
+      "pageId": "g3f965153a77_1_360",
+      "path": "/ssg105/source/slide-0440.png",
+      "present": true,
+      "bytes": 84027,
+      "sha256": "c1130271c0723b18e4666a4c1ab0293b89190f5a6d913dbf424d5e48806d09ab",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S441",
+      "subject": "SSG105",
+      "sourceSlide": 441,
+      "pageId": "g3f965153a77_1_365",
+      "path": "/ssg105/source/slide-0441.png",
+      "present": true,
+      "bytes": 80610,
+      "sha256": "9d8c544186946b6348d2fe2aad9f8fd1f7c89628071284c65921a7ec599930c1",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S442",
+      "subject": "SSG105",
+      "sourceSlide": 442,
+      "pageId": "g3f965153a77_1_370",
+      "path": "/ssg105/source/slide-0442.png",
+      "present": true,
+      "bytes": 61964,
+      "sha256": "07c3d38a68a42f16640a919759d9c78631a0e45f6b11006d03d154507d3ac2e5",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S443",
+      "subject": "SSG105",
+      "sourceSlide": 443,
+      "pageId": "g3f965153a77_1_375",
+      "path": "/ssg105/source/slide-0443.png",
+      "present": true,
+      "bytes": 67783,
+      "sha256": "41603812c16b8df9c5432773ca8b16569ca6d137dfb1bd9d82bd9b6d6de0b210",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S444",
+      "subject": "SSG105",
+      "sourceSlide": 444,
+      "pageId": "g3f965153a77_1_380",
+      "path": "/ssg105/source/slide-0444.png",
+      "present": true,
+      "bytes": 70887,
+      "sha256": "44bfebc1d860ba9da0f0fa351dc564dbe0b3eaa5eb685384c27776318c2a7e35",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S445",
+      "subject": "SSG105",
+      "sourceSlide": 445,
+      "pageId": "g3f965153a77_1_385",
+      "path": "/ssg105/source/slide-0445.png",
+      "present": true,
+      "bytes": 76979,
+      "sha256": "da63fb64ab18c60ce205b44f64b66f1674d2d3a71c5e81edcc6114b5464d3f3d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S446",
+      "subject": "SSG105",
+      "sourceSlide": 446,
+      "pageId": "g3f965153a77_1_390",
+      "path": "/ssg105/source/slide-0446.png",
+      "present": true,
+      "bytes": 89492,
+      "sha256": "18f01b8bd961aacd362630d1c6a9dbb1e41e17cd8f7aeaa4b44e966bb8c81fa3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S447",
+      "subject": "SSG105",
+      "sourceSlide": 447,
+      "pageId": "g3f965153a77_1_395",
+      "path": "/ssg105/source/slide-0447.png",
+      "present": true,
+      "bytes": 48771,
+      "sha256": "84a4d58a26b23500a94741a232a60133010cf71fb29994bb4771dc2fdd745f3a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S448",
+      "subject": "SSG105",
+      "sourceSlide": 448,
+      "pageId": "g3f965153a77_1_400",
+      "path": "/ssg105/source/slide-0448.png",
+      "present": true,
+      "bytes": 63495,
+      "sha256": "194aecb07c1829ceb1509add2d0d1975d7545368465dfbeb9825c881aa79943b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S449",
+      "subject": "SSG105",
+      "sourceSlide": 449,
+      "pageId": "g3f965153a77_1_432",
+      "path": "/ssg105/source/slide-0449.png",
+      "present": true,
+      "bytes": 61319,
+      "sha256": "845fd2b3a183020f57d5eb636f0a415428eaad912cf0de8340fcefcdef9f3f61",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S450",
+      "subject": "SSG105",
+      "sourceSlide": 450,
+      "pageId": "g3f965153a77_1_437",
+      "path": "/ssg105/source/slide-0450.png",
+      "present": true,
+      "bytes": 96045,
+      "sha256": "35d42032babb2bca8a37beb639cd1cd49f2689c18924a3ab3432183bb30b1a29",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S451",
+      "subject": "SSG105",
+      "sourceSlide": 451,
+      "pageId": "g3f965153a77_1_442",
+      "path": "/ssg105/source/slide-0451.png",
+      "present": true,
+      "bytes": 91760,
+      "sha256": "c9509baf44e96655d3fa9cd2ca348acb01280db61a2fbb2ad713c930a88aa421",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S452",
+      "subject": "SSG105",
+      "sourceSlide": 452,
+      "pageId": "g3f965153a77_1_447",
+      "path": "/ssg105/source/slide-0452.png",
+      "present": true,
+      "bytes": 80966,
+      "sha256": "9fae8385a0971e82dc30fa194528f48a5821b268d450fbd9819abb9d1bf7ee05",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S453",
+      "subject": "SSG105",
+      "sourceSlide": 453,
+      "pageId": "g3f965153a77_1_452",
+      "path": "/ssg105/source/slide-0453.png",
+      "present": true,
+      "bytes": 55131,
+      "sha256": "bba1dd3096bcde5fdf48ac0ec98e0ba5410e64bcc7f7a40c66ad76384821029d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S454",
+      "subject": "SSG105",
+      "sourceSlide": 454,
+      "pageId": "g3f965153a77_1_457",
+      "path": "/ssg105/source/slide-0454.png",
+      "present": true,
+      "bytes": 75983,
+      "sha256": "f41701042bef316b96b59b3d2179e2b50fbd6f5d2b67abff3eecc6d761fccd9e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S455",
+      "subject": "SSG105",
+      "sourceSlide": 455,
+      "pageId": "g3f965153a77_1_462",
+      "path": "/ssg105/source/slide-0455.png",
+      "present": true,
+      "bytes": 49790,
+      "sha256": "c5aa6bcb6e1873a5231c22da66fa599e886f2d2b7a6354f5b9c1ffdff2d46454",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S456",
+      "subject": "SSG105",
+      "sourceSlide": 456,
+      "pageId": "g3f965153a77_1_467",
+      "path": "/ssg105/source/slide-0456.png",
+      "present": true,
+      "bytes": 89437,
+      "sha256": "6fd6ff48ead08a8e195467ad40225cefb3cab38a0bdb4266c0109d4c4e95b92e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S457",
+      "subject": "SSG105",
+      "sourceSlide": 457,
+      "pageId": "g3f965153a77_1_472",
+      "path": "/ssg105/source/slide-0457.png",
+      "present": true,
+      "bytes": 82399,
+      "sha256": "df76b578230058548ee847709677c9c9898bfa522baa17f496e6e72cb598ad29",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S458",
+      "subject": "SSG105",
+      "sourceSlide": 458,
+      "pageId": "g3f965153a77_1_477",
+      "path": "/ssg105/source/slide-0458.png",
+      "present": true,
+      "bytes": 66992,
+      "sha256": "88af44b84725d7aee91f8f79534e5e2b96e236f9e0ae598b36fc343c5920890c",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S459",
+      "subject": "SSG105",
+      "sourceSlide": 459,
+      "pageId": "g3f965153a77_1_482",
+      "path": "/ssg105/source/slide-0459.png",
+      "present": true,
+      "bytes": 51544,
+      "sha256": "77959c3e14212ab7bd1fda443bc7292e942813edc33982bf96a276b46085d867",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S460",
+      "subject": "SSG105",
+      "sourceSlide": 460,
+      "pageId": "g3f965153a77_1_487",
+      "path": "/ssg105/source/slide-0460.png",
+      "present": true,
+      "bytes": 65079,
+      "sha256": "86f58c07a2648983e92ee483132654bcac9713eba9f0fbc8d4c1abc1467b3116",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S461",
+      "subject": "SSG105",
+      "sourceSlide": 461,
+      "pageId": "g3f965153a77_1_492",
+      "path": "/ssg105/source/slide-0461.png",
+      "present": true,
+      "bytes": 66984,
+      "sha256": "82db3c38ec925bc5ea87a3aeaa93c453c974abf3fc38acf955ffa1cb2fbd6297",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S462",
+      "subject": "SSG105",
+      "sourceSlide": 462,
+      "pageId": "g3f965153a77_1_497",
+      "path": "/ssg105/source/slide-0462.png",
+      "present": true,
+      "bytes": 64938,
+      "sha256": "8d0604333d997166deb4bcce0f6a2a44556ae4ed58522808550efcff372dbf54",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S463",
+      "subject": "SSG105",
+      "sourceSlide": 463,
+      "pageId": "g3f965153a77_1_502",
+      "path": "/ssg105/source/slide-0463.png",
+      "present": true,
+      "bytes": 59472,
+      "sha256": "1c883200eb9a094a7bd96a3a9b5da9f74a82d3713281b8f3456bdd36e0d0b824",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S464",
+      "subject": "SSG105",
+      "sourceSlide": 464,
+      "pageId": "g3f965153a77_1_507",
+      "path": "/ssg105/source/slide-0464.png",
+      "present": true,
+      "bytes": 58776,
+      "sha256": "3b81b1d9f3a058ad9563515327ae311ed3f1ef77772ffb560fe51ab361e40ed2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S465",
+      "subject": "SSG105",
+      "sourceSlide": 465,
+      "pageId": "g3f965153a77_1_512",
+      "path": "/ssg105/source/slide-0465.png",
+      "present": true,
+      "bytes": 55558,
+      "sha256": "483111d1a05b29a7f2d36879bb1d7b852d4e459fc4a841f1ecc9f3d825885991",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S466",
+      "subject": "SSG105",
+      "sourceSlide": 466,
+      "pageId": "g3f965153a77_1_517",
+      "path": "/ssg105/source/slide-0466.png",
+      "present": true,
+      "bytes": 63227,
+      "sha256": "be64e8cba7eb5a6b25ac9398780c0b2db3490bab3026b04a6babf8fe240ce935",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S467",
+      "subject": "SSG105",
+      "sourceSlide": 467,
+      "pageId": "g3f965153a77_1_522",
+      "path": "/ssg105/source/slide-0467.png",
+      "present": true,
+      "bytes": 36124,
+      "sha256": "bbd66e2ae3cf2684518c7a64062bc0dd3ae789ae12336b81f4a7131a57281cfb",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S468",
+      "subject": "SSG105",
+      "sourceSlide": 468,
+      "pageId": "g3f965153a77_1_527",
+      "path": "/ssg105/source/slide-0468.png",
+      "present": true,
+      "bytes": 52244,
+      "sha256": "ef1c9f85ed9dd8ef3f938588e7055b13cb720933077f50901a622761323ba56a",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S469",
+      "subject": "SSG105",
+      "sourceSlide": 469,
+      "pageId": "g3f965153a77_1_532",
+      "path": "/ssg105/source/slide-0469.png",
+      "present": true,
+      "bytes": 65184,
+      "sha256": "81c44657aa577a53b9fca72dc7a6badae758a7c96be0ea4a376671161d4355b0",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S470",
+      "subject": "SSG105",
+      "sourceSlide": 470,
+      "pageId": "g3f965153a77_1_537",
+      "path": "/ssg105/source/slide-0470.png",
+      "present": true,
+      "bytes": 48426,
+      "sha256": "074b8c720642a4674fce35a23c2ec94c5ab7042c9e8f27bab9ecfe0314c30a1d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S471",
+      "subject": "SSG105",
+      "sourceSlide": 471,
+      "pageId": "g3f965153a77_1_542",
+      "path": "/ssg105/source/slide-0471.png",
+      "present": true,
+      "bytes": 75814,
+      "sha256": "1dba73a521430e5da6d0b233bdaf9754ed98eaea2be736c622c7317a4a1c1d85",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S472",
+      "subject": "SSG105",
+      "sourceSlide": 472,
+      "pageId": "g3f965153a77_1_547",
+      "path": "/ssg105/source/slide-0472.png",
+      "present": true,
+      "bytes": 68577,
+      "sha256": "fede4edd6e60006bfd5639bad730e39c86924993854bc4aba5a0db4749728dae",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S473",
+      "subject": "SSG105",
+      "sourceSlide": 473,
+      "pageId": "g3f965153a77_1_552",
+      "path": "/ssg105/source/slide-0473.png",
+      "present": true,
+      "bytes": 56850,
+      "sha256": "65a9d1022f5aae091537a34bb40d902eb01f5c8908f284f9fc47fa2ee549d975",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S474",
+      "subject": "SSG105",
+      "sourceSlide": 474,
+      "pageId": "g3f965153a77_1_557",
+      "path": "/ssg105/source/slide-0474.png",
+      "present": true,
+      "bytes": 76001,
+      "sha256": "65b9d58ec8c06411b3c94934b79d80536b4324c4a4fa4df2ada3c1cbdb6713a3",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S475",
+      "subject": "SSG105",
+      "sourceSlide": 475,
+      "pageId": "g3f965153a77_1_562",
+      "path": "/ssg105/source/slide-0475.png",
+      "present": true,
+      "bytes": 56069,
+      "sha256": "878d074205b0e47e6856cfb7779975ca7f904ffa477254d7bb70041ad20aa9d2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S476",
+      "subject": "SSG105",
+      "sourceSlide": 476,
+      "pageId": "g3f965153a77_1_567",
+      "path": "/ssg105/source/slide-0476.png",
+      "present": true,
+      "bytes": 64549,
+      "sha256": "32a67d1031d4933927fd0f2e94021f7c390d8cf4985d9a83ca09504db557fa43",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S477",
+      "subject": "SSG105",
+      "sourceSlide": 477,
+      "pageId": "g3f965153a77_1_572",
+      "path": "/ssg105/source/slide-0477.png",
+      "present": true,
+      "bytes": 66162,
+      "sha256": "f9fd21ff213140080217f97e5a530ac22079b57d4ecf61c63a7ef0c53ffa0fd1",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S478",
+      "subject": "SSG105",
+      "sourceSlide": 478,
+      "pageId": "g3f965153a77_1_577",
+      "path": "/ssg105/source/slide-0478.png",
+      "present": true,
+      "bytes": 81789,
+      "sha256": "a1b48e7aa3487afd3232ddb12fd2b2dd217cc7099da18b6ba1b6bd06fd238d41",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S479",
+      "subject": "SSG105",
+      "sourceSlide": 479,
+      "pageId": "g3f965153a77_1_582",
+      "path": "/ssg105/source/slide-0479.png",
+      "present": true,
+      "bytes": 82748,
+      "sha256": "2e340bea95a16612892964380faf1cf9f47ba2a1f36a68aff7c4610171c4b7be",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S480",
+      "subject": "SSG105",
+      "sourceSlide": 480,
+      "pageId": "g3f965153a77_1_587",
+      "path": "/ssg105/source/slide-0480.png",
+      "present": true,
+      "bytes": 74573,
+      "sha256": "f669f77f5dc8d8819692b57d700ae2c80caea60a2bf7f14ac728b2ba1706af80",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S481",
+      "subject": "SSG105",
+      "sourceSlide": 481,
+      "pageId": "g3f965153a77_1_592",
+      "path": "/ssg105/source/slide-0481.png",
+      "present": true,
+      "bytes": 78129,
+      "sha256": "815fc6486221d9cd53a031e8636c250e7f6bfebfc59678fb9d80a5debdac3825",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S482",
+      "subject": "SSG105",
+      "sourceSlide": 482,
+      "pageId": "g3f965153a77_1_597",
+      "path": "/ssg105/source/slide-0482.png",
+      "present": true,
+      "bytes": 83095,
+      "sha256": "0c69fcc5f36485c75c02d2b3c0b00d7f3253b1f468c74fd613499934620a508e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S483",
+      "subject": "SSG105",
+      "sourceSlide": 483,
+      "pageId": "g3f965153a77_1_602",
+      "path": "/ssg105/source/slide-0483.png",
+      "present": true,
+      "bytes": 83036,
+      "sha256": "83d087b82c9f5106a0ec81fa14f92d4d484624ffaaa39aefd25e8cf71356d4dd",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S484",
+      "subject": "SSG105",
+      "sourceSlide": 484,
+      "pageId": "g3f965153a77_1_607",
+      "path": "/ssg105/source/slide-0484.png",
+      "present": true,
+      "bytes": 78595,
+      "sha256": "d09e62577b3f414cc064ed86306e60069dc44d119d6299fa56fe9a58654bc420",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S485",
+      "subject": "SSG105",
+      "sourceSlide": 485,
+      "pageId": "g3f965153a77_1_612",
+      "path": "/ssg105/source/slide-0485.png",
+      "present": true,
+      "bytes": 68169,
+      "sha256": "cfe3bac92d1bf8072e4cb66a79fb82fd4608201e0e43e4fae0f649a01f82d164",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S486",
+      "subject": "SSG105",
+      "sourceSlide": 486,
+      "pageId": "g3f965153a77_1_617",
+      "path": "/ssg105/source/slide-0486.png",
+      "present": true,
+      "bytes": 62795,
+      "sha256": "5649564d993303caec5ddb1f7765227cb16cfdad38deb012363d867007ce301b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S487",
+      "subject": "SSG105",
+      "sourceSlide": 487,
+      "pageId": "g3f965153a77_1_622",
+      "path": "/ssg105/source/slide-0487.png",
+      "present": true,
+      "bytes": 68853,
+      "sha256": "bdd0ae627357dd7461c7b00e0438538e615054c92b56742b3c9a1bfbc9aadcf2",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S488",
+      "subject": "SSG105",
+      "sourceSlide": 488,
+      "pageId": "g3f965153a77_1_627",
+      "path": "/ssg105/source/slide-0488.png",
+      "present": true,
+      "bytes": 63834,
+      "sha256": "b377731fbe2effb41314cb044a6371d51297597b38c7a89378bae1352485965e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S489",
+      "subject": "SSG105",
+      "sourceSlide": 489,
+      "pageId": "g3f965153a77_1_632",
+      "path": "/ssg105/source/slide-0489.png",
+      "present": true,
+      "bytes": 68554,
+      "sha256": "ce02800c7c619643405c4aff42631dd3ca30e654fc0222dc8021be5831cd0a21",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S490",
+      "subject": "SSG105",
+      "sourceSlide": 490,
+      "pageId": "g3f965153a77_1_637",
+      "path": "/ssg105/source/slide-0490.png",
+      "present": true,
+      "bytes": 72377,
+      "sha256": "5085def6e80d31d0ca45c9a57ee2158c3040992d5c33963fbd0ec5a31b4d955b",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S491",
+      "subject": "SSG105",
+      "sourceSlide": 491,
+      "pageId": "g3f965153a77_1_642",
+      "path": "/ssg105/source/slide-0491.png",
+      "present": true,
+      "bytes": 65967,
+      "sha256": "fa8984df9cb86657aebcef9a52168b35c60343199c6605e113f4623944c2ab30",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S492",
+      "subject": "SSG105",
+      "sourceSlide": 492,
+      "pageId": "g3f965153a77_1_647",
+      "path": "/ssg105/source/slide-0492.png",
+      "present": true,
+      "bytes": 59766,
+      "sha256": "99067e4e7a6069cec883b9ddd228c328d39c32f6f960a4869e1f6487f75d4003",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S493",
+      "subject": "SSG105",
+      "sourceSlide": 493,
+      "pageId": "g3f965153a77_1_652",
+      "path": "/ssg105/source/slide-0493.png",
+      "present": true,
+      "bytes": 54464,
+      "sha256": "75eaa7673941e33009272863481b5bb624739d7d7cd34ffd31875b68d581d44e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S494",
+      "subject": "SSG105",
+      "sourceSlide": 494,
+      "pageId": "g3f965153a77_1_657",
+      "path": "/ssg105/source/slide-0494.png",
+      "present": true,
+      "bytes": 63152,
+      "sha256": "24d5beca81db2c089013228bc6acd82849aa6803eb67a511a0ba89e29034e4c9",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S495",
+      "subject": "SSG105",
+      "sourceSlide": 495,
+      "pageId": "g3f965153a77_1_662",
+      "path": "/ssg105/source/slide-0495.png",
+      "present": true,
+      "bytes": 64290,
+      "sha256": "ade1bb6b9e9bdc3608e64a802e1498e585841e41daf31de2bf33e9851eebfe03",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S496",
+      "subject": "SSG105",
+      "sourceSlide": 496,
+      "pageId": "g3f965153a77_1_667",
+      "path": "/ssg105/source/slide-0496.png",
+      "present": true,
+      "bytes": 57997,
+      "sha256": "3f11511b86b546ac436e3b4f9d76ae14e1f6ec6cea4f8b97e7e90f231e4aee8f",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S497",
+      "subject": "SSG105",
+      "sourceSlide": 497,
+      "pageId": "g3f965153a77_1_672",
+      "path": "/ssg105/source/slide-0497.png",
+      "present": true,
+      "bytes": 40451,
+      "sha256": "045875433c9f548cf9f8b4a41efa368a1456659f263c422216df8192abb48df0",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S498",
+      "subject": "SSG105",
+      "sourceSlide": 498,
+      "pageId": "g3f965153a77_1_727",
+      "path": "/ssg105/source/slide-0498.png",
+      "present": true,
+      "bytes": 81384,
+      "sha256": "773e781194ef44293b39263e541046e215562fc676a978b2b9f645b7f6e674df",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S499",
+      "subject": "SSG105",
+      "sourceSlide": 499,
+      "pageId": "g3f965153a77_1_732",
+      "path": "/ssg105/source/slide-0499.png",
+      "present": true,
+      "bytes": 69201,
+      "sha256": "45b8b4984775e3bc5766e8fc3b4d14dab7d8f2105ff30a4d2a6a4b2d002f1627",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S500",
+      "subject": "SSG105",
+      "sourceSlide": 500,
+      "pageId": "g3f965153a77_1_737",
+      "path": "/ssg105/source/slide-0500.png",
+      "present": true,
+      "bytes": 97169,
+      "sha256": "b4a91d48478ccdc3a6892685c14270e954e36e8a4bbad7ed03f64032fefa7eaa",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S501",
+      "subject": "SSG105",
+      "sourceSlide": 501,
+      "pageId": "g3f965153a77_1_742",
+      "path": "/ssg105/source/slide-0501.png",
+      "present": true,
+      "bytes": 91221,
+      "sha256": "07dbe02637f93563e34f9a9cf9493247b4055f8433c14d337609e26be41d998e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S502",
+      "subject": "SSG105",
+      "sourceSlide": 502,
+      "pageId": "g3f965153a77_1_747",
+      "path": "/ssg105/source/slide-0502.png",
+      "present": true,
+      "bytes": 73153,
+      "sha256": "d571632a1e38b72135d04defa6d9f58dc81e58a5c230d0cfb2c5b725778259ae",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S503",
+      "subject": "SSG105",
+      "sourceSlide": 503,
+      "pageId": "g3f965153a77_1_752",
+      "path": "/ssg105/source/slide-0503.png",
+      "present": true,
+      "bytes": 89348,
+      "sha256": "5bbdfabf1b46f2278a203325399af2558116f8351b4b66d6ad97b0a7b3fae217",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S504",
+      "subject": "SSG105",
+      "sourceSlide": 504,
+      "pageId": "g3f965153a77_1_757",
+      "path": "/ssg105/source/slide-0504.png",
+      "present": true,
+      "bytes": 50340,
+      "sha256": "b4e1d4a92652e47e3447a2e646a82f12c1dae719b037cb87cfa43a27cc153c5d",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S505",
+      "subject": "SSG105",
+      "sourceSlide": 505,
+      "pageId": "g3f965153a77_1_762",
+      "path": "/ssg105/source/slide-0505.png",
+      "present": true,
+      "bytes": 78629,
+      "sha256": "7ff315974039835d755184f4e22a0a818086b21c145439df35def561841dd6e7",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S506",
+      "subject": "SSG105",
+      "sourceSlide": 506,
+      "pageId": "g3f965153a77_1_767",
+      "path": "/ssg105/source/slide-0506.png",
+      "present": true,
+      "bytes": 47386,
+      "sha256": "2992f27639b08bbb5aaf300e1cf72df34ecaa982470b49e2402de9253ca96eaf",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "questionId": "SSG105-S507",
+      "subject": "SSG105",
+      "sourceSlide": 507,
+      "pageId": "g3f965153a77_1_772",
+      "path": "/ssg105/source/slide-0507.png",
+      "present": true,
+      "bytes": 54207,
+      "sha256": "2e51349e53694e84cacad0de4831a5575a59b48691db1890ad8366f360383d8e",
+      "dimensions": {
+        "width": 960,
+        "height": 540
+      }
+    }
+  ]
+}

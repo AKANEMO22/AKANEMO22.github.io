@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 2,
+  "sourceSlideCount": 507,
+  "nonQuestionSlideCount": 24,
+  "uniqueQuestionCount": 483,
+  "sourceQuestionOccurrenceCount": 483,
+  "practiceAssignmentCount": 500,
+  "repeatedPracticeAssignmentCount": 17,
+  "examCount": 10,
+  "questionsPerExam": 50,
+  "subjects": [
+    {
+      "subject": "SSG104",
+      "uniqueQuestionCount": 353,
+      "firstSlide": 9,
+      "lastSlide": 376,
+      "excludedSeparatorSlides": [
+        20,
+        55,
+        63,
+        72,
+        83,
+        86,
+        90,
+        122,
+        148,
+        156,
+        216,
+        249,
+        288,
+        319,
+        332
+      ]
+    },
+    {
+      "subject": "SSG105",
+      "uniqueQuestionCount": 130,
+      "firstSlide": 378,
+      "lastSlide": 507
+    }
+  ],
+  "verification": {
+    "verified": 379,
+    "answer-code-only": 98,
+    "semantic-uncertain": 6
+  },
+  "semanticAnswerReview": {
+    "reviewedQuestionCount": 483,
+    "verdictCounts": {
+      "agreed": 469,
+      "semantic-uncertain": 7,
+      "semantic-conflict": 4,
+      "agreed-with-caveat": 3
+    },
+    "agreedQuestionCount": 469,
+    "conflictQuestionCount": 4,
+    "uncertainQuestionCount": 7,
+    "conflictQuestionIds": [
+      "SSG104-S106",
+      "SSG104-S337",
+      "SSG104-S347",
+      "SSG104-S357"
+    ],
+    "uncertainQuestionIds": [
+      "SSG104-S074",
+      "SSG104-S075",
+      "SSG104-S076",
+      "SSG104-S078",
+      "SSG104-S082",
+      "SSG104-S195",
+      "SSG104-S284"
+    ],
+    "appliedCorrectionIds": [
+      "SSG104-S106",
+      "SSG104-S284",
+      "SSG104-S337",
+      "SSG104-S347",
+      "SSG104-S357"
+    ],
+    "answerPolicy": "High-confidence semantic conflicts and explicit multi-select mode mismatches are corrected; ambiguous source items remain flagged."
+  },
+  "ocrCoverage": {
+    "questionTextCount": 483,
+    "ocrQuestionTextCount": 483,
+    "noteFallbackQuestionCount": 0,
+    "optionsCount": 483,
+    "missingQuestionTextIds": [],
+    "missingOptionsIds": []
+  },
+  "topics": [
+    {
+      "topic": "Kiến thức tổng hợp",
+      "uniqueQuestionCount": 109,
+      "practiceAssignmentCount": 112,
+      "advice": "Ôn theo ảnh gốc và lời giải, đồng thời gom các câu còn thiếu OCR để kiểm tra chéo."
+    },
+    {
+      "topic": "Làm việc nhóm",
+      "uniqueQuestionCount": 59,
+      "practiceAssignmentCount": 62,
+      "advice": "Ưu tiên trust equation, psychological safety, mục tiêu chung, gắn kết và trách nhiệm chung."
+    },
+    {
+      "topic": "Viết & nghiên cứu",
+      "uniqueQuestionCount": 55,
+      "practiceAssignmentCount": 55,
+      "advice": "Ôn cấu trúc báo cáo, quy trình nghiên cứu, cách lập dàn ý và quy tắc tránh đạo văn."
+    },
+    {
+      "topic": "Lãnh đạo & quản lý",
+      "uniqueQuestionCount": 53,
+      "practiceAssignmentCount": 54,
+      "advice": "Tập trung vào ảnh hưởng, chính trực, coaching, tự chủ và trách nhiệm giải trình."
+    },
+    {
+      "topic": "Giải quyết vấn đề & xung đột",
+      "uniqueQuestionCount": 52,
+      "practiceAssignmentCount": 62,
+      "advice": "Ôn quy trình Dewey, phản hồi hướng mục tiêu, face-saving và các kiểu xử lý xung đột."
+    },
+    {
+      "topic": "Nghề nghiệp & tuyển dụng",
+      "uniqueQuestionCount": 47,
+      "practiceAssignmentCount": 47,
+      "advice": "Ôn résumé, STAR, kỹ năng chuyển giao, chuẩn bị phỏng vấn và phát triển nghề nghiệp."
+    },
+    {
+      "topic": "Giao tiếp kinh doanh",
+      "uniqueQuestionCount": 39,
+      "practiceAssignmentCount": 39,
+      "advice": "Phân biệt email, memo, thư thương mại và proposal theo mục đích, đối tượng và văn phong."
+    },
+    {
+      "topic": "Tổ chức cuộc họp",
+      "uniqueQuestionCount": 31,
+      "practiceAssignmentCount": 31,
+      "advice": "Nắm agenda, ground rules, vai trò điều phối, biên bản và action items có người phụ trách."
+    },
+    {
+      "topic": "Thuyết trình thuyết phục",
+      "uniqueQuestionCount": 22,
+      "practiceAssignmentCount": 22,
+      "advice": "Học Ethos–Pathos–Logos, phân tích khán giả, Monroe và tháp nhu cầu Maslow."
+    },
+    {
+      "topic": "Giao tiếp phi ngôn ngữ",
+      "uniqueQuestionCount": 16,
+      "practiceAssignmentCount": 16,
+      "advice": "Nhớ vai trò của ánh mắt, cử chỉ, tư thế, cao độ, tốc độ và nhịp điệu khi nói."
+    }
+  ],
+  "repeatedForPractice": [
+    {
+      "id": "SSG104-S009",
+      "subject": "SSG104",
+      "sourceSlide": 9,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S010",
+      "subject": "SSG104",
+      "sourceSlide": 10,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S011",
+      "subject": "SSG104",
+      "sourceSlide": 11,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S012",
+      "subject": "SSG104",
+      "sourceSlide": 12,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S013",
+      "subject": "SSG104",
+      "sourceSlide": 13,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S014",
+      "subject": "SSG104",
+      "sourceSlide": 14,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S015",
+      "subject": "SSG104",
+      "sourceSlide": 15,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S016",
+      "subject": "SSG104",
+      "sourceSlide": 16,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S017",
+      "subject": "SSG104",
+      "sourceSlide": 17,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S018",
+      "subject": "SSG104",
+      "sourceSlide": 18,
+      "topic": "Làm việc nhóm",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S019",
+      "subject": "SSG104",
+      "sourceSlide": 19,
+      "topic": "Làm việc nhóm",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S023",
+      "subject": "SSG104",
+      "sourceSlide": 23,
+      "topic": "Kiến thức tổng hợp",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S024",
+      "subject": "SSG104",
+      "sourceSlide": 24,
+      "topic": "Lãnh đạo & quản lý",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S025",
+      "subject": "SSG104",
+      "sourceSlide": 25,
+      "topic": "Giải quyết vấn đề & xung đột",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S030",
+      "subject": "SSG104",
+      "sourceSlide": 30,
+      "topic": "Làm việc nhóm",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S031",
+      "subject": "SSG104",
+      "sourceSlide": 31,
+      "topic": "Kiến thức tổng hợp",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    },
+    {
+      "id": "SSG104-S032",
+      "subject": "SSG104",
+      "sourceSlide": 32,
+      "topic": "Kiến thức tổng hợp",
+      "sourceOccurrenceCount": 1,
+      "practiceAssignmentCount": 2,
+      "repeatedInExamId": "SSG-LIB-10",
+      "reason": "Bổ sung 17 lượt ôn để bộ cuối đủ 50; đây không phải câu nguồn mới."
+    }
+  ]
+}

@@ -1,0 +1,7060 @@
+[
+  {
+    "sourceSlide": 9,
+    "image": "/ssg104/source/slide-0009.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "67cbd06aa7b779ff04e1d9381f619116496a4af5ad3837cffdfa4b37b564641e",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "1.LaststageinthemodeloftheConflictProcess",
+        "score": 0.99307,
+        "x": 19.0,
+        "y": 40.0
+      },
+      {
+        "text": "A.Frustration",
+        "score": 0.992329,
+        "x": 18.0,
+        "y": 107.0
+      },
+      {
+        "text": "B.Conceptualization",
+        "score": 0.980753,
+        "x": 17.0,
+        "y": 172.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.991037,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "C.Behavior",
+        "score": 0.990021,
+        "x": 18.0,
+        "y": 238.0
+      },
+      {
+        "text": "D.Outcome",
+        "score": 0.979849,
+        "x": 17.0,
+        "y": 302.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "1.LaststageinthemodeloftheConflictProcess",
+        "score": 0.99307,
+        "x": 19.0,
+        "y": 40.0
+      },
+      {
+        "text": "A.Frustration",
+        "score": 0.992329,
+        "x": 18.0,
+        "y": 107.0
+      },
+      {
+        "text": "B.Conceptualization",
+        "score": 0.980753,
+        "x": 17.0,
+        "y": 172.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.991037,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "C.Behavior",
+        "score": 0.990021,
+        "x": 18.0,
+        "y": 238.0
+      },
+      {
+        "text": "D.Outcome",
+        "score": 0.979849,
+        "x": 17.0,
+        "y": 302.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 10,
+    "image": "/ssg104/source/slide-0010.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "0d288c810dd7823ffdc5cdf91a304e42b44a62409944892ad1d6d3045f524aca",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "2.WhatisthefirststageinthemodeloftheConflictProcess?",
+        "score": 0.983438,
+        "x": 16.0,
+        "y": 42.0
+      },
+      {
+        "text": "A.Frustration",
+        "score": 0.996493,
+        "x": 18.0,
+        "y": 109.0
+      },
+      {
+        "text": "B.Conceptualization",
+        "score": 0.996759,
+        "x": 18.0,
+        "y": 175.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.955916,
+        "x": 441.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Behavior",
+        "score": 0.996654,
+        "x": 18.0,
+        "y": 241.0
+      },
+      {
+        "text": "D.Outcome",
+        "score": 0.993492,
+        "x": 17.0,
+        "y": 307.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "2.WhatisthefirststageinthemodeloftheConflictProcess?",
+        "score": 0.983438,
+        "x": 16.0,
+        "y": 42.0
+      },
+      {
+        "text": "A.Frustration",
+        "score": 0.996493,
+        "x": 18.0,
+        "y": 109.0
+      },
+      {
+        "text": "B.Conceptualization",
+        "score": 0.996759,
+        "x": 18.0,
+        "y": 175.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.955916,
+        "x": 441.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Behavior",
+        "score": 0.996654,
+        "x": 18.0,
+        "y": 241.0
+      },
+      {
+        "text": "D.Outcome",
+        "score": 0.993492,
+        "x": 17.0,
+        "y": 307.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 11,
+    "image": "/ssg104/source/slide-0011.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "f681e9a19b1d30db83060f8d25b9d60133a4dc6e9dc9803ac9290409e2bd26d8",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "3.Whichconflict-handlingmodecanbeusedwhenissuesaremoreimportanttoothersthanyourself-tosatisfy",
+        "score": 0.993764,
+        "x": 14.0,
+        "y": 28.0
+      },
+      {
+        "text": "othersandmaintaincooperation",
+        "score": 0.998943,
+        "x": 15.0,
+        "y": 54.0
+      },
+      {
+        "text": "A.Avoiding",
+        "score": 0.998506,
+        "x": 11.0,
+        "y": 95.0
+      },
+      {
+        "text": "B.Competing",
+        "score": 0.999027,
+        "x": 12.0,
+        "y": 142.0
+      },
+      {
+        "text": "C.Compromising",
+        "score": 0.999289,
+        "x": 13.0,
+        "y": 189.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.989216,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Accommodating",
+        "score": 0.998999,
+        "x": 13.0,
+        "y": 235.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "3.Whichconflict-handlingmodecanbeusedwhenissuesaremoreimportanttoothersthanyourself-tosatisfy",
+        "score": 0.993764,
+        "x": 14.0,
+        "y": 28.0
+      },
+      {
+        "text": "othersandmaintaincooperation",
+        "score": 0.998943,
+        "x": 15.0,
+        "y": 54.0
+      },
+      {
+        "text": "A.Avoiding",
+        "score": 0.998506,
+        "x": 11.0,
+        "y": 95.0
+      },
+      {
+        "text": "B.Competing",
+        "score": 0.999027,
+        "x": 12.0,
+        "y": 142.0
+      },
+      {
+        "text": "C.Compromising",
+        "score": 0.999289,
+        "x": 13.0,
+        "y": 189.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.989216,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Accommodating",
+        "score": 0.998999,
+        "x": 13.0,
+        "y": 235.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 12,
+    "image": "/ssg104/source/slide-0012.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "d0a4cf895e9029f40eec964e1591ebc93cca6a639d6a7d2b6ef0997b98acbf33",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "4.Whichconflict-handlingmodecanbeusedwhenanissueistrivial,orwhenmoreimportantissuesare",
+        "score": 0.996014,
+        "x": 14.0,
+        "y": 31.0
+      },
+      {
+        "text": "Hoang Hoang",
+        "score": 0.979249,
+        "x": 116.0,
+        "y": 56.0
+      },
+      {
+        "text": "pressing",
+        "score": 0.999555,
+        "x": 14.0,
+        "y": 57.0
+      },
+      {
+        "text": "A.Avoiding",
+        "score": 0.999298,
+        "x": 14.0,
+        "y": 105.0
+      },
+      {
+        "text": "B.Competing",
+        "score": 0.99926,
+        "x": 13.0,
+        "y": 151.0
+      },
+      {
+        "text": "C. Compromising",
+        "score": 0.987102,
+        "x": 15.0,
+        "y": 199.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.995918,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Accommodating",
+        "score": 0.976088,
+        "x": 14.0,
+        "y": 248.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "4.Whichconflict-handlingmodecanbeusedwhenanissueistrivial,orwhenmoreimportantissuesare",
+        "score": 0.996014,
+        "x": 14.0,
+        "y": 31.0
+      },
+      {
+        "text": "Hoang Hoang",
+        "score": 0.979249,
+        "x": 116.0,
+        "y": 56.0
+      },
+      {
+        "text": "pressing",
+        "score": 0.999555,
+        "x": 14.0,
+        "y": 57.0
+      },
+      {
+        "text": "A.Avoiding",
+        "score": 0.999298,
+        "x": 14.0,
+        "y": 105.0
+      },
+      {
+        "text": "B.Competing",
+        "score": 0.99926,
+        "x": 13.0,
+        "y": 151.0
+      },
+      {
+        "text": "C. Compromising",
+        "score": 0.987102,
+        "x": 15.0,
+        "y": 199.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.995918,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Accommodating",
+        "score": 0.976088,
+        "x": 14.0,
+        "y": 248.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 13,
+    "image": "/ssg104/source/slide-0013.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "fde6aed0b6f7ec091d175e7634341f86181dac64f3f825db57f61fef13bcf68f",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "exclusivegoals",
+        "score": 0.998614,
+        "x": 10.0,
+        "y": 56.0
+      },
+      {
+        "text": "A.Avoiding",
+        "score": 0.999549,
+        "x": 8.0,
+        "y": 101.0
+      },
+      {
+        "text": "B.Competing",
+        "score": 0.999614,
+        "x": 9.0,
+        "y": 147.0
+      },
+      {
+        "text": "C.Compromising",
+        "score": 0.999445,
+        "x": 10.0,
+        "y": 194.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.992506,
+        "x": 442.0,
+        "y": 206.0
+      },
+      {
+        "text": "D.Accommodating",
+        "score": 0.999452,
+        "x": 10.0,
+        "y": 241.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "exclusivegoals",
+        "score": 0.998614,
+        "x": 10.0,
+        "y": 56.0
+      },
+      {
+        "text": "A.Avoiding",
+        "score": 0.999549,
+        "x": 8.0,
+        "y": 101.0
+      },
+      {
+        "text": "B.Competing",
+        "score": 0.999614,
+        "x": 9.0,
+        "y": 147.0
+      },
+      {
+        "text": "C.Compromising",
+        "score": 0.999445,
+        "x": 10.0,
+        "y": 194.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.992506,
+        "x": 442.0,
+        "y": 206.0
+      },
+      {
+        "text": "D.Accommodating",
+        "score": 0.999452,
+        "x": 10.0,
+        "y": 241.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 14,
+    "image": "/ssg104/source/slide-0014.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "88a09687c9abc21cf8cb62b293eae1bfef7712c8da242e968170bc8fc00f0a06",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Whichof thefollowing interventiontechniquesshould beusedsparingly?",
+        "score": 0.97864,
+        "x": 55.0,
+        "y": 114.0
+      },
+      {
+        "text": "A.Adaptation",
+        "score": 0.994941,
+        "x": 56.0,
+        "y": 161.0
+      },
+      {
+        "text": "B.Structural",
+        "score": 0.996615,
+        "x": 56.0,
+        "y": 205.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.958086,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Managerial",
+        "score": 0.97437,
+        "x": 56.0,
+        "y": 249.0
+      },
+      {
+        "text": "D.Voluntaryorinvoluntaryremoval",
+        "score": 0.997112,
+        "x": 56.0,
+        "y": 296.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Whichof thefollowing interventiontechniquesshould beusedsparingly?",
+        "score": 0.97864,
+        "x": 55.0,
+        "y": 114.0
+      },
+      {
+        "text": "A.Adaptation",
+        "score": 0.994941,
+        "x": 56.0,
+        "y": 161.0
+      },
+      {
+        "text": "B.Structural",
+        "score": 0.996615,
+        "x": 56.0,
+        "y": 205.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.958086,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Managerial",
+        "score": 0.97437,
+        "x": 56.0,
+        "y": 249.0
+      },
+      {
+        "text": "D.Voluntaryorinvoluntaryremoval",
+        "score": 0.997112,
+        "x": 56.0,
+        "y": 296.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 15,
+    "image": "/ssg104/source/slide-0015.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "f96258d48319aa86dae4f2627c22e2592103206153642d91c09d8f4af2ef76f3",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Whenconflictsarise,whatinterventiontechniqueshouldbeusedasalastresort?",
+        "score": 0.994611,
+        "x": 23.0,
+        "y": 26.0
+      },
+      {
+        "text": "A.Adaptation",
+        "score": 0.996666,
+        "x": 23.0,
+        "y": 85.0
+      },
+      {
+        "text": "B.Structural",
+        "score": 0.997683,
+        "x": 23.0,
+        "y": 145.0
+      },
+      {
+        "text": "C.Managerial",
+        "score": 0.957422,
+        "x": 24.0,
+        "y": 203.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.945303,
+        "x": 441.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Voluntaryorinvoluntaryremoval",
+        "score": 0.995042,
+        "x": 25.0,
+        "y": 263.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Whenconflictsarise,whatinterventiontechniqueshouldbeusedasalastresort?",
+        "score": 0.994611,
+        "x": 23.0,
+        "y": 26.0
+      },
+      {
+        "text": "A.Adaptation",
+        "score": 0.996666,
+        "x": 23.0,
+        "y": 85.0
+      },
+      {
+        "text": "B.Structural",
+        "score": 0.997683,
+        "x": 23.0,
+        "y": 145.0
+      },
+      {
+        "text": "C.Managerial",
+        "score": 0.957422,
+        "x": 24.0,
+        "y": 203.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.945303,
+        "x": 441.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Voluntaryorinvoluntaryremoval",
+        "score": 0.995042,
+        "x": 25.0,
+        "y": 263.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 16,
+    "image": "/ssg104/source/slide-0016.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "e7ec59f94b23d03452ab5ed55e9f18ff1461933ae05abdc604fcb70bb12082ce",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Whichmodeof resolving conflictshouldbeconsidered whenpotential disruption outweighsthebenefitsof",
+        "score": 0.969566,
+        "x": 61.0,
+        "y": 36.0
+      },
+      {
+        "text": "resolution?",
+        "score": 0.996912,
+        "x": 61.0,
+        "y": 59.0
+      },
+      {
+        "text": "A.Collaborating",
+        "score": 0.986206,
+        "x": 61.0,
+        "y": 100.0
+      },
+      {
+        "text": "B.Compromising",
+        "score": 0.999338,
+        "x": 61.0,
+        "y": 143.0
+      },
+      {
+        "text": "C.Avoiding",
+        "score": 0.99881,
+        "x": 61.0,
+        "y": 183.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.992182,
+        "x": 441.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Accommodating",
+        "score": 0.990613,
+        "x": 61.0,
+        "y": 227.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Whichmodeof resolving conflictshouldbeconsidered whenpotential disruption outweighsthebenefitsof",
+        "score": 0.969566,
+        "x": 61.0,
+        "y": 36.0
+      },
+      {
+        "text": "resolution?",
+        "score": 0.996912,
+        "x": 61.0,
+        "y": 59.0
+      },
+      {
+        "text": "A.Collaborating",
+        "score": 0.986206,
+        "x": 61.0,
+        "y": 100.0
+      },
+      {
+        "text": "B.Compromising",
+        "score": 0.999338,
+        "x": 61.0,
+        "y": 143.0
+      },
+      {
+        "text": "C.Avoiding",
+        "score": 0.99881,
+        "x": 61.0,
+        "y": 183.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.992182,
+        "x": 441.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Accommodating",
+        "score": 0.990613,
+        "x": 61.0,
+        "y": 227.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 17,
+    "image": "/ssg104/source/slide-0017.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "1f7b741f2758774361ed1a37a8c431e67edd31231930030a5083ec9a13cf9ffe",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Withdrawing from or suppression of conflict is termed ...",
+        "score": 0.96823,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Collaborating",
+        "score": 0.996864,
+        "x": 19.0,
+        "y": 86.0
+      },
+      {
+        "text": "B.Forcing",
+        "score": 0.998176,
+        "x": 19.0,
+        "y": 153.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.965187,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Accommodating",
+        "score": 0.996413,
+        "x": 20.0,
+        "y": 221.0
+      },
+      {
+        "text": "D.Avoiding",
+        "score": 0.997463,
+        "x": 19.0,
+        "y": 287.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Withdrawing from or suppression of conflict is termed ...",
+        "score": 0.96823,
+        "x": 20.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Collaborating",
+        "score": 0.996864,
+        "x": 19.0,
+        "y": 86.0
+      },
+      {
+        "text": "B.Forcing",
+        "score": 0.998176,
+        "x": 19.0,
+        "y": 153.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.965187,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Accommodating",
+        "score": 0.996413,
+        "x": 20.0,
+        "y": 221.0
+      },
+      {
+        "text": "D.Avoiding",
+        "score": 0.997463,
+        "x": 19.0,
+        "y": 287.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 18,
+    "image": "/ssg104/source/slide-0018.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "9fa44d6b99a0e515dcc8441ff85e35c957160a82607d24196b7bb1fdfc8e38df",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "chosenLines": [
+      {
+        "text": "A.Performing",
+        "score": 0.99662,
+        "x": 69.0,
+        "y": 83.0
+      },
+      {
+        "text": "B.Storming",
+        "score": 0.998925,
+        "x": 69.0,
+        "y": 126.0
+      },
+      {
+        "text": "C.Adjouming",
+        "score": 0.978476,
+        "x": 69.0,
+        "y": 166.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.993928,
+        "x": 443.0,
+        "y": 206.0
+      },
+      {
+        "text": "D. Norming",
+        "score": 0.960015,
+        "x": 68.0,
+        "y": 207.0
+      },
+      {
+        "text": "E. Forming",
+        "score": 0.982199,
+        "x": 68.0,
+        "y": 248.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "A.Performing",
+        "score": 0.99662,
+        "x": 69.0,
+        "y": 83.0
+      },
+      {
+        "text": "B.Storming",
+        "score": 0.998925,
+        "x": 69.0,
+        "y": 126.0
+      },
+      {
+        "text": "C.Adjouming",
+        "score": 0.978476,
+        "x": 69.0,
+        "y": 166.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.993928,
+        "x": 443.0,
+        "y": 206.0
+      },
+      {
+        "text": "D. Norming",
+        "score": 0.960015,
+        "x": 68.0,
+        "y": 207.0
+      },
+      {
+        "text": "E. Forming",
+        "score": 0.982199,
+        "x": 68.0,
+        "y": 248.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 19,
+    "image": "/ssg104/source/slide-0019.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "6a2dcdc89ad5834e93e0bd7ffd479ef71f87d2f4eadcb2724ecc4264293e4cae",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "chosenLines": [
+      {
+        "text": "Which isthehigheststageofTuckman'sStagesof GroupDevelopment?",
+        "score": 0.973589,
+        "x": 62.0,
+        "y": 45.0
+      },
+      {
+        "text": "A.Forming",
+        "score": 0.997858,
+        "x": 61.0,
+        "y": 88.0
+      },
+      {
+        "text": "B.Storming",
+        "score": 0.999306,
+        "x": 61.0,
+        "y": 130.0
+      },
+      {
+        "text": "C.Adjourning",
+        "score": 0.998148,
+        "x": 61.0,
+        "y": 171.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.993928,
+        "x": 443.0,
+        "y": 206.0
+      },
+      {
+        "text": "D. Norming",
+        "score": 0.951293,
+        "x": 61.0,
+        "y": 216.0
+      },
+      {
+        "text": "E.Performing",
+        "score": 0.96201,
+        "x": 61.0,
+        "y": 259.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Which isthehigheststageofTuckman'sStagesof GroupDevelopment?",
+        "score": 0.973589,
+        "x": 62.0,
+        "y": 45.0
+      },
+      {
+        "text": "A.Forming",
+        "score": 0.997858,
+        "x": 61.0,
+        "y": 88.0
+      },
+      {
+        "text": "B.Storming",
+        "score": 0.999306,
+        "x": 61.0,
+        "y": 130.0
+      },
+      {
+        "text": "C.Adjourning",
+        "score": 0.998148,
+        "x": 61.0,
+        "y": 171.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.993928,
+        "x": 443.0,
+        "y": 206.0
+      },
+      {
+        "text": "D. Norming",
+        "score": 0.951293,
+        "x": 61.0,
+        "y": 216.0
+      },
+      {
+        "text": "E.Performing",
+        "score": 0.96201,
+        "x": 61.0,
+        "y": 259.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 20,
+    "image": "/ssg104/source/slide-0020.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "50e212bf70f70a099aa83d961f2e6acfd852991ce6a8790b08dcf963c6fb303e",
+    "chosenPass": "original",
+    "optionLetters": [],
+    "chosenLines": [
+      {
+        "text": "FORU",
+        "score": 0.968691,
+        "x": 443.0,
+        "y": 206.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "FORU",
+        "score": 0.968691,
+        "x": 443.0,
+        "y": 206.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 21,
+    "image": "/ssg104/source/slide-0021.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "1f6776425f8e56e166c104b71be75da2cdbca253cb53abe51edc1165c5a76af9",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "WhatisNOTTRUEaboutpower-with?",
+        "score": 0.991603,
+        "x": 29.0,
+        "y": 29.0
+      },
+      {
+        "text": "A.Itisthepowertosuggestandbelistened to.",
+        "score": 0.989031,
+        "x": 30.0,
+        "y": 95.0
+      },
+      {
+        "text": "B.Itarisesfromoursenseofconnection.",
+        "score": 0.9943,
+        "x": 30.0,
+        "y": 161.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.987922,
+        "x": 446.0,
+        "y": 208.0
+      },
+      {
+        "text": "C.Theleadermustnotabusehispower.",
+        "score": 0.993944,
+        "x": 30.0,
+        "y": 224.0
+      },
+      {
+        "text": "D.Respect and equality are shown in the group.",
+        "score": 0.946295,
+        "x": 29.0,
+        "y": 291.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "WhatisNOTTRUEaboutpower-with?",
+        "score": 0.991603,
+        "x": 29.0,
+        "y": 29.0
+      },
+      {
+        "text": "A.Itisthepowertosuggestandbelistened to.",
+        "score": 0.989031,
+        "x": 30.0,
+        "y": 95.0
+      },
+      {
+        "text": "B.Itarisesfromoursenseofconnection.",
+        "score": 0.9943,
+        "x": 30.0,
+        "y": 161.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.987922,
+        "x": 446.0,
+        "y": 208.0
+      },
+      {
+        "text": "C.Theleadermustnotabusehispower.",
+        "score": 0.993944,
+        "x": 30.0,
+        "y": 224.0
+      },
+      {
+        "text": "D.Respect and equality are shown in the group.",
+        "score": 0.946295,
+        "x": 29.0,
+        "y": 291.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 22,
+    "image": "/ssg104/source/slide-0022.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "4a5af592e8e1fdf8a4dd6dab12d0e816792d022342209718fc8dd158f0945b71",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "What is one thing that you should NOT do during the first interview?",
+        "score": 0.95858,
+        "x": 62.0,
+        "y": 57.0
+      },
+      {
+        "text": "A.Askaboutsalary",
+        "score": 0.995716,
+        "x": 61.0,
+        "y": 96.0
+      },
+      {
+        "text": "B.Connectwithinterviewer",
+        "score": 0.990719,
+        "x": 61.0,
+        "y": 137.0
+      },
+      {
+        "text": "C.Communicatewhyyouareagoodfit",
+        "score": 0.993114,
+        "x": 62.0,
+        "y": 179.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.960589,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Closebyarrangingnextinterview",
+        "score": 0.987264,
+        "x": 61.0,
+        "y": 219.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "What is one thing that you should NOT do during the first interview?",
+        "score": 0.95858,
+        "x": 62.0,
+        "y": 57.0
+      },
+      {
+        "text": "A.Askaboutsalary",
+        "score": 0.995716,
+        "x": 61.0,
+        "y": 96.0
+      },
+      {
+        "text": "B.Connectwithinterviewer",
+        "score": 0.990719,
+        "x": 61.0,
+        "y": 137.0
+      },
+      {
+        "text": "C.Communicatewhyyouareagoodfit",
+        "score": 0.993114,
+        "x": 62.0,
+        "y": 179.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.960589,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Closebyarrangingnextinterview",
+        "score": 0.987264,
+        "x": 61.0,
+        "y": 219.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 23,
+    "image": "/ssg104/source/slide-0023.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "bbaf28a87e8741d7b58a7f97f675d7ebf6729ce5fc66921451c590f066d1bb03",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "WhatisNOTTRUEabouttheeffectofupwardcomparison?",
+        "score": 0.991971,
+        "x": 20.0,
+        "y": 35.0
+      },
+      {
+        "text": "A.Dissatisfaction",
+        "score": 0.996862,
+        "x": 22.0,
+        "y": 103.0
+      },
+      {
+        "text": "B.Inspiration",
+        "score": 0.991341,
+        "x": 22.0,
+        "y": 170.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.959033,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Gratitude",
+        "score": 0.993388,
+        "x": 23.0,
+        "y": 237.0
+      },
+      {
+        "text": "D.Envy",
+        "score": 0.995656,
+        "x": 20.0,
+        "y": 298.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "WhatisNOTTRUEabouttheeffectofupwardcomparison?",
+        "score": 0.991971,
+        "x": 20.0,
+        "y": 35.0
+      },
+      {
+        "text": "A.Dissatisfaction",
+        "score": 0.996862,
+        "x": 22.0,
+        "y": 103.0
+      },
+      {
+        "text": "B.Inspiration",
+        "score": 0.991341,
+        "x": 22.0,
+        "y": 170.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.959033,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Gratitude",
+        "score": 0.993388,
+        "x": 23.0,
+        "y": 237.0
+      },
+      {
+        "text": "D.Envy",
+        "score": 0.995656,
+        "x": 20.0,
+        "y": 298.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 24,
+    "image": "/ssg104/source/slide-0024.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "3272ccfe28b6539a365b914d2adf471b5956923f28632b75259e67b1580411c4",
+    "chosenPass": "original",
+    "optionLetters": [
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "WhatisNOTTRUEaboutsocialcomparison?",
+        "score": 0.976274,
+        "x": 20.0,
+        "y": 37.0
+      },
+      {
+        "text": "waywefeelandbehave.",
+        "score": 0.988676,
+        "x": 21.0,
+        "y": 118.0
+      },
+      {
+        "text": "B.Social comparison is not an uglyphenomenon tobe avoided.",
+        "score": 0.965771,
+        "x": 19.0,
+        "y": 165.0
+      },
+      {
+        "text": "C.The engine of social comparison canprovide thepush you need torise to the occasion a",
+        "score": 0.951878,
+        "x": 19.0,
+        "y": 216.0
+      },
+      {
+        "text": "motivation,and thereforemakeprogresstowardyourgoals.",
+        "score": 0.992498,
+        "x": 19.0,
+        "y": 246.0
+      },
+      {
+        "text": "D.Socialcomparisonanditseffectsonself-evaluationwillnotdependonpersonalityandin",
+        "score": 0.996479,
+        "x": 20.0,
+        "y": 298.0
+      },
+      {
+        "text": "differences.",
+        "score": 0.995423,
+        "x": 20.0,
+        "y": 325.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "WhatisNOTTRUEaboutsocialcomparison?",
+        "score": 0.976274,
+        "x": 20.0,
+        "y": 37.0
+      },
+      {
+        "text": "waywefeelandbehave.",
+        "score": 0.988676,
+        "x": 21.0,
+        "y": 118.0
+      },
+      {
+        "text": "B.Social comparison is not an uglyphenomenon tobe avoided.",
+        "score": 0.965771,
+        "x": 19.0,
+        "y": 165.0
+      },
+      {
+        "text": "C.The engine of social comparison canprovide thepush you need torise to the occasion a",
+        "score": 0.951878,
+        "x": 19.0,
+        "y": 216.0
+      },
+      {
+        "text": "motivation,and thereforemakeprogresstowardyourgoals.",
+        "score": 0.992498,
+        "x": 19.0,
+        "y": 246.0
+      },
+      {
+        "text": "D.Socialcomparisonanditseffectsonself-evaluationwillnotdependonpersonalityandin",
+        "score": 0.996479,
+        "x": 20.0,
+        "y": 298.0
+      },
+      {
+        "text": "differences.",
+        "score": 0.995423,
+        "x": 20.0,
+        "y": 325.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 25,
+    "image": "/ssg104/source/slide-0025.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "8abe00d5e96e9a5a39b953410c7325aa4368763512189e5d6bbd9aaf14bf4855",
+    "chosenPass": "original",
+    "optionLetters": [
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "WhichstatementisNoTtrueaboutcreativity?",
+        "score": 0.992978,
+        "x": 15.0,
+        "y": 35.0
+      },
+      {
+        "text": "B.Asacreativethinker,youarecurious,optimistic,andimaginative.",
+        "score": 0.985079,
+        "x": 15.0,
+        "y": 136.0
+      },
+      {
+        "text": "C.Creativityisinspiredwhenthereisaproblemtosolve.",
+        "score": 0.994489,
+        "x": 18.0,
+        "y": 186.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.97596,
+        "x": 444.0,
+        "y": 209.0
+      },
+      {
+        "text": "D.Humanisnotinnatelycreative.",
+        "score": 0.995951,
+        "x": 15.0,
+        "y": 236.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "WhichstatementisNoTtrueaboutcreativity?",
+        "score": 0.992978,
+        "x": 15.0,
+        "y": 35.0
+      },
+      {
+        "text": "B.Asacreativethinker,youarecurious,optimistic,andimaginative.",
+        "score": 0.985079,
+        "x": 15.0,
+        "y": 136.0
+      },
+      {
+        "text": "C.Creativityisinspiredwhenthereisaproblemtosolve.",
+        "score": 0.994489,
+        "x": 18.0,
+        "y": 186.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.97596,
+        "x": 444.0,
+        "y": 209.0
+      },
+      {
+        "text": "D.Humanisnotinnatelycreative.",
+        "score": 0.995951,
+        "x": 15.0,
+        "y": 236.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 26,
+    "image": "/ssg104/source/slide-0026.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "64484fb61286e6d6994aeaca5868862703b28e3b528684673bd8b22601c9ebf6",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Whichof thefollowing statements isNOTcorrect about a creative thinker?",
+        "score": 0.947685,
+        "x": 62.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Becurious,optimistic",
+        "score": 0.99007,
+        "x": 61.0,
+        "y": 98.0
+      },
+      {
+        "text": "B.Seeproblemsaslimitsofdevelopment",
+        "score": 0.987241,
+        "x": 61.0,
+        "y": 145.0
+      },
+      {
+        "text": "C.Alwayschallenge assumptions and suspend judgment",
+        "score": 0.977495,
+        "x": 61.0,
+        "y": 191.0
+      },
+      {
+        "text": "ORU",
+        "score": 0.793323,
+        "x": 464.0,
+        "y": 214.0
+      },
+      {
+        "text": "D.Beimaginative",
+        "score": 0.997629,
+        "x": 61.0,
+        "y": 239.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Whichof thefollowing statements isNOTcorrect about a creative thinker?",
+        "score": 0.947685,
+        "x": 62.0,
+        "y": 51.0
+      },
+      {
+        "text": "A.Becurious,optimistic",
+        "score": 0.99007,
+        "x": 61.0,
+        "y": 98.0
+      },
+      {
+        "text": "B.Seeproblemsaslimitsofdevelopment",
+        "score": 0.987241,
+        "x": 61.0,
+        "y": 145.0
+      },
+      {
+        "text": "C.Alwayschallenge assumptions and suspend judgment",
+        "score": 0.977495,
+        "x": 61.0,
+        "y": 191.0
+      },
+      {
+        "text": "ORU",
+        "score": 0.793323,
+        "x": 464.0,
+        "y": 214.0
+      },
+      {
+        "text": "D.Beimaginative",
+        "score": 0.997629,
+        "x": 61.0,
+        "y": 239.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 27,
+    "image": "/ssg104/source/slide-0027.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "e2033ef5a8bfabb004b1af1ef7a41802e4aa114bd0deb8427c8c476c888742e7",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Which is NOT TRUE about the Conceptualization stage in the model of conflict process?",
+        "score": 0.977632,
+        "x": 91.0,
+        "y": 54.0
+      },
+      {
+        "text": "A.It is what parties think their opponents want as a resolution.",
+        "score": 0.958336,
+        "x": 90.0,
+        "y": 95.0
+      },
+      {
+        "text": "B.It isaproblem-solving andstrategyphase",
+        "score": 0.974615,
+        "x": 90.0,
+        "y": 135.0
+      },
+      {
+        "text": "C.Partiesattempt toimplementmodesofconflictresolution.",
+        "score": 0.979622,
+        "x": 90.0,
+        "y": 175.0
+      },
+      {
+        "text": "D.Parties attempt tounderstand thenatureof theproblem.",
+        "score": 0.962697,
+        "x": 89.0,
+        "y": 212.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Which is NOT TRUE about the Conceptualization stage in the model of conflict process?",
+        "score": 0.977632,
+        "x": 91.0,
+        "y": 54.0
+      },
+      {
+        "text": "A.It is what parties think their opponents want as a resolution.",
+        "score": 0.958336,
+        "x": 90.0,
+        "y": 95.0
+      },
+      {
+        "text": "B.It isaproblem-solving andstrategyphase",
+        "score": 0.974615,
+        "x": 90.0,
+        "y": 135.0
+      },
+      {
+        "text": "C.Partiesattempt toimplementmodesofconflictresolution.",
+        "score": 0.979622,
+        "x": 90.0,
+        "y": 175.0
+      },
+      {
+        "text": "D.Parties attempt tounderstand thenatureof theproblem.",
+        "score": 0.962697,
+        "x": 89.0,
+        "y": 212.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 91,
+    "image": "/ssg104/source/slide-0091.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "195ea295e0f482acd376f70778de871e84c825c5112156464eb610cb9c763886",
+    "chosenPass": "thresholded",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "F",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "A.3",
+        "score": 0.976791,
+        "x": 33.0,
+        "y": 142.0
+      },
+      {
+        "text": "B.5",
+        "score": 0.997658,
+        "x": 33.0,
+        "y": 241.0
+      },
+      {
+        "text": "C.7",
+        "score": 0.992612,
+        "x": 33.0,
+        "y": 337.0
+      },
+      {
+        "text": "F O R U",
+        "score": 0.828904,
+        "x": 776.0,
+        "y": 365.0
+      },
+      {
+        "text": "D. 10",
+        "score": 0.921571,
+        "x": 34.0,
+        "y": 439.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "A.3",
+        "score": 0.995809,
+        "x": 19.0,
+        "y": 80.0
+      },
+      {
+        "text": "B.5",
+        "score": 0.997943,
+        "x": 19.0,
+        "y": 138.0
+      },
+      {
+        "text": "C.7",
+        "score": 0.991972,
+        "x": 20.0,
+        "y": 194.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.949084,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.10",
+        "score": 0.995812,
+        "x": 20.0,
+        "y": 248.0
+      }
+    ],
+    "passThresholded": [
+      {
+        "text": "A.3",
+        "score": 0.976791,
+        "x": 33.0,
+        "y": 142.0
+      },
+      {
+        "text": "B.5",
+        "score": 0.997658,
+        "x": 33.0,
+        "y": 241.0
+      },
+      {
+        "text": "C.7",
+        "score": 0.992612,
+        "x": 33.0,
+        "y": 337.0
+      },
+      {
+        "text": "F O R U",
+        "score": 0.828904,
+        "x": 776.0,
+        "y": 365.0
+      },
+      {
+        "text": "D. 10",
+        "score": 0.921571,
+        "x": 34.0,
+        "y": 439.0
+      }
+    ]
+  },
+  {
+    "sourceSlide": 101,
+    "image": "/ssg104/source/slide-0101.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "3b3efddfc5f79f56168210fb64354ecf6bdf3c9bef9c5d6225ceba9f7c39aba9",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "A.Usingjargon",
+        "score": 0.998223,
+        "x": 20.0,
+        "y": 77.0
+      },
+      {
+        "text": "B.Rambling",
+        "score": 0.998322,
+        "x": 19.0,
+        "y": 128.0
+      },
+      {
+        "text": "C.Keepeyecontact",
+        "score": 0.993636,
+        "x": 21.0,
+        "y": 184.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.954569,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Overfriendly",
+        "score": 0.996495,
+        "x": 20.0,
+        "y": 236.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "A.Usingjargon",
+        "score": 0.998223,
+        "x": 20.0,
+        "y": 77.0
+      },
+      {
+        "text": "B.Rambling",
+        "score": 0.998322,
+        "x": 19.0,
+        "y": 128.0
+      },
+      {
+        "text": "C.Keepeyecontact",
+        "score": 0.993636,
+        "x": 21.0,
+        "y": 184.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.954569,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Overfriendly",
+        "score": 0.996495,
+        "x": 20.0,
+        "y": 236.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 102,
+    "image": "/ssg104/source/slide-0102.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "89f24db2fab0fc61f36da4b481470542ea3d5d870a52e1678d0f7d01e50ffedd",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Whatisthemainadvantageofsocialfacilitation?",
+        "score": 0.988545,
+        "x": 27.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Feelbetter",
+        "score": 0.995501,
+        "x": 28.0,
+        "y": 80.0
+      },
+      {
+        "text": "B.Performtasksimproved",
+        "score": 0.998058,
+        "x": 28.0,
+        "y": 139.0
+      },
+      {
+        "text": "C.Workmoreindependently",
+        "score": 0.99512,
+        "x": 28.0,
+        "y": 199.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.967861,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Havehighchanceofpromotion",
+        "score": 0.998578,
+        "x": 29.0,
+        "y": 262.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Whatisthemainadvantageofsocialfacilitation?",
+        "score": 0.988545,
+        "x": 27.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Feelbetter",
+        "score": 0.995501,
+        "x": 28.0,
+        "y": 80.0
+      },
+      {
+        "text": "B.Performtasksimproved",
+        "score": 0.998058,
+        "x": 28.0,
+        "y": 139.0
+      },
+      {
+        "text": "C.Workmoreindependently",
+        "score": 0.99512,
+        "x": 28.0,
+        "y": 199.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.967861,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Havehighchanceofpromotion",
+        "score": 0.998578,
+        "x": 29.0,
+        "y": 262.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 103,
+    "image": "/ssg104/source/slide-0103.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "8d257de4c9174c201bca07f5f0ea508b491447ea38991ec68876aed2fbee4e08",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "What is one disadvantages of having large group?",
+        "score": 0.97195,
+        "x": 35.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Overestimatetheirabilities",
+        "score": 0.982398,
+        "x": 37.0,
+        "y": 84.0
+      },
+      {
+        "text": "B.Rankthemselvesaboveaverage",
+        "score": 0.978576,
+        "x": 36.0,
+        "y": 144.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.971709,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Moreinvolvement",
+        "score": 0.994434,
+        "x": 39.0,
+        "y": 208.0
+      },
+      {
+        "text": "D.Reducecommunication",
+        "score": 0.989178,
+        "x": 37.0,
+        "y": 266.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "What is one disadvantages of having large group?",
+        "score": 0.97195,
+        "x": 35.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Overestimatetheirabilities",
+        "score": 0.982398,
+        "x": 37.0,
+        "y": 84.0
+      },
+      {
+        "text": "B.Rankthemselvesaboveaverage",
+        "score": 0.978576,
+        "x": 36.0,
+        "y": 144.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.971709,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Moreinvolvement",
+        "score": 0.994434,
+        "x": 39.0,
+        "y": 208.0
+      },
+      {
+        "text": "D.Reducecommunication",
+        "score": 0.989178,
+        "x": 37.0,
+        "y": 266.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 104,
+    "image": "/ssg104/source/slide-0104.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "284dd987a3b80a0d9fd3038485f4c082f5f1c6025758083fbcf02310d4feabbf",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Whatisthequickestandeasiestsolutiontoreduceconflict?",
+        "score": 0.998245,
+        "x": 10.0,
+        "y": 24.0
+      },
+      {
+        "text": "A.Physicalseparation",
+        "score": 0.994238,
+        "x": 12.0,
+        "y": 80.0
+      },
+      {
+        "text": "B.Useofrulesandregulations",
+        "score": 0.997319,
+        "x": 10.0,
+        "y": 134.0
+      },
+      {
+        "text": "C.Third-partyconsultation",
+        "score": 0.993957,
+        "x": 12.0,
+        "y": 189.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.960711,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Confrontationandnegotiation",
+        "score": 0.997261,
+        "x": 10.0,
+        "y": 241.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Whatisthequickestandeasiestsolutiontoreduceconflict?",
+        "score": 0.998245,
+        "x": 10.0,
+        "y": 24.0
+      },
+      {
+        "text": "A.Physicalseparation",
+        "score": 0.994238,
+        "x": 12.0,
+        "y": 80.0
+      },
+      {
+        "text": "B.Useofrulesandregulations",
+        "score": 0.997319,
+        "x": 10.0,
+        "y": 134.0
+      },
+      {
+        "text": "C.Third-partyconsultation",
+        "score": 0.993957,
+        "x": 12.0,
+        "y": 189.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.960711,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Confrontationandnegotiation",
+        "score": 0.997261,
+        "x": 10.0,
+        "y": 241.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 105,
+    "image": "/ssg104/source/slide-0105.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "8b35f60ff92ad8c749b8109b1cc8c32499076398ff779d789bcd982965a0a9ad",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "What isthenegativeeffectof downwardcomparison?",
+        "score": 0.972549,
+        "x": 23.0,
+        "y": 16.0
+      },
+      {
+        "text": "A.Envy",
+        "score": 0.997567,
+        "x": 20.0,
+        "y": 71.0
+      },
+      {
+        "text": "B.Dissatisfaction",
+        "score": 0.996994,
+        "x": 24.0,
+        "y": 133.0
+      },
+      {
+        "text": "C.Scorn",
+        "score": 0.969403,
+        "x": 23.0,
+        "y": 188.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.966647,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Pessimistic",
+        "score": 0.997348,
+        "x": 23.0,
+        "y": 246.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "What isthenegativeeffectof downwardcomparison?",
+        "score": 0.972549,
+        "x": 23.0,
+        "y": 16.0
+      },
+      {
+        "text": "A.Envy",
+        "score": 0.997567,
+        "x": 20.0,
+        "y": 71.0
+      },
+      {
+        "text": "B.Dissatisfaction",
+        "score": 0.996994,
+        "x": 24.0,
+        "y": 133.0
+      },
+      {
+        "text": "C.Scorn",
+        "score": 0.969403,
+        "x": 23.0,
+        "y": 188.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.966647,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Pessimistic",
+        "score": 0.997348,
+        "x": 23.0,
+        "y": 246.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 106,
+    "image": "/ssg104/source/slide-0106.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "b5100883197552b9507d20169af2213bc31667fa24f235b8a121cecb39321deb",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Whatisthefirst thingtodobeforewecometoa jobinterview?",
+        "score": 0.983304,
+        "x": 15.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Dressappropriately",
+        "score": 0.997059,
+        "x": 17.0,
+        "y": 79.0
+      },
+      {
+        "text": "B.Theusageofbodylanguage",
+        "score": 0.995251,
+        "x": 16.0,
+        "y": 133.0
+      },
+      {
+        "text": "C.Readthejobdescriptioncarefully",
+        "score": 0.995825,
+        "x": 18.0,
+        "y": 190.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.960406,
+        "x": 441.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Followuptheinterviewresult",
+        "score": 0.99628,
+        "x": 18.0,
+        "y": 247.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Whatisthefirst thingtodobeforewecometoa jobinterview?",
+        "score": 0.983304,
+        "x": 15.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Dressappropriately",
+        "score": 0.997059,
+        "x": 17.0,
+        "y": 79.0
+      },
+      {
+        "text": "B.Theusageofbodylanguage",
+        "score": 0.995251,
+        "x": 16.0,
+        "y": 133.0
+      },
+      {
+        "text": "C.Readthejobdescriptioncarefully",
+        "score": 0.995825,
+        "x": 18.0,
+        "y": 190.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.960406,
+        "x": 441.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Followuptheinterviewresult",
+        "score": 0.99628,
+        "x": 18.0,
+        "y": 247.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 107,
+    "image": "/ssg104/source/slide-0107.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "cd85ebd53f21ee8eaa790622612603c3d6f0ba44d517a8a9083479b28ccbd136",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Whatisthefinalbestpracticeforboostingmulticulturalskills?",
+        "score": 0.989413,
+        "x": 20.0,
+        "y": 18.0
+      },
+      {
+        "text": "A.Developingcultural intelligence",
+        "score": 0.96569,
+        "x": 22.0,
+        "y": 71.0
+      },
+      {
+        "text": "B.Developingcognitivecomplexity",
+        "score": 0.98875,
+        "x": 22.0,
+        "y": 125.0
+      },
+      {
+        "text": "C.Developingculturalcompetence",
+        "score": 0.997047,
+        "x": 22.0,
+        "y": 179.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.97451,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Developingcross-culturalskills",
+        "score": 0.995675,
+        "x": 23.0,
+        "y": 236.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Whatisthefinalbestpracticeforboostingmulticulturalskills?",
+        "score": 0.989413,
+        "x": 20.0,
+        "y": 18.0
+      },
+      {
+        "text": "A.Developingcultural intelligence",
+        "score": 0.96569,
+        "x": 22.0,
+        "y": 71.0
+      },
+      {
+        "text": "B.Developingcognitivecomplexity",
+        "score": 0.98875,
+        "x": 22.0,
+        "y": 125.0
+      },
+      {
+        "text": "C.Developingculturalcompetence",
+        "score": 0.997047,
+        "x": 22.0,
+        "y": 179.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.97451,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Developingcross-culturalskills",
+        "score": 0.995675,
+        "x": 23.0,
+        "y": 236.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 108,
+    "image": "/ssg104/source/slide-0108.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "5e27c7eaf1f98be6fa257a3cfa3c4eff6f2ba028068147b42a22d83c03f8c6ff",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "What isthebest waytodresstoimpressemployersinaninterview?",
+        "score": 0.984537,
+        "x": 18.0,
+        "y": 26.0
+      },
+      {
+        "text": "A.Nomatterwhatyouwear",
+        "score": 0.995648,
+        "x": 19.0,
+        "y": 85.0
+      },
+      {
+        "text": "B.Betrendy(croptop,Jordans,etc...)",
+        "score": 0.982752,
+        "x": 19.0,
+        "y": 143.0
+      },
+      {
+        "text": "C.Wearaformalsuit",
+        "score": 0.987724,
+        "x": 21.0,
+        "y": 205.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.958444,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.WearaNikejoggingsuit",
+        "score": 0.994949,
+        "x": 18.0,
+        "y": 261.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "What isthebest waytodresstoimpressemployersinaninterview?",
+        "score": 0.984537,
+        "x": 18.0,
+        "y": 26.0
+      },
+      {
+        "text": "A.Nomatterwhatyouwear",
+        "score": 0.995648,
+        "x": 19.0,
+        "y": 85.0
+      },
+      {
+        "text": "B.Betrendy(croptop,Jordans,etc...)",
+        "score": 0.982752,
+        "x": 19.0,
+        "y": 143.0
+      },
+      {
+        "text": "C.Wearaformalsuit",
+        "score": 0.987724,
+        "x": 21.0,
+        "y": 205.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.958444,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.WearaNikejoggingsuit",
+        "score": 0.994949,
+        "x": 18.0,
+        "y": 261.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 109,
+    "image": "/ssg104/source/slide-0109.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "601deedd0c76be1762af8960eabc3a8d9238e1cea0e91650b1ccf4cc2f703715",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "WhatdoesEthosreferto?",
+        "score": 0.996921,
+        "x": 37.0,
+        "y": 48.0
+      },
+      {
+        "text": "A.Credibilityandethics",
+        "score": 0.993942,
+        "x": 39.0,
+        "y": 92.0
+      },
+      {
+        "text": "B.Passionand enthusiasm",
+        "score": 0.977472,
+        "x": 38.0,
+        "y": 133.0
+      },
+      {
+        "text": "C.Logicorreason",
+        "score": 0.996791,
+        "x": 40.0,
+        "y": 173.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.983772,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Emotion and generosity",
+        "score": 0.950933,
+        "x": 37.0,
+        "y": 212.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "WhatdoesEthosreferto?",
+        "score": 0.996921,
+        "x": 37.0,
+        "y": 48.0
+      },
+      {
+        "text": "A.Credibilityandethics",
+        "score": 0.993942,
+        "x": 39.0,
+        "y": 92.0
+      },
+      {
+        "text": "B.Passionand enthusiasm",
+        "score": 0.977472,
+        "x": 38.0,
+        "y": 133.0
+      },
+      {
+        "text": "C.Logicorreason",
+        "score": 0.996791,
+        "x": 40.0,
+        "y": 173.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.983772,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Emotion and generosity",
+        "score": 0.950933,
+        "x": 37.0,
+        "y": 212.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 110,
+    "image": "/ssg104/source/slide-0110.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "dc36d9005e030806d8521b4dd00aca41e2e68c548ace111e7da98f0c3eabe95f",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "WhatarethecharacteristicsofCritical thinking?",
+        "score": 0.989651,
+        "x": 18.0,
+        "y": 22.0
+      },
+      {
+        "text": "A.Examiningassumptions",
+        "score": 0.997756,
+        "x": 19.0,
+        "y": 83.0
+      },
+      {
+        "text": "B.Challengingreasoning",
+        "score": 0.996136,
+        "x": 19.0,
+        "y": 142.0
+      },
+      {
+        "text": "C.Uncoveringbiases",
+        "score": 0.997074,
+        "x": 19.0,
+        "y": 201.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.969549,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Allofthesearecorrect",
+        "score": 0.996213,
+        "x": 20.0,
+        "y": 260.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "WhatarethecharacteristicsofCritical thinking?",
+        "score": 0.989651,
+        "x": 18.0,
+        "y": 22.0
+      },
+      {
+        "text": "A.Examiningassumptions",
+        "score": 0.997756,
+        "x": 19.0,
+        "y": 83.0
+      },
+      {
+        "text": "B.Challengingreasoning",
+        "score": 0.996136,
+        "x": 19.0,
+        "y": 142.0
+      },
+      {
+        "text": "C.Uncoveringbiases",
+        "score": 0.997074,
+        "x": 19.0,
+        "y": 201.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.969549,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Allofthesearecorrect",
+        "score": 0.996213,
+        "x": 20.0,
+        "y": 260.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 111,
+    "image": "/ssg104/source/slide-0111.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "b7bc2fab852cc5acda46e2087a16cf93674abf9b8c8cfc79276d5e795520446a",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "What are the possible behaviorresponses in the consequences of power?HoangHoang",
+        "score": 0.962262,
+        "x": 31.0,
+        "y": 18.0
+      },
+      {
+        "text": "A.Trustworthinessandbetrayal",
+        "score": 0.997326,
+        "x": 33.0,
+        "y": 70.0
+      },
+      {
+        "text": "B.Complaintandcompliance",
+        "score": 0.996837,
+        "x": 32.0,
+        "y": 121.0
+      },
+      {
+        "text": "C.Commitmentandcompliance",
+        "score": 0.995227,
+        "x": 33.0,
+        "y": 171.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.965239,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Trustworthinessandresistance",
+        "score": 0.9975,
+        "x": 32.0,
+        "y": 220.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "What are the possible behaviorresponses in the consequences of power?HoangHoang",
+        "score": 0.962262,
+        "x": 31.0,
+        "y": 18.0
+      },
+      {
+        "text": "A.Trustworthinessandbetrayal",
+        "score": 0.997326,
+        "x": 33.0,
+        "y": 70.0
+      },
+      {
+        "text": "B.Complaintandcompliance",
+        "score": 0.996837,
+        "x": 32.0,
+        "y": 121.0
+      },
+      {
+        "text": "C.Commitmentandcompliance",
+        "score": 0.995227,
+        "x": 33.0,
+        "y": 171.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.965239,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Trustworthinessandresistance",
+        "score": 0.9975,
+        "x": 32.0,
+        "y": 220.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 112,
+    "image": "/ssg104/source/slide-0112.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "2cf21ff2628d2ba64c7fb4829115ed76e636edc48b77aaacf36cdeae396a75c2",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Whatarethetwomainfactorsinsocialcomparison?",
+        "score": 0.997135,
+        "x": 42.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Similarityandfriendliness",
+        "score": 0.995898,
+        "x": 43.0,
+        "y": 79.0
+      },
+      {
+        "text": "B.Opennessandindependence",
+        "score": 0.994682,
+        "x": 44.0,
+        "y": 137.0
+      },
+      {
+        "text": "C.Relevanceandsimilarity",
+        "score": 0.996207,
+        "x": 43.0,
+        "y": 194.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.96209,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Self-esteemandtrustworthy",
+        "score": 0.991413,
+        "x": 42.0,
+        "y": 249.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Whatarethetwomainfactorsinsocialcomparison?",
+        "score": 0.997135,
+        "x": 42.0,
+        "y": 20.0
+      },
+      {
+        "text": "A.Similarityandfriendliness",
+        "score": 0.995898,
+        "x": 43.0,
+        "y": 79.0
+      },
+      {
+        "text": "B.Opennessandindependence",
+        "score": 0.994682,
+        "x": 44.0,
+        "y": 137.0
+      },
+      {
+        "text": "C.Relevanceandsimilarity",
+        "score": 0.996207,
+        "x": 43.0,
+        "y": 194.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.96209,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Self-esteemandtrustworthy",
+        "score": 0.991413,
+        "x": 42.0,
+        "y": 249.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 113,
+    "image": "/ssg104/source/slide-0113.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "ac6cbfc3daf82421976eb978869b947f4620fac62b0f9804fa79854a424ef61f",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "What are the basics when making social comparison?",
+        "score": 0.961249,
+        "x": 35.0,
+        "y": 71.0
+      },
+      {
+        "text": "A.Similarityandcompliance",
+        "score": 0.983274,
+        "x": 37.0,
+        "y": 113.0
+      },
+      {
+        "text": "B.Opennessandfriendliness",
+        "score": 0.991167,
+        "x": 37.0,
+        "y": 153.0
+      },
+      {
+        "text": "C.Relevanceandsimilarity",
+        "score": 0.997747,
+        "x": 35.0,
+        "y": 190.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.974917,
+        "x": 442.0,
+        "y": 206.0
+      },
+      {
+        "text": "D.Self-esteemandindependence",
+        "score": 0.993687,
+        "x": 36.0,
+        "y": 233.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "What are the basics when making social comparison?",
+        "score": 0.961249,
+        "x": 35.0,
+        "y": 71.0
+      },
+      {
+        "text": "A.Similarityandcompliance",
+        "score": 0.983274,
+        "x": 37.0,
+        "y": 113.0
+      },
+      {
+        "text": "B.Opennessandfriendliness",
+        "score": 0.991167,
+        "x": 37.0,
+        "y": 153.0
+      },
+      {
+        "text": "C.Relevanceandsimilarity",
+        "score": 0.997747,
+        "x": 35.0,
+        "y": 190.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.974917,
+        "x": 442.0,
+        "y": 206.0
+      },
+      {
+        "text": "D.Self-esteemandindependence",
+        "score": 0.993687,
+        "x": 36.0,
+        "y": 233.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 114,
+    "image": "/ssg104/source/slide-0114.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "c2a0e04e99ab6f3d46387dd97ef376bfe743972b8fc4b4ab87050b258f000ba9",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Whatdoes the word\"Team\"stand for?",
+        "score": 0.955038,
+        "x": 26.0,
+        "y": 23.0
+      },
+      {
+        "text": "A.TogetherEverythingAccessMore",
+        "score": 0.99749,
+        "x": 27.0,
+        "y": 87.0
+      },
+      {
+        "text": "B.TogetherEveryoneAcceptMore",
+        "score": 0.99811,
+        "x": 27.0,
+        "y": 148.0
+      },
+      {
+        "text": "C. Together Everyone Assist Memberso R U",
+        "score": 0.974234,
+        "x": 25.0,
+        "y": 203.0
+      },
+      {
+        "text": "D.TogetherEveryoneAchievesMore",
+        "score": 0.997796,
+        "x": 28.0,
+        "y": 274.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Whatdoes the word\"Team\"stand for?",
+        "score": 0.955038,
+        "x": 26.0,
+        "y": 23.0
+      },
+      {
+        "text": "A.TogetherEverythingAccessMore",
+        "score": 0.99749,
+        "x": 27.0,
+        "y": 87.0
+      },
+      {
+        "text": "B.TogetherEveryoneAcceptMore",
+        "score": 0.99811,
+        "x": 27.0,
+        "y": 148.0
+      },
+      {
+        "text": "C. Together Everyone Assist Memberso R U",
+        "score": 0.974234,
+        "x": 25.0,
+        "y": 203.0
+      },
+      {
+        "text": "D.TogetherEveryoneAchievesMore",
+        "score": 0.997796,
+        "x": 28.0,
+        "y": 274.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 115,
+    "image": "/ssg104/source/slide-0115.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "4d5e45ff8bd9f54323991dabac17f346ba073313115df3d86bda2f9229d9d725",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Whattypeofnonverbalcommunicationinvolvestheverbalandnonverbalaspectsofspeech?",
+        "score": 0.998198,
+        "x": 18.0,
+        "y": 25.0
+      },
+      {
+        "text": "A.Touch",
+        "score": 0.992013,
+        "x": 18.0,
+        "y": 76.0
+      },
+      {
+        "text": "B.Space",
+        "score": 0.996668,
+        "x": 18.0,
+        "y": 128.0
+      },
+      {
+        "text": "C.Artifacts",
+        "score": 0.965311,
+        "x": 19.0,
+        "y": 180.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.943955,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Paralanguage",
+        "score": 0.995178,
+        "x": 18.0,
+        "y": 232.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Whattypeofnonverbalcommunicationinvolvestheverbalandnonverbalaspectsofspeech?",
+        "score": 0.998198,
+        "x": 18.0,
+        "y": 25.0
+      },
+      {
+        "text": "A.Touch",
+        "score": 0.992013,
+        "x": 18.0,
+        "y": 76.0
+      },
+      {
+        "text": "B.Space",
+        "score": 0.996668,
+        "x": 18.0,
+        "y": 128.0
+      },
+      {
+        "text": "C.Artifacts",
+        "score": 0.965311,
+        "x": 19.0,
+        "y": 180.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.943955,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Paralanguage",
+        "score": 0.995178,
+        "x": 18.0,
+        "y": 232.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 116,
+    "image": "/ssg104/source/slide-0116.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "2f5510c7294e88797d6a33f122a5529bf1e867e4a2882109262b2bfee311eadf",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "A.ProgressReport",
+        "score": 0.99778,
+        "x": 28.0,
+        "y": 75.0
+      },
+      {
+        "text": "B.RecommendationReport",
+        "score": 0.996945,
+        "x": 29.0,
+        "y": 133.0
+      },
+      {
+        "text": "C.SummaryReport",
+        "score": 0.997178,
+        "x": 29.0,
+        "y": 187.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.953992,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.FinancialReport",
+        "score": 0.990825,
+        "x": 29.0,
+        "y": 242.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "A.ProgressReport",
+        "score": 0.99778,
+        "x": 28.0,
+        "y": 75.0
+      },
+      {
+        "text": "B.RecommendationReport",
+        "score": 0.996945,
+        "x": 29.0,
+        "y": 133.0
+      },
+      {
+        "text": "C.SummaryReport",
+        "score": 0.997178,
+        "x": 29.0,
+        "y": 187.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.953992,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.FinancialReport",
+        "score": 0.990825,
+        "x": 29.0,
+        "y": 242.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 117,
+    "image": "/ssg104/source/slide-0117.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "8408bbfcc57b984e961515795978e0c9eda6a86ee2e700729719a6507e53da84",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Whattopicsofinformationshouldyounotincludeonyourresume?",
+        "score": 0.996241,
+        "x": 19.0,
+        "y": 23.0
+      },
+      {
+        "text": "A.Skills",
+        "score": 0.985841,
+        "x": 16.0,
+        "y": 80.0
+      },
+      {
+        "text": "B.LoveLife",
+        "score": 0.956965,
+        "x": 18.0,
+        "y": 139.0
+      },
+      {
+        "text": "C.Education",
+        "score": 0.994667,
+        "x": 18.0,
+        "y": 197.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.954308,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.WorkExperiences",
+        "score": 0.992155,
+        "x": 19.0,
+        "y": 256.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Whattopicsofinformationshouldyounotincludeonyourresume?",
+        "score": 0.996241,
+        "x": 19.0,
+        "y": 23.0
+      },
+      {
+        "text": "A.Skills",
+        "score": 0.985841,
+        "x": 16.0,
+        "y": 80.0
+      },
+      {
+        "text": "B.LoveLife",
+        "score": 0.956965,
+        "x": 18.0,
+        "y": 139.0
+      },
+      {
+        "text": "C.Education",
+        "score": 0.994667,
+        "x": 18.0,
+        "y": 197.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.954308,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.WorkExperiences",
+        "score": 0.992155,
+        "x": 19.0,
+        "y": 256.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 118,
+    "image": "/ssg104/source/slide-0118.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "4308e25a90e0927ebbbc7e3f6e1e0422360b401f0f7feed02c1ccfab8bf6a763",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "What typeof informationshouldyou includeon a resume?",
+        "score": 0.975004,
+        "x": 24.0,
+        "y": 19.0
+      },
+      {
+        "text": "A.Yoursocialsecuritynumber",
+        "score": 0.9862,
+        "x": 24.0,
+        "y": 87.0
+      },
+      {
+        "text": "B.Yourfamilyinformation",
+        "score": 0.9985,
+        "x": 24.0,
+        "y": 153.0
+      },
+      {
+        "text": "EORU",
+        "score": 0.969532,
+        "x": 446.0,
+        "y": 209.0
+      },
+      {
+        "text": "C. Your job skills and working history",
+        "score": 0.974167,
+        "x": 24.0,
+        "y": 215.0
+      },
+      {
+        "text": "D.Yourfamilytree",
+        "score": 0.988799,
+        "x": 26.0,
+        "y": 286.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "What typeof informationshouldyou includeon a resume?",
+        "score": 0.975004,
+        "x": 24.0,
+        "y": 19.0
+      },
+      {
+        "text": "A.Yoursocialsecuritynumber",
+        "score": 0.9862,
+        "x": 24.0,
+        "y": 87.0
+      },
+      {
+        "text": "B.Yourfamilyinformation",
+        "score": 0.9985,
+        "x": 24.0,
+        "y": 153.0
+      },
+      {
+        "text": "EORU",
+        "score": 0.969532,
+        "x": 446.0,
+        "y": 209.0
+      },
+      {
+        "text": "C. Your job skills and working history",
+        "score": 0.974167,
+        "x": 24.0,
+        "y": 215.0
+      },
+      {
+        "text": "D.Yourfamilytree",
+        "score": 0.988799,
+        "x": 26.0,
+        "y": 286.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 119,
+    "image": "/ssg104/source/slide-0119.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "c3b8cea82fc9e4347c6f1926afb86259209df84e48bb8eea32c63619c167549c",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "What should be prepared before the meeting?",
+        "score": 0.963014,
+        "x": 19.0,
+        "y": 26.0
+      },
+      {
+        "text": "A.Planmeetingschedule",
+        "score": 0.995818,
+        "x": 20.0,
+        "y": 95.0
+      },
+      {
+        "text": "B.Decidehowtomeet",
+        "score": 0.99839,
+        "x": 21.0,
+        "y": 161.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.973553,
+        "x": 441.0,
+        "y": 205.0
+      },
+      {
+        "text": "C. Invite meeting participants",
+        "score": 0.997641,
+        "x": 20.0,
+        "y": 227.0
+      },
+      {
+        "text": "D.Allabove",
+        "score": 0.995033,
+        "x": 20.0,
+        "y": 296.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "What should be prepared before the meeting?",
+        "score": 0.963014,
+        "x": 19.0,
+        "y": 26.0
+      },
+      {
+        "text": "A.Planmeetingschedule",
+        "score": 0.995818,
+        "x": 20.0,
+        "y": 95.0
+      },
+      {
+        "text": "B.Decidehowtomeet",
+        "score": 0.99839,
+        "x": 21.0,
+        "y": 161.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.973553,
+        "x": 441.0,
+        "y": 205.0
+      },
+      {
+        "text": "C. Invite meeting participants",
+        "score": 0.997641,
+        "x": 20.0,
+        "y": 227.0
+      },
+      {
+        "text": "D.Allabove",
+        "score": 0.995033,
+        "x": 20.0,
+        "y": 296.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 120,
+    "image": "/ssg104/source/slide-0120.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "cf981a871005938252cc0f566139d935a06a11e79500e12082696b17417a8495",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "What should you always do after an interview?",
+        "score": 0.967165,
+        "x": 30.0,
+        "y": 54.0
+      },
+      {
+        "text": "A.Runaway",
+        "score": 0.996532,
+        "x": 28.0,
+        "y": 100.0
+      },
+      {
+        "text": "B.Askaboutsalary",
+        "score": 0.997537,
+        "x": 29.0,
+        "y": 148.0
+      },
+      {
+        "text": "C.Thanktheinterviewer",
+        "score": 0.995293,
+        "x": 30.0,
+        "y": 195.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.974807,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Callthemseveraltimes",
+        "score": 0.996182,
+        "x": 30.0,
+        "y": 242.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "What should you always do after an interview?",
+        "score": 0.967165,
+        "x": 30.0,
+        "y": 54.0
+      },
+      {
+        "text": "A.Runaway",
+        "score": 0.996532,
+        "x": 28.0,
+        "y": 100.0
+      },
+      {
+        "text": "B.Askaboutsalary",
+        "score": 0.997537,
+        "x": 29.0,
+        "y": 148.0
+      },
+      {
+        "text": "C.Thanktheinterviewer",
+        "score": 0.995293,
+        "x": 30.0,
+        "y": 195.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.974807,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Callthemseveraltimes",
+        "score": 0.996182,
+        "x": 30.0,
+        "y": 242.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 193,
+    "image": "/ssg104/source/slide-0193.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "49d361bb6ad74e64dbc91184dbd24afa2cee8336c850f4adbd63bf39fde6a18f",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Specificrevisionrequiresattention tothefollowing:format,facts,names,spelling,punctuation,and",
+        "score": 0.976598,
+        "x": 20.0,
+        "y": 32.0
+      },
+      {
+        "text": "A.Content",
+        "score": 0.996648,
+        "x": 19.0,
+        "y": 80.0
+      },
+      {
+        "text": "B.Grammar",
+        "score": 0.996528,
+        "x": 18.0,
+        "y": 128.0
+      },
+      {
+        "text": "C.Organization",
+        "score": 0.995683,
+        "x": 20.0,
+        "y": 178.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.945463,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Style",
+        "score": 0.995627,
+        "x": 18.0,
+        "y": 226.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Specificrevisionrequiresattention tothefollowing:format,facts,names,spelling,punctuation,and",
+        "score": 0.976598,
+        "x": 20.0,
+        "y": 32.0
+      },
+      {
+        "text": "A.Content",
+        "score": 0.996648,
+        "x": 19.0,
+        "y": 80.0
+      },
+      {
+        "text": "B.Grammar",
+        "score": 0.996528,
+        "x": 18.0,
+        "y": 128.0
+      },
+      {
+        "text": "C.Organization",
+        "score": 0.995683,
+        "x": 20.0,
+        "y": 178.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.945463,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Style",
+        "score": 0.995627,
+        "x": 18.0,
+        "y": 226.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 194,
+    "image": "/ssg104/source/slide-0194.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "9fcb882b1f6fbd9c5bb164b512aadc6ed4b1025e64f9ce4d66da14461a821bb0",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "theirJapanesecustomerhowthenewappworks.",
+        "score": 0.996481,
+        "x": 14.0,
+        "y": 51.0
+      },
+      {
+        "text": "Which type of report is that?",
+        "score": 0.933381,
+        "x": 14.0,
+        "y": 94.0
+      },
+      {
+        "text": "A.Technical",
+        "score": 0.997694,
+        "x": 12.0,
+        "y": 139.0
+      },
+      {
+        "text": "B.Financial",
+        "score": 0.997743,
+        "x": 12.0,
+        "y": 186.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.991852,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "C.Feasibility",
+        "score": 0.997259,
+        "x": 14.0,
+        "y": 230.0
+      },
+      {
+        "text": "D.Needsassessment",
+        "score": 0.99761,
+        "x": 15.0,
+        "y": 279.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "theirJapanesecustomerhowthenewappworks.",
+        "score": 0.996481,
+        "x": 14.0,
+        "y": 51.0
+      },
+      {
+        "text": "Which type of report is that?",
+        "score": 0.933381,
+        "x": 14.0,
+        "y": 94.0
+      },
+      {
+        "text": "A.Technical",
+        "score": 0.997694,
+        "x": 12.0,
+        "y": 139.0
+      },
+      {
+        "text": "B.Financial",
+        "score": 0.997743,
+        "x": 12.0,
+        "y": 186.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.991852,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "C.Feasibility",
+        "score": 0.997259,
+        "x": 14.0,
+        "y": 230.0
+      },
+      {
+        "text": "D.Needsassessment",
+        "score": 0.99761,
+        "x": 15.0,
+        "y": 279.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 195,
+    "image": "/ssg104/source/slide-0195.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "c9131a3a14a84845700d02e77bbec62496ce0b0bcc6765116623f25cbf4329a1",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Somepeopleconsidersocial norms and theopinionsof otherstohelpjustifytheirownpositionsinlife,some",
+        "score": 0.979427,
+        "x": 40.0,
+        "y": 57.0
+      },
+      {
+        "text": "othersconsider",
+        "score": 0.997089,
+        "x": 41.0,
+        "y": 78.0
+      },
+      {
+        "text": "toperformbetter.",
+        "score": 0.98031,
+        "x": 207.0,
+        "y": 78.0
+      },
+      {
+        "text": "A.opinions and similarity",
+        "score": 0.955671,
+        "x": 39.0,
+        "y": 119.0
+      },
+      {
+        "text": "B.performance and abilities",
+        "score": 0.97271,
+        "x": 41.0,
+        "y": 160.0
+      },
+      {
+        "text": "C.opinionsand values",
+        "score": 0.973477,
+        "x": 42.0,
+        "y": 201.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.983842,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.similarityandfriendliness",
+        "score": 0.971842,
+        "x": 42.0,
+        "y": 243.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Somepeopleconsidersocial norms and theopinionsof otherstohelpjustifytheirownpositionsinlife,some",
+        "score": 0.979427,
+        "x": 40.0,
+        "y": 57.0
+      },
+      {
+        "text": "othersconsider",
+        "score": 0.997089,
+        "x": 41.0,
+        "y": 78.0
+      },
+      {
+        "text": "toperformbetter.",
+        "score": 0.98031,
+        "x": 207.0,
+        "y": 78.0
+      },
+      {
+        "text": "A.opinions and similarity",
+        "score": 0.955671,
+        "x": 39.0,
+        "y": 119.0
+      },
+      {
+        "text": "B.performance and abilities",
+        "score": 0.97271,
+        "x": 41.0,
+        "y": 160.0
+      },
+      {
+        "text": "C.opinionsand values",
+        "score": 0.973477,
+        "x": 42.0,
+        "y": 201.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.983842,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.similarityandfriendliness",
+        "score": 0.971842,
+        "x": 42.0,
+        "y": 243.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 196,
+    "image": "/ssg104/source/slide-0196.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "773db6c94cf7f5670f47638ca5476ed01498fd6e76ef44e47c74a1f1e60c623f",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "withoutjeopardizingpersonalintegrity.",
+        "score": 0.996026,
+        "x": 12.0,
+        "y": 43.0
+      },
+      {
+        "text": "A.Rewardpower",
+        "score": 0.997342,
+        "x": 12.0,
+        "y": 91.0
+      },
+      {
+        "text": "B.Legitimatepower",
+        "score": 0.986264,
+        "x": 12.0,
+        "y": 136.0
+      },
+      {
+        "text": "C.Evaluationcriteria",
+        "score": 0.994828,
+        "x": 13.0,
+        "y": 183.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.988073,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Coercivepower",
+        "score": 0.997245,
+        "x": 13.0,
+        "y": 230.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "withoutjeopardizingpersonalintegrity.",
+        "score": 0.996026,
+        "x": 12.0,
+        "y": 43.0
+      },
+      {
+        "text": "A.Rewardpower",
+        "score": 0.997342,
+        "x": 12.0,
+        "y": 91.0
+      },
+      {
+        "text": "B.Legitimatepower",
+        "score": 0.986264,
+        "x": 12.0,
+        "y": 136.0
+      },
+      {
+        "text": "C.Evaluationcriteria",
+        "score": 0.994828,
+        "x": 13.0,
+        "y": 183.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.988073,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Coercivepower",
+        "score": 0.997245,
+        "x": 13.0,
+        "y": 230.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 197,
+    "image": "/ssg104/source/slide-0197.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "703e9b3178e0acc4d9ed91390d6024f50559148d26707f8b098bb80188f3b717",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Toproduce a goodopening in a persuasive message,you shouldkeep it",
+        "score": 0.952252,
+        "x": 12.0,
+        "y": 23.0
+      },
+      {
+        "text": "A.Neutral",
+        "score": 0.996828,
+        "x": 10.0,
+        "y": 81.0
+      },
+      {
+        "text": "B.Negativeandimpersonal",
+        "score": 0.997429,
+        "x": 12.0,
+        "y": 140.0
+      },
+      {
+        "text": "C.Impersonal",
+        "score": 0.983092,
+        "x": 13.0,
+        "y": 197.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.957922,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Positiveandpersonal",
+        "score": 0.996843,
+        "x": 13.0,
+        "y": 257.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Toproduce a goodopening in a persuasive message,you shouldkeep it",
+        "score": 0.952252,
+        "x": 12.0,
+        "y": 23.0
+      },
+      {
+        "text": "A.Neutral",
+        "score": 0.996828,
+        "x": 10.0,
+        "y": 81.0
+      },
+      {
+        "text": "B.Negativeandimpersonal",
+        "score": 0.997429,
+        "x": 12.0,
+        "y": 140.0
+      },
+      {
+        "text": "C.Impersonal",
+        "score": 0.983092,
+        "x": 13.0,
+        "y": 197.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.957922,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Positiveandpersonal",
+        "score": 0.996843,
+        "x": 13.0,
+        "y": 257.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 198,
+    "image": "/ssg104/source/slide-0198.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "a18a533310f733a7d1274bec33a997602cc95d97042a225db402a491ab5c18d6",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "within the mind.Hoang Hoang",
+        "score": 0.984524,
+        "x": 546.0,
+        "y": 12.0
+      },
+      {
+        "text": "Thoughtand thinkingcanbeunderstoodas",
+        "score": 0.98488,
+        "x": 12.0,
+        "y": 17.0
+      },
+      {
+        "text": "A.Patterns-SystemsandSchemes",
+        "score": 0.991809,
+        "x": 12.0,
+        "y": 75.0
+      },
+      {
+        "text": "B.OrderandStructure",
+        "score": 0.994404,
+        "x": 12.0,
+        "y": 133.0
+      },
+      {
+        "text": "C.ActandControl",
+        "score": 0.996683,
+        "x": 12.0,
+        "y": 189.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.97384,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.AnalyzeandEvaluate",
+        "score": 0.99652,
+        "x": 12.0,
+        "y": 249.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "within the mind.Hoang Hoang",
+        "score": 0.984524,
+        "x": 546.0,
+        "y": 12.0
+      },
+      {
+        "text": "Thoughtand thinkingcanbeunderstoodas",
+        "score": 0.98488,
+        "x": 12.0,
+        "y": 17.0
+      },
+      {
+        "text": "A.Patterns-SystemsandSchemes",
+        "score": 0.991809,
+        "x": 12.0,
+        "y": 75.0
+      },
+      {
+        "text": "B.OrderandStructure",
+        "score": 0.994404,
+        "x": 12.0,
+        "y": 133.0
+      },
+      {
+        "text": "C.ActandControl",
+        "score": 0.996683,
+        "x": 12.0,
+        "y": 189.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.97384,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.AnalyzeandEvaluate",
+        "score": 0.99652,
+        "x": 12.0,
+        "y": 249.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 199,
+    "image": "/ssg104/source/slide-0199.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "dac3f200ce32fc7d08bceb61c25bfeebb744764330c268303e7884327fe90144",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Thestudyofbodymovementsiskeytounderstandingnonverbal communication,called",
+        "score": 0.988612,
+        "x": 22.0,
+        "y": 38.0
+      },
+      {
+        "text": "A.Kinesics",
+        "score": 0.989026,
+        "x": 20.0,
+        "y": 90.0
+      },
+      {
+        "text": "B.Chronemics",
+        "score": 0.996062,
+        "x": 19.0,
+        "y": 144.0
+      },
+      {
+        "text": "C.Proxemics",
+        "score": 0.993607,
+        "x": 20.0,
+        "y": 198.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.944689,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Haptics",
+        "score": 0.98798,
+        "x": 20.0,
+        "y": 252.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Thestudyofbodymovementsiskeytounderstandingnonverbal communication,called",
+        "score": 0.988612,
+        "x": 22.0,
+        "y": 38.0
+      },
+      {
+        "text": "A.Kinesics",
+        "score": 0.989026,
+        "x": 20.0,
+        "y": 90.0
+      },
+      {
+        "text": "B.Chronemics",
+        "score": 0.996062,
+        "x": 19.0,
+        "y": 144.0
+      },
+      {
+        "text": "C.Proxemics",
+        "score": 0.993607,
+        "x": 20.0,
+        "y": 198.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.944689,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Haptics",
+        "score": 0.98798,
+        "x": 20.0,
+        "y": 252.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 200,
+    "image": "/ssg104/source/slide-0200.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "aeea9de3f24c02aea18f3286b7a8655cffa688f234214c185a7c83bcf5dad0b6",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Thepersoninchargeofconductingameetingisthe",
+        "score": 0.997733,
+        "x": 18.0,
+        "y": 29.0
+      },
+      {
+        "text": "A.Groupleader",
+        "score": 0.989687,
+        "x": 17.0,
+        "y": 90.0
+      },
+      {
+        "text": "B.Dominator",
+        "score": 0.998159,
+        "x": 16.0,
+        "y": 149.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.964622,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Chairperson",
+        "score": 0.996468,
+        "x": 17.0,
+        "y": 210.0
+      },
+      {
+        "text": "D.Recorder",
+        "score": 0.993931,
+        "x": 18.0,
+        "y": 274.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Thepersoninchargeofconductingameetingisthe",
+        "score": 0.997733,
+        "x": 18.0,
+        "y": 29.0
+      },
+      {
+        "text": "A.Groupleader",
+        "score": 0.989687,
+        "x": 17.0,
+        "y": 90.0
+      },
+      {
+        "text": "B.Dominator",
+        "score": 0.998159,
+        "x": 16.0,
+        "y": 149.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.964622,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Chairperson",
+        "score": 0.996468,
+        "x": 17.0,
+        "y": 210.0
+      },
+      {
+        "text": "D.Recorder",
+        "score": 0.993931,
+        "x": 18.0,
+        "y": 274.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 201,
+    "image": "/ssg104/source/slide-0201.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "14c73be072f36133cb840d2a77af70473de58243ae68f9dd4fef533aa0a94aa4",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Themost importantsectionofaproposal isthe",
+        "score": 0.982373,
+        "x": 20.0,
+        "y": 24.0
+      },
+      {
+        "text": "A.Cost",
+        "score": 0.991043,
+        "x": 19.0,
+        "y": 90.0
+      },
+      {
+        "text": "B.Solution",
+        "score": 0.991875,
+        "x": 20.0,
+        "y": 158.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.969548,
+        "x": 441.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Purposestatement",
+        "score": 0.99252,
+        "x": 22.0,
+        "y": 226.0
+      },
+      {
+        "text": "D.Background",
+        "score": 0.996135,
+        "x": 21.0,
+        "y": 293.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Themost importantsectionofaproposal isthe",
+        "score": 0.982373,
+        "x": 20.0,
+        "y": 24.0
+      },
+      {
+        "text": "A.Cost",
+        "score": 0.991043,
+        "x": 19.0,
+        "y": 90.0
+      },
+      {
+        "text": "B.Solution",
+        "score": 0.991875,
+        "x": 20.0,
+        "y": 158.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.969548,
+        "x": 441.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Purposestatement",
+        "score": 0.99252,
+        "x": 22.0,
+        "y": 226.0
+      },
+      {
+        "text": "D.Background",
+        "score": 0.996135,
+        "x": 21.0,
+        "y": 293.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 202,
+    "image": "/ssg104/source/slide-0202.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "bf1c8b97b0c23d655263b122185759dfb12ed99a4b47ef0cc3c90a56e9e5b76b",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Thewrittenrecordofagroup'sdiscussionandactivitiesis",
+        "score": 0.987884,
+        "x": 23.0,
+        "y": 19.0
+      },
+      {
+        "text": "A.ameetingminute",
+        "score": 0.996007,
+        "x": 23.0,
+        "y": 79.0
+      },
+      {
+        "text": "B.areport",
+        "score": 0.99817,
+        "x": 21.0,
+        "y": 139.0
+      },
+      {
+        "text": "C.anagenda",
+        "score": 0.994176,
+        "x": 23.0,
+        "y": 200.0
+      },
+      {
+        "text": "FO RU",
+        "score": 0.887309,
+        "x": 443.0,
+        "y": 206.0
+      },
+      {
+        "text": "D.anote",
+        "score": 0.996734,
+        "x": 21.0,
+        "y": 260.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Thewrittenrecordofagroup'sdiscussionandactivitiesis",
+        "score": 0.987884,
+        "x": 23.0,
+        "y": 19.0
+      },
+      {
+        "text": "A.ameetingminute",
+        "score": 0.996007,
+        "x": 23.0,
+        "y": 79.0
+      },
+      {
+        "text": "B.areport",
+        "score": 0.99817,
+        "x": 21.0,
+        "y": 139.0
+      },
+      {
+        "text": "C.anagenda",
+        "score": 0.994176,
+        "x": 23.0,
+        "y": 200.0
+      },
+      {
+        "text": "FO RU",
+        "score": 0.887309,
+        "x": 443.0,
+        "y": 206.0
+      },
+      {
+        "text": "D.anote",
+        "score": 0.996734,
+        "x": 21.0,
+        "y": 260.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 203,
+    "image": "/ssg104/source/slide-0203.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "8549c65db7ae973e741f39d019d28c4b72accf41735918195e4301f6478b0620",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Thepurposeofabusinessproposal is to",
+        "score": 0.973614,
+        "x": 27.0,
+        "y": 17.0
+      },
+      {
+        "text": "A.raiseaproblem",
+        "score": 0.994906,
+        "x": 26.0,
+        "y": 79.0
+      },
+      {
+        "text": "B.reflectonwork",
+        "score": 0.996594,
+        "x": 28.0,
+        "y": 144.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.971924,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.narratewhatyouhavedone",
+        "score": 0.996761,
+        "x": 28.0,
+        "y": 209.0
+      },
+      {
+        "text": "D.makeapersuasive appeal",
+        "score": 0.980164,
+        "x": 26.0,
+        "y": 273.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Thepurposeofabusinessproposal is to",
+        "score": 0.973614,
+        "x": 27.0,
+        "y": 17.0
+      },
+      {
+        "text": "A.raiseaproblem",
+        "score": 0.994906,
+        "x": 26.0,
+        "y": 79.0
+      },
+      {
+        "text": "B.reflectonwork",
+        "score": 0.996594,
+        "x": 28.0,
+        "y": 144.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.971924,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.narratewhatyouhavedone",
+        "score": 0.996761,
+        "x": 28.0,
+        "y": 209.0
+      },
+      {
+        "text": "D.makeapersuasive appeal",
+        "score": 0.980164,
+        "x": 26.0,
+        "y": 273.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 204,
+    "image": "/ssg104/source/slide-0204.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "6ca9518d556bae3ce9d62c075448699c7adffbd87c9f147611c86918597466fe",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Teamcharacteristicsshouldincludeoneoffollowingfactors",
+        "score": 0.998075,
+        "x": 18.0,
+        "y": 30.0
+      },
+      {
+        "text": "A.Interaction",
+        "score": 0.978562,
+        "x": 17.0,
+        "y": 92.0
+      },
+      {
+        "text": "B.Short-termrelation",
+        "score": 0.995013,
+        "x": 18.0,
+        "y": 153.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.95826,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Actindependently",
+        "score": 0.99586,
+        "x": 19.0,
+        "y": 213.0
+      },
+      {
+        "text": "D.Unreacted members",
+        "score": 0.973641,
+        "x": 18.0,
+        "y": 277.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Teamcharacteristicsshouldincludeoneoffollowingfactors",
+        "score": 0.998075,
+        "x": 18.0,
+        "y": 30.0
+      },
+      {
+        "text": "A.Interaction",
+        "score": 0.978562,
+        "x": 17.0,
+        "y": 92.0
+      },
+      {
+        "text": "B.Short-termrelation",
+        "score": 0.995013,
+        "x": 18.0,
+        "y": 153.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.95826,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.Actindependently",
+        "score": 0.99586,
+        "x": 19.0,
+        "y": 213.0
+      },
+      {
+        "text": "D.Unreacted members",
+        "score": 0.973641,
+        "x": 18.0,
+        "y": 277.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 205,
+    "image": "/ssg104/source/slide-0205.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "1de8f264eb78952e52460b0dd127369128fc357449b1f828dc014dfe1522e312",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Theneedforself-evaluationexperimenthasshownthatpeoplecometoknowaboutthemselvesby",
+        "score": 0.997875,
+        "x": 18.0,
+        "y": 31.0
+      },
+      {
+        "text": "A.havingpositiveattitudeinlife",
+        "score": 0.980796,
+        "x": 15.0,
+        "y": 80.0
+      },
+      {
+        "text": "B.comparingwithothers",
+        "score": 0.996728,
+        "x": 17.0,
+        "y": 131.0
+      },
+      {
+        "text": "C.seekinghappiness",
+        "score": 0.99668,
+        "x": 16.0,
+        "y": 180.0
+      },
+      {
+        "text": "FO RU",
+        "score": 0.866222,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.feelingcomplete",
+        "score": 0.992969,
+        "x": 17.0,
+        "y": 230.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Theneedforself-evaluationexperimenthasshownthatpeoplecometoknowaboutthemselvesby",
+        "score": 0.997875,
+        "x": 18.0,
+        "y": 31.0
+      },
+      {
+        "text": "A.havingpositiveattitudeinlife",
+        "score": 0.980796,
+        "x": 15.0,
+        "y": 80.0
+      },
+      {
+        "text": "B.comparingwithothers",
+        "score": 0.996728,
+        "x": 17.0,
+        "y": 131.0
+      },
+      {
+        "text": "C.seekinghappiness",
+        "score": 0.99668,
+        "x": 16.0,
+        "y": 180.0
+      },
+      {
+        "text": "FO RU",
+        "score": 0.866222,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.feelingcomplete",
+        "score": 0.992969,
+        "x": 17.0,
+        "y": 230.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 206,
+    "image": "/ssg104/source/slide-0206.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "64a71978fdfe54c6c78d4d17f38a1523d181495b1b836f05d6cc094c7709e8cc",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Theseconflicts,whichrelatetoquestionsaboutwhatchoicestomakeinagivensituation，restondiffering",
+        "score": 0.983172,
+        "x": 18.0,
+        "y": 28.0
+      },
+      {
+        "text": "viewsofthefacts",
+        "score": 0.997514,
+        "x": 17.0,
+        "y": 53.0
+      },
+      {
+        "text": "A.Conflictsofsubstance",
+        "score": 0.996272,
+        "x": 18.0,
+        "y": 100.0
+      },
+      {
+        "text": "B.Conflictsofprocess",
+        "score": 0.996738,
+        "x": 17.0,
+        "y": 144.0
+      },
+      {
+        "text": "C.Conflictsofmisperceiveddifferences",
+        "score": 0.996622,
+        "x": 19.0,
+        "y": 192.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.974882,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Noneofthese",
+        "score": 0.997234,
+        "x": 18.0,
+        "y": 238.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Theseconflicts,whichrelatetoquestionsaboutwhatchoicestomakeinagivensituation，restondiffering",
+        "score": 0.983172,
+        "x": 18.0,
+        "y": 28.0
+      },
+      {
+        "text": "viewsofthefacts",
+        "score": 0.997514,
+        "x": 17.0,
+        "y": 53.0
+      },
+      {
+        "text": "A.Conflictsofsubstance",
+        "score": 0.996272,
+        "x": 18.0,
+        "y": 100.0
+      },
+      {
+        "text": "B.Conflictsofprocess",
+        "score": 0.996738,
+        "x": 17.0,
+        "y": 144.0
+      },
+      {
+        "text": "C.Conflictsofmisperceiveddifferences",
+        "score": 0.996622,
+        "x": 19.0,
+        "y": 192.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.974882,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Noneofthese",
+        "score": 0.997234,
+        "x": 18.0,
+        "y": 238.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 207,
+    "image": "/ssg104/source/slide-0207.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "ad2dd80ed77ef15528b9f070b78a4904cac5ebf1485cb942a64bf88b96d81c60",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "\"Thepowerof a strong individual in a group ofequals,thepower not tocommand,but to suggest and be",
+        "score": 0.945591,
+        "x": 18.0,
+        "y": 27.0
+      },
+      {
+        "text": "listenedto,tobeginsomethingandsee it happen”canbeusedtodescribewhichtypeofpower?",
+        "score": 0.978398,
+        "x": 19.0,
+        "y": 56.0
+      },
+      {
+        "text": "A.Power-from-within",
+        "score": 0.996601,
+        "x": 19.0,
+        "y": 103.0
+      },
+      {
+        "text": "B.Power-with",
+        "score": 0.961327,
+        "x": 19.0,
+        "y": 150.0
+      },
+      {
+        "text": "C.Power-over",
+        "score": 0.994022,
+        "x": 18.0,
+        "y": 195.0
+      },
+      {
+        "text": "FO RU",
+        "score": 0.867724,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Noneoftheseanswers",
+        "score": 0.996351,
+        "x": 19.0,
+        "y": 242.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "\"Thepowerof a strong individual in a group ofequals,thepower not tocommand,but to suggest and be",
+        "score": 0.945591,
+        "x": 18.0,
+        "y": 27.0
+      },
+      {
+        "text": "listenedto,tobeginsomethingandsee it happen”canbeusedtodescribewhichtypeofpower?",
+        "score": 0.978398,
+        "x": 19.0,
+        "y": 56.0
+      },
+      {
+        "text": "A.Power-from-within",
+        "score": 0.996601,
+        "x": 19.0,
+        "y": 103.0
+      },
+      {
+        "text": "B.Power-with",
+        "score": 0.961327,
+        "x": 19.0,
+        "y": 150.0
+      },
+      {
+        "text": "C.Power-over",
+        "score": 0.994022,
+        "x": 18.0,
+        "y": 195.0
+      },
+      {
+        "text": "FO RU",
+        "score": 0.867724,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Noneoftheseanswers",
+        "score": 0.996351,
+        "x": 19.0,
+        "y": 242.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 208,
+    "image": "/ssg104/source/slide-0208.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "790d64f967191ae70b2051df2f73fa065259076e4ca12a88b19b2a5e0ebd1e2e",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "The most important part of an applicationletteris the:",
+        "score": 0.959906,
+        "x": 64.0,
+        "y": 73.0
+      },
+      {
+        "text": "A.action-promotingclose",
+        "score": 0.99772,
+        "x": 64.0,
+        "y": 116.0
+      },
+      {
+        "text": "B.attention-gettingopening",
+        "score": 0.978257,
+        "x": 63.0,
+        "y": 157.0
+      },
+      {
+        "text": "C.logicalexplanation",
+        "score": 0.994912,
+        "x": 64.0,
+        "y": 199.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.978839,
+        "x": 443.0,
+        "y": 206.0
+      },
+      {
+        "text": "D.summaryofqualifications",
+        "score": 0.977572,
+        "x": 64.0,
+        "y": 243.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "The most important part of an applicationletteris the:",
+        "score": 0.959906,
+        "x": 64.0,
+        "y": 73.0
+      },
+      {
+        "text": "A.action-promotingclose",
+        "score": 0.99772,
+        "x": 64.0,
+        "y": 116.0
+      },
+      {
+        "text": "B.attention-gettingopening",
+        "score": 0.978257,
+        "x": 63.0,
+        "y": 157.0
+      },
+      {
+        "text": "C.logicalexplanation",
+        "score": 0.994912,
+        "x": 64.0,
+        "y": 199.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.978839,
+        "x": 443.0,
+        "y": 206.0
+      },
+      {
+        "text": "D.summaryofqualifications",
+        "score": 0.977572,
+        "x": 64.0,
+        "y": 243.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 209,
+    "image": "/ssg104/source/slide-0209.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "50eaa99bfec52eefc68424ead0c697d99e252eb4044e1641009d7c26a9a8658a",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "The“PsychomotorDomain”of learning skills means:",
+        "score": 0.967997,
+        "x": 61.0,
+        "y": 48.0
+      },
+      {
+        "text": "A.Whatyoushouldknow",
+        "score": 0.99332,
+        "x": 61.0,
+        "y": 94.0
+      },
+      {
+        "text": "B.Whatyoushouldcareabout",
+        "score": 0.997754,
+        "x": 60.0,
+        "y": 136.0
+      },
+      {
+        "text": "C.What you shouldbeabletodo",
+        "score": 0.972059,
+        "x": 62.0,
+        "y": 178.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.980016,
+        "x": 443.0,
+        "y": 206.0
+      },
+      {
+        "text": "D.Noneof theseiscorrect",
+        "score": 0.980567,
+        "x": 60.0,
+        "y": 220.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "The“PsychomotorDomain”of learning skills means:",
+        "score": 0.967997,
+        "x": 61.0,
+        "y": 48.0
+      },
+      {
+        "text": "A.Whatyoushouldknow",
+        "score": 0.99332,
+        "x": 61.0,
+        "y": 94.0
+      },
+      {
+        "text": "B.Whatyoushouldcareabout",
+        "score": 0.997754,
+        "x": 60.0,
+        "y": 136.0
+      },
+      {
+        "text": "C.What you shouldbeabletodo",
+        "score": 0.972059,
+        "x": 62.0,
+        "y": 178.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.980016,
+        "x": 443.0,
+        "y": 206.0
+      },
+      {
+        "text": "D.Noneof theseiscorrect",
+        "score": 0.980567,
+        "x": 60.0,
+        "y": 220.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 210,
+    "image": "/ssg104/source/slide-0210.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "b304354663def9cec55cda5d2991d5bc76ed75d67187c4eda485e61b773657ff",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "The word“power”literally means:",
+        "score": 0.947642,
+        "x": 42.0,
+        "y": 45.0
+      },
+      {
+        "text": "A.“To be able to”",
+        "score": 0.929001,
+        "x": 42.0,
+        "y": 88.0
+      },
+      {
+        "text": "B.\"The influence”",
+        "score": 0.92131,
+        "x": 41.0,
+        "y": 130.0
+      },
+      {
+        "text": "C.“The strength\"",
+        "score": 0.931513,
+        "x": 42.0,
+        "y": 172.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.981022,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Noneof these answers",
+        "score": 0.967532,
+        "x": 40.0,
+        "y": 216.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "The word“power”literally means:",
+        "score": 0.947642,
+        "x": 42.0,
+        "y": 45.0
+      },
+      {
+        "text": "A.“To be able to”",
+        "score": 0.929001,
+        "x": 42.0,
+        "y": 88.0
+      },
+      {
+        "text": "B.\"The influence”",
+        "score": 0.92131,
+        "x": 41.0,
+        "y": 130.0
+      },
+      {
+        "text": "C.“The strength\"",
+        "score": 0.931513,
+        "x": 42.0,
+        "y": 172.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.981022,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Noneof these answers",
+        "score": 0.967532,
+        "x": 40.0,
+        "y": 216.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 215,
+    "image": "/ssg104/source/slide-0215.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "04f7dfb32ef2667998e6eb37f73b841e778a1bf3bbe8ed5f59c588f1eed136c3",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "chosenLines": [
+      {
+        "text": "(Choose1",
+        "score": 0.987001,
+        "x": 10.0,
+        "y": 23.0
+      },
+      {
+        "text": "answer)",
+        "score": 0.97154,
+        "x": 10.0,
+        "y": 41.0
+      },
+      {
+        "text": "This gesture is",
+        "score": 0.93569,
+        "x": 9.0,
+        "y": 70.0
+      },
+      {
+        "text": "consideredan",
+        "score": 0.995006,
+        "x": 9.0,
+        "y": 87.0
+      },
+      {
+        "text": "insult in:",
+        "score": 0.98171,
+        "x": 10.0,
+        "y": 104.0
+      },
+      {
+        "text": "A. Japan",
+        "score": 0.951262,
+        "x": 8.0,
+        "y": 149.0
+      },
+      {
+        "text": "B.Brazil",
+        "score": 0.994968,
+        "x": 8.0,
+        "y": 182.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.966704,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.France",
+        "score": 0.992,
+        "x": 8.0,
+        "y": 212.0
+      },
+      {
+        "text": "D.India",
+        "score": 0.990779,
+        "x": 8.0,
+        "y": 245.0
+      },
+      {
+        "text": "E. Nigeria",
+        "score": 0.956453,
+        "x": 8.0,
+        "y": 276.0
+      },
+      {
+        "text": "F.Italy",
+        "score": 0.967178,
+        "x": 7.0,
+        "y": 308.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "(Choose1",
+        "score": 0.987001,
+        "x": 10.0,
+        "y": 23.0
+      },
+      {
+        "text": "answer)",
+        "score": 0.97154,
+        "x": 10.0,
+        "y": 41.0
+      },
+      {
+        "text": "This gesture is",
+        "score": 0.93569,
+        "x": 9.0,
+        "y": 70.0
+      },
+      {
+        "text": "consideredan",
+        "score": 0.995006,
+        "x": 9.0,
+        "y": 87.0
+      },
+      {
+        "text": "insult in:",
+        "score": 0.98171,
+        "x": 10.0,
+        "y": 104.0
+      },
+      {
+        "text": "A. Japan",
+        "score": 0.951262,
+        "x": 8.0,
+        "y": 149.0
+      },
+      {
+        "text": "B.Brazil",
+        "score": 0.994968,
+        "x": 8.0,
+        "y": 182.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.966704,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "C.France",
+        "score": 0.992,
+        "x": 8.0,
+        "y": 212.0
+      },
+      {
+        "text": "D.India",
+        "score": 0.990779,
+        "x": 8.0,
+        "y": 245.0
+      },
+      {
+        "text": "E. Nigeria",
+        "score": 0.956453,
+        "x": 8.0,
+        "y": 276.0
+      },
+      {
+        "text": "F.Italy",
+        "score": 0.967178,
+        "x": 7.0,
+        "y": 308.0
+      }
+    ],
+    "passThresholded": [
+      {
+        "text": "ieukt in.",
+        "score": 0.755588,
+        "x": 19.0,
+        "y": 184.0
+      },
+      {
+        "text": "A. Japar",
+        "score": 0.77408,
+        "x": 16.0,
+        "y": 265.0
+      },
+      {
+        "text": "B. Bazi",
+        "score": 0.794372,
+        "x": 15.0,
+        "y": 319.0
+      },
+      {
+        "text": "C. Fenoe",
+        "score": 0.754421,
+        "x": 15.0,
+        "y": 374.0
+      },
+      {
+        "text": "D. 1",
+        "score": 0.785507,
+        "x": 17.0,
+        "y": 433.0
+      },
+      {
+        "text": "hrd",
+        "score": 0.556642,
+        "x": 49.0,
+        "y": 437.0
+      },
+      {
+        "text": "E. Ngon",
+        "score": 0.837686,
+        "x": 15.0,
+        "y": 487.0
+      },
+      {
+        "text": "F. naly",
+        "score": 0.849767,
+        "x": 12.0,
+        "y": 540.0
+      }
+    ]
+  },
+  {
+    "sourceSlide": 219,
+    "image": "/ssg104/source/slide-0219.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "e90b4b324d15ddf21e1d0110ca0e1f3cfe43a2de4778a8cfb31af481b3e6ff6b",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "What is abstract inareport?",
+        "score": 0.970635,
+        "x": 74.0,
+        "y": 41.0
+      },
+      {
+        "text": "A.Titlefly",
+        "score": 0.917289,
+        "x": 72.0,
+        "y": 81.0
+      },
+      {
+        "text": "B.Key words to introduce the research topic",
+        "score": 0.964241,
+        "x": 72.0,
+        "y": 121.0
+      },
+      {
+        "text": "C.Introductionpart",
+        "score": 0.988301,
+        "x": 74.0,
+        "y": 164.0
+      },
+      {
+        "text": "D.Include aims and outcome of theresearch",
+        "score": 0.945023,
+        "x": 72.0,
+        "y": 208.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.992093,
+        "x": 430.0,
+        "y": 208.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "What is abstract inareport?",
+        "score": 0.970635,
+        "x": 74.0,
+        "y": 41.0
+      },
+      {
+        "text": "A.Titlefly",
+        "score": 0.917289,
+        "x": 72.0,
+        "y": 81.0
+      },
+      {
+        "text": "B.Key words to introduce the research topic",
+        "score": 0.964241,
+        "x": 72.0,
+        "y": 121.0
+      },
+      {
+        "text": "C.Introductionpart",
+        "score": 0.988301,
+        "x": 74.0,
+        "y": 164.0
+      },
+      {
+        "text": "D.Include aims and outcome of theresearch",
+        "score": 0.945023,
+        "x": 72.0,
+        "y": 208.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.992093,
+        "x": 430.0,
+        "y": 208.0
+      }
+    ],
+    "passThresholded": [
+      {
+        "text": "What is abstract in a report?",
+        "score": 0.977626,
+        "x": 127.0,
+        "y": 70.0
+      },
+      {
+        "text": "A Tte ty",
+        "score": 0.828309,
+        "x": 125.0,
+        "y": 140.0
+      },
+      {
+        "text": "B. Key words to introduce the research topic",
+        "score": 0.987005,
+        "x": 130.0,
+        "y": 217.0
+      },
+      {
+        "text": "C. Introduction part",
+        "score": 0.995084,
+        "x": 128.0,
+        "y": 288.0
+      },
+      {
+        "text": "D. Inchude aims and outcome of the research",
+        "score": 0.978434,
+        "x": 130.0,
+        "y": 365.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.991207,
+        "x": 725.0,
+        "y": 367.0
+      }
+    ]
+  },
+  {
+    "sourceSlide": 284,
+    "image": "/ssg104/source/slide-0284.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "0820081f7570efd6a9a75c74439be07d541e57ff84147c25836861ada3ea89ae",
+    "chosenPass": "thresholded",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "F",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "How should you respond when someone “invades” your personal space during a corversation? The question",
+        "score": 0.981394,
+        "x": 121.0,
+        "y": 96.0
+      },
+      {
+        "text": "has more than one answer",
+        "score": 0.982307,
+        "x": 121.0,
+        "y": 137.0
+      },
+      {
+        "text": "A. Step back to re-establish your personal boundary.",
+        "score": 0.978287,
+        "x": 120.0,
+        "y": 208.0
+      },
+      {
+        "text": "B. Cross your arms to block them out",
+        "score": 0.988662,
+        "x": 123.0,
+        "y": 284.0
+      },
+      {
+        "text": "C. Ignore the situation completely",
+        "score": 0.973784,
+        "x": 122.0,
+        "y": 355.0
+      },
+      {
+        "text": "F O R U",
+        "score": 0.91115,
+        "x": 777.0,
+        "y": 366.0
+      },
+      {
+        "text": "D. Keep silence",
+        "score": 0.99002,
+        "x": 121.0,
+        "y": 429.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "How should you respond when someone“invades”your personal space during a conversation?The question",
+        "score": 0.959204,
+        "x": 69.0,
+        "y": 55.0
+      },
+      {
+        "text": "hasmorethanoneanswer",
+        "score": 0.997825,
+        "x": 68.0,
+        "y": 78.0
+      },
+      {
+        "text": "A.Stepback tore-establishyourpersonal boundary",
+        "score": 0.978241,
+        "x": 68.0,
+        "y": 117.0
+      },
+      {
+        "text": "B.Crossyourarms toblockthemout",
+        "score": 0.985157,
+        "x": 69.0,
+        "y": 161.0
+      },
+      {
+        "text": "C.Ignorethesituationcompletely",
+        "score": 0.987991,
+        "x": 69.0,
+        "y": 202.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.97235,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Keepsilence",
+        "score": 0.989701,
+        "x": 68.0,
+        "y": 243.0
+      }
+    ],
+    "passThresholded": [
+      {
+        "text": "How should you respond when someone “invades” your personal space during a corversation? The question",
+        "score": 0.981394,
+        "x": 121.0,
+        "y": 96.0
+      },
+      {
+        "text": "has more than one answer",
+        "score": 0.982307,
+        "x": 121.0,
+        "y": 137.0
+      },
+      {
+        "text": "A. Step back to re-establish your personal boundary.",
+        "score": 0.978287,
+        "x": 120.0,
+        "y": 208.0
+      },
+      {
+        "text": "B. Cross your arms to block them out",
+        "score": 0.988662,
+        "x": 123.0,
+        "y": 284.0
+      },
+      {
+        "text": "C. Ignore the situation completely",
+        "score": 0.973784,
+        "x": 122.0,
+        "y": 355.0
+      },
+      {
+        "text": "F O R U",
+        "score": 0.91115,
+        "x": 777.0,
+        "y": 366.0
+      },
+      {
+        "text": "D. Keep silence",
+        "score": 0.99002,
+        "x": 121.0,
+        "y": 429.0
+      }
+    ]
+  },
+  {
+    "sourceSlide": 285,
+    "image": "/ssg104/source/slide-0285.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "7ff8d2e6f8011650d79f870a4d34e573aa8ee9bc8c833f71da45410add8a6c5c",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "A.Createcompetentimpression.",
+        "score": 0.983922,
+        "x": 63.0,
+        "y": 84.0
+      },
+      {
+        "text": "B.Supportforcommunicatingeffectively.",
+        "score": 0.988156,
+        "x": 61.0,
+        "y": 123.0
+      },
+      {
+        "text": "C.Reflectprofessionalismandfollowtherulesofnetiquette",
+        "score": 0.995319,
+        "x": 62.0,
+        "y": 169.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.941231,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Allabove.",
+        "score": 0.978962,
+        "x": 61.0,
+        "y": 210.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "A.Createcompetentimpression.",
+        "score": 0.983922,
+        "x": 63.0,
+        "y": 84.0
+      },
+      {
+        "text": "B.Supportforcommunicatingeffectively.",
+        "score": 0.988156,
+        "x": 61.0,
+        "y": 123.0
+      },
+      {
+        "text": "C.Reflectprofessionalismandfollowtherulesofnetiquette",
+        "score": 0.995319,
+        "x": 62.0,
+        "y": 169.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.941231,
+        "x": 442.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Allabove.",
+        "score": 0.978962,
+        "x": 61.0,
+        "y": 210.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 286,
+    "image": "/ssg104/source/slide-0286.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "ebd3b2dd815b0e3167a680db21112311eac6f9cca3d2ecd8fd088cd9c74505db",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Whybeingsociallyconnectedis animportant wayofdealingwithstress?",
+        "score": 0.976302,
+        "x": 18.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Becauseit'seasytoisolateyourselfwhenyoufeelstressed",
+        "score": 0.99446,
+        "x": 18.0,
+        "y": 76.0
+      },
+      {
+        "text": "B.Becauseithelpsyoutomaintainanormalroutine",
+        "score": 0.998204,
+        "x": 18.0,
+        "y": 132.0
+      },
+      {
+        "text": "C.Becauseotherpeoplecangiveyou good advices about yourproblems",
+        "score": 0.982838,
+        "x": 18.0,
+        "y": 187.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.983672,
+        "x": 445.0,
+        "y": 210.0
+      },
+      {
+        "text": "D.Becauseitcanhelpdistractyoufromyourproblemsforawhile",
+        "score": 0.996418,
+        "x": 17.0,
+        "y": 242.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Whybeingsociallyconnectedis animportant wayofdealingwithstress?",
+        "score": 0.976302,
+        "x": 18.0,
+        "y": 21.0
+      },
+      {
+        "text": "A.Becauseit'seasytoisolateyourselfwhenyoufeelstressed",
+        "score": 0.99446,
+        "x": 18.0,
+        "y": 76.0
+      },
+      {
+        "text": "B.Becauseithelpsyoutomaintainanormalroutine",
+        "score": 0.998204,
+        "x": 18.0,
+        "y": 132.0
+      },
+      {
+        "text": "C.Becauseotherpeoplecangiveyou good advices about yourproblems",
+        "score": 0.982838,
+        "x": 18.0,
+        "y": 187.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.983672,
+        "x": 445.0,
+        "y": 210.0
+      },
+      {
+        "text": "D.Becauseitcanhelpdistractyoufromyourproblemsforawhile",
+        "score": 0.996418,
+        "x": 17.0,
+        "y": 242.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 287,
+    "image": "/ssg104/source/slide-0287.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "c3ae73ecba146294799e31e7ef52ddc28db9899e84d6296a3f0a4440d63dbbfa",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "A.Certainamountsofpressureareimportanttokeepacreativetaskmovingforward.",
+        "score": 0.989849,
+        "x": 63.0,
+        "y": 123.0
+      },
+      {
+        "text": "B.Whenwefeelstressed,itenhanceourmentalcapacity.",
+        "score": 0.986386,
+        "x": 64.0,
+        "y": 164.0
+      },
+      {
+        "text": "C.Fearandfrustrationcantriggerasenseofresponsibility",
+        "score": 0.988142,
+        "x": 64.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Timeconstraintsmakethetaskmoreexciting",
+        "score": 0.997568,
+        "x": 63.0,
+        "y": 245.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "A.Certainamountsofpressureareimportanttokeepacreativetaskmovingforward.",
+        "score": 0.989849,
+        "x": 63.0,
+        "y": 123.0
+      },
+      {
+        "text": "B.Whenwefeelstressed,itenhanceourmentalcapacity.",
+        "score": 0.986386,
+        "x": 64.0,
+        "y": 164.0
+      },
+      {
+        "text": "C.Fearandfrustrationcantriggerasenseofresponsibility",
+        "score": 0.988142,
+        "x": 64.0,
+        "y": 205.0
+      },
+      {
+        "text": "D.Timeconstraintsmakethetaskmoreexciting",
+        "score": 0.997568,
+        "x": 63.0,
+        "y": 245.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 288,
+    "image": "/ssg104/source/slide-0288.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "50e212bf70f70a099aa83d961f2e6acfd852991ce6a8790b08dcf963c6fb303e",
+    "chosenPass": "original",
+    "optionLetters": [],
+    "chosenLines": [
+      {
+        "text": "FORU",
+        "score": 0.968691,
+        "x": 443.0,
+        "y": 206.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "FORU",
+        "score": 0.968691,
+        "x": 443.0,
+        "y": 206.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 289,
+    "image": "/ssg104/source/slide-0289.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "7cb492e76c365d6fa14fbabb8d88e0fc1982fa3f11d21a079b7e1f9730aa2a54",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Apersonwithindividualisticorientationtendsto..",
+        "score": 0.988655,
+        "x": 18.0,
+        "y": 25.0
+      },
+      {
+        "text": "A.bringaboutpositiveoutcomestoothers",
+        "score": 0.997564,
+        "x": 18.0,
+        "y": 79.0
+      },
+      {
+        "text": "B.showtheirpreferenceswhendividingresourcesbetweenthemselvesandothers",
+        "score": 0.997546,
+        "x": 18.0,
+        "y": 136.0
+      },
+      {
+        "text": "C.findopportunitiestoundermineotherstogetahead",
+        "score": 0.995115,
+        "x": 20.0,
+        "y": 194.0
+      },
+      {
+        "text": "D.showlessconcernsabouttheoutcomesofothers",
+        "score": 0.996613,
+        "x": 18.0,
+        "y": 248.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Apersonwithindividualisticorientationtendsto..",
+        "score": 0.988655,
+        "x": 18.0,
+        "y": 25.0
+      },
+      {
+        "text": "A.bringaboutpositiveoutcomestoothers",
+        "score": 0.997564,
+        "x": 18.0,
+        "y": 79.0
+      },
+      {
+        "text": "B.showtheirpreferenceswhendividingresourcesbetweenthemselvesandothers",
+        "score": 0.997546,
+        "x": 18.0,
+        "y": 136.0
+      },
+      {
+        "text": "C.findopportunitiestoundermineotherstogetahead",
+        "score": 0.995115,
+        "x": 20.0,
+        "y": 194.0
+      },
+      {
+        "text": "D.showlessconcernsabouttheoutcomesofothers",
+        "score": 0.996613,
+        "x": 18.0,
+        "y": 248.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 290,
+    "image": "/ssg104/source/slide-0290.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "d9e73b583c8083578bd70d232d0e0f992901704a7bbe65bceeb8e87e94193057",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Ateamiscalledcontractteamif",
+        "score": 0.978999,
+        "x": 25.0,
+        "y": 34.0
+      },
+      {
+        "text": "A.Teammembershaveotherdutiestoperformintheirnormalfunctionalunits",
+        "score": 0.995757,
+        "x": 23.0,
+        "y": 92.0
+      },
+      {
+        "text": "B.Teamretainstheirresponsibilityforboththeirdailyworkandprojectwork",
+        "score": 0.99773,
+        "x": 23.0,
+        "y": 150.0
+      },
+      {
+        "text": "C.Teammembersreporttodifferentmanagers",
+        "score": 0.995301,
+        "x": 24.0,
+        "y": 210.0
+      },
+      {
+        "text": "D.Teamisbroughtinfromoutsideinordertodoprojectwork",
+        "score": 0.997684,
+        "x": 23.0,
+        "y": 271.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Ateamiscalledcontractteamif",
+        "score": 0.978999,
+        "x": 25.0,
+        "y": 34.0
+      },
+      {
+        "text": "A.Teammembershaveotherdutiestoperformintheirnormalfunctionalunits",
+        "score": 0.995757,
+        "x": 23.0,
+        "y": 92.0
+      },
+      {
+        "text": "B.Teamretainstheirresponsibilityforboththeirdailyworkandprojectwork",
+        "score": 0.99773,
+        "x": 23.0,
+        "y": 150.0
+      },
+      {
+        "text": "C.Teammembersreporttodifferentmanagers",
+        "score": 0.995301,
+        "x": 24.0,
+        "y": 210.0
+      },
+      {
+        "text": "D.Teamisbroughtinfromoutsideinordertodoprojectwork",
+        "score": 0.997684,
+        "x": 23.0,
+        "y": 271.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 291,
+    "image": "/ssg104/source/slide-0291.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "496f63eda8f1d9b3f9a36b1daa608fbe5838cf39f26059e0097b8fd0c3510b46",
+    "chosenPass": "original",
+    "optionLetters": [
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Amongthetipsforcreative thinking,whatdoes“Sensing”mean?",
+        "score": 0.970174,
+        "x": 18.0,
+        "y": 24.0
+      },
+      {
+        "text": "B.Beempatheticwithotherpeople",
+        "score": 0.996851,
+        "x": 16.0,
+        "y": 140.0
+      },
+      {
+        "text": "C.Havemorefunlearning",
+        "score": 0.994313,
+        "x": 17.0,
+        "y": 198.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.968517,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Beopentoinsightasideaspopintoyourmind",
+        "score": 0.997974,
+        "x": 16.0,
+        "y": 257.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Amongthetipsforcreative thinking,whatdoes“Sensing”mean?",
+        "score": 0.970174,
+        "x": 18.0,
+        "y": 24.0
+      },
+      {
+        "text": "B.Beempatheticwithotherpeople",
+        "score": 0.996851,
+        "x": 16.0,
+        "y": 140.0
+      },
+      {
+        "text": "C.Havemorefunlearning",
+        "score": 0.994313,
+        "x": 17.0,
+        "y": 198.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.968517,
+        "x": 443.0,
+        "y": 207.0
+      },
+      {
+        "text": "D.Beopentoinsightasideaspopintoyourmind",
+        "score": 0.997974,
+        "x": 16.0,
+        "y": 257.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 292,
+    "image": "/ssg104/source/slide-0292.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "5e6aa7c42b534129e9f39c54e36fc9b3ff540b98e52181e146fd7c325714c4d5",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Aninterviewermayintentionallychallengeyoubyaskingdifficultquestionsto..",
+        "score": 0.99808,
+        "x": 15.0,
+        "y": 18.0
+      },
+      {
+        "text": "A.seehowyouhandledifferentsituations",
+        "score": 0.995701,
+        "x": 16.0,
+        "y": 73.0
+      },
+      {
+        "text": "B.seeyoupanic",
+        "score": 0.995787,
+        "x": 15.0,
+        "y": 127.0
+      },
+      {
+        "text": "C.showyoutheworkingenvironmentcanbestressful",
+        "score": 0.997212,
+        "x": 16.0,
+        "y": 179.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.955549,
+        "x": 444.0,
+        "y": 208.0
+      },
+      {
+        "text": "D.avoidbeingfriendly",
+        "score": 0.993815,
+        "x": 16.0,
+        "y": 233.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Aninterviewermayintentionallychallengeyoubyaskingdifficultquestionsto..",
+        "score": 0.99808,
+        "x": 15.0,
+        "y": 18.0
+      },
+      {
+        "text": "A.seehowyouhandledifferentsituations",
+        "score": 0.995701,
+        "x": 16.0,
+        "y": 73.0
+      },
+      {
+        "text": "B.seeyoupanic",
+        "score": 0.995787,
+        "x": 15.0,
+        "y": 127.0
+      },
+      {
+        "text": "C.showyoutheworkingenvironmentcanbestressful",
+        "score": 0.997212,
+        "x": 16.0,
+        "y": 179.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.955549,
+        "x": 444.0,
+        "y": 208.0
+      },
+      {
+        "text": "D.avoidbeingfriendly",
+        "score": 0.993815,
+        "x": 16.0,
+        "y": 233.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 293,
+    "image": "/ssg104/source/slide-0293.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "64a7ca0820898fd63ec441f04d0ff4ae7461255e12a9df9b1febdadb8aaccc07",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Aninterviewquestionthatasksaboutoneofyourweaknesseswouldbeansweredbestby",
+        "score": 0.991662,
+        "x": 18.0,
+        "y": 26.0
+      },
+      {
+        "text": "A.admittingtheweakness",
+        "score": 0.993137,
+        "x": 15.0,
+        "y": 76.0
+      },
+      {
+        "text": "B.askingifitisnecessarytotalkaboutweaknesses",
+        "score": 0.996706,
+        "x": 17.0,
+        "y": 128.0
+      },
+      {
+        "text": "C.namingaweaknessandturningitintoastrength",
+        "score": 0.995229,
+        "x": 17.0,
+        "y": 180.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.877926,
+        "x": 444.0,
+        "y": 208.0
+      },
+      {
+        "text": "D.sayingthatyoudonothaveanyweaknesses",
+        "score": 0.996424,
+        "x": 18.0,
+        "y": 233.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Aninterviewquestionthatasksaboutoneofyourweaknesseswouldbeansweredbestby",
+        "score": 0.991662,
+        "x": 18.0,
+        "y": 26.0
+      },
+      {
+        "text": "A.admittingtheweakness",
+        "score": 0.993137,
+        "x": 15.0,
+        "y": 76.0
+      },
+      {
+        "text": "B.askingifitisnecessarytotalkaboutweaknesses",
+        "score": 0.996706,
+        "x": 17.0,
+        "y": 128.0
+      },
+      {
+        "text": "C.namingaweaknessandturningitintoastrength",
+        "score": 0.995229,
+        "x": 17.0,
+        "y": 180.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.877926,
+        "x": 444.0,
+        "y": 208.0
+      },
+      {
+        "text": "D.sayingthatyoudonothaveanyweaknesses",
+        "score": 0.996424,
+        "x": 18.0,
+        "y": 233.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 294,
+    "image": "/ssg104/source/slide-0294.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "9f02f542677dac6528b8d44f89c489a76493787ecebfe8988bf020da25654130",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C"
+    ],
+    "chosenLines": [
+      {
+        "text": "Attheendofameeting,youshould",
+        "score": 0.992979,
+        "x": 15.0,
+        "y": 28.0
+      },
+      {
+        "text": "A.Askalotofquestionstotesttheteammembers'understandingofthediscussion",
+        "score": 0.989095,
+        "x": 15.0,
+        "y": 76.0
+      },
+      {
+        "text": "B.Bebriefandrecapturethekeypoints",
+        "score": 0.996219,
+        "x": 14.0,
+        "y": 123.0
+      },
+      {
+        "text": "C.Bethefirsttoleavethemeetingroom",
+        "score": 0.996515,
+        "x": 15.0,
+        "y": 170.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Attheendofameeting,youshould",
+        "score": 0.992979,
+        "x": 15.0,
+        "y": 28.0
+      },
+      {
+        "text": "A.Askalotofquestionstotesttheteammembers'understandingofthediscussion",
+        "score": 0.989095,
+        "x": 15.0,
+        "y": 76.0
+      },
+      {
+        "text": "B.Bebriefandrecapturethekeypoints",
+        "score": 0.996219,
+        "x": 14.0,
+        "y": 123.0
+      },
+      {
+        "text": "C.Bethefirsttoleavethemeetingroom",
+        "score": 0.996515,
+        "x": 15.0,
+        "y": 170.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 295,
+    "image": "/ssg104/source/slide-0295.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "f0c67a25f697500b0eabbfc45a1fb896473c81a3ce1d6828c6c53a73231e75fb",
+    "chosenPass": "original",
+    "optionLetters": [
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Circularargument”isatypeoffallacyinwhich:",
+        "score": 0.975976,
+        "x": 65.0,
+        "y": 68.0
+      },
+      {
+        "text": "B.Theproposition isused toproveitself.Assumestheverything it aimstoprove.",
+        "score": 0.973873,
+        "x": 64.0,
+        "y": 163.0
+      },
+      {
+        "text": "C.Appeals toa commonbelief of somepeople,oftenprejudicial,andstates everyoneholds thisbelief.Also",
+        "score": 0.961463,
+        "x": 64.0,
+        "y": 209.0
+      },
+      {
+        "text": "D.Weclaimthe truthof thevery matterinquestion,asif it were already an obviousconclusion.",
+        "score": 0.958384,
+        "x": 64.0,
+        "y": 280.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Circularargument”isatypeoffallacyinwhich:",
+        "score": 0.975976,
+        "x": 65.0,
+        "y": 68.0
+      },
+      {
+        "text": "B.Theproposition isused toproveitself.Assumestheverything it aimstoprove.",
+        "score": 0.973873,
+        "x": 64.0,
+        "y": 163.0
+      },
+      {
+        "text": "C.Appeals toa commonbelief of somepeople,oftenprejudicial,andstates everyoneholds thisbelief.Also",
+        "score": 0.961463,
+        "x": 64.0,
+        "y": 209.0
+      },
+      {
+        "text": "D.Weclaimthe truthof thevery matterinquestion,asif it were already an obviousconclusion.",
+        "score": 0.958384,
+        "x": 64.0,
+        "y": 280.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 296,
+    "image": "/ssg104/source/slide-0296.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "5ffd60fb5d985e9138ee801f2eb433fbaf329a70223e9e0aea7c80280d357172",
+    "chosenPass": "original",
+    "optionLetters": [
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Creativethinkingis",
+        "score": 0.997177,
+        "x": 14.0,
+        "y": 22.0
+      },
+      {
+        "text": "appeartobethelimitationsofaproblem",
+        "score": 0.997223,
+        "x": 14.0,
+        "y": 95.0
+      },
+      {
+        "text": "B.importantbecauseithelpsyoulookatproblemsandsituationsfromafreshperspective",
+        "score": 0.997489,
+        "x": 12.0,
+        "y": 140.0
+      },
+      {
+        "text": "C.awaytodevelopnovelorunorthodoxsolutionsthatdonotdependwhollyonpastorcurrentsolutions",
+        "score": 0.990007,
+        "x": 13.0,
+        "y": 188.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.974075,
+        "x": 446.0,
+        "y": 211.0
+      },
+      {
+        "text": "D.Allofthesearecorrect",
+        "score": 0.982347,
+        "x": 14.0,
+        "y": 236.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Creativethinkingis",
+        "score": 0.997177,
+        "x": 14.0,
+        "y": 22.0
+      },
+      {
+        "text": "appeartobethelimitationsofaproblem",
+        "score": 0.997223,
+        "x": 14.0,
+        "y": 95.0
+      },
+      {
+        "text": "B.importantbecauseithelpsyoulookatproblemsandsituationsfromafreshperspective",
+        "score": 0.997489,
+        "x": 12.0,
+        "y": 140.0
+      },
+      {
+        "text": "C.awaytodevelopnovelorunorthodoxsolutionsthatdonotdependwhollyonpastorcurrentsolutions",
+        "score": 0.990007,
+        "x": 13.0,
+        "y": 188.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.974075,
+        "x": 446.0,
+        "y": 211.0
+      },
+      {
+        "text": "D.Allofthesearecorrect",
+        "score": 0.982347,
+        "x": 14.0,
+        "y": 236.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 297,
+    "image": "/ssg104/source/slide-0297.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "45939c18e4dcaf64557ca92f79140928faf6b0af43b9e5beaae9e971951ece1a",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Choose thebest answerforthisquestion\"Why should wehireyou?\"",
+        "score": 0.949689,
+        "x": 23.0,
+        "y": 23.0
+      },
+      {
+        "text": "A.Nothing!I'mperfect!",
+        "score": 0.974874,
+        "x": 23.0,
+        "y": 83.0
+      },
+      {
+        "text": "B.Iamaprofessionalinthisway.",
+        "score": 0.993583,
+        "x": 22.0,
+        "y": 140.0
+      },
+      {
+        "text": "C.I'dreallylovetobringmydiverseskillsettoyourcompany.",
+        "score": 0.981288,
+        "x": 23.0,
+        "y": 200.0
+      },
+      {
+        "text": "D.Ideserved.",
+        "score": 0.99163,
+        "x": 22.0,
+        "y": 257.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Choose thebest answerforthisquestion\"Why should wehireyou?\"",
+        "score": 0.949689,
+        "x": 23.0,
+        "y": 23.0
+      },
+      {
+        "text": "A.Nothing!I'mperfect!",
+        "score": 0.974874,
+        "x": 23.0,
+        "y": 83.0
+      },
+      {
+        "text": "B.Iamaprofessionalinthisway.",
+        "score": 0.993583,
+        "x": 22.0,
+        "y": 140.0
+      },
+      {
+        "text": "C.I'dreallylovetobringmydiverseskillsettoyourcompany.",
+        "score": 0.981288,
+        "x": 23.0,
+        "y": 200.0
+      },
+      {
+        "text": "D.Ideserved.",
+        "score": 0.99163,
+        "x": 22.0,
+        "y": 257.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 298,
+    "image": "/ssg104/source/slide-0298.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "81edf155c3bf10b25f18f9e126f35825cf98445391a90a4675c62736805433c7",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "Choose thebestanswerforthisquestion:“Howdoyouhandlestressandpressure?\"",
+        "score": 0.982846,
+        "x": 18.0,
+        "y": 25.0
+      },
+      {
+        "text": "HoangHoang",
+        "score": 0.998223,
+        "x": 209.0,
+        "y": 77.0
+      },
+      {
+        "text": "A.Idon'tknow",
+        "score": 0.945831,
+        "x": 17.0,
+        "y": 79.0
+      },
+      {
+        "text": "B.Ican't.Idon'tknowhow",
+        "score": 0.947603,
+        "x": 17.0,
+        "y": 132.0
+      },
+      {
+        "text": "C.Itwasmyroletomanagetheinvoicingprocess",
+        "score": 0.992307,
+        "x": 18.0,
+        "y": 186.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.991893,
+        "x": 446.0,
+        "y": 210.0
+      },
+      {
+        "text": "D.Itrytoreacttosituations,ratherthantostress",
+        "score": 0.981026,
+        "x": 18.0,
+        "y": 240.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "Choose thebestanswerforthisquestion:“Howdoyouhandlestressandpressure?\"",
+        "score": 0.982846,
+        "x": 18.0,
+        "y": 25.0
+      },
+      {
+        "text": "HoangHoang",
+        "score": 0.998223,
+        "x": 209.0,
+        "y": 77.0
+      },
+      {
+        "text": "A.Idon'tknow",
+        "score": 0.945831,
+        "x": 17.0,
+        "y": 79.0
+      },
+      {
+        "text": "B.Ican't.Idon'tknowhow",
+        "score": 0.947603,
+        "x": 17.0,
+        "y": 132.0
+      },
+      {
+        "text": "C.Itwasmyroletomanagetheinvoicingprocess",
+        "score": 0.992307,
+        "x": 18.0,
+        "y": 186.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.991893,
+        "x": 446.0,
+        "y": 210.0
+      },
+      {
+        "text": "D.Itrytoreacttosituations,ratherthantostress",
+        "score": 0.981026,
+        "x": 18.0,
+        "y": 240.0
+      }
+    ],
+    "passThresholded": []
+  },
+  {
+    "sourceSlide": 299,
+    "image": "/ssg104/source/slide-0299.png",
+    "width": 960,
+    "height": 540,
+    "format": "PNG",
+    "sha256": "2b1779aa8dbcec530621237fdf0af5cbb9eb3a62fae1dcc63a197ac21d530ed0",
+    "chosenPass": "original",
+    "optionLetters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chosenLines": [
+      {
+        "text": "organizationhejoined twomonthsago.Thefirst thingDavidshoulddois ...",
+        "score": 0.972854,
+        "x": 17.0,
+        "y": 47.0
+      },
+      {
+        "text": "A.analyzetheaudience",
+        "score": 0.985902,
+        "x": 17.0,
+        "y": 97.0
+      },
+      {
+        "text": "B.determinethepurposeofthepresentation",
+        "score": 0.997986,
+        "x": 18.0,
+        "y": 143.0
+      },
+      {
+        "text": "C.draftanoutline",
+        "score": 0.986902,
+        "x": 18.0,
+        "y": 192.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.955002,
+        "x": 442.0,
+        "y": 206.0
+      },
+      {
+        "text": "D.gathersupportingdata",
+        "score": 0.988228,
+        "x": 16.0,
+        "y": 236.0
+      }
+    ],
+    "passOriginal": [
+      {
+        "text": "organizationhejoined twomonthsago.Thefirst thingDavidshoulddois ...",
+        "score": 0.972854,
+        "x": 17.0,
+        "y": 47.0
+      },
+      {
+        "text": "A.analyzetheaudience",
+        "score": 0.985902,
+        "x": 17.0,
+        "y": 97.0
+      },
+      {
+        "text": "B.determinethepurposeofthepresentation",
+        "score": 0.997986,
+        "x": 18.0,
+        "y": 143.0
+      },
+      {
+        "text": "C.draftanoutline",
+        "score": 0.986902,
+        "x": 18.0,
+        "y": 192.0
+      },
+      {
+        "text": "FORU",
+        "score": 0.955002,
+        "x": 442.0,
+        "y": 206.0
+      },
+      {
+        "text": "D.gathersupportingdata",
+        "score": 0.988228,
+        "x": 16.0,
+        "y": 236.0
+      }
+    ],
+    "passThresholded": []
+  }
+]

@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "acceptTesseractFields": {
+    "SSG104-S014": ["D"],
+    "SSG104-S018": ["Q", "C"],
+    "SSG104-S019": ["D"],
+    "SSG104-S027": ["A", "B", "C", "D"],
+    "SSG104-S029": ["D"],
+    "SSG104-S030": ["C"],
+    "SSG104-S048": ["A", "D"],
+    "SSG104-S054": ["Q"],
+    "SSG104-S056": ["D"],
+    "SSG104-S057": ["D"],
+    "SSG104-S059": ["A"],
+    "SSG104-S060": ["Q"],
+    "SSG104-S062": ["B"],
+    "SSG104-S101": ["A"],
+    "SSG104-S105": ["C"],
+    "SSG104-S113": ["Q"],
+    "SSG104-S131": ["A", "B"],
+    "SSG104-S147": ["Q"],
+    "SSG104-S157": ["C"],
+    "SSG104-S163": ["Q", "B"],
+    "SSG104-S173": ["Q"],
+    "SSG104-S176": ["Q"],
+    "SSG104-S180": ["Q"],
+    "SSG104-S208": ["Q"],
+    "SSG104-S217": ["C", "D"],
+    "SSG104-S232": ["C"],
+    "SSG104-S235": ["D"],
+    "SSG104-S247": ["D"],
+    "SSG104-S255": ["A", "B", "D"],
+    "SSG104-S263": ["A", "C", "D"],
+    "SSG104-S264": ["A", "B", "D"],
+    "SSG104-S265": ["A", "B", "C", "D"],
+    "SSG104-S272": ["Q", "B"],
+    "SSG104-S292": ["B"],
+    "SSG104-S301": ["D"],
+    "SSG104-S304": ["A"],
+    "SSG104-S310": ["A"],
+    "SSG104-S318": ["Q"],
+    "SSG104-S325": ["D"],
+    "SSG104-S327": ["C"],
+    "SSG104-S334": ["B"],
+    "SSG104-S336": ["Q", "A", "B", "D"],
+    "SSG104-S338": ["Q"],
+    "SSG104-S342": ["Q"],
+    "SSG104-S344": ["C"],
+    "SSG104-S348": ["C"],
+    "SSG104-S349": ["Q"],
+    "SSG104-S350": ["Q", "B"],
+    "SSG104-S351": ["Q"],
+    "SSG104-S355": ["Q", "C"],
+    "SSG104-S361": ["Q"],
+    "SSG104-S364": ["Q"],
+    "SSG104-S367": ["C"],
+    "SSG104-S368": ["C"],
+    "SSG104-S374": ["Q"]
+  },
+  "manualValues": {
+    "SSG104-S018": {
+      "Q": "Which stage is suitable for this following statement “Members implement plans and achieve goals”?",
+      "C": "Adjourning"
+    },
+    "SSG104-S027": {
+      "A": "It is what parties think their opponents want as a resolution.",
+      "B": "It is a problem-solving and strategy phase."
+    },
+    "SSG104-S048": {
+      "B": "In a group, members with higher status are apt to command greater respect and possess more prestige and power than those with lower status."
+    },
+    "SSG104-S057": {
+      "D": "It is a response that comes from the receiver."
+    },
+    "SSG104-S060": {
+      "Q": "Which is TRUE about minutes for meeting?"
+    },
+    "SSG104-S171": {
+      "Q": "Learning objectives are _____ that specify what someone will know, care about, or be able to do as a result of a learning experience."
+    },
+    "SSG104-S174": {
+      "Q": "In which stage of group development, members expose information about themselves in polite but tentative interactions, explore the purposes of the group and gather information about each other's interests, skills, and personal tendencies?",
+      "C": "Norming"
+    },
+    "SSG104-S180": {
+      "Q": "In the process of writing an essay to demonstrate your position in the issue of going for or against the Covid-19 vaccine, you compare and contrast different arguments given by both sides. Which problem-solving strategy do you use in this case?"
+    },
+    "SSG104-S195": {
+      "Q": "Some people consider social norms and the opinions of others to help justify their own positions in life, some others consider _____ to perform better."
+    },
+    "SSG104-S209": {
+      "Q": "The “Psychomotor Domain” of learning skills means:",
+      "C": "What you should be able to do"
+    },
+    "SSG104-S212": {
+      "Q": "Your manager displays a high level of integrity. Which two traits best represent the manager?"
+    },
+    "SSG104-S215": {
+      "Q": "(Choose 1 answer) This gesture is considered an insult in:",
+      "A": "Japan",
+      "B": "Brazil",
+      "C": "France",
+      "D": "India",
+      "E": "Nigeria",
+      "F": "Italy"
+    },
+    "SSG104-S217": {
+      "C": "It is the act of thinking that produces thoughts, which arise as ideas, images, sounds, or even emotions."
+    },
+    "SSG104-S219": {
+      "Q": "What is abstract in a report?",
+      "A": "Title fly",
+      "B": "Key words to introduce the research topic",
+      "C": "Introduction part",
+      "D": "Include aims and outcome of the research"
+    },
+    "SSG104-S225": {
+      "Q": "What is an action plan?",
+      "A": "A list of specific steps needed to be done to reach a goal"
+    },
+    "SSG104-S252": {
+      "Q": "Which power tactic is used in the following example? In “the Chapel Hill study” on the 1968 presidential election, McCombs and Shaw demonstrated a strong correlation between one hundred Chapel Hill residents' thought on what was the most important election issue and what the local news media reported was the most important issue."
+    },
+    "SSG104-S253": {
+      "A": "A résumé is a “selfie” for business purposes.",
+      "B": "It is a written picture of who you are—it's a marketing tool, and a promotion of you as an ideal candidate for any job you may be interested in.",
+      "C": "The word résumé comes from the French word résumé, which means “a summary”."
+    },
+    "SSG104-S255": {
+      "A": "The “Love yourself” project is an initiative project that involves activities aim at assisting college students from universities in Vietnam. Its primary goal is to provide a platform for students to express their inner thoughts and feelings and activities to take care of themselves, along with activities for sharing, identifying, and providing timely support for psychological issues faced by students. Consequently, the project aims to create a comfortable environment for students to practice mindfulness and take care of physical and mental health."
+    },
+    "SSG104-S284": {
+      "Q": "How should you respond when someone “invades” your personal space during a conversation? The question has more than one answer"
+    },
+    "SSG104-S287": {
+      "B": "When we feel stressed, it enhance our mental capacity.",
+      "C": "Fear and frustration can trigger a sense of responsibility.",
+      "D": "Time constraints make the task more exciting."
+    },
+    "SSG104-S305": {
+      "Q": "Meetings give members a/an ________ that boosts their motivation to implement group ideas and actions."
+    },
+    "SSG104-S341": {
+      "Q": "What is not a component of the Thomas five modes for conflict resolution?"
+    },
+    "SSG104-S343": {
+      "Q": "Which phenomenan does this following example illustrate? “On such tasks, information known to many of the group members suggests that one alternative, say Option A, is best However, Option B is definitely the better choice, but all the facts that support Option B are only known to individual groups members"
+    },
+    "SSG104-S350": {
+      "Q": "Which power tactic is used in the following example? In “the Chapel Hill study” on the 1968 presidential election, McCombs and Shaw demonstrated a strong correlation between one hundred Chapel Hill residents' thought on what was the most important election issue and what the local news media reported was the most important issue."
+    },
+    "SSG104-S352": {
+      "Q": "Which of the following is NOT the reason for leaders to enable a broader social-connectedness between employees in the workplace?",
+      "B": "Psychological wellbeing is at risk as is cognitive performance if people can't socialise at work",
+      "C": "People with broad organisational knowledge that people like collaborating with seem to add the most value"
+    },
+    "SSG104-S353": {
+      "C": "Finding-Reinventing - Establishing - Maintaining - Modifying."
+    },
+    "SSG104-S354": {
+      "Q": "When sending attachments with an email, you should",
+      "A": "not include an enclosure note because the attachments appear inline in the email body.",
+      "C": "include the enclosure note because attachments are not always obvious when reading er of devices.",
+      "D": "include a statement that the attachments are in a separate email and send attachments a email."
+    },
+    "SSG104-S369": {
+      "Q": "Janet does not want to get involved in any disputes, discussion or conversations with her colleagues. She gets to work late and fails to show up at meetings as she wants to avoid any tasks may be assigned to her. However, she always wants to be a part of any success her team made. Economists call this kind of person is:"
+    },
+    "SSG105-S410": {
+      "Q": "An FPT student structures their Capstone proposal in a specific order: first the problem, then the schedule, and finally the team's responsibilities. Which “Logos” strategy are they applying?"
+    }
+  },
+  "manualVisualSlides": [18, 48, 131, 147, 180, 195, 212, 214, 215, 219, 247, 265, 284, 305, 341, 343, 348, 351, 352, 353, 354, 369, 393, 403, 410, 414, 415, 436, 454, 501]
+}

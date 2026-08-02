@@ -32,10 +32,10 @@ test("server-renders the SSG105 practice dashboard", async () => {
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
 
   const html = await response.text();
-  assert.match(html, /<title>SSG105 Practice Lab<\/title>/i);
-  assert.match(html, /Ba lượt, mỗi lượt đúng 50 câu/);
+  assert.match(html, /<title>SSG105 Practice Lab · 483 câu<\/title>/i);
+  assert.match(html, /bộ, mỗi bộ đúng 50 câu/);
   assert.match(html, /Đã kiểm chứng/);
-  assert.match(html, /<dd>130(?:<!-- -->)?\/130<\/dd>/);
+  assert.match(html, /câu hỏi trong kho SSG/);
   assert.match(html, /href="\/ssg105"/);
 });
 
@@ -54,6 +54,53 @@ test("SSG105 canonical bank has 130 verified questions and three 50-question set
   assert.equal(stats.repeatedForPractice.length, 20);
   assert.equal(manifest.assets.length, 130);
   assert.equal(new Set(manifest.assets.map((asset) => asset.sha256)).size, 130);
+});
+
+test("SSG105 learn mode reveals explanations immediately while test mode waits for submit", async () => {
+  const source = await readFile(
+    new URL("../app/ssg105/page.tsx", import.meta.url),
+    "utf8",
+  );
+
+  assert.match(
+    source,
+    /const isRevealed = finished \|\| mode === "learn";/,
+  );
+  assert.doesNotMatch(
+    source,
+    /const isRevealed = finished \|\| \(mode === "learn" && answers\[current\] !== null\);/,
+  );
+  assert.match(
+    source,
+    /\{isRevealed && \(\s*<section className="ssg-explanation">/,
+  );
+  assert.match(source, /disabled=\{mode === "learn" \|\| finished\}/);
+  assert.match(source, /mode === "learn" \? \(\s*<button className="submit-button"/);
+  assert.match(source, /<main className="quiz-shell ssg-quiz-shell">/);
+  assert.match(source, /type QuestionView = "original" \| "translation";/);
+  assert.match(source, />\s*Câu hỏi gốc\s*<\/button>/);
+  assert.match(source, />\s*Dịch câu hỏi &amp; đáp án\s*<\/button>/);
+  assert.match(source, /mode === "learn" && questionView === "translation"/);
+  assert.match(source, /question\.optionsVi\[index\] \|\| option/);
+});
+
+test("SSG practice UI renders OCR option text and supports single or multiple answers", async () => {
+  const [pageSource, dataSource] = await Promise.all([
+    readFile(new URL("../app/ssg105/page.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/ssg105/data.ts", import.meta.url), "utf8"),
+  ]);
+
+  assert.match(pageSource, /question\.options\.map\(\(option, index\) =>/);
+  assert.match(pageSource, /<strong>\{displayedOption\}<\/strong>/);
+  assert.match(pageSource, /question\.responseMode === "multiple"/);
+  assert.match(pageSource, /Chọn \{question\.answerIndexes\.length\} đáp án/);
+  assert.match(pageSource, /Chấm đúng khi chọn đủ và không thừa/);
+  assert.match(pageSource, /isSameSelection\(answers\[index\] \?\? \[\], item\.answerIndexes\)/);
+  assert.match(pageSource, /const STATS_KEY = "ssg105-exam-stats-v2";/);
+  assert.match(dataSource, /raw\.question \?\? raw\.questionEn \?\? raw\.questionText/);
+  assert.match(dataSource, /raw\.answerIndexes/);
+  assert.match(dataSource, /raw\.optionsVi/);
+  assert.match(dataSource, /raw\.responseMode === "multiple" \|\| answerIndexes\.length > 1/);
 });
 
 test("server-renders the ADY201m study dashboard", async () => {

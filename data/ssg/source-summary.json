@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "title": "SSG104 + SSG105 question library",
+  "sourceFile": "SEMESTER_4_SSG104 - Google Trang trình bày.html",
+  "sourceSha256": "f360cb3b5bde750840eff7bca16974bdc0ef5bbe4471e1e4b3d5850f1a470674",
+  "totalSlides": 507,
+  "nonQuestionSlides": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    20,
+    55,
+    63,
+    72,
+    83,
+    86,
+    90,
+    122,
+    148,
+    156,
+    216,
+    249,
+    288,
+    319,
+    332,
+    377
+  ],
+  "questionCount": 483,
+  "firstQuestionSlide": 9,
+  "lastQuestionSlide": 507,
+  "markerSlide": 377,
+  "subjects": [
+    {
+      "subject": "SSG104",
+      "uniqueQuestionCount": 353,
+      "firstSlide": 9,
+      "lastSlide": 376,
+      "excludedSeparatorSlides": [
+        20,
+        55,
+        63,
+        72,
+        83,
+        86,
+        90,
+        122,
+        148,
+        156,
+        216,
+        249,
+        288,
+        319,
+        332
+      ]
+    },
+    {
+      "subject": "SSG105",
+      "uniqueQuestionCount": 130,
+      "firstSlide": 378,
+      "lastSlide": 507
+    }
+  ]
+}

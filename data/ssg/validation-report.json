@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "passed": true,
+  "accounting": {
+    "deckSlides": 507,
+    "realQuestions": 483,
+    "nonQuestionSlides": 24,
+    "practiceAssignments": 500,
+    "repeatedPracticeAssignments": 17
+  },
+  "schema": {
+    "multiAnswerQuestions": 16,
+    "usableQuestionTextCount": 483,
+    "ocrQuestionTextCount": 483,
+    "noteFallbackQuestionCount": 0,
+    "ocrOptionsCount": 483,
+    "imageAssetsPresent": 483
+  },
+  "excludedSeparatorSlides": [
+    20,
+    55,
+    63,
+    72,
+    83,
+    86,
+    90,
+    122,
+    148,
+    156,
+    216,
+    249,
+    288,
+    319,
+    332
+  ]
+}
